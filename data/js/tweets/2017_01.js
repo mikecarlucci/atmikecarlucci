@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 03:10:27 +0000 2017",
+		"id": 819018607925624800,
+		"id_str": "819018607925624837",
+		"text": "That would be exciting https://t.co/sTc6fKFWUP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sTc6fKFWUP",
+					"expanded_url": "https://twitter.com/kazuto_yamazaki/status/819013294866337792",
+					"display_url": "twitter.com/kazuto_yamazak…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5962,
+			"friends_count": 880,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 15898,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 819013294866337800,
+		"quoted_status_id_str": "819013294866337792",
+		"quoted_status": {
+			"created_at": "Wed Jan 11 02:49:20 +0000 2017",
+			"id": 819013294866337800,
+			"id_str": "819013294866337792",
+			"text": "At this point, NPB teams should try to reel Bautista and Trumbo.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 160515430,
+				"id_str": "160515430",
+				"name": "Kazuto Yamazaki",
+				"screen_name": "Kazuto_Yamazaki",
+				"location": "My mom's basement",
+				"description": "I knew Shohei Otani before he was cool. @SydneyBlueSox baseball ops intern. Writer @BtBScore and other places. Official friend of @EWPod.",
+				"url": "https://t.co/gXeZujzxDW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gXeZujzxDW",
+								"expanded_url": "http://www.beyondtheboxscore.com/",
+								"display_url": "beyondtheboxscore.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2790,
+				"friends_count": 971,
+				"listed_count": 181,
+				"created_at": "Mon Jun 28 11:32:28 +0000 2010",
+				"favourites_count": 865,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100838,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443303723612139520/pYBG1RBb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443303723612139520/pYBG1RBb.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813268717060509696/_cR5J94U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813268717060509696/_cR5J94U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/160515430/1483430278",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "9BECFA",
+				"profile_text_color": "1A1818",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 11 03:03:48 +0000 2017",
 		"id": 819016933207052300,
 		"id_str": "819016933207052289",
