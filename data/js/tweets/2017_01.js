@@ -1,6 +1,1181 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 03:09:54 +0000 2017",
+		"id": 823367124659880000,
+		"id_str": "823367124659879936",
+		"text": "RT @ringer: The #SuperBowl matchup is officially set! https://t.co/shkJGNudKq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperBowl",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ringer",
+					"name": "The Ringer",
+					"id": 4760694445,
+					"id_str": "4760694445",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 823361352391655400,
+					"id_str": "823361352391655424",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/C20qyaMXAAAKgue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C20qyaMXAAAKgue.jpg",
+					"url": "https://t.co/shkJGNudKq",
+					"display_url": "pic.twitter.com/shkJGNudKq",
+					"expanded_url": "https://twitter.com/ringer/status/823361476656320517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 823361476656320500,
+					"source_status_id_str": "823361476656320517",
+					"source_user_id": 4760694445,
+					"source_user_id_str": "4760694445"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 823361352391655400,
+					"id_str": "823361352391655424",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/C20qyaMXAAAKgue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C20qyaMXAAAKgue.jpg",
+					"url": "https://t.co/shkJGNudKq",
+					"display_url": "pic.twitter.com/shkJGNudKq",
+					"expanded_url": "https://twitter.com/ringer/status/823361476656320517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 823361476656320500,
+					"source_status_id_str": "823361476656320517",
+					"source_user_id": 4760694445,
+					"source_user_id_str": "4760694445"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5960,
+			"friends_count": 881,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16064,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16305,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 23 02:47:28 +0000 2017",
+			"id": 823361476656320500,
+			"id_str": "823361476656320517",
+			"text": "The #SuperBowl matchup is officially set! https://t.co/shkJGNudKq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SuperBowl",
+						"indices": [
+							4,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 823361352391655400,
+						"id_str": "823361352391655424",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/C20qyaMXAAAKgue.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C20qyaMXAAAKgue.jpg",
+						"url": "https://t.co/shkJGNudKq",
+						"display_url": "pic.twitter.com/shkJGNudKq",
+						"expanded_url": "https://twitter.com/ringer/status/823361476656320517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 823361352391655400,
+						"id_str": "823361352391655424",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/C20qyaMXAAAKgue.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C20qyaMXAAAKgue.jpg",
+						"url": "https://t.co/shkJGNudKq",
+						"display_url": "pic.twitter.com/shkJGNudKq",
+						"expanded_url": "https://twitter.com/ringer/status/823361476656320517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4760694445,
+				"id_str": "4760694445",
+				"name": "The Ringer",
+				"screen_name": "ringer",
+				"location": "Los Angeles, CA",
+				"description": "Sports, culture, and tech. Sign up for our newsletter: https://t.co/2nuZMCdTqa",
+				"url": "https://t.co/CIR7zszDmT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CIR7zszDmT",
+								"expanded_url": "http://theringer.com",
+								"display_url": "theringer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2nuZMCdTqa",
+								"expanded_url": "http://eepurl.com/bP89x1",
+								"display_url": "eepurl.com/bP89x1",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 281778,
+				"friends_count": 89,
+				"listed_count": 2684,
+				"created_at": "Fri Jan 15 01:30:52 +0000 2016",
+				"favourites_count": 45,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10636,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/800695576463556608/VjzfGYOn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/800695576463556608/VjzfGYOn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4760694445/1476373301",
+				"profile_link_color": "13B143",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 141,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 23 03:09:43 +0000 2017",
+		"id": 823367080011513900,
+		"id_str": "823367080011513857",
+		"text": "RT @BizballMaury: Tom Brady &gt; Roger Goodell",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BizballMaury",
+					"name": "Maury Brown",
+					"id": 32817728,
+					"id_str": "32817728",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5960,
+			"friends_count": 881,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16064,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16305,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 23 02:47:46 +0000 2017",
+			"id": 823361553705488400,
+			"id_str": "823361553705488384",
+			"text": "Tom Brady &gt; Roger Goodell",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32817728,
+				"id_str": "32817728",
+				"name": "Maury Brown",
+				"screen_name": "BizballMaury",
+				"location": "Portland, OR",
+				"description": "@Forbes | Sports talk radio nationwide | @RipCityRadio 4:15pm PT on Tues | Owner Bizball LLC | BBWAA | Autism Awareness Advocate | Guitarist @ShootToThrillNW",
+				"url": "https://t.co/se9Pr9oNI9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/se9Pr9oNI9",
+								"expanded_url": "http://www.forbes.com/sites/maurybrown/",
+								"display_url": "forbes.com/sites/maurybro…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17132,
+				"friends_count": 5583,
+				"listed_count": 1148,
+				"created_at": "Sat Apr 18 06:47:55 +0000 2009",
+				"favourites_count": 6509,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 79939,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "040404",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/783375546/106b6f7c005a7d397ab76e990b34e63d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/783375546/106b6f7c005a7d397ab76e990b34e63d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773774626446909441/tvr-cvPi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773774626446909441/tvr-cvPi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32817728/1456266548",
+				"profile_link_color": "2E2E2E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1D1E16",
+				"profile_text_color": "040404",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 19,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 23 03:08:16 +0000 2017",
+		"id": 823366712649191400,
+		"id_str": "823366712649191424",
+		"text": "RT @projo: Patriots 36, Steelers 17: Brady leads Pats to AFC title, and trip to Super Bowl. https://t.co/MfnyhAYgfF via @MarkDanielsPJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "projo",
+					"name": "Providence Journal",
+					"id": 14354091,
+					"id_str": "14354091",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "MarkDanielsPJ",
+					"name": "Mark Daniels",
+					"id": 104552134,
+					"id_str": "104552134",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MfnyhAYgfF",
+					"expanded_url": "http://providencejournal.com/sports/20170122/patriots-36-steelers-17-brady-leads-pats-to-afc-title-and-trip-to-houston",
+					"display_url": "providencejournal.com/sports/2017012…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5960,
+			"friends_count": 881,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16064,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16305,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 23 02:51:58 +0000 2017",
+			"id": 823362610322141200,
+			"id_str": "823362610322141184",
+			"text": "Patriots 36, Steelers 17: Brady leads Pats to AFC title, and trip to Super Bowl. https://t.co/MfnyhAYgfF via @MarkDanielsPJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarkDanielsPJ",
+						"name": "Mark Daniels",
+						"id": 104552134,
+						"id_str": "104552134",
+						"indices": [
+							109,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MfnyhAYgfF",
+						"expanded_url": "http://providencejournal.com/sports/20170122/patriots-36-steelers-17-brady-leads-pats-to-afc-title-and-trip-to-houston",
+						"display_url": "providencejournal.com/sports/2017012…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14354091,
+				"id_str": "14354091",
+				"name": "Providence Journal",
+				"screen_name": "projo",
+				"location": "Providence, RI",
+				"description": "Top breaking news, tweets of special interest to Rhode Islanders, from http://t.co/LHII5QLj",
+				"url": "http://t.co/NV7zLtAwcw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NV7zLtAwcw",
+								"expanded_url": "http://www.providencejournal.com/twitter",
+								"display_url": "providencejournal.com/twitter",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/LHII5QLj",
+								"expanded_url": "http://providencejournal.com",
+								"display_url": "providencejournal.com",
+								"indices": [
+									71,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 87129,
+				"friends_count": 1417,
+				"listed_count": 1096,
+				"created_at": "Thu Apr 10 19:04:30 +0000 2008",
+				"favourites_count": 658,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 93033,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E3D71",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/665502128/fde33890ef10fdfa19a4137551d42969.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/665502128/fde33890ef10fdfa19a4137551d42969.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2103901539/pjlogo512_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2103901539/pjlogo512_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14354091/1441139908",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFC5",
+				"profile_text_color": "384182",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 23 03:06:33 +0000 2017",
+		"id": 823366280216510500,
+		"id_str": "823366280216510468",
+		"text": "RT @unlikelyfanatic: Stars Jumbotron with a topical joke. https://t.co/9vsmTG1Agj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "unlikelyfanatic",
+					"name": "Kate Morrison",
+					"id": 436367457,
+					"id_str": "436367457",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 823008693121785900,
+					"id_str": "823008693121785856",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/C2vqC8CVIAAMzCI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2vqC8CVIAAMzCI.jpg",
+					"url": "https://t.co/9vsmTG1Agj",
+					"display_url": "pic.twitter.com/9vsmTG1Agj",
+					"expanded_url": "https://twitter.com/unlikelyfanatic/status/823008705369276418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 823008705369276400,
+					"source_status_id_str": "823008705369276418",
+					"source_user_id": 436367457,
+					"source_user_id_str": "436367457"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 823008693121785900,
+					"id_str": "823008693121785856",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/C2vqC8CVIAAMzCI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2vqC8CVIAAMzCI.jpg",
+					"url": "https://t.co/9vsmTG1Agj",
+					"display_url": "pic.twitter.com/9vsmTG1Agj",
+					"expanded_url": "https://twitter.com/unlikelyfanatic/status/823008705369276418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 823008705369276400,
+					"source_status_id_str": "823008705369276418",
+					"source_user_id": 436367457,
+					"source_user_id_str": "436367457"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5960,
+			"friends_count": 881,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16064,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16305,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 22 03:25:40 +0000 2017",
+			"id": 823008705369276400,
+			"id_str": "823008705369276418",
+			"text": "Stars Jumbotron with a topical joke. https://t.co/9vsmTG1Agj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 823008693121785900,
+						"id_str": "823008693121785856",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/C2vqC8CVIAAMzCI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2vqC8CVIAAMzCI.jpg",
+						"url": "https://t.co/9vsmTG1Agj",
+						"display_url": "pic.twitter.com/9vsmTG1Agj",
+						"expanded_url": "https://twitter.com/unlikelyfanatic/status/823008705369276418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 823008693121785900,
+						"id_str": "823008693121785856",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/C2vqC8CVIAAMzCI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2vqC8CVIAAMzCI.jpg",
+						"url": "https://t.co/9vsmTG1Agj",
+						"display_url": "pic.twitter.com/9vsmTG1Agj",
+						"expanded_url": "https://twitter.com/unlikelyfanatic/status/823008705369276418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 436367457,
+				"id_str": "436367457",
+				"name": "Kate Morrison",
+				"screen_name": "unlikelyfanatic",
+				"location": "Dallas, TX, via Waco, TX",
+				"description": "Found at @PitchInfo; Baseball Prospectus; WFAA Sports; FanRag Sports MLB; ESPN.  Warning: Hockey Tweets and Cycling Shouting. Sports Are For All.",
+				"url": "https://t.co/c6Fk3a4iGs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c6Fk3a4iGs",
+								"expanded_url": "http://unlikelyfanatic.blogspot.com",
+								"display_url": "unlikelyfanatic.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3305,
+				"friends_count": 360,
+				"listed_count": 196,
+				"created_at": "Wed Dec 14 03:17:56 +0000 2011",
+				"favourites_count": 17535,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55471,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822820826504306688/ohms72aC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822820826504306688/ohms72aC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/436367457/1473654682",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18178,
+			"favorite_count": 36980,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18178,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 22 00:09:17 +0000 2017",
 		"id": 822959282928939000,
 		"id_str": "822959282928939010",
