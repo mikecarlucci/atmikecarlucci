@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Tue Jan 24 12:40:48 +0000 2017",
+		"id": 823873185821106200,
+		"id_str": "823873185821106176",
+		"text": "44 until #PaxEast2017 https://t.co/Gyvmtd59Lt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PaxEast2017",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 823873183912722400,
+					"id_str": "823873183912722432",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/C278S7MWgAACynF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C278S7MWgAACynF.jpg",
+					"url": "https://t.co/Gyvmtd59Lt",
+					"display_url": "pic.twitter.com/Gyvmtd59Lt",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/823873185821106176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 823873183912722400,
+					"id_str": "823873183912722432",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/C278S7MWgAACynF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C278S7MWgAACynF.jpg",
+					"url": "https://t.co/Gyvmtd59Lt",
+					"display_url": "pic.twitter.com/Gyvmtd59Lt",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/823873185821106176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5962,
+			"friends_count": 885,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16110,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16310,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 24 11:56:34 +0000 2017",
+		"id": 823862053362405400,
+		"id_str": "823862053362405377",
+		"text": "RT @MerriamWebster: 📈A 'claque' is a group hired to applaud. https://t.co/EX96vGLGDz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MerriamWebster",
+					"name": "Merriam-Webster",
+					"id": 97040343,
+					"id_str": "97040343",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EX96vGLGDz",
+					"expanded_url": "https://www.merriam-webster.com/news-trend-watch/lookups-for-claque-spike-following-reports-of-trumps-cia-visit-20170123",
+					"display_url": "merriam-webster.com/news-trend-wat…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5962,
+			"friends_count": 885,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16110,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16310,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/731214867156353024/Yvvqr4ad_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 24 00:48:20 +0000 2017",
+			"id": 823693884962340900,
+			"id_str": "823693884962340866",
+			"text": "📈A 'claque' is a group hired to applaud. https://t.co/EX96vGLGDz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EX96vGLGDz",
+						"expanded_url": "https://www.merriam-webster.com/news-trend-watch/lookups-for-claque-spike-following-reports-of-trumps-cia-visit-20170123",
+						"display_url": "merriam-webster.com/news-trend-wat…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97040343,
+				"id_str": "97040343",
+				"name": "Merriam-Webster",
+				"screen_name": "MerriamWebster",
+				"location": "Springfield, MA",
+				"description": "Word of the Day, facts and observations on language, lookup trends, and wordplay from the editors at Merriam-Webster Dictionary.",
+				"url": "https://t.co/vQxcT3e4Iq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vQxcT3e4Iq",
+								"expanded_url": "http://Merriam-Webster.com",
+								"display_url": "Merriam-Webster.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 245361,
+				"friends_count": 641,
+				"listed_count": 3403,
+				"created_at": "Tue Dec 15 19:07:56 +0000 2009",
+				"favourites_count": 4885,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13638,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "355185",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97040343/1482607962",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5351,
+			"favorite_count": 7359,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5351,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 23 18:52:16 +0000 2017",
 		"id": 823604277755134000,
 		"id_str": "823604277755133957",
