@@ -1,6 +1,1413 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 03 22:27:34 +0000 2017",
+		"id": 827644728778846200,
+		"id_str": "827644728778846209",
+		"text": "Woof https://t.co/hied4no9MN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hied4no9MN",
+					"expanded_url": "https://twitter.com/chrisblundell/status/827428474033991680",
+					"display_url": "twitter.com/chrisblundell/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5967,
+			"friends_count": 914,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16562,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 827428474033991700,
+		"quoted_status_id_str": "827428474033991680",
+		"quoted_status": {
+			"created_at": "Fri Feb 03 08:08:15 +0000 2017",
+			"id": 827428474033991700,
+			"id_str": "827428474033991680",
+			"text": "TFW you're a dog and a witch trapped your soul in a piece of wood https://t.co/3ucP7Il7Ba",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 827428470485553200,
+						"id_str": "827428470485553152",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/C3udz1xWEAAaSm0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3udz1xWEAAaSm0.jpg",
+						"url": "https://t.co/3ucP7Il7Ba",
+						"display_url": "pic.twitter.com/3ucP7Il7Ba",
+						"expanded_url": "https://twitter.com/ChrisBlundell/status/827428474033991680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 613,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 613,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 613,
+								"h": 452,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 827428470485553200,
+						"id_str": "827428470485553152",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/C3udz1xWEAAaSm0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3udz1xWEAAaSm0.jpg",
+						"url": "https://t.co/3ucP7Il7Ba",
+						"display_url": "pic.twitter.com/3ucP7Il7Ba",
+						"expanded_url": "https://twitter.com/ChrisBlundell/status/827428474033991680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 613,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 613,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 613,
+								"h": 452,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15028394,
+				"id_str": "15028394",
+				"name": "Chris Blundell",
+				"screen_name": "ChrisBlundell",
+				"location": "London, England",
+				"description": "Filmmaker (pre-order @hitsquadmovie) | creator of @TheVurp | terrible #gamedev | other half of @mslizcaitlin",
+				"url": "https://t.co/TPu0f5ubqi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TPu0f5ubqi",
+								"expanded_url": "http://ilovethehitsquad.com",
+								"display_url": "ilovethehitsquad.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50029,
+				"friends_count": 0,
+				"listed_count": 605,
+				"created_at": "Fri Jun 06 10:55:44 +0000 2008",
+				"favourites_count": 9897,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60354,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/525602804019130368/5gGH6hpP.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/525602804019130368/5gGH6hpP.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740580319724732416/YrrO-ukn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740580319724732416/YrrO-ukn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15028394/1414148374",
+				"profile_link_color": "FFAC5E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "68507A",
+				"profile_text_color": "99CFCE",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17718,
+			"favorite_count": 41017,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 03 20:50:20 +0000 2017",
+		"id": 827620258395594800,
+		"id_str": "827620258395594752",
+		"text": "@rageear enjoy with deathwish coffee!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rageear",
+					"name": "Micah Abbott",
+					"id": 820460,
+					"id_str": "820460",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 827613692418256900,
+		"in_reply_to_status_id_str": "827613692418256902",
+		"in_reply_to_user_id": 820460,
+		"in_reply_to_user_id_str": "820460",
+		"in_reply_to_screen_name": "rageear",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5967,
+			"friends_count": 914,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16562,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 03 20:01:36 +0000 2017",
+		"id": 827607991876718600,
+		"id_str": "827607991876718592",
+		"text": "Forged in the fryers of Mount Doom https://t.co/kx3uUGPmwa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kx3uUGPmwa",
+					"expanded_url": "https://twitter.com/alex_navarro/status/827581915809140736",
+					"display_url": "twitter.com/alex_navarro/s…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5967,
+			"friends_count": 914,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16562,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 827581915809140700,
+		"quoted_status_id_str": "827581915809140736",
+		"quoted_status": {
+			"created_at": "Fri Feb 03 18:17:59 +0000 2017",
+			"id": 827581915809140700,
+			"id_str": "827581915809140736",
+			"text": "LRT, she deleted it. not sure why. Shakira Law is something we should all be fearful of. https://t.co/XD1TfH6IpN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 827581891578572800,
+						"id_str": "827581891578572800",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C3wpWH4WMAAQugk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3wpWH4WMAAQugk.jpg",
+						"url": "https://t.co/XD1TfH6IpN",
+						"display_url": "pic.twitter.com/XD1TfH6IpN",
+						"expanded_url": "https://twitter.com/alex_navarro/status/827581915809140736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 910,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 523,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 910,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 827581891578572800,
+						"id_str": "827581891578572800",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C3wpWH4WMAAQugk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3wpWH4WMAAQugk.jpg",
+						"url": "https://t.co/XD1TfH6IpN",
+						"display_url": "pic.twitter.com/XD1TfH6IpN",
+						"expanded_url": "https://twitter.com/alex_navarro/status/827581915809140736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 910,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 523,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 910,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18892183,
+				"id_str": "18892183",
+				"name": "Solipsist Snake",
+				"screen_name": "alex_navarro",
+				"location": "Queens, NY",
+				"description": "senior editor at giant bomb",
+				"url": "https://t.co/xXWThggWIk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xXWThggWIk",
+								"expanded_url": "http://www.giantbomb.com",
+								"display_url": "giantbomb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51772,
+				"friends_count": 798,
+				"listed_count": 1382,
+				"created_at": "Mon Jan 12 05:10:00 +0000 2009",
+				"favourites_count": 13101,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 47270,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/387300657/serpent_tiger.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/387300657/serpent_tiger.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784151494455070725/OoQcYMrF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784151494455070725/OoQcYMrF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18892183/1482513951",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1385,
+			"favorite_count": 2847,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 03 15:20:37 +0000 2017",
+		"id": 827537281523265500,
+		"id_str": "827537281523265537",
+		"text": "RT @bransonreese: I checked with Shigeru Miyamoto and this is canon. https://t.co/B4nimYjAf8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bransonreese",
+					"name": "brans💋n reese",
+					"id": 28440197,
+					"id_str": "28440197",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 827302127722573800,
+					"id_str": "827302127722573825",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C3sq5uTUMAEoZ_m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3sq5uTUMAEoZ_m.jpg",
+					"url": "https://t.co/B4nimYjAf8",
+					"display_url": "pic.twitter.com/B4nimYjAf8",
+					"expanded_url": "https://twitter.com/bransonreese/status/827302145351352320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 827302145351352300,
+					"source_status_id_str": "827302145351352320",
+					"source_user_id": 28440197,
+					"source_user_id_str": "28440197"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 827302127722573800,
+					"id_str": "827302127722573825",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C3sq5uTUMAEoZ_m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3sq5uTUMAEoZ_m.jpg",
+					"url": "https://t.co/B4nimYjAf8",
+					"display_url": "pic.twitter.com/B4nimYjAf8",
+					"expanded_url": "https://twitter.com/bransonreese/status/827302145351352320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 827302145351352300,
+					"source_status_id_str": "827302145351352320",
+					"source_user_id": 28440197,
+					"source_user_id_str": "28440197"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5967,
+			"friends_count": 914,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16562,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 02 23:46:16 +0000 2017",
+			"id": 827302145351352300,
+			"id_str": "827302145351352320",
+			"text": "I checked with Shigeru Miyamoto and this is canon. https://t.co/B4nimYjAf8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 827302127722573800,
+						"id_str": "827302127722573825",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/C3sq5uTUMAEoZ_m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3sq5uTUMAEoZ_m.jpg",
+						"url": "https://t.co/B4nimYjAf8",
+						"display_url": "pic.twitter.com/B4nimYjAf8",
+						"expanded_url": "https://twitter.com/bransonreese/status/827302145351352320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 587,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 827302127722573800,
+						"id_str": "827302127722573825",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/C3sq5uTUMAEoZ_m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3sq5uTUMAEoZ_m.jpg",
+						"url": "https://t.co/B4nimYjAf8",
+						"display_url": "pic.twitter.com/B4nimYjAf8",
+						"expanded_url": "https://twitter.com/bransonreese/status/827302145351352320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 587,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28440197,
+				"id_str": "28440197",
+				"name": "brans💋n reese",
+				"screen_name": "bransonreese",
+				"location": "Brooklyn",
+				"description": "I'm 17 so don't fuck me",
+				"url": "https://t.co/pnTtRChK4V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pnTtRChK4V",
+								"expanded_url": "http://www.branson-reese.com",
+								"display_url": "branson-reese.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3119,
+				"friends_count": 997,
+				"listed_count": 49,
+				"created_at": "Thu Apr 02 22:51:37 +0000 2009",
+				"favourites_count": 28218,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15474,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/530738967/tumblr_m1khg0Z1pM1qj0qlso1_500.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/530738967/tumblr_m1khg0Z1pM1qj0qlso1_500.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786768525654360065/zYF_zapS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786768525654360065/zYF_zapS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28440197/1476415210",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1702,
+			"favorite_count": 2740,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1702,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 03 14:05:01 +0000 2017",
+		"id": 827518257406046200,
+		"id_str": "827518257406046208",
+		"text": "RT @harrypav: Your president wants you to be scared. He wants you to hate. He wants to you to ignore the truth. He wants to change the worl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harrypav",
+					"name": "Harry Pavlidis",
+					"id": 18279744,
+					"id_str": "18279744",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5967,
+			"friends_count": 914,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16562,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 03 13:56:13 +0000 2017",
+			"id": 827516043002273800,
+			"id_str": "827516043002273792",
+			"text": "Your president wants you to be scared. He wants you to hate. He wants to you to ignore the truth. He wants to change the world.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18279744,
+				"id_str": "18279744",
+				"name": "Harry Pavlidis",
+				"screen_name": "harrypav",
+				"location": "41.972049,-87.703537",
+				"description": "Director of Technology for Baseball Prospectus, Founder of @PitchInfo, Chicagoan, New Jersey native, Syracuse Alum",
+				"url": "http://t.co/KSHZ7TsJ4l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KSHZ7TsJ4l",
+								"expanded_url": "http://www.baseballprospectus.com",
+								"display_url": "baseballprospectus.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8895,
+				"friends_count": 1187,
+				"listed_count": 605,
+				"created_at": "Sun Dec 21 05:21:26 +0000 2008",
+				"favourites_count": 14482,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 121929,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471909255327391745/p2N0Lu-H.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471909255327391745/p2N0Lu-H.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766326341268496384/7vFNcsRA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766326341268496384/7vFNcsRA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18279744/1401344181",
+				"profile_link_color": "086B42",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DEDEDE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 23,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 03 14:04:12 +0000 2017",
+		"id": 827518051801235500,
+		"id_str": "827518051801235456",
+		"text": "Good for him. It's a start. https://t.co/GydFQPtbn5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GydFQPtbn5",
+					"expanded_url": "https://twitter.com/sfmnemonic/status/827515487030493185",
+					"display_url": "twitter.com/sfmnemonic/sta…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5967,
+			"friends_count": 914,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16562,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 827515487030493200,
+		"quoted_status_id_str": "827515487030493185",
+		"quoted_status": {
+			"created_at": "Fri Feb 03 13:54:01 +0000 2017",
+			"id": 827515487030493200,
+			"id_str": "827515487030493185",
+			"text": "Pushback has caused Uber's Kalanick to step down. (I doubt Facebook's Thiel will do the same.) https://t.co/BVEW7mcc5B",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BVEW7mcc5B",
+						"expanded_url": "http://fb.me/1jvh5rh5q",
+						"display_url": "fb.me/1jvh5rh5q",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17094858,
+				"id_str": "17094858",
+				"name": "Mike Godwin",
+				"screen_name": "sfmnemonic",
+				"location": "Washington, DC",
+				"description": "Attorney, author, EFF's first staff hire, creator of Godwin's Law (http://t.co/mUBmVrsD3u). My Second Law: Surveillance is the crack cocaine of governments.",
+				"url": "http://t.co/uPQ5VXM8pk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uPQ5VXM8pk",
+								"expanded_url": "http://www.panix.com/~mnemonic",
+								"display_url": "panix.com/~mnemonic",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/mUBmVrsD3u",
+								"expanded_url": "http://en.wikipedia.org/wiki/Godwin%27s_law",
+								"display_url": "en.wikipedia.org/wiki/Godwin%27…",
+								"indices": [
+									67,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6426,
+				"friends_count": 1619,
+				"listed_count": 306,
+				"created_at": "Sat Nov 01 00:35:07 +0000 2008",
+				"favourites_count": 231,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26268,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827670593830989824/pTZQGqzY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827670593830989824/pTZQGqzY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17094858/1405219568",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 02 19:15:23 +0000 2017",
 		"id": 827233976796512300,
 		"id_str": "827233976796512256",
