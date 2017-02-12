@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 11 22:59:13 +0000 2017",
+		"id": 830551797051834400,
+		"id_str": "830551797051834370",
+		"text": "RT @kalebhorton: Boy, that wound up being way too prescient. https://t.co/7pVKuSjizT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kalebhorton",
+					"name": "Kaleb Horton",
+					"id": 262050648,
+					"id_str": "262050648",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7pVKuSjizT",
+					"expanded_url": "https://twitter.com/kalebhorton/status/676911571436748801",
+					"display_url": "twitter.com/kalebhorton/st…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 919,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16881,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 11 22:21:08 +0000 2017",
+			"id": 830542210567266300,
+			"id_str": "830542210567266304",
+			"text": "Boy, that wound up being way too prescient. https://t.co/7pVKuSjizT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7pVKuSjizT",
+						"expanded_url": "https://twitter.com/kalebhorton/status/676911571436748801",
+						"display_url": "twitter.com/kalebhorton/st…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262050648,
+				"id_str": "262050648",
+				"name": "Kaleb Horton",
+				"screen_name": "kalebhorton",
+				"location": "California",
+				"description": "Writer at MTV. Before that, Vanity Fair and Vice. Streetwise to the lies and the jive talk. \nEmail: kaleb.c.horton@gmail.com. Retired Podcast: @LastExitShow.",
+				"url": "https://t.co/iHk4MTmzAw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iHk4MTmzAw",
+								"expanded_url": "http://www.mtv.com/news/author/hortonk/",
+								"display_url": "mtv.com/news/author/ho…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10447,
+				"friends_count": 1373,
+				"listed_count": 211,
+				"created_at": "Mon Mar 07 07:11:47 +0000 2011",
+				"favourites_count": 32224,
+				"utc_offset": -32400,
+				"time_zone": "Alaska",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15607,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "46220A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/624113724740145152/Hd37TSnZ.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/624113724740145152/Hd37TSnZ.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775186431203418112/hOqh02Oi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775186431203418112/hOqh02Oi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262050648/1398214548",
+				"profile_link_color": "0D25FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 676911571436748800,
+			"quoted_status_id_str": "676911571436748801",
+			"quoted_status": {
+				"created_at": "Tue Dec 15 23:47:49 +0000 2015",
+				"id": 676911571436748800,
+				"id_str": "676911571436748801",
+				"text": "New page from my Back to the Future 4 script. https://t.co/ZFYIRMma8f",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 676911569968697300,
+							"id_str": "676911569968697344",
+							"indices": [
+								46,
+								69
+							],
+							"media_url": "http://pbs.twimg.com/media/CWTffIhWEAAdxTq.png",
+							"media_url_https": "https://pbs.twimg.com/media/CWTffIhWEAAdxTq.png",
+							"url": "https://t.co/ZFYIRMma8f",
+							"display_url": "pic.twitter.com/ZFYIRMma8f",
+							"expanded_url": "https://twitter.com/kalebhorton/status/676911571436748801/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 526,
+									"h": 544,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 526,
+									"h": 544,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 352,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 676911569968697300,
+							"id_str": "676911569968697344",
+							"indices": [
+								46,
+								69
+							],
+							"media_url": "http://pbs.twimg.com/media/CWTffIhWEAAdxTq.png",
+							"media_url_https": "https://pbs.twimg.com/media/CWTffIhWEAAdxTq.png",
+							"url": "https://t.co/ZFYIRMma8f",
+							"display_url": "pic.twitter.com/ZFYIRMma8f",
+							"expanded_url": "https://twitter.com/kalebhorton/status/676911571436748801/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 526,
+									"h": 544,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 526,
+									"h": 544,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 352,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 262050648,
+					"id_str": "262050648",
+					"name": "Kaleb Horton",
+					"screen_name": "kalebhorton",
+					"location": "California",
+					"description": "Writer at MTV. Before that, Vanity Fair and Vice. Streetwise to the lies and the jive talk. \nEmail: kaleb.c.horton@gmail.com. Retired Podcast: @LastExitShow.",
+					"url": "https://t.co/iHk4MTmzAw",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/iHk4MTmzAw",
+									"expanded_url": "http://www.mtv.com/news/author/hortonk/",
+									"display_url": "mtv.com/news/author/ho…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 10447,
+					"friends_count": 1373,
+					"listed_count": 211,
+					"created_at": "Mon Mar 07 07:11:47 +0000 2011",
+					"favourites_count": 32224,
+					"utc_offset": -32400,
+					"time_zone": "Alaska",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 15607,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "46220A",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/624113724740145152/Hd37TSnZ.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/624113724740145152/Hd37TSnZ.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/775186431203418112/hOqh02Oi_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/775186431203418112/hOqh02Oi_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/262050648/1398214548",
+					"profile_link_color": "0D25FF",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 593,
+				"favorite_count": 1088,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 74,
+			"favorite_count": 106,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 676911571436748800,
+		"quoted_status_id_str": "676911571436748801",
+		"retweet_count": 74,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 11 13:47:12 +0000 2017",
+		"id": 830412877521633300,
+		"id_str": "830412877521633280",
+		"text": "As a kid: so much money!\nAs an adult: only a million? That doesn't even buy his house! https://t.co/qNTb5MryfA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 830412875248304100,
+					"id_str": "830412875248304128",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C4Y4HD4WAAA34ca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4Y4HD4WAAA34ca.jpg",
+					"url": "https://t.co/qNTb5MryfA",
+					"display_url": "pic.twitter.com/qNTb5MryfA",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/830412877521633280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1023,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 830412875248304100,
+					"id_str": "830412875248304128",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C4Y4HD4WAAA34ca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4Y4HD4WAAA34ca.jpg",
+					"url": "https://t.co/qNTb5MryfA",
+					"display_url": "pic.twitter.com/qNTb5MryfA",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/830412877521633280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1023,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @SportsPostHome, @BanishedToPen & social media @OverTheMonster. IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 919,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 16881,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 10 14:02:32 +0000 2017",
 		"id": 830054348096958500,
 		"id_str": "830054348096958464",
