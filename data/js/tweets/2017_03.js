@@ -1,6 +1,840 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 05 18:20:49 +0000 2017",
+		"id": 838454267304357900,
+		"id_str": "838454267304357888",
+		"text": "RT @redsoxstats: Benintendi is being a monster this spring\n7 for 16 with 3 doubles, 2 homers",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "redsoxstats",
+					"name": "Red Sox Stats",
+					"id": 114221975,
+					"id_str": "114221975",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @OverTheMonster, @BanishedToPen & @SportsPostHome  IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5957,
+			"friends_count": 922,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 17505,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 18:15:18 +0000 2017",
+			"id": 838452879396593700,
+			"id_str": "838452879396593664",
+			"text": "Benintendi is being a monster this spring\n7 for 16 with 3 doubles, 2 homers",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 114221975,
+				"id_str": "114221975",
+				"name": "Red Sox Stats",
+				"screen_name": "redsoxstats",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/HELgXni14Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HELgXni14Q",
+								"expanded_url": "http://www.redsoxstats.com",
+								"display_url": "redsoxstats.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14325,
+				"friends_count": 40,
+				"listed_count": 481,
+				"created_at": "Sun Feb 14 15:59:16 +0000 2010",
+				"favourites_count": 43,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4420,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E1E8ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/426247353/Untitled-1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/426247353/Untitled-1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616504945756504064/tD9W3Hg-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616504945756504064/tD9W3Hg-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/114221975/1474482121",
+				"profile_link_color": "54796D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C2C2C2",
+				"profile_text_color": "636363",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 131,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 05 14:55:16 +0000 2017",
+		"id": 838402537879392300,
+		"id_str": "838402537879392257",
+		"text": "RT @mathewi: Because record-label agreements are structured in such a way as to make it impossible https://t.co/9CEQWqrY6V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mathewi",
+					"name": "Mathew Ingram",
+					"id": 824157,
+					"id_str": "824157",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9CEQWqrY6V",
+					"expanded_url": "https://twitter.com/MediaREDEF/status/838397719802707970",
+					"display_url": "twitter.com/MediaREDEF/sta…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @OverTheMonster, @BanishedToPen & @SportsPostHome  IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5957,
+			"friends_count": 922,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 17505,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 14:49:39 +0000 2017",
+			"id": 838401123467804700,
+			"id_str": "838401123467804672",
+			"text": "Because record-label agreements are structured in such a way as to make it impossible https://t.co/9CEQWqrY6V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9CEQWqrY6V",
+						"expanded_url": "https://twitter.com/MediaREDEF/status/838397719802707970",
+						"display_url": "twitter.com/MediaREDEF/sta…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 824157,
+				"id_str": "824157",
+				"name": "Mathew Ingram",
+				"screen_name": "mathewi",
+				"location": "43.776188,-79.149103",
+				"description": "I'm a senior writer at Fortune. I have been the ninth caller and have won the weekend passes. I am an expert in stucco, a veteran in love and an outlaw in Peru.",
+				"url": "http://t.co/a5gajGWRMS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/a5gajGWRMS",
+								"expanded_url": "http://www.mathewingram.com/work/about/",
+								"display_url": "mathewingram.com/work/about/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82983,
+				"friends_count": 4675,
+				"listed_count": 5930,
+				"created_at": "Fri Mar 09 04:29:32 +0000 2007",
+				"favourites_count": 75952,
+				"utc_offset": -18000,
+				"time_zone": "America/Toronto",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 196948,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2562168/Twitter_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2562168/Twitter_background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/549789445604397056/mLw1hQN1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/549789445604397056/mLw1hQN1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/824157/1382545218",
+				"profile_link_color": "0707E4",
+				"profile_sidebar_border_color": "447DBC",
+				"profile_sidebar_fill_color": "FBFDF8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 838397719802708000,
+			"quoted_status_id_str": "838397719802707970",
+			"quoted_status": {
+				"created_at": "Sun Mar 05 14:36:07 +0000 2017",
+				"id": 838397719802708000,
+				"id_str": "838397719802707970",
+				"text": "Spotify has 50 million people paying for its music. Why is it still unprofitable? (@amyxwang - @qz) https://t.co/wO1ZRM35yA",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "amyxwang",
+							"name": "Amy X. Wang",
+							"id": 404421890,
+							"id_str": "404421890",
+							"indices": [
+								83,
+								92
+							]
+						},
+						{
+							"screen_name": "qz",
+							"name": "Quartz",
+							"id": 573918122,
+							"id_str": "573918122",
+							"indices": [
+								95,
+								98
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/wO1ZRM35yA",
+							"expanded_url": "https://redef.it/2mTihzD",
+							"display_url": "redef.it/2mTihzD",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 24438551,
+					"id_str": "24438551",
+					"name": "MediaREDEF",
+					"screen_name": "MediaREDEF",
+					"location": "Everywhere",
+					"description": "Curated media + tech + pop interest remix by @JasonHirschhorn. Daily newsletter at http://t.co/0TcOPYT9Mh",
+					"url": "http://t.co/YPZQsVkSpd",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/YPZQsVkSpd",
+									"expanded_url": "http://www.mediaredefined.com",
+									"display_url": "mediaredefined.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/0TcOPYT9Mh",
+									"expanded_url": "http://redef.com/new-subscription",
+									"display_url": "redef.com/new-subscripti…",
+									"indices": [
+										83,
+										105
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 20159,
+					"friends_count": 2017,
+					"listed_count": 1214,
+					"created_at": "Sat Mar 14 22:06:58 +0000 2009",
+					"favourites_count": 118,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 236189,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000002235916/986a3a1404ff2c46a6ebe02b5ddffd12.gif",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000002235916/986a3a1404ff2c46a6ebe02b5ddffd12.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/573281140313747456/mgplXywW_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/573281140313747456/mgplXywW_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/24438551/1426786907",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 14,
+			"favorite_count": 27,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 838397719802708000,
+		"quoted_status_id_str": "838397719802707970",
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 05 13:06:46 +0000 2017",
+		"id": 838375235166552000,
+		"id_str": "838375235166552064",
+		"text": "RT @_Jordan_J_: We get very little funding from the government-state or federal. Money and funding for research is a huge issue https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Jordan_J_",
+					"name": "Jordan",
+					"id": 23979784,
+					"id_str": "23979784",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @OverTheMonster, @BanishedToPen & @SportsPostHome  IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5957,
+			"friends_count": 922,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 17505,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 05:11:05 +0000 2017",
+			"id": 838255521664811000,
+			"id_str": "838255521664811013",
+			"text": "We get very little funding from the government-state or federal. Money and funding for research is a huge issue https://t.co/5sxZLDjweB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5sxZLDjweB",
+						"expanded_url": "https://twitter.com/sciencemarchdc/status/838056547255267328",
+						"display_url": "twitter.com/sciencemarchdc…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23979784,
+				"id_str": "23979784",
+				"name": "Jordan",
+				"screen_name": "_Jordan_J_",
+				"location": "Massachusetts",
+				"description": "Gay. Liberal. Democrat. \nPolitics/news junkie. \nPh.D. Candidate in Chemistry.         Cancer Researcher.\n\n#StillWithHer #Resist #ExpectUs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 633,
+				"friends_count": 879,
+				"listed_count": 20,
+				"created_at": "Thu Mar 12 16:40:10 +0000 2009",
+				"favourites_count": 21868,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23895,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782789585470390272/1HSvLgMR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782789585470390272/1HSvLgMR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23979784/1485760003",
+				"profile_link_color": "D35400",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 838056547255267300,
+			"quoted_status_id_str": "838056547255267328",
+			"quoted_status": {
+				"created_at": "Sat Mar 04 16:00:25 +0000 2017",
+				"id": 838056547255267300,
+				"id_str": "838056547255267328",
+				"text": "Science pros! What is one thing that the public doesn't know about your work that they would be surprised about?… https://t.co/WeuKedvQnL",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/WeuKedvQnL",
+							"expanded_url": "https://twitter.com/i/web/status/838056547255267328",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 823565852922576900,
+					"id_str": "823565852922576897",
+					"name": "March for Science",
+					"screen_name": "ScienceMarchDC",
+					"location": "Washington, DC",
+					"description": "The March for Science champions robustly funded and publicly communicated science as a pillar of human freedom and prosperity. March with us on April 22, 2017.",
+					"url": "https://t.co/OH3RK8qUMd",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/OH3RK8qUMd",
+									"expanded_url": "https://marchforscience.com/",
+									"display_url": "marchforscience.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 334537,
+					"friends_count": 355,
+					"listed_count": 2309,
+					"created_at": "Mon Jan 23 16:19:35 +0000 2017",
+					"favourites_count": 1783,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1511,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/828105407264542720/lHcwDgk__normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/828105407264542720/lHcwDgk__normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/823565852922576897/1486009051",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 197,
+				"favorite_count": 421,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 109,
+			"favorite_count": 323,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 838056547255267300,
+		"quoted_status_id_str": "838056547255267328",
+		"retweet_count": 109,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 04 23:10:43 +0000 2017",
 		"id": 838164834986377200,
 		"id_str": "838164834986377216",
