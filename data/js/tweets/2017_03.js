@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Thu Mar 09 17:47:16 +0000 2017",
+		"id": 839895375104335900,
+		"id_str": "839895375104335873",
+		"text": "Nesting Sandovals https://t.co/Rw1B4q4CXJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rw1B4q4CXJ",
+					"expanded_url": "https://twitter.com/peteabe/status/839868137231290368",
+					"display_url": "twitter.com/peteabe/status…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Data Analyst @Northeastern. Words @OverTheMonster, @BanishedToPen & @SportsPostHome  IG/SC mikegcarlucci mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5956,
+			"friends_count": 927,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 17588,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 839868137231290400,
+		"quoted_status_id_str": "839868137231290368",
+		"quoted_status": {
+			"created_at": "Thu Mar 09 15:59:02 +0000 2017",
+			"id": 839868137231290400,
+			"id_str": "839868137231290368",
+			"text": "Here's a photo of a guy taking a video of a guy taking a video of Pablo Sandoval. https://t.co/zgY2mXPMFP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 839868135230570500,
+						"id_str": "839868135230570503",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/C6fPnoKWgAcSyte.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6fPnoKWgAcSyte.jpg",
+						"url": "https://t.co/zgY2mXPMFP",
+						"display_url": "pic.twitter.com/zgY2mXPMFP",
+						"expanded_url": "https://twitter.com/PeteAbe/status/839868137231290368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 839868135230570500,
+						"id_str": "839868135230570503",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/C6fPnoKWgAcSyte.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6fPnoKWgAcSyte.jpg",
+						"url": "https://t.co/zgY2mXPMFP",
+						"display_url": "pic.twitter.com/zgY2mXPMFP",
+						"expanded_url": "https://twitter.com/PeteAbe/status/839868137231290368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10121422,
+				"id_str": "10121422",
+				"name": "Pete Abraham",
+				"screen_name": "PeteAbe",
+				"location": "Boston, NYC and elsewhere.",
+				"description": "Covering the Red Sox for The Boston Globe since 2010. Contributor to 98.5 The Sports Hub and NESN. Questions or comments: peter.abraham@globe.com",
+				"url": "https://t.co/qb1YGnZlUy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qb1YGnZlUy",
+								"expanded_url": "http://www.bostonglobe.com/sports/baseball",
+								"display_url": "bostonglobe.com/sports/baseball",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 109292,
+				"friends_count": 777,
+				"listed_count": 3722,
+				"created_at": "Sat Nov 10 07:52:25 +0000 2007",
+				"favourites_count": 955,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 92647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "282E4D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26911702/baseballs2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/26911702/baseballs2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/457955316932419584/twoqyP4I_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/457955316932419584/twoqyP4I_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10121422/1355257933",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "2C3444",
+				"profile_sidebar_fill_color": "010A2D",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 114,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 08 21:55:18 +0000 2017",
 		"id": 839595406136864800,
 		"id_str": "839595406136864769",
