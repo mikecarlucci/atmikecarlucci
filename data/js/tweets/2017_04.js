@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 16:50:24 +0000 2017",
+		"id": 854376578708635600,
+		"id_str": "854376578708635650",
+		"text": "Ouch https://t.co/gltcLNJ6Ka",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gltcLNJ6Ka",
+					"expanded_url": "https://twitter.com/hardballtalk/status/854375230499938308",
+					"display_url": "twitter.com/hardballtalk/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster, @BanishedToPen & @SportsPostHome Data Analyst @Northeastern. Instagram: mikegcarlucci   mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5949,
+			"friends_count": 947,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 18417,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 854375230499938300,
+		"quoted_status_id_str": "854375230499938308",
+		"quoted_status": {
+			"created_at": "Tue Apr 18 16:45:03 +0000 2017",
+			"id": 854375230499938300,
+			"id_str": "854375230499938308",
+			"text": "Josh Donaldson to miss 2-4 weeks https://t.co/biNr2j0dtZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/biNr2j0dtZ",
+						"expanded_url": "http://wp.me/p14QSL-2C51",
+						"display_url": "wp.me/p14QSL-2C51",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 100308854,
+				"id_str": "100308854",
+				"name": "HardballTalk",
+				"screen_name": "HardballTalk",
+				"location": "OH, MN, FL, NY, MO and PA",
+				"description": "Bringing http://t.co/4E4B12SKi3's brand of Talk to all things baseball.",
+				"url": "http://t.co/rQ3SJcmcLO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rQ3SJcmcLO",
+								"expanded_url": "http://hardballtalk.nbcsports.com",
+								"display_url": "hardballtalk.nbcsports.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/4E4B12SKi3",
+								"expanded_url": "http://NBCSports.com",
+								"display_url": "NBCSports.com",
+								"indices": [
+									9,
+									31
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 46197,
+				"friends_count": 17,
+				"listed_count": 1923,
+				"created_at": "Tue Dec 29 20:07:37 +0000 2009",
+				"favourites_count": 189,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000096654344/2ed714b4dd3ef869f8f4df46d1c775d3.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000096654344/2ed714b4dd3ef869f8f4df46d1c775d3.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/599139671/baseball_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/599139671/baseball_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/100308854/1382038894",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 16:47:23 +0000 2017",
+		"id": 854375819866714100,
+		"id_str": "854375819866714112",
+		"text": "RT @grahamdude: My latest: Luis Tiant doesn't want his family to go to the Hall of Fame if he gets voted in after he dies. https://t.co/iEA…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grahamdude",
+					"name": "Graham Womack",
+					"id": 105949013,
+					"id_str": "105949013",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster, @BanishedToPen & @SportsPostHome Data Analyst @Northeastern. Instagram: mikegcarlucci   mike@mikecarlucci.org",
+			"url": "https://t.co/UeE0oiL1GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeE0oiL1GG",
+							"expanded_url": "http://mikecarlucci.net",
+							"display_url": "mikecarlucci.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5949,
+			"friends_count": 947,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 18417,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 17 15:13:01 +0000 2017",
+			"id": 853989681897193500,
+			"id_str": "853989681897193472",
+			"text": "My latest: Luis Tiant doesn't want his family to go to the Hall of Fame if he gets voted in after he dies. https://t.co/iEAPuvLZYC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iEAPuvLZYC",
+						"expanded_url": "http://www.sportingnews.com/mlb/news/luis-tiant-hall-of-fame-stats-war-interview-red-sox/as2k3qbfcfiu1mljef4h345n1",
+						"display_url": "sportingnews.com/mlb/news/luis-…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 105949013,
+				"id_str": "105949013",
+				"name": "Graham Womack",
+				"screen_name": "grahamdude",
+				"location": "Sacramento, CA",
+				"description": "Write about Hall of Fame and MLB history for @SportingNews, @TNPMuseum and more. Here's me on MLB Network: https://t.co/VcX3VQ4vxO Email: thewomack@gmail.com",
+				"url": "https://t.co/oe2UaFmWPG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oe2UaFmWPG",
+								"expanded_url": "https://clippings.me/grahamdude",
+								"display_url": "clippings.me/grahamdude",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VcX3VQ4vxO",
+								"expanded_url": "http://atmlb.com/2p2c9co",
+								"display_url": "atmlb.com/2p2c9co",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3113,
+				"friends_count": 608,
+				"listed_count": 197,
+				"created_at": "Mon Jan 18 01:24:17 +0000 2010",
+				"favourites_count": 5425,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38627,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438864737/Baseball-photos-Ty-Cobb-520.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438864737/Baseball-photos-Ty-Cobb-520.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702278919081185280/SVhU-OrC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702278919081185280/SVhU-OrC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/105949013/1361132341",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 55,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 17 18:09:53 +0000 2017",
 		"id": 854034195190034400,
 		"id_str": "854034195190034433",
