@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 30 15:10:12 +0000 2017",
+		"id": 858700017279914000,
+		"id_str": "858700017279913984",
+		"text": "RT @BanishedToPen: Baseball Show: Charlie Brown's All Stars. By @KenM_9. #Peanuts\nhttps://t.co/0GpWUlSGTA https://t.co/HBmRYooW9Z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Peanuts",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BanishedToPen",
+					"name": "Banished to the Pen",
+					"id": 2896145687,
+					"id_str": "2896145687",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "KenM_9",
+					"name": "Ken Maeda",
+					"id": 469145080,
+					"id_str": "469145080",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0GpWUlSGTA",
+					"expanded_url": "http://www.banishedtothepen.com/baseball-show-charlie-browns-all-stars/",
+					"display_url": "banishedtothepen.com/baseball-show-…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 858697485501341700,
+					"id_str": "858697485501341696",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C-q00EDUIAAkorS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-q00EDUIAAkorS.jpg",
+					"url": "https://t.co/HBmRYooW9Z",
+					"display_url": "pic.twitter.com/HBmRYooW9Z",
+					"expanded_url": "https://twitter.com/BanishedToPen/status/858697490018607104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 858697490018607100,
+					"source_status_id_str": "858697490018607104",
+					"source_user_id": 2896145687,
+					"source_user_id_str": "2896145687"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 858697485501341700,
+					"id_str": "858697485501341696",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C-q00EDUIAAkorS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-q00EDUIAAkorS.jpg",
+					"url": "https://t.co/HBmRYooW9Z",
+					"display_url": "pic.twitter.com/HBmRYooW9Z",
+					"expanded_url": "https://twitter.com/BanishedToPen/status/858697490018607104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 858697490018607100,
+					"source_status_id_str": "858697490018607104",
+					"source_user_id": 2896145687,
+					"source_user_id_str": "2896145687"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster, @BanishedToPen & @SportsPostHome Data Analyst @Northeastern. mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5953,
+			"friends_count": 946,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 18613,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 30 15:00:10 +0000 2017",
+			"id": 858697490018607100,
+			"id_str": "858697490018607104",
+			"text": "Baseball Show: Charlie Brown's All Stars. By @KenM_9. #Peanuts\nhttps://t.co/0GpWUlSGTA https://t.co/HBmRYooW9Z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Peanuts",
+						"indices": [
+							54,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KenM_9",
+						"name": "Ken Maeda",
+						"id": 469145080,
+						"id_str": "469145080",
+						"indices": [
+							45,
+							52
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0GpWUlSGTA",
+						"expanded_url": "http://www.banishedtothepen.com/baseball-show-charlie-browns-all-stars/",
+						"display_url": "banishedtothepen.com/baseball-show-…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 858697485501341700,
+						"id_str": "858697485501341696",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C-q00EDUIAAkorS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-q00EDUIAAkorS.jpg",
+						"url": "https://t.co/HBmRYooW9Z",
+						"display_url": "pic.twitter.com/HBmRYooW9Z",
+						"expanded_url": "https://twitter.com/BanishedToPen/status/858697490018607104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 858697485501341700,
+						"id_str": "858697485501341696",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C-q00EDUIAAkorS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-q00EDUIAAkorS.jpg",
+						"url": "https://t.co/HBmRYooW9Z",
+						"display_url": "pic.twitter.com/HBmRYooW9Z",
+						"expanded_url": "https://twitter.com/BanishedToPen/status/858697490018607104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2896145687,
+				"id_str": "2896145687",
+				"name": "Banished to the Pen",
+				"screen_name": "BanishedToPen",
+				"location": "Riding the pine",
+				"description": "Internal discussions on baseball, stats, and fandom. By fans of @EWPod. Email: contact@banishedtothepen.com",
+				"url": "http://t.co/PPKiZatIZ2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PPKiZatIZ2",
+								"expanded_url": "http://www.banishedtothepen.com/",
+								"display_url": "banishedtothepen.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 894,
+				"friends_count": 247,
+				"listed_count": 54,
+				"created_at": "Fri Nov 28 16:54:03 +0000 2014",
+				"favourites_count": 759,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1715,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896145687/1462006820",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 29 22:34:18 +0000 2017",
 		"id": 858449389119049700,
 		"id_str": "858449389119049732",
