@@ -1,6 +1,746 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 15 20:47:10 +0000 2017",
+		"id": 864220636348108800,
+		"id_str": "864220636348108806",
+		"text": "That's ok. Baby boomers are killing us so... https://t.co/3Dy8DMl8DU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Dy8DMl8DU",
+					"expanded_url": "https://twitter.com/david_wolkin/status/863895970404347905",
+					"display_url": "twitter.com/david_wolkin/s…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster, @BanishedToPen & @SportsPostHome Data Analyst @Northeastern. mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5957,
+			"friends_count": 949,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 19062,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 863895970404347900,
+		"quoted_status_id_str": "863895970404347905",
+		"quoted_status": {
+			"created_at": "Sun May 14 23:17:04 +0000 2017",
+			"id": 863895970404347900,
+			"id_str": "863895970404347905",
+			"text": "Exceptional work, Millennials. https://t.co/eXk7Bganyv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 863895962628087800,
+						"id_str": "863895962628087808",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/C_0szQdXYAA7Eo3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_0szQdXYAA7Eo3.jpg",
+						"url": "https://t.co/eXk7Bganyv",
+						"display_url": "pic.twitter.com/eXk7Bganyv",
+						"expanded_url": "https://twitter.com/david_wolkin/status/863895970404347905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 596,
+								"h": 376,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 596,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 596,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 863895962628087800,
+						"id_str": "863895962628087808",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/C_0szQdXYAA7Eo3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_0szQdXYAA7Eo3.jpg",
+						"url": "https://t.co/eXk7Bganyv",
+						"display_url": "pic.twitter.com/eXk7Bganyv",
+						"expanded_url": "https://twitter.com/david_wolkin/status/863895970404347905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 596,
+								"h": 376,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 596,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 596,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2976718827,
+				"id_str": "2976718827",
+				"name": "TRON VALJEAN",
+				"screen_name": "david_wolkin",
+				"location": "",
+				"description": "Compared to you, I'm Chris Isaak.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 483,
+				"friends_count": 298,
+				"listed_count": 16,
+				"created_at": "Tue Jan 13 17:06:03 +0000 2015",
+				"favourites_count": 2248,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11005,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782637498858147840/rxHlzLZU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782637498858147840/rxHlzLZU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2976718827/1464269860",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6726,
+			"favorite_count": 15261,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 15 20:45:38 +0000 2017",
+		"id": 864220249381535700,
+		"id_str": "864220249381535744",
+		"text": "Yo quiero blueberry https://t.co/WKk2tu9YPH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WKk2tu9YPH",
+					"expanded_url": "https://twitter.com/cmichaelgibson/status/863905233939943428",
+					"display_url": "twitter.com/cmichaelgibson…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster, @BanishedToPen & @SportsPostHome Data Analyst @Northeastern. mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5957,
+			"friends_count": 949,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 19062,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 863905233939943400,
+		"quoted_status_id_str": "863905233939943428",
+		"quoted_status": {
+			"created_at": "Sun May 14 23:53:53 +0000 2017",
+			"id": 863905233939943400,
+			"id_str": "863905233939943428",
+			"text": "Determining if an image is a Chihuahua or muffin is a tough problem in artificial intelligence https://t.co/aXUQ4KPfgM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 863905231364554800,
+						"id_str": "863905231364554752",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/C_01OxMWAAAPmRU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_01OxMWAAAPmRU.jpg",
+						"url": "https://t.co/aXUQ4KPfgM",
+						"display_url": "pic.twitter.com/aXUQ4KPfgM",
+						"expanded_url": "https://twitter.com/CMichaelGibson/status/863905233939943428/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 749,
+								"h": 754,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 675,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 749,
+								"h": 754,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 863905231364554800,
+						"id_str": "863905231364554752",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/C_01OxMWAAAPmRU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_01OxMWAAAPmRU.jpg",
+						"url": "https://t.co/aXUQ4KPfgM",
+						"display_url": "pic.twitter.com/aXUQ4KPfgM",
+						"expanded_url": "https://twitter.com/CMichaelGibson/status/863905233939943428/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 749,
+								"h": 754,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 675,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 749,
+								"h": 754,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 879161563,
+				"id_str": "879161563",
+				"name": "C. Michael Gibson MD",
+				"screen_name": "CMichaelGibson",
+				"location": "Harvard Professor & MD",
+				"description": "Founder & Chairman Of http://t.co/UEQRk3oxcU A Free UptoDate Copyleft Medical Textbook | RT ≠ endorse | Disclaimer here: http://t.co/GcAgl71R5E",
+				"url": "http://t.co/Zb5goQ8wwx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Zb5goQ8wwx",
+								"expanded_url": "http://www.linkedin.com/in/cmichaelgibson",
+								"display_url": "linkedin.com/in/cmichaelgib…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/UEQRk3oxcU",
+								"expanded_url": "http://www.wikidoc.org",
+								"display_url": "wikidoc.org",
+								"indices": [
+									22,
+									44
+								]
+							},
+							{
+								"url": "http://t.co/GcAgl71R5E",
+								"expanded_url": "http://bit.ly/1mewZOF",
+								"display_url": "bit.ly/1mewZOF",
+								"indices": [
+									121,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 293539,
+				"friends_count": 262351,
+				"listed_count": 2067,
+				"created_at": "Sun Oct 14 02:33:11 +0000 2012",
+				"favourites_count": 4197,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36487,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/744229376/deccd86f1ae97ae8d643b5e709538c7c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/744229376/deccd86f1ae97ae8d643b5e709538c7c.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2984843636/4d4178f5c23492b2785e400e9ebf2c77_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2984843636/4d4178f5c23492b2785e400e9ebf2c77_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/879161563/1403041814",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4052,
+			"favorite_count": 5498,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
+		"created_at": "Mon May 15 11:19:44 +0000 2017",
+		"id": 864077837040590800,
+		"id_str": "864077837040590848",
+		"text": "RT @billjamesonline: In all of American League history dating back to 1901, more games have now been played with the Designated Hitter Rule…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billjamesonline",
+					"name": "Bill James Online",
+					"id": 76901771,
+					"id_str": "76901771",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster, @BanishedToPen & @SportsPostHome Data Analyst @Northeastern. mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5957,
+			"friends_count": 949,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 19062,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 15 02:59:04 +0000 2017",
+			"id": 863951840156803100,
+			"id_str": "863951840156803073",
+			"text": "In all of American League history dating back to 1901, more games have now been played with the Designated Hitter Rule than without it.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76901771,
+				"id_str": "76901771",
+				"name": "Bill James Online",
+				"screen_name": "billjamesonline",
+				"location": "",
+				"description": "",
+				"url": "http://t.co/tIucU5OH80",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tIucU5OH80",
+								"expanded_url": "http://billjamesonline.com",
+								"display_url": "billjamesonline.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33867,
+				"friends_count": 72,
+				"listed_count": 1465,
+				"created_at": "Thu Sep 24 09:45:31 +0000 2009",
+				"favourites_count": 32,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978206644/Bill_James_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978206644/Bill_James_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 468,
+			"favorite_count": 647,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 468,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 14 21:15:59 +0000 2017",
 		"id": 863865498009817100,
 		"id_str": "863865498009817088",
