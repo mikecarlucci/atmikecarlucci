@@ -1,6 +1,1014 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 27 17:04:56 +0000 2017",
+		"id": 868513361285218300,
+		"id_str": "868513361285218304",
+		"text": "RT @Copyright101: Fun patent of the day! For those who dream of cowboy puppies... Patent 4969317 [11/13/90] #funpatentoftheday https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "funpatentoftheday",
+					"indices": [
+						108,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Copyright101",
+					"name": "CopyrightSloth",
+					"id": 272484036,
+					"id_str": "272484036",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster, @BanishedToPen & @SportsPostHome Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5956,
+			"friends_count": 950,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 19611,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 27 16:31:57 +0000 2017",
+			"id": 868505063068622800,
+			"id_str": "868505063068622848",
+			"text": "Fun patent of the day! For those who dream of cowboy puppies... Patent 4969317 [11/13/90] #funpatentoftheday https://t.co/H937kk6u7U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "funpatentoftheday",
+						"indices": [
+							90,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 868505056009637900,
+						"id_str": "868505056009637888",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DA2MvzUV0AAh2TS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA2MvzUV0AAh2TS.jpg",
+						"url": "https://t.co/H937kk6u7U",
+						"display_url": "pic.twitter.com/H937kk6u7U",
+						"expanded_url": "https://twitter.com/Copyright101/status/868505063068622848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1163,
+								"h": 1107,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 647,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1163,
+								"h": 1107,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 868505056009637900,
+						"id_str": "868505056009637888",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DA2MvzUV0AAh2TS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA2MvzUV0AAh2TS.jpg",
+						"url": "https://t.co/H937kk6u7U",
+						"display_url": "pic.twitter.com/H937kk6u7U",
+						"expanded_url": "https://twitter.com/Copyright101/status/868505063068622848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1163,
+								"h": 1107,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 647,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1163,
+								"h": 1107,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 272484036,
+				"id_str": "272484036",
+				"name": "CopyrightSloth",
+				"screen_name": "Copyright101",
+				"location": "San Francisco, CA",
+				"description": "#Content Junkie | #IP Nerd | #Collage Lover | #Kitten Cuddler | Degree Collector | Photographer of Cute. Expat of @Flickr & @500px | 3D Content Maven @Adobe",
+				"url": "https://t.co/eqKVvZafB5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eqKVvZafB5",
+								"expanded_url": "https://www.tinkerkin.com/",
+								"display_url": "tinkerkin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1415,
+				"friends_count": 1511,
+				"listed_count": 122,
+				"created_at": "Sat Mar 26 16:15:01 +0000 2011",
+				"favourites_count": 8680,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14455,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813863322843947008/n9iSrwlA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813863322843947008/n9iSrwlA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/272484036/1443791105",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 27 15:43:02 +0000 2017",
+		"id": 868492751649812500,
+		"id_str": "868492751649812481",
+		"text": "RT @SouzaJr: ✊🏼✊🏼✊🏼 If this were Space Jam I'd stretch out my arm and cover it https://t.co/jWO0yv6qWu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SouzaJr",
+					"name": "Steven Souza Jr.",
+					"id": 3381048551,
+					"id_str": "3381048551",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jWO0yv6qWu",
+					"expanded_url": "https://twitter.com/statcast/status/868331628132802561",
+					"display_url": "twitter.com/statcast/statu…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster, @BanishedToPen & @SportsPostHome Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5956,
+			"friends_count": 950,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 19611,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 27 05:04:24 +0000 2017",
+			"id": 868332034304901100,
+			"id_str": "868332034304901120",
+			"text": "✊🏼✊🏼✊🏼 If this were Space Jam I'd stretch out my arm and cover it https://t.co/jWO0yv6qWu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jWO0yv6qWu",
+						"expanded_url": "https://twitter.com/statcast/status/868331628132802561",
+						"display_url": "twitter.com/statcast/statu…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3381048551,
+				"id_str": "3381048551",
+				"name": "Steven Souza Jr.",
+				"screen_name": "SouzaJr",
+				"location": "United States",
+				"description": "Love Jesus, husband, father, some call it Hard Work, I call it Worship. Matthew 6:33",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7201,
+				"friends_count": 50,
+				"listed_count": 89,
+				"created_at": "Sat Jul 18 00:01:08 +0000 2015",
+				"favourites_count": 202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 980,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854036566439862272/TLPDA6T4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854036566439862272/TLPDA6T4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3381048551/1492453161",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "8e9665cec9370f0f",
+				"url": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json",
+				"place_type": "city",
+				"name": "Minneapolis",
+				"full_name": "Minneapolis, MN",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-93.329515,
+								44.889964
+							],
+							[
+								-93.194578,
+								44.889964
+							],
+							[
+								-93.194578,
+								45.051257
+							],
+							[
+								-93.329515,
+								45.051257
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 868331628132802600,
+			"quoted_status_id_str": "868331628132802561",
+			"quoted_status": {
+				"created_at": "Sat May 27 05:02:47 +0000 2017",
+				"id": 868331628132802600,
+				"id_str": "868331628132802561",
+				"text": "@SouzaJr We checked: You needed to cover 73 feet and came up … 23 short.\n\n0% catch probability, but a five-star effort!",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "SouzaJr",
+							"name": "Steven Souza Jr.",
+							"id": 3381048551,
+							"id_str": "3381048551",
+							"indices": [
+								0,
+								8
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 868310336860020700,
+				"in_reply_to_status_id_str": "868310336860020736",
+				"in_reply_to_user_id": 3381048551,
+				"in_reply_to_user_id_str": "3381048551",
+				"in_reply_to_screen_name": "SouzaJr",
+				"user": {
+					"id": 2565963218,
+					"id_str": "2565963218",
+					"name": "#Statcast",
+					"screen_name": "statcast",
+					"location": "",
+					"description": "#Statcast tracking technology provides a whole new way of analyzing baseball. Glossary: https://t.co/pTX5uQR5ef",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/pTX5uQR5ef",
+									"expanded_url": "http://atmlb.com/1NKHghI",
+									"display_url": "atmlb.com/1NKHghI",
+									"indices": [
+										88,
+										111
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 70709,
+					"friends_count": 48,
+					"listed_count": 1320,
+					"created_at": "Fri Jun 13 21:48:28 +0000 2014",
+					"favourites_count": 7,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 2437,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524980057341575169/f26zTvG-.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524980057341575169/f26zTvG-.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/853723276656463873/UzsmdbC4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/853723276656463873/UzsmdbC4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2565963218/1492544540",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1135,
+				"favorite_count": 4210,
+				"favorited": true,
+				"retweeted": true,
+				"lang": "en"
+			},
+			"retweet_count": 1102,
+			"favorite_count": 5033,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 868331628132802600,
+		"quoted_status_id_str": "868331628132802561",
+		"retweet_count": 1102,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 27 15:42:05 +0000 2017",
+		"id": 868492514008944600,
+		"id_str": "868492514008944642",
+		"text": "RT @baseballhall: A legendary reunion to celebrate Homer's \"induction\" into the Hall of Fame. #HOFHomer #HOFClassic https://t.co/JcVGPJNlBB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HOFHomer",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "HOFClassic",
+					"indices": [
+						104,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baseballhall",
+					"name": "Baseball Hall ⚾",
+					"id": 28406235,
+					"id_str": "28406235",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 868476892713807900,
+					"id_str": "868476892713807872",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DA1zIe3XcAADBZ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA1zIe3XcAADBZ0.jpg",
+					"url": "https://t.co/JcVGPJNlBB",
+					"display_url": "pic.twitter.com/JcVGPJNlBB",
+					"expanded_url": "https://twitter.com/baseballhall/status/868477084250898432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1543,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868477084250898400,
+					"source_status_id_str": "868477084250898432",
+					"source_user_id": 28406235,
+					"source_user_id_str": "28406235"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 868476892713807900,
+					"id_str": "868476892713807872",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DA1zIe3XcAADBZ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA1zIe3XcAADBZ0.jpg",
+					"url": "https://t.co/JcVGPJNlBB",
+					"display_url": "pic.twitter.com/JcVGPJNlBB",
+					"expanded_url": "https://twitter.com/baseballhall/status/868477084250898432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1543,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868477084250898400,
+					"source_status_id_str": "868477084250898432",
+					"source_user_id": 28406235,
+					"source_user_id_str": "28406235"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster, @BanishedToPen & @SportsPostHome Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5956,
+			"friends_count": 950,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 19611,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 27 14:40:47 +0000 2017",
+			"id": 868477084250898400,
+			"id_str": "868477084250898432",
+			"text": "A legendary reunion to celebrate Homer's \"induction\" into the Hall of Fame. #HOFHomer #HOFClassic https://t.co/JcVGPJNlBB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HOFHomer",
+						"indices": [
+							76,
+							85
+						]
+					},
+					{
+						"text": "HOFClassic",
+						"indices": [
+							86,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 868476892713807900,
+						"id_str": "868476892713807872",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DA1zIe3XcAADBZ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA1zIe3XcAADBZ0.jpg",
+						"url": "https://t.co/JcVGPJNlBB",
+						"display_url": "pic.twitter.com/JcVGPJNlBB",
+						"expanded_url": "https://twitter.com/baseballhall/status/868477084250898432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 904,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1543,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 868476892713807900,
+						"id_str": "868476892713807872",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DA1zIe3XcAADBZ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA1zIe3XcAADBZ0.jpg",
+						"url": "https://t.co/JcVGPJNlBB",
+						"display_url": "pic.twitter.com/JcVGPJNlBB",
+						"expanded_url": "https://twitter.com/baseballhall/status/868477084250898432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 904,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1543,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28406235,
+				"id_str": "28406235",
+				"name": "Baseball Hall ⚾",
+				"screen_name": "baseballhall",
+				"location": "Cooperstown, NY",
+				"description": "The official twitter of the National Baseball Hall of Fame and Museum. Follow @HofDigital.",
+				"url": "https://t.co/5zjveDCZya",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5zjveDCZya",
+								"expanded_url": "http://baseballhall.org",
+								"display_url": "baseballhall.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148892,
+				"friends_count": 137,
+				"listed_count": 2500,
+				"created_at": "Thu Apr 02 19:56:15 +0000 2009",
+				"favourites_count": 236,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13048,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/553266451864252416/1QU6vgV8.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/553266451864252416/1QU6vgV8.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/635862551360704512/DN8qw8Qh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/635862551360704512/DN8qw8Qh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28406235/1420744857",
+				"profile_link_color": "DB1818",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "4DC5F0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 484,
+			"favorite_count": 696,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 484,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 26 20:00:05 +0000 2017",
 		"id": 868195051540820000,
 		"id_str": "868195051540819969",
