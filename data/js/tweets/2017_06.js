@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 10 20:37:59 +0000 2017",
+		"id": 873640406931603500,
+		"id_str": "873640406931603458",
+		"text": "RT @Eater: Hawaiian pizza inventor Sam Panopoulos has died https://t.co/IDVHgng1H8 https://t.co/YOGWWndNHj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Eater",
+					"name": "Eater",
+					"id": 26329195,
+					"id_str": "26329195",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IDVHgng1H8",
+					"expanded_url": "https://www.eater.com/2017/6/10/15776150/hawaiian-pineapple-pizza-sam-panopoulos?utm_campaign=eater&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "eater.com/2017/6/10/1577…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 873603776212500500,
+					"id_str": "873603776212500480",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DB-qAYOWAAAYeAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DB-qAYOWAAAYeAQ.jpg",
+					"url": "https://t.co/YOGWWndNHj",
+					"display_url": "pic.twitter.com/YOGWWndNHj",
+					"expanded_url": "https://twitter.com/Eater/status/873603779417038849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 873603779417038800,
+					"source_status_id_str": "873603779417038849",
+					"source_user_id": 26329195,
+					"source_user_id_str": "26329195"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 873603776212500500,
+					"id_str": "873603776212500480",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DB-qAYOWAAAYeAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DB-qAYOWAAAYeAQ.jpg",
+					"url": "https://t.co/YOGWWndNHj",
+					"display_url": "pic.twitter.com/YOGWWndNHj",
+					"expanded_url": "https://twitter.com/Eater/status/873603779417038849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 873603779417038800,
+					"source_status_id_str": "873603779417038849",
+					"source_user_id": 26329195,
+					"source_user_id_str": "26329195"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 956,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20318,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 10 18:12:26 +0000 2017",
+			"id": 873603779417038800,
+			"id_str": "873603779417038849",
+			"text": "Hawaiian pizza inventor Sam Panopoulos has died https://t.co/IDVHgng1H8 https://t.co/YOGWWndNHj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IDVHgng1H8",
+						"expanded_url": "https://www.eater.com/2017/6/10/15776150/hawaiian-pineapple-pizza-sam-panopoulos?utm_campaign=eater&utm_content=chorus&utm_medium=social&utm_source=twitter",
+						"display_url": "eater.com/2017/6/10/1577…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 873603776212500500,
+						"id_str": "873603776212500480",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/DB-qAYOWAAAYeAQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DB-qAYOWAAAYeAQ.jpg",
+						"url": "https://t.co/YOGWWndNHj",
+						"display_url": "pic.twitter.com/YOGWWndNHj",
+						"expanded_url": "https://twitter.com/Eater/status/873603779417038849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1333,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 873603776212500500,
+						"id_str": "873603776212500480",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/DB-qAYOWAAAYeAQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DB-qAYOWAAAYeAQ.jpg",
+						"url": "https://t.co/YOGWWndNHj",
+						"display_url": "pic.twitter.com/YOGWWndNHj",
+						"expanded_url": "https://twitter.com/Eater/status/873603779417038849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1333,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26329195,
+				"id_str": "26329195",
+				"name": "Eater",
+				"screen_name": "Eater",
+				"location": "",
+				"description": "http://t.co/pOPAQAaP1p is the source for people who care about dining and drinking in the world’s best food cities.",
+				"url": "http://t.co/vB6wwxQSbh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vB6wwxQSbh",
+								"expanded_url": "http://eater.com",
+								"display_url": "eater.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/pOPAQAaP1p",
+								"expanded_url": "http://Eater.com",
+								"display_url": "Eater.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 483831,
+				"friends_count": 978,
+				"listed_count": 3798,
+				"created_at": "Tue Mar 24 21:30:09 +0000 2009",
+				"favourites_count": 1734,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 47295,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/513845495882477568/UDiDBo66_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/513845495882477568/UDiDBo66_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26329195/1411345187",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 10 16:11:40 +0000 2017",
+		"id": 873573385686708200,
+		"id_str": "873573385686708224",
+		"text": "RT @fightfortheftr: To save #netneutrality, this has to be MASSIVE! Team Internet needs you, your family, &amp; your friends: https://t.co/Db0I…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netneutrality",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fightfortheftr",
+					"name": "Fight for the Future",
+					"id": 382376904,
+					"id_str": "382376904",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 956,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20318,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 07 02:00:16 +0000 2017",
+			"id": 872271960625082400,
+			"id_str": "872271960625082368",
+			"text": "To save #netneutrality, this has to be MASSIVE! Team Internet needs you, your family, &amp; your friends:… https://t.co/LKYBHMGS3K",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "netneutrality",
+						"indices": [
+							8,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LKYBHMGS3K",
+						"expanded_url": "https://twitter.com/i/web/status/872271960625082368",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 382376904,
+				"id_str": "382376904",
+				"name": "Fight for the Future",
+				"screen_name": "fightfortheftr",
+				"location": "The Internet",
+				"description": "We believe there's hardly anything as important as ensuring that our shared future has freedom of expression and creativity at its core.",
+				"url": "http://t.co/ZsLdXJ1evU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZsLdXJ1evU",
+								"expanded_url": "http://fightforthefuture.org",
+								"display_url": "fightforthefuture.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74428,
+				"friends_count": 2130,
+				"listed_count": 1565,
+				"created_at": "Thu Sep 29 23:43:55 +0000 2011",
+				"favourites_count": 3561,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13696,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "071B2F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570301523/oqpvykq9xofe6mjmt09q.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570301523/oqpvykq9xofe6mjmt09q.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753709059317071873/JF5D0OMI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753709059317071873/JF5D0OMI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/382376904/1491580238",
+				"profile_link_color": "19A961",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 09 23:28:15 +0000 2017",
 		"id": 873320867983482900,
 		"id_str": "873320867983482886",
