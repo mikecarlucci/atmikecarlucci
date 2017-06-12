@@ -1,6 +1,1073 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 11 18:43:58 +0000 2017",
+		"id": 873974104197652500,
+		"id_str": "873974104197652481",
+		"text": "RT @DanHirsch: Each team's record over last 162 games https://t.co/ALj4ctXP1I",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DanHirsch",
+					"name": "Dan Hirsch",
+					"id": 35105979,
+					"id_str": "35105979",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 873942951730135000,
+					"id_str": "873942951730135040",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DCDee_fUwAA8NQN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCDee_fUwAA8NQN.jpg",
+					"url": "https://t.co/ALj4ctXP1I",
+					"display_url": "pic.twitter.com/ALj4ctXP1I",
+					"expanded_url": "https://twitter.com/DanHirsch/status/873942953642872832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 165,
+							"h": 739,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 152,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 165,
+							"h": 739,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 873942953642872800,
+					"source_status_id_str": "873942953642872832",
+					"source_user_id": 35105979,
+					"source_user_id_str": "35105979"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 873942951730135000,
+					"id_str": "873942951730135040",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DCDee_fUwAA8NQN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCDee_fUwAA8NQN.jpg",
+					"url": "https://t.co/ALj4ctXP1I",
+					"display_url": "pic.twitter.com/ALj4ctXP1I",
+					"expanded_url": "https://twitter.com/DanHirsch/status/873942953642872832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 165,
+							"h": 739,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 152,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 165,
+							"h": 739,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 873942953642872800,
+					"source_status_id_str": "873942953642872832",
+					"source_user_id": 35105979,
+					"source_user_id_str": "35105979"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 956,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20395,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 11 16:40:11 +0000 2017",
+			"id": 873942953642872800,
+			"id_str": "873942953642872832",
+			"text": "Each team's record over last 162 games https://t.co/ALj4ctXP1I",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 873942951730135000,
+						"id_str": "873942951730135040",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DCDee_fUwAA8NQN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCDee_fUwAA8NQN.jpg",
+						"url": "https://t.co/ALj4ctXP1I",
+						"display_url": "pic.twitter.com/ALj4ctXP1I",
+						"expanded_url": "https://twitter.com/DanHirsch/status/873942953642872832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 165,
+								"h": 739,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 152,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 165,
+								"h": 739,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 873942951730135000,
+						"id_str": "873942951730135040",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DCDee_fUwAA8NQN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCDee_fUwAA8NQN.jpg",
+						"url": "https://t.co/ALj4ctXP1I",
+						"display_url": "pic.twitter.com/ALj4ctXP1I",
+						"expanded_url": "https://twitter.com/DanHirsch/status/873942953642872832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 165,
+								"h": 739,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 152,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 165,
+								"h": 739,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35105979,
+				"id_str": "35105979",
+				"name": "Dan Hirsch",
+				"screen_name": "DanHirsch",
+				"location": "Omaha, NE",
+				"description": "Creator of The Baseball Gauge (http://t.co/udTIh3gu9V),  Proud father of twins, SABR member, Baseball history enthusiast, Firefighter & veteran of the USAF",
+				"url": "http://t.co/C3cjhaR42e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/C3cjhaR42e",
+								"expanded_url": "http://thebaseballgauge.com",
+								"display_url": "thebaseballgauge.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/udTIh3gu9V",
+								"expanded_url": "http://TheBaseballGauge.com",
+								"display_url": "TheBaseballGauge.com",
+								"indices": [
+									31,
+									53
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4579,
+				"friends_count": 1158,
+				"listed_count": 211,
+				"created_at": "Sat Apr 25 01:36:03 +0000 2009",
+				"favourites_count": 7017,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16960,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000323421978/2b52d4e47f7fe1475b2494e4f723bab0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000323421978/2b52d4e47f7fe1475b2494e4f723bab0_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 11 16:32:30 +0000 2017",
+		"id": 873941017053065200,
+		"id_str": "873941017053065216",
+		"text": "RT @GregRajan: A truly winning headline in the Arizona Republic. Hope the psychic is OK. https://t.co/nAjgJhVNUy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GregRajan",
+					"name": "Greg Rajan",
+					"id": 70556266,
+					"id_str": "70556266",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 873921715587260400,
+					"id_str": "873921715587260416",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DCDLK4sUIAAnYLX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCDLK4sUIAAnYLX.jpg",
+					"url": "https://t.co/nAjgJhVNUy",
+					"display_url": "pic.twitter.com/nAjgJhVNUy",
+					"expanded_url": "https://twitter.com/GregRajan/status/873921722596159489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 873921722596159500,
+					"source_status_id_str": "873921722596159489",
+					"source_user_id": 70556266,
+					"source_user_id_str": "70556266"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 873921715587260400,
+					"id_str": "873921715587260416",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DCDLK4sUIAAnYLX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCDLK4sUIAAnYLX.jpg",
+					"url": "https://t.co/nAjgJhVNUy",
+					"display_url": "pic.twitter.com/nAjgJhVNUy",
+					"expanded_url": "https://twitter.com/GregRajan/status/873921722596159489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 873921722596159500,
+					"source_status_id_str": "873921722596159489",
+					"source_user_id": 70556266,
+					"source_user_id_str": "70556266"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 956,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20395,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 11 15:15:50 +0000 2017",
+			"id": 873921722596159500,
+			"id_str": "873921722596159489",
+			"text": "A truly winning headline in the Arizona Republic. Hope the psychic is OK. https://t.co/nAjgJhVNUy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 873921715587260400,
+						"id_str": "873921715587260416",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DCDLK4sUIAAnYLX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCDLK4sUIAAnYLX.jpg",
+						"url": "https://t.co/nAjgJhVNUy",
+						"display_url": "pic.twitter.com/nAjgJhVNUy",
+						"expanded_url": "https://twitter.com/GregRajan/status/873921722596159489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 873921715587260400,
+						"id_str": "873921715587260416",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DCDLK4sUIAAnYLX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCDLK4sUIAAnYLX.jpg",
+						"url": "https://t.co/nAjgJhVNUy",
+						"display_url": "pic.twitter.com/nAjgJhVNUy",
+						"expanded_url": "https://twitter.com/GregRajan/status/873921722596159489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70556266,
+				"id_str": "70556266",
+				"name": "Greg Rajan",
+				"screen_name": "GregRajan",
+				"location": "It's pronounced Rah-jin",
+				"description": "Senior editor/writer for @HoustonChron sports | Proud alum: Austin Bowie, Southwest Texas St. | Quick with a joke, but not to light up your smoke.",
+				"url": "https://t.co/Cclu2bLEoz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cclu2bLEoz",
+								"expanded_url": "http://Chron.com/author/greg-rajan/",
+								"display_url": "Chron.com/author/greg-ra…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2838,
+				"friends_count": 731,
+				"listed_count": 124,
+				"created_at": "Tue Sep 01 01:08:47 +0000 2009",
+				"favourites_count": 263,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31023,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/498626390061621248/i34dnETs.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/498626390061621248/i34dnETs.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873759224957894656/hc2jXQmO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873759224957894656/hc2jXQmO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70556266/1467037259",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3459,
+			"favorite_count": 6167,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3459,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 11 14:19:12 +0000 2017",
+		"id": 873907470393016300,
+		"id_str": "873907470393016321",
+		"text": "RT @CriminelleLaw: *view at your own risk*\nThis is the most controversial ranking I've ever seen on Twitter. https://t.co/mQLjgIFZEl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CriminelleLaw",
+					"name": "Criminelle Law",
+					"id": 993738031,
+					"id_str": "993738031",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 873581292779995100,
+					"id_str": "873581292779995136",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DB-Vjq6UAAA575B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DB-Vjq6UAAA575B.jpg",
+					"url": "https://t.co/mQLjgIFZEl",
+					"display_url": "pic.twitter.com/mQLjgIFZEl",
+					"expanded_url": "https://twitter.com/CriminelleLaw/status/873581299818270721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 523,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 523,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 296,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 873581299818270700,
+					"source_status_id_str": "873581299818270721",
+					"source_user_id": 993738031,
+					"source_user_id_str": "993738031"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 873581292779995100,
+					"id_str": "873581292779995136",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DB-Vjq6UAAA575B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DB-Vjq6UAAA575B.jpg",
+					"url": "https://t.co/mQLjgIFZEl",
+					"display_url": "pic.twitter.com/mQLjgIFZEl",
+					"expanded_url": "https://twitter.com/CriminelleLaw/status/873581299818270721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 523,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 523,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 296,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 873581299818270700,
+					"source_status_id_str": "873581299818270721",
+					"source_user_id": 993738031,
+					"source_user_id_str": "993738031"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 956,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20395,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 10 16:43:06 +0000 2017",
+			"id": 873581299818270700,
+			"id_str": "873581299818270721",
+			"text": "*view at your own risk*\nThis is the most controversial ranking I've ever seen on Twitter. https://t.co/mQLjgIFZEl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 873581292779995100,
+						"id_str": "873581292779995136",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DB-Vjq6UAAA575B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DB-Vjq6UAAA575B.jpg",
+						"url": "https://t.co/mQLjgIFZEl",
+						"display_url": "pic.twitter.com/mQLjgIFZEl",
+						"expanded_url": "https://twitter.com/CriminelleLaw/status/873581299818270721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 523,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 523,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 296,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 873581292779995100,
+						"id_str": "873581292779995136",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DB-Vjq6UAAA575B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DB-Vjq6UAAA575B.jpg",
+						"url": "https://t.co/mQLjgIFZEl",
+						"display_url": "pic.twitter.com/mQLjgIFZEl",
+						"expanded_url": "https://twitter.com/CriminelleLaw/status/873581299818270721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 523,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 523,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 296,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 993738031,
+				"id_str": "993738031",
+				"name": "Criminelle Law",
+				"screen_name": "CriminelleLaw",
+				"location": "So Southern",
+				"description": "Attorney. Frequently wrong but rarely in doubt. 70% anonymous so I can use bad language on the internet.  criminellelaw@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17616,
+				"friends_count": 1220,
+				"listed_count": 212,
+				"created_at": "Thu Dec 06 20:02:46 +0000 2012",
+				"favourites_count": 45688,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 51370,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "170D33",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/733110712/52e2a964a48a85e108f26ead6ea7f612.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/733110712/52e2a964a48a85e108f26ead6ea7f612.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/593966945302671361/DCIeFs0g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/593966945302671361/DCIeFs0g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/993738031/1354998341",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8838,
+			"favorite_count": 16872,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8838,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 10 20:37:59 +0000 2017",
 		"id": 873640406931603500,
 		"id_str": "873640406931603458",
