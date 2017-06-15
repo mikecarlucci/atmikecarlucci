@@ -1,6 +1,1010 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 14 11:14:38 +0000 2017",
+		"id": 874948187525697500,
+		"id_str": "874948187525697541",
+		"text": "RT @weirdalpod: When you've been editing for hours and then the caffeine wears off... https://t.co/bZofGdOyZ2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weirdalpod",
+					"name": "The \"Weird Al\"phabet",
+					"id": 771807469681115100,
+					"id_str": "771807469681115136",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 874921813138182100,
+					"id_str": "874921813138182144",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DCRYwOZXkAA3zsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCRYwOZXkAA3zsc.jpg",
+					"url": "https://t.co/bZofGdOyZ2",
+					"display_url": "pic.twitter.com/bZofGdOyZ2",
+					"expanded_url": "https://twitter.com/weirdalpod/status/874922030914785280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 426,
+							"h": 297,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 426,
+							"h": 297,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874922030914785300,
+					"source_status_id_str": "874922030914785280",
+					"source_user_id": 771807469681115100,
+					"source_user_id_str": "771807469681115136"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874921813138182100,
+					"id_str": "874921813138182144",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DCRYwOZXkAA3zsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCRYwOZXkAA3zsc.jpg",
+					"url": "https://t.co/bZofGdOyZ2",
+					"display_url": "pic.twitter.com/bZofGdOyZ2",
+					"expanded_url": "https://twitter.com/weirdalpod/status/874922030914785280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 426,
+							"h": 297,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 426,
+							"h": 297,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874922030914785300,
+					"source_status_id_str": "874922030914785280",
+					"source_user_id": 771807469681115100,
+					"source_user_id_str": "771807469681115136"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 960,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20484,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 14 09:30:42 +0000 2017",
+			"id": 874922030914785300,
+			"id_str": "874922030914785280",
+			"text": "When you've been editing for hours and then the caffeine wears off... https://t.co/bZofGdOyZ2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 874921813138182100,
+						"id_str": "874921813138182144",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DCRYwOZXkAA3zsc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCRYwOZXkAA3zsc.jpg",
+						"url": "https://t.co/bZofGdOyZ2",
+						"display_url": "pic.twitter.com/bZofGdOyZ2",
+						"expanded_url": "https://twitter.com/weirdalpod/status/874922030914785280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 426,
+								"h": 297,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 426,
+								"h": 297,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 426,
+								"h": 297,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874921813138182100,
+						"id_str": "874921813138182144",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DCRYwOZXkAA3zsc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCRYwOZXkAA3zsc.jpg",
+						"url": "https://t.co/bZofGdOyZ2",
+						"display_url": "pic.twitter.com/bZofGdOyZ2",
+						"expanded_url": "https://twitter.com/weirdalpod/status/874922030914785280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 426,
+								"h": 297,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 426,
+								"h": 297,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 426,
+								"h": 297,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 771807469681115100,
+				"id_str": "771807469681115136",
+				"name": "The \"Weird Al\"phabet",
+				"screen_name": "weirdalpod",
+				"location": "Los Angeles, CA",
+				"description": "It's a comedy podcast where four fans of Weird Al Yankovic discuss every one of his songs in alphabetical order. Yes, even the unreleased ones.",
+				"url": "https://t.co/EHpLQ5eDLa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EHpLQ5eDLa",
+								"expanded_url": "http://www.pipedreampodcasts.com/weird-alphabet",
+								"display_url": "pipedreampodcasts.com/weird-alphabet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63,
+				"friends_count": 161,
+				"listed_count": 0,
+				"created_at": "Fri Sep 02 20:30:15 +0000 2016",
+				"favourites_count": 102,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 154,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/771809272585785344/PMqMPlsj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/771809272585785344/PMqMPlsj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/771807469681115136/1472938140",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 14 11:11:21 +0000 2017",
+		"id": 874947363433050100,
+		"id_str": "874947363433050112",
+		"text": "Five seasons in four days sounds about right https://t.co/SxCfYxhPpu https://t.co/gXREbTTIMG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SxCfYxhPpu",
+					"expanded_url": "http://www.cc.com/video-clips/s8afso/comedy-central-presents-february-in-boston",
+					"display_url": "cc.com/video-clips/s8…",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/gXREbTTIMG",
+					"expanded_url": "https://twitter.com/nwsboston/status/874933200820117504",
+					"display_url": "twitter.com/nwsboston/stat…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 960,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20484,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 874933200820117500,
+		"quoted_status_id_str": "874933200820117504",
+		"quoted_status": {
+			"created_at": "Wed Jun 14 10:15:05 +0000 2017",
+			"id": 874933200820117500,
+			"id_str": "874933200820117504",
+			"text": "Throw an extra log on the fire tonight! Temps dip down into the 40s away from the coast. https://t.co/NEGmCxqHcV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 874890893605519400,
+						"id_str": "874890893605519360",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DCQ8oeKUwAAV0B_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCQ8oeKUwAAV0B_.jpg",
+						"url": "https://t.co/NEGmCxqHcV",
+						"display_url": "pic.twitter.com/NEGmCxqHcV",
+						"expanded_url": "https://twitter.com/NWSBoston/status/874933200820117504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1111,
+								"h": 757,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 463,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1111,
+								"h": 757,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874890893605519400,
+						"id_str": "874890893605519360",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DCQ8oeKUwAAV0B_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCQ8oeKUwAAV0B_.jpg",
+						"url": "https://t.co/NEGmCxqHcV",
+						"display_url": "pic.twitter.com/NEGmCxqHcV",
+						"expanded_url": "https://twitter.com/NWSBoston/status/874933200820117504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1111,
+								"h": 757,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 463,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1111,
+								"h": 757,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 632301127,
+				"id_str": "632301127",
+				"name": "NWS Boston",
+				"screen_name": "NWSBoston",
+				"location": "Taunton, MA",
+				"description": "Official Twitter Account for National Weather Service - Boston/Taunton, MA. \r\nDetails: http://t.co/KKTK7cZlhK",
+				"url": "http://t.co/rE3ojlJAtf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rE3ojlJAtf",
+								"expanded_url": "http://www.weather.gov/box",
+								"display_url": "weather.gov/box",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/KKTK7cZlhK",
+								"expanded_url": "http://weather.gov/twitter",
+								"display_url": "weather.gov/twitter",
+								"indices": [
+									87,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 50739,
+				"friends_count": 95,
+				"listed_count": 1542,
+				"created_at": "Tue Jul 10 20:40:48 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28799,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601094173/7zrmomjfe8locjtlvxz1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601094173/7zrmomjfe8locjtlvxz1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459424248725913601/kN1VUEph_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459424248725913601/kN1VUEph_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/632301127/1428752587",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 14 10:41:14 +0000 2017",
+		"id": 874939783721750500,
+		"id_str": "874939783721750528",
+		"text": "RT @OverTheMonster: https://t.co/yRy2M4wI1w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OverTheMonster",
+					"name": "OverTheMonster",
+					"id": 21119272,
+					"id_str": "21119272",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 874832516791885800,
+					"id_str": "874832516791885825",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DCQHiflXYAEb4sN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCQHiflXYAEb4sN.jpg",
+					"url": "https://t.co/yRy2M4wI1w",
+					"display_url": "pic.twitter.com/yRy2M4wI1w",
+					"expanded_url": "https://twitter.com/OverTheMonster/status/874832522571636737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874832522571636700,
+					"source_status_id_str": "874832522571636737",
+					"source_user_id": 21119272,
+					"source_user_id_str": "21119272"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874832516791885800,
+					"id_str": "874832516791885825",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DCQHiflXYAEb4sN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCQHiflXYAEb4sN.jpg",
+					"url": "https://t.co/yRy2M4wI1w",
+					"display_url": "pic.twitter.com/yRy2M4wI1w",
+					"expanded_url": "https://twitter.com/OverTheMonster/status/874832522571636737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874832522571636700,
+					"source_status_id_str": "874832522571636737",
+					"source_user_id": 21119272,
+					"source_user_id_str": "21119272"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5961,
+			"friends_count": 960,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20484,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 14 03:35:01 +0000 2017",
+			"id": 874832522571636700,
+			"id_str": "874832522571636737",
+			"text": "https://t.co/yRy2M4wI1w",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 874832516791885800,
+						"id_str": "874832516791885825",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DCQHiflXYAEb4sN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCQHiflXYAEb4sN.jpg",
+						"url": "https://t.co/yRy2M4wI1w",
+						"display_url": "pic.twitter.com/yRy2M4wI1w",
+						"expanded_url": "https://twitter.com/OverTheMonster/status/874832522571636737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874832516791885800,
+						"id_str": "874832516791885825",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DCQHiflXYAEb4sN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCQHiflXYAEb4sN.jpg",
+						"url": "https://t.co/yRy2M4wI1w",
+						"display_url": "pic.twitter.com/yRy2M4wI1w",
+						"expanded_url": "https://twitter.com/OverTheMonster/status/874832522571636737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21119272,
+				"id_str": "21119272",
+				"name": "OverTheMonster",
+				"screen_name": "OverTheMonster",
+				"location": "Boston, Massachusetts",
+				"description": "An unofficial Boston Red Sox blog. Tweets from Matt Collins and the occasional robot. OTMMailbag@gmail.com",
+				"url": "https://t.co/3iNEMMat4o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3iNEMMat4o",
+								"expanded_url": "http://www.overthemonster.com",
+								"display_url": "overthemonster.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12662,
+				"friends_count": 310,
+				"listed_count": 719,
+				"created_at": "Tue Feb 17 19:17:06 +0000 2009",
+				"favourites_count": 174,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 68242,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 91,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Jun 13 01:44:25 +0000 2017",
 		"id": 874442302747529200,
 		"id_str": "874442302747529216",
