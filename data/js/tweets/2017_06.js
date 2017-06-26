@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 26 02:10:02 +0000 2017",
+		"id": 879159788738949100,
+		"id_str": "879159788738949120",
+		"text": "RT @sbholtrop: The mobile web in 2017 https://t.co/cY5g6ZFIZt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sbholtrop",
+					"name": "Bas Holtrop",
+					"id": 23763236,
+					"id_str": "23763236",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 878611387853004800,
+					"id_str": "878611387853004802",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DDF0ZvSXYAI3XGc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDF0ZvSXYAI3XGc.jpg",
+					"url": "https://t.co/cY5g6ZFIZt",
+					"display_url": "pic.twitter.com/cY5g6ZFIZt",
+					"expanded_url": "https://twitter.com/sbholtrop/status/878611398527520768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 560,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 878611398527520800,
+					"source_status_id_str": "878611398527520768",
+					"source_user_id": 23763236,
+					"source_user_id_str": "23763236"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 878611387853004800,
+					"id_str": "878611387853004802",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DDF0ZvSXYAI3XGc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDF0ZvSXYAI3XGc.jpg",
+					"url": "https://t.co/cY5g6ZFIZt",
+					"display_url": "pic.twitter.com/cY5g6ZFIZt",
+					"expanded_url": "https://twitter.com/sbholtrop/status/878611398527520768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 560,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 878611398527520800,
+					"source_status_id_str": "878611398527520768",
+					"source_user_id": 23763236,
+					"source_user_id_str": "23763236"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5962,
+			"friends_count": 962,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20750,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17199,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 24 13:50:55 +0000 2017",
+			"id": 878611398527520800,
+			"id_str": "878611398527520768",
+			"text": "The mobile web in 2017 https://t.co/cY5g6ZFIZt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 878611387853004800,
+						"id_str": "878611387853004802",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DDF0ZvSXYAI3XGc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDF0ZvSXYAI3XGc.jpg",
+						"url": "https://t.co/cY5g6ZFIZt",
+						"display_url": "pic.twitter.com/cY5g6ZFIZt",
+						"expanded_url": "https://twitter.com/sbholtrop/status/878611398527520768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 560,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 397,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 560,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 878611387853004800,
+						"id_str": "878611387853004802",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DDF0ZvSXYAI3XGc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDF0ZvSXYAI3XGc.jpg",
+						"url": "https://t.co/cY5g6ZFIZt",
+						"display_url": "pic.twitter.com/cY5g6ZFIZt",
+						"expanded_url": "https://twitter.com/sbholtrop/status/878611398527520768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 560,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 397,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 560,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23763236,
+				"id_str": "23763236",
+				"name": "Bas Holtrop",
+				"screen_name": "sbholtrop",
+				"location": "Groningen",
+				"description": "CTO @alledaagsNL",
+				"url": "https://t.co/stFBfRDk18",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/stFBfRDk18",
+								"expanded_url": "http://www.alledaags.nl",
+								"display_url": "alledaags.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 407,
+				"friends_count": 105,
+				"listed_count": 21,
+				"created_at": "Wed Mar 11 13:37:23 +0000 2009",
+				"favourites_count": 150,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2121,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/674966751063334913/khZ77jRf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/674966751063334913/khZ77jRf_normal.jpg",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12705,
+			"favorite_count": 20990,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12705,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 01:23:26 +0000 2017",
+		"id": 879148060667936800,
+		"id_str": "879148060667936768",
+		"text": "Artifacts of the Twins at the Mall of America https://t.co/PSbTCpw62t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 879148037754507300,
+					"id_str": "879148037754507264",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DDNce39W0AAxns8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDNce39W0AAxns8.jpg",
+					"url": "https://t.co/PSbTCpw62t",
+					"display_url": "pic.twitter.com/PSbTCpw62t",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/879148060667936768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 879148037754507300,
+					"id_str": "879148037754507264",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DDNce39W0AAxns8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDNce39W0AAxns8.jpg",
+					"url": "https://t.co/PSbTCpw62t",
+					"display_url": "pic.twitter.com/PSbTCpw62t",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/879148060667936768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 879148037758738400,
+					"id_str": "879148037758738432",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DDNce3-XYAAG0Tr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDNce3-XYAAG0Tr.jpg",
+					"url": "https://t.co/PSbTCpw62t",
+					"display_url": "pic.twitter.com/PSbTCpw62t",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/879148060667936768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5962,
+			"friends_count": 962,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 20750,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17199,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9dafa85080000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9dafa85080000.json",
+			"place_type": "poi",
+			"name": "Mall of America",
+			"full_name": "Mall of America",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-93.24203968048096,
+							44.854712760838005
+						],
+						[
+							-93.24203968048096,
+							44.854712760838005
+						],
+						[
+							-93.24203968048096,
+							44.854712760838005
+						],
+						[
+							-93.24203968048096,
+							44.854712760838005
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 21 22:04:10 +0000 2017",
 		"id": 877648362228547600,
 		"id_str": "877648362228547584",
