@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 18 12:33:41 +0000 2017",
+		"id": 887289270859333600,
+		"id_str": "887289270859333634",
+		"text": "Oh yeah! https://t.co/Q59VXN2zLu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q59VXN2zLu",
+					"expanded_url": "https://twitter.com/jasonshevrin/status/887287905403777024",
+					"display_url": "twitter.com/jasonshevrin/s…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5952,
+			"friends_count": 959,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 21389,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17305,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 887287905403777000,
+		"quoted_status_id_str": "887287905403777024",
+		"quoted_status": {
+			"created_at": "Tue Jul 18 12:28:16 +0000 2017",
+			"id": 887287905403777000,
+			"id_str": "887287905403777024",
+			"text": "Kool Aid Man strikes again https://t.co/qvnIorfdh3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 887287902601871400,
+						"id_str": "887287902601871360",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DFBHpXgWAAADLnY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFBHpXgWAAADLnY.jpg",
+						"url": "https://t.co/qvnIorfdh3",
+						"display_url": "pic.twitter.com/qvnIorfdh3",
+						"expanded_url": "https://twitter.com/jasonshevrin/status/887287905403777024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 767,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 767,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887287902601871400,
+						"id_str": "887287902601871360",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DFBHpXgWAAADLnY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFBHpXgWAAADLnY.jpg",
+						"url": "https://t.co/qvnIorfdh3",
+						"display_url": "pic.twitter.com/qvnIorfdh3",
+						"expanded_url": "https://twitter.com/jasonshevrin/status/887287905403777024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 767,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 767,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1148242351,
+				"id_str": "1148242351",
+				"name": "jason",
+				"screen_name": "jasonshevrin",
+				"location": "=☆=☆=☆=",
+				"description": "PR flack talking about politics, but not in politics. Media, education, ☕️, ⚽️, #ShawDC, Boston & #MApoli, #bikedc. Occasional pug photos. Opinions = mine only.",
+				"url": "https://t.co/oWi1Qp4C9Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oWi1Qp4C9Z",
+								"expanded_url": "https://youtu.be/XgVZ4b9O34s",
+								"display_url": "youtu.be/XgVZ4b9O34s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 368,
+				"friends_count": 1912,
+				"listed_count": 23,
+				"created_at": "Mon Feb 04 15:01:44 +0000 2013",
+				"favourites_count": 19072,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18163,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D9D9D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/782016226/6d28f5c6d10bc7b7e678d22a704b9eb1.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/782016226/6d28f5c6d10bc7b7e678d22a704b9eb1.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796357158677966848/yFQUCLk6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796357158677966848/yFQUCLk6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1148242351/1478813558",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 18 02:46:44 +0000 2017",
 		"id": 887141559610871800,
 		"id_str": "887141559610871808",
