@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 26 00:39:22 +0000 2017",
+		"id": 890008608234238000,
+		"id_str": "890008608234237954",
+		"text": "So, promising perhaps https://t.co/Q8a374Bdme",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q8a374Bdme",
+					"expanded_url": "https://twitter.com/evandrellich/status/890007719813545984",
+					"display_url": "twitter.com/evandrellich/s…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5953,
+			"friends_count": 957,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 21575,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17324,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 890007719813546000,
+		"quoted_status_id_str": "890007719813545984",
+		"quoted_status": {
+			"created_at": "Wed Jul 26 00:35:50 +0000 2017",
+			"id": 890007719813546000,
+			"id_str": "890007719813545984",
+			"text": "Red Sox pitching, second half:\n3.05 ERA, 4th best in majors\n\nRed Sox hitting, second half: 3.25 runs per game, 26th best in majors",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28959789,
+				"id_str": "28959789",
+				"name": "Evan Drellich",
+				"screen_name": "EvanDrellich",
+				"location": "⚾📰📺",
+				"description": "Red Sox Insider, @CSNNE. Token New Yorker, @WEEI. Last name is pronounced Drell-ick, fittingly. I like egg sandwiches.",
+				"url": "https://t.co/qaL0mX20ma",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qaL0mX20ma",
+								"expanded_url": "https://www.facebook.com/drellich",
+								"display_url": "facebook.com/drellich",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22601,
+				"friends_count": 1503,
+				"listed_count": 1102,
+				"created_at": "Sun Apr 05 08:07:14 +0000 2009",
+				"favourites_count": 10927,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45592,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E69D45",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448508525803610112/YTSdI616.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448508525803610112/YTSdI616.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849521584209526786/qZcWQbES_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849521584209526786/qZcWQbES_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28959789/1496578716",
+				"profile_link_color": "0000CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 25 14:52:14 +0000 2017",
+		"id": 889860853289414700,
+		"id_str": "889860853289414657",
+		"text": "RT @BrianLynch: I'm so excited to finally learn his last name. https://t.co/5KEpejfs7W",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrianLynch",
+					"name": "Brian Lynch",
+					"id": 14973377,
+					"id_str": "14973377",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 889563119097217000,
+					"id_str": "889563119097217024",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DFhc8ZcUAAAYAJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFhc8ZcUAAAYAJX.jpg",
+					"url": "https://t.co/5KEpejfs7W",
+					"display_url": "pic.twitter.com/5KEpejfs7W",
+					"expanded_url": "https://twitter.com/BrianLynch/status/889563125090926592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889563125090926600,
+					"source_status_id_str": "889563125090926592",
+					"source_user_id": 14973377,
+					"source_user_id_str": "14973377"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 889563119097217000,
+					"id_str": "889563119097217024",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DFhc8ZcUAAAYAJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFhc8ZcUAAAYAJX.jpg",
+					"url": "https://t.co/5KEpejfs7W",
+					"display_url": "pic.twitter.com/5KEpejfs7W",
+					"expanded_url": "https://twitter.com/BrianLynch/status/889563125090926592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889563125090926600,
+					"source_status_id_str": "889563125090926592",
+					"source_user_id": 14973377,
+					"source_user_id_str": "14973377"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5953,
+			"friends_count": 957,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 21575,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17324,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 24 19:09:10 +0000 2017",
+			"id": 889563125090926600,
+			"id_str": "889563125090926592",
+			"text": "I'm so excited to finally learn his last name. https://t.co/5KEpejfs7W",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 889563119097217000,
+						"id_str": "889563119097217024",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DFhc8ZcUAAAYAJX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFhc8ZcUAAAYAJX.jpg",
+						"url": "https://t.co/5KEpejfs7W",
+						"display_url": "pic.twitter.com/5KEpejfs7W",
+						"expanded_url": "https://twitter.com/BrianLynch/status/889563125090926592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 889563119097217000,
+						"id_str": "889563119097217024",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DFhc8ZcUAAAYAJX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFhc8ZcUAAAYAJX.jpg",
+						"url": "https://t.co/5KEpejfs7W",
+						"display_url": "pic.twitter.com/5KEpejfs7W",
+						"expanded_url": "https://twitter.com/BrianLynch/status/889563125090926592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14973377,
+				"id_str": "14973377",
+				"name": "Brian Lynch",
+				"screen_name": "BrianLynch",
+				"location": "California",
+				"description": "Writer: The Secret Life of Pets, Minions, Puss in Boots, Hop\n\nNext: Pets 2 and Toy Academy from @scholastic which you can order here https://t.co/wRHfSMh6ky",
+				"url": "https://t.co/IoU2dx8v6s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IoU2dx8v6s",
+								"expanded_url": "https://www.amazon.com/Toy-Academy-Some-Assembly-Required/dp/1338148451/ref=sr_1_1?ie=UTF8&qid=14969",
+								"display_url": "amazon.com/Toy-Academy-So…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wRHfSMh6ky",
+								"expanded_url": "http://goo.gl/4WRsSB",
+								"display_url": "goo.gl/4WRsSB",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23712,
+				"friends_count": 1860,
+				"listed_count": 1264,
+				"created_at": "Sun Jun 01 18:00:34 +0000 2008",
+				"favourites_count": 361,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 57442,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870506349293051904/Hk7lvufg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870506349293051904/Hk7lvufg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14973377/1496957179",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5949,
+			"favorite_count": 22196,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5949,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 25 02:04:16 +0000 2017",
 		"id": 889667588468465700,
 		"id_str": "889667588468465665",
