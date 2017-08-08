@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 07 18:10:18 +0000 2017",
+		"id": 894621737698164700,
+		"id_str": "894621737698164736",
+		"text": "RT @baseballtwit: Mookie Betts is already 166th all time with 74 Rfield (per @baseball_ref). Through age 24, he’s 8th. https://t.co/WBNCCvS…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baseballtwit",
+					"name": "Adam Darowski",
+					"id": 18292847,
+					"id_str": "18292847",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "baseball_ref",
+					"name": "Baseball Reference",
+					"id": 68449573,
+					"id_str": "68449573",
+					"indices": [
+						77,
+						90
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5950,
+			"friends_count": 959,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 21950,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 07 17:45:24 +0000 2017",
+			"id": 894615471672131600,
+			"id_str": "894615471672131584",
+			"text": "Mookie Betts is already 166th all time with 74 Rfield (per @baseball_ref). Through age 24, he’s 8th. https://t.co/WBNCCvSCSX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "baseball_ref",
+						"name": "Baseball Reference",
+						"id": 68449573,
+						"id_str": "68449573",
+						"indices": [
+							59,
+							72
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 894615465758269400,
+						"id_str": "894615465758269442",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DGpQBrcXoAI3p4a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGpQBrcXoAI3p4a.jpg",
+						"url": "https://t.co/WBNCCvSCSX",
+						"display_url": "pic.twitter.com/WBNCCvSCSX",
+						"expanded_url": "https://twitter.com/baseballtwit/status/894615471672131584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 614,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 614,
+								"h": 492,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 614,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 894615465758269400,
+						"id_str": "894615465758269442",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DGpQBrcXoAI3p4a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGpQBrcXoAI3p4a.jpg",
+						"url": "https://t.co/WBNCCvSCSX",
+						"display_url": "pic.twitter.com/WBNCCvSCSX",
+						"expanded_url": "https://twitter.com/baseballtwit/status/894615471672131584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 614,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 614,
+								"h": 492,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 614,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18292847,
+				"id_str": "18292847",
+				"name": "Adam Darowski",
+				"screen_name": "baseballtwit",
+				"location": "Peterborough, NH",
+				"description": "Creator of the @HallOfStats. Chair of @SABR's Overlooked Nineteenth Century Base Ball Legends committee. @RedSox & @BVB fan. Aspiring fußballist.",
+				"url": "https://t.co/WnVrZfccQL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WnVrZfccQL",
+								"expanded_url": "http://hallofstats.com",
+								"display_url": "hallofstats.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3216,
+				"friends_count": 465,
+				"listed_count": 238,
+				"created_at": "Sun Dec 21 21:04:01 +0000 2008",
+				"favourites_count": 4146,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18947,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9999C1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/644244670/2ztcs79as2rzyov7jqai.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/644244670/2ztcs79as2rzyov7jqai.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847278586406948865/RlJhfDY4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847278586406948865/RlJhfDY4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18292847/1493397611",
+				"profile_link_color": "000064",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 07 17:48:08 +0000 2017",
+		"id": 894616158732734500,
+		"id_str": "894616158732734464",
+		"text": "@OneSteeleSister There's a guy in my building who looks just like him",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneSteeleSister",
+					"name": "Tierney",
+					"id": 232980456,
+					"id_str": "232980456",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 894583068031189000,
+		"in_reply_to_status_id_str": "894583068031188992",
+		"in_reply_to_user_id": 232980456,
+		"in_reply_to_user_id_str": "232980456",
+		"in_reply_to_screen_name": "OneSteeleSister",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5950,
+			"friends_count": 959,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 21950,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 07 11:59:03 +0000 2017",
+		"id": 894528310289600500,
+		"id_str": "894528310289600512",
+		"text": "Timehop was prepared for @ozminute https://t.co/4FC4OCREs7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ozminute",
+					"name": "Return to Oz Minute",
+					"id": 805783012961124400,
+					"id_str": "805783012961124352",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 894528304207843300,
+					"id_str": "894528304207843331",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DGoAwNXXUAM_COo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGoAwNXXUAM_COo.jpg",
+					"url": "https://t.co/4FC4OCREs7",
+					"display_url": "pic.twitter.com/4FC4OCREs7",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/894528310289600512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1103,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1103,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 894528304207843300,
+					"id_str": "894528304207843331",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DGoAwNXXUAM_COo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGoAwNXXUAM_COo.jpg",
+					"url": "https://t.co/4FC4OCREs7",
+					"display_url": "pic.twitter.com/4FC4OCREs7",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/894528310289600512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1103,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1103,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5950,
+			"friends_count": 959,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 21950,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 06 22:53:49 +0000 2017",
 		"id": 894330700341575700,
 		"id_str": "894330700341575680",
