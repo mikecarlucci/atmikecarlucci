@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 31 21:03:31 +0000 2017",
+		"id": 903362638226362400,
+		"id_str": "903362638226362370",
+		"text": "RT @BuellerMinute: Minute 54! Rooney's Fall! \nWith @OneSteeleSister and @mikecarlucci!\nhttps://t.co/DCDUuUOEAu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BuellerMinute",
+					"name": "Ferris Bueller",
+					"id": 812428556063998000,
+					"id_str": "812428556063997952",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "OneSteeleSister",
+					"name": "Tierney",
+					"id": 232980456,
+					"id_str": "232980456",
+					"indices": [
+						51,
+						67
+					]
+				},
+				{
+					"screen_name": "mikecarlucci",
+					"name": "Mike Carlucci",
+					"id": 90161583,
+					"id_str": "90161583",
+					"indices": [
+						72,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DCDUuUOEAu",
+					"expanded_url": "http://www.duelinggenre.com/7302-2/",
+					"display_url": "duelinggenre.com/7302-2/",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5951,
+			"friends_count": 959,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 23311,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17497,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 31 16:54:54 +0000 2017",
+			"id": 903300073383125000,
+			"id_str": "903300073383124992",
+			"text": "Minute 54! Rooney's Fall! \nWith @OneSteeleSister and @mikecarlucci!\nhttps://t.co/DCDUuUOEAu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneSteeleSister",
+						"name": "Tierney",
+						"id": 232980456,
+						"id_str": "232980456",
+						"indices": [
+							32,
+							48
+						]
+					},
+					{
+						"screen_name": "mikecarlucci",
+						"name": "Mike Carlucci",
+						"id": 90161583,
+						"id_str": "90161583",
+						"indices": [
+							53,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DCDUuUOEAu",
+						"expanded_url": "http://www.duelinggenre.com/7302-2/",
+						"display_url": "duelinggenre.com/7302-2/",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 812428556063998000,
+				"id_str": "812428556063997952",
+				"name": "Ferris Bueller",
+				"screen_name": "BuellerMinute",
+				"location": "",
+				"description": "The fan podcast that overanalyzes the movie Ferris Bueller's Day Off one minute at a time! A @DuelingGenre podcast hosted by Victoria Laguna and @thegaryroby",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103,
+				"friends_count": 80,
+				"listed_count": 1,
+				"created_at": "Fri Dec 23 22:43:56 +0000 2016",
+				"favourites_count": 22,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 73,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871773863201325056/jMOJ7VCV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871773863201325056/jMOJ7VCV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/812428556063997952/1496682058",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 30 22:54:02 +0000 2017",
 		"id": 903028063000297500,
 		"id_str": "903028063000297472",
