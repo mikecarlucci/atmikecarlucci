@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 09 12:19:53 +0000 2017",
+		"id": 906492352977567700,
+		"id_str": "906492352977567744",
+		"text": "RT @susanthesquark: Amazing thread by @patio11 on what to do if someone opens a bank account in your name after the Equifax breach: https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "susanthesquark",
+					"name": "Susan J. Fowler",
+					"id": 4625037762,
+					"id_str": "4625037762",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "patio11",
+					"name": "Patrick McKenzie",
+					"id": 20844341,
+					"id_str": "20844341",
+					"indices": [
+						38,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5952,
+			"friends_count": 960,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 23671,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17535,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 09 05:43:44 +0000 2017",
+			"id": 906392657886187500,
+			"id_str": "906392657886187520",
+			"text": "Amazing thread by @patio11 on what to do if someone opens a bank account in your name after the Equifax breach: https://t.co/4zWZzhqvWQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "patio11",
+						"name": "Patrick McKenzie",
+						"id": 20844341,
+						"id_str": "20844341",
+						"indices": [
+							18,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4zWZzhqvWQ",
+						"expanded_url": "https://twitter.com/patio11/status/906384638733467648",
+						"display_url": "twitter.com/patio11/status…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4625037762,
+				"id_str": "4625037762",
+				"name": "Susan J. Fowler",
+				"screen_name": "susanthesquark",
+				"location": "Berkeley, CA",
+				"description": "Editor in Chief of @IncrementMag. Wife of @rigetti. I love all things computer science, math, physics, and philosophy. And yes, I'm *that* Susan Fowler!",
+				"url": "https://t.co/lfxGnzuyui",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lfxGnzuyui",
+								"expanded_url": "http://www.susanjfowler.com/",
+								"display_url": "susanjfowler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34903,
+				"friends_count": 404,
+				"listed_count": 439,
+				"created_at": "Mon Dec 21 21:24:34 +0000 2015",
+				"favourites_count": 13654,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3050,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892612722835181568/0kFUXHzA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892612722835181568/0kFUXHzA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4625037762/1503600378",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 906384638733467600,
+			"quoted_status_id_str": "906384638733467648",
+			"quoted_status": {
+				"created_at": "Sat Sep 09 05:11:52 +0000 2017",
+				"id": 906384638733467600,
+				"id_str": "906384638733467648",
+				"text": "It occurs to me that my hobby in writing letters about the Fair Credit Reporting Act is suddenly topical! So some quick opinionated advice:",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 20844341,
+					"id_str": "20844341",
+					"name": "Patrick McKenzie",
+					"screen_name": "patio11",
+					"location": "東京都 Tokyo",
+					"description": "I work for the Internet, at @stripe, mostly on Atlas. Opinions here are my own.",
+					"url": "https://t.co/DC3H2aLNTW",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/DC3H2aLNTW",
+									"expanded_url": "http://www.kalzumeus.com",
+									"display_url": "kalzumeus.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 27348,
+					"friends_count": 453,
+					"listed_count": 1139,
+					"created_at": "Sat Feb 14 12:26:59 +0000 2009",
+					"favourites_count": 6866,
+					"utc_offset": -36000,
+					"time_zone": "Hawaii",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 21926,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/476049306072276993/s9QMnPC5_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/476049306072276993/s9QMnPC5_normal.jpeg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2161,
+				"favorite_count": 4483,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 409,
+			"favorite_count": 600,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 906384638733467600,
+		"quoted_status_id_str": "906384638733467648",
+		"retweet_count": 409,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 09 02:00:22 +0000 2017",
 		"id": 906336445178183700,
 		"id_str": "906336445178183681",
