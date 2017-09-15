@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 15 00:06:22 +0000 2017",
+		"id": 908482083416363000,
+		"id_str": "908482083416363008",
+		"text": "RT @SurvivingGrady: Probably gonna unfurl my own banner at Fenway pretty soon. https://t.co/s5QhaQj4F6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SurvivingGrady",
+					"name": "Red",
+					"id": 22878740,
+					"id_str": "22878740",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 908450240210128900,
+					"id_str": "908450240210128896",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908450240210128896/pu/img/VpwTdLULqW2wFbuP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908450240210128896/pu/img/VpwTdLULqW2wFbuP.jpg",
+					"url": "https://t.co/s5QhaQj4F6",
+					"display_url": "pic.twitter.com/s5QhaQj4F6",
+					"expanded_url": "https://twitter.com/SurvivingGrady/status/908450343327031297/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908450343327031300,
+					"source_status_id_str": "908450343327031297",
+					"source_user_id": 22878740,
+					"source_user_id_str": "22878740"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 908450240210128900,
+					"id_str": "908450240210128896",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908450240210128896/pu/img/VpwTdLULqW2wFbuP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908450240210128896/pu/img/VpwTdLULqW2wFbuP.jpg",
+					"url": "https://t.co/s5QhaQj4F6",
+					"display_url": "pic.twitter.com/s5QhaQj4F6",
+					"expanded_url": "https://twitter.com/SurvivingGrady/status/908450343327031297/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908450343327031300,
+					"source_status_id_str": "908450343327031297",
+					"source_user_id": 22878740,
+					"source_user_id_str": "22878740",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 17167,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/908450240210128896/pu/vid/720x1280/gbsH3x0KP5rIuBF-.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/908450240210128896/pu/vid/360x640/3sD55xGR87erf9rn.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/908450240210128896/pu/vid/180x320/hbGgMtDtFAGXENDc.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/908450240210128896/pu/pl/q9ug-g6CViBrreAM.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 22878740,
+							"id_str": "22878740",
+							"name": "Red",
+							"screen_name": "SurvivingGrady",
+							"location": "Boston, MA",
+							"description": "Red Sox blogger. Freelance drinker. Comic book reader. Pop culture enthusiast. Butch Hobson apologist. Free sex: red@survivinggrady.com",
+							"url": "https://t.co/yTogiN6HFD",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/yTogiN6HFD",
+											"expanded_url": "http://www.survivinggrady.com",
+											"display_url": "survivinggrady.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 9709,
+							"friends_count": 1346,
+							"listed_count": 512,
+							"created_at": "Thu Mar 05 04:16:44 +0000 2009",
+							"favourites_count": 85469,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 33995,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5599332/TWIT.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5599332/TWIT.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/616803292941676544/LlcK7eD1_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/616803292941676544/LlcK7eD1_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/22878740/1440256133",
+							"profile_link_color": "088253",
+							"profile_sidebar_border_color": "D3D2CF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "634047",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5952,
+			"friends_count": 950,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 23836,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 14 22:00:14 +0000 2017",
+			"id": 908450343327031300,
+			"id_str": "908450343327031297",
+			"text": "Probably gonna unfurl my own banner at Fenway pretty soon. https://t.co/s5QhaQj4F6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 908450240210128900,
+						"id_str": "908450240210128896",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908450240210128896/pu/img/VpwTdLULqW2wFbuP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908450240210128896/pu/img/VpwTdLULqW2wFbuP.jpg",
+						"url": "https://t.co/s5QhaQj4F6",
+						"display_url": "pic.twitter.com/s5QhaQj4F6",
+						"expanded_url": "https://twitter.com/SurvivingGrady/status/908450343327031297/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 908450240210128900,
+						"id_str": "908450240210128896",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908450240210128896/pu/img/VpwTdLULqW2wFbuP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908450240210128896/pu/img/VpwTdLULqW2wFbuP.jpg",
+						"url": "https://t.co/s5QhaQj4F6",
+						"display_url": "pic.twitter.com/s5QhaQj4F6",
+						"expanded_url": "https://twitter.com/SurvivingGrady/status/908450343327031297/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 17167,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/908450240210128896/pu/vid/720x1280/gbsH3x0KP5rIuBF-.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/908450240210128896/pu/vid/360x640/3sD55xGR87erf9rn.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/908450240210128896/pu/vid/180x320/hbGgMtDtFAGXENDc.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/908450240210128896/pu/pl/q9ug-g6CViBrreAM.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22878740,
+				"id_str": "22878740",
+				"name": "Red",
+				"screen_name": "SurvivingGrady",
+				"location": "Boston, MA",
+				"description": "Red Sox blogger. Freelance drinker. Comic book reader. Pop culture enthusiast. Butch Hobson apologist. Free sex: red@survivinggrady.com",
+				"url": "https://t.co/yTogiN6HFD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yTogiN6HFD",
+								"expanded_url": "http://www.survivinggrady.com",
+								"display_url": "survivinggrady.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9709,
+				"friends_count": 1346,
+				"listed_count": 512,
+				"created_at": "Thu Mar 05 04:16:44 +0000 2009",
+				"favourites_count": 85469,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 33995,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5599332/TWIT.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5599332/TWIT.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616803292941676544/LlcK7eD1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616803292941676544/LlcK7eD1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22878740/1440256133",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 158,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 14 02:44:09 +0000 2017",
 		"id": 908159404431855600,
 		"id_str": "908159404431855616",
@@ -1435,7 +1915,7 @@ Grailbird.data.tweets_2017_09 =
 				"name": "Clumsy King 🤴🏾",
 				"screen_name": "CushKobain",
 				"location": "In the middle, staying calm",
-				"description": "I know I know nothing | ⛔️No Refunds ⛔️ | \"My Twitter is Black and my Lambo is blue 💯\" | Retweets are just retweets; typos are just finger stutters 🤷🏾‍♂️",
+				"description": "I know I know nothing | ⛔️No Refunds ⛔️ | \"My Twitter is Black and my Lambo is blue 💯\" | Retweets are just retweets; typos are just finger stutters 🤷🏾♂️",
 				"url": "https://t.co/ybz2xReB3q",
 				"entities": {
 					"url": {
