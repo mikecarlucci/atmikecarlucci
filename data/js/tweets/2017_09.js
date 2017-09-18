@@ -1,6 +1,718 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 17 21:25:52 +0000 2017",
+		"id": 909528856381583400,
+		"id_str": "909528856381583366",
+		"text": "RT @Soxlunch: David Price looked straight dominant out of the bullpen. Officially all in on relief pitcher Price",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Soxlunch",
+					"name": "Sox Lunch",
+					"id": 1525802064,
+					"id_str": "1525802064",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5951,
+			"friends_count": 949,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 23917,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17570,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 17 19:44:15 +0000 2017",
+			"id": 909503283911327700,
+			"id_str": "909503283911327752",
+			"text": "David Price looked straight dominant out of the bullpen. Officially all in on relief pitcher Price",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1525802064,
+				"id_str": "1525802064",
+				"name": "Sox Lunch",
+				"screen_name": "Soxlunch",
+				"location": "Fenway Park",
+				"description": "Sox Lunch is for Red Sox fans.  We live tweet every game and produce a daily free snackable newsletter with custom drawings and a snapshot recap of the game.",
+				"url": "http://t.co/djKOzm26Hf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/djKOzm26Hf",
+								"expanded_url": "http://SOXLUNCH.com",
+								"display_url": "SOXLUNCH.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9329,
+				"friends_count": 1776,
+				"listed_count": 161,
+				"created_at": "Mon Jun 17 20:36:59 +0000 2013",
+				"favourites_count": 13989,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18403,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450465764491800576/8R7_NtmH.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450465764491800576/8R7_NtmH.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459035406114095104/kgNI6wTQ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459035406114095104/kgNI6wTQ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1525802064/1502900615",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 108,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 17 12:55:17 +0000 2017",
+		"id": 909400366978093000,
+		"id_str": "909400366978093056",
+		"text": "RT @HistoryTime_: September 17th, 1976:  The first Space Shuttle Enterprise is unveiled by NASA. https://t.co/ukec8Ay6IR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HistoryTime_",
+					"name": "History",
+					"id": 2222188166,
+					"id_str": "2222188166",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 909315990466564100,
+					"id_str": "909315990466564096",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ6KE1hXkAAwgDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ6KE1hXkAAwgDY.jpg",
+					"url": "https://t.co/ukec8Ay6IR",
+					"display_url": "pic.twitter.com/ukec8Ay6IR",
+					"expanded_url": "https://twitter.com/HistoryTime_/status/909315993209593856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 652,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1151,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 909315993209593900,
+					"source_status_id_str": "909315993209593856",
+					"source_user_id": 2222188166,
+					"source_user_id_str": "2222188166"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 909315990466564100,
+					"id_str": "909315990466564096",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ6KE1hXkAAwgDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ6KE1hXkAAwgDY.jpg",
+					"url": "https://t.co/ukec8Ay6IR",
+					"display_url": "pic.twitter.com/ukec8Ay6IR",
+					"expanded_url": "https://twitter.com/HistoryTime_/status/909315993209593856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 652,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1151,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 909315993209593900,
+					"source_status_id_str": "909315993209593856",
+					"source_user_id": 2222188166,
+					"source_user_id_str": "2222188166"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5951,
+			"friends_count": 949,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 23917,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17570,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 17 07:20:01 +0000 2017",
+			"id": 909315993209593900,
+			"id_str": "909315993209593856",
+			"text": "September 17th, 1976:  The first Space Shuttle Enterprise is unveiled by NASA. https://t.co/ukec8Ay6IR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 909315990466564100,
+						"id_str": "909315990466564096",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ6KE1hXkAAwgDY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ6KE1hXkAAwgDY.jpg",
+						"url": "https://t.co/ukec8Ay6IR",
+						"display_url": "pic.twitter.com/ukec8Ay6IR",
+						"expanded_url": "https://twitter.com/HistoryTime_/status/909315993209593856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 652,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1228,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 909315990466564100,
+						"id_str": "909315990466564096",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ6KE1hXkAAwgDY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ6KE1hXkAAwgDY.jpg",
+						"url": "https://t.co/ukec8Ay6IR",
+						"display_url": "pic.twitter.com/ukec8Ay6IR",
+						"expanded_url": "https://twitter.com/HistoryTime_/status/909315993209593856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 652,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1228,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2222188166,
+				"id_str": "2222188166",
+				"name": "History",
+				"screen_name": "HistoryTime_",
+				"location": "",
+				"description": "Nonprofit / Spam free.    \nᴅᴏɴᴀᴛɪᴏɴs ᴀʀᴇ ᴡᴇʟᴄᴏᴍᴇ. \nemailancientpics@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 430937,
+				"friends_count": 6,
+				"listed_count": 1482,
+				"created_at": "Fri Nov 29 23:57:21 +0000 2013",
+				"favourites_count": 12280,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2866,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623735445206138880/j0uLcFji.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623735445206138880/j0uLcFji.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908358099475599361/MuVC_K22_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908358099475599361/MuVC_K22_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2222188166/1505404528",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 74,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 17 12:05:40 +0000 2017",
+		"id": 909387876739280900,
+		"id_str": "909387876739280896",
+		"text": "RT @TheMarkTwain: Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheMarkTwain",
+					"name": "Mark Twain",
+					"id": 244368081,
+					"id_str": "244368081",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5951,
+			"friends_count": 949,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 23917,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17570,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 17 08:03:02 +0000 2017",
+			"id": 909326818410364900,
+			"id_str": "909326818410364928",
+			"text": "Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://vonneguttwitterbothomepage.com\" rel=\"nofollow\">VaultTweeter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 244368081,
+				"id_str": "244368081",
+				"name": "Mark Twain",
+				"screen_name": "TheMarkTwain",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 127729,
+				"friends_count": 0,
+				"listed_count": 1638,
+				"created_at": "Sat Jan 29 04:30:15 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4648,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228714762/twain_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228714762/twain_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 121,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 16 21:05:21 +0000 2017",
 		"id": 909161306447650800,
 		"id_str": "909161306447650817",
