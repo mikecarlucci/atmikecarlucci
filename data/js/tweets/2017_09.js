@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 19 02:33:10 +0000 2017",
+		"id": 909968578824278000,
+		"id_str": "909968578824278016",
+		"text": "Hopefully https://t.co/vJlO5bjQbY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vJlO5bjQbY",
+					"expanded_url": "https://twitter.com/dailydot/status/909965298379509761",
+					"display_url": "twitter.com/dailydot/statu…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5949,
+			"friends_count": 949,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 23949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 909965298379509800,
+		"quoted_status_id_str": "909965298379509761",
+		"quoted_status": {
+			"created_at": "Tue Sep 19 02:20:08 +0000 2017",
+			"id": 909965298379509800,
+			"id_str": "909965298379509761",
+			"text": "Is steampunk making a comeback? https://t.co/8boRJk3To4 https://t.co/k1fnxk2gqH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8boRJk3To4",
+						"expanded_url": "http://trib.al/AJs7Tat",
+						"display_url": "trib.al/AJs7Tat",
+						"indices": [
+							32,
+							55
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 909965296105951200,
+						"id_str": "909965296105951232",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DKDYnZhUEAAws_v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKDYnZhUEAAws_v.jpg",
+						"url": "https://t.co/k1fnxk2gqH",
+						"display_url": "pic.twitter.com/k1fnxk2gqH",
+						"expanded_url": "https://twitter.com/dailydot/status/909965298379509761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 909965296105951200,
+						"id_str": "909965296105951232",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DKDYnZhUEAAws_v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKDYnZhUEAAws_v.jpg",
+						"url": "https://t.co/k1fnxk2gqH",
+						"display_url": "pic.twitter.com/k1fnxk2gqH",
+						"expanded_url": "https://twitter.com/dailydot/status/909965298379509761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 211620426,
+				"id_str": "211620426",
+				"name": "The Daily Dot",
+				"screen_name": "dailydot",
+				"location": "Online/IRL",
+				"description": "Bringing you the best and worst of the Internet since 2011. Tweets by @dailydot staff.",
+				"url": "http://t.co/7sRrlbhNPT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7sRrlbhNPT",
+								"expanded_url": "http://dailydot.com/",
+								"display_url": "dailydot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 274399,
+				"friends_count": 18349,
+				"listed_count": 3552,
+				"created_at": "Wed Nov 03 19:41:32 +0000 2010",
+				"favourites_count": 18983,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 213135,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FBFBFB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454369259473219584/WEz1Vrh3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454369259473219584/WEz1Vrh3.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880916613230350336/n7zR7n-L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880916613230350336/n7zR7n-L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/211620426/1469765976",
+				"profile_link_color": "1EBCC2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 17 21:25:52 +0000 2017",
 		"id": 909528856381583400,
 		"id_str": "909528856381583366",
