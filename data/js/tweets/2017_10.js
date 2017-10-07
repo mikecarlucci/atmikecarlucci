@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 06 21:09:49 +0000 2017",
+		"id": 916410187937996800,
+		"id_str": "916410187937996807",
+		"text": "RT @TimBritton: The move to save these games was Encarnacion last winter or J.D. Martinez in July. https://t.co/XjwdlbwZOQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimBritton",
+					"name": "Tim Britton",
+					"id": 265419674,
+					"id_str": "265419674",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XjwdlbwZOQ",
+					"expanded_url": "https://twitter.com/JonCouture/status/916406927709446144",
+					"display_url": "twitter.com/JonCouture/sta…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5946,
+			"friends_count": 946,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 25306,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 06 20:57:43 +0000 2017",
+			"id": 916407143749738500,
+			"id_str": "916407143749738496",
+			"text": "The move to save these games was Encarnacion last winter or J.D. Martinez in July. https://t.co/XjwdlbwZOQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XjwdlbwZOQ",
+						"expanded_url": "https://twitter.com/JonCouture/status/916406927709446144",
+						"display_url": "twitter.com/JonCouture/sta…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 265419674,
+				"id_str": "265419674",
+				"name": "Tim Britton",
+				"screen_name": "TimBritton",
+				"location": "Traipsing across ballparks",
+				"description": "Red Sox beat writer for the Providence Journal. Every opinion I've ever expressed is mine alone.",
+				"url": "http://t.co/ibJhtRxFCo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ibJhtRxFCo",
+								"expanded_url": "http://www.providencejournal.com/sports/red-sox/",
+								"display_url": "providencejournal.com/sports/red-sox/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16832,
+				"friends_count": 128,
+				"listed_count": 962,
+				"created_at": "Sun Mar 13 14:25:53 +0000 2011",
+				"favourites_count": 523,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 63185,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/341420412/astrodome.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/341420412/astrodome.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/866846268966010880/OTmD1ZFy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/866846268966010880/OTmD1ZFy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/265419674/1442353893",
+				"profile_link_color": "2B11F0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 916406927709446100,
+			"quoted_status_id_str": "916406927709446144",
+			"quoted_status": {
+				"created_at": "Fri Oct 06 20:56:52 +0000 2017",
+				"id": 916406927709446100,
+				"id_str": "916406927709446144",
+				"text": "Only fair to note: Ain't any moves John Farrell could make to save either of these games. #RedSox",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "RedSox",
+							"indices": [
+								90,
+								97
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 54044411,
+					"id_str": "54044411",
+					"name": "Jon Couture",
+					"screen_name": "JonCouture",
+					"location": "Gatemen Country",
+					"description": "Boston Herald sports desker, New Bedford Standard-Times Red Sox writer, BU alum, Western Mass. guy. May one day start taking myself seriously, but I doubt it.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1718,
+					"friends_count": 659,
+					"listed_count": 169,
+					"created_at": "Sun Jul 05 23:45:51 +0000 2009",
+					"favourites_count": 802,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 25591,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/895466689319641088/UFdqDTWu_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/895466689319641088/UFdqDTWu_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/54044411/1402507677",
+					"profile_link_color": "BA323D",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "009999",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 39,
+			"favorite_count": 133,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 916406927709446100,
+		"quoted_status_id_str": "916406927709446144",
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 06 14:18:12 +0000 2017",
+		"id": 916306603120447500,
+		"id_str": "916306603120447488",
+		"text": "I am not available because I am playing a computer game that takes up the whole screen. https://t.co/raCyD2mGYq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/raCyD2mGYq",
+					"expanded_url": "https://twitter.com/aim/status/916290747850264577",
+					"display_url": "twitter.com/aim/status/916…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5946,
+			"friends_count": 946,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 25306,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 916290747850264600,
+		"quoted_status_id_str": "916290747850264577",
+		"quoted_status": {
+			"created_at": "Fri Oct 06 13:15:12 +0000 2017",
+			"id": 916290747850264600,
+			"id_str": "916290747850264577",
+			"text": "All good things come to an end. On Dec 15, we'll bid farewell to AIM. Thank you to all our users! #AIMemories… https://t.co/BEeomcvyGR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AIMemories",
+						"indices": [
+							98,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BEeomcvyGR",
+						"expanded_url": "https://twitter.com/i/web/status/916290747850264577",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24591623,
+				"id_str": "24591623",
+				"name": "AIM",
+				"screen_name": "aim",
+				"location": "everywhere",
+				"description": "Where Instant Messaging began in 1997.",
+				"url": "http://t.co/YVQXAjhy0e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YVQXAjhy0e",
+								"expanded_url": "http://aim.com",
+								"display_url": "aim.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11502,
+				"friends_count": 407,
+				"listed_count": 250,
+				"created_at": "Sun Mar 15 21:42:23 +0000 2009",
+				"favourites_count": 111,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3283,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863429246/2a9b6a51345ea37323ea4926b1473018.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863429246/2a9b6a51345ea37323ea4926b1473018.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/916291833717600260/z6htrgzg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/916291833717600260/z6htrgzg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24591623/1507294504",
+				"profile_link_color": "FFCC4D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DFE8F2",
+				"profile_text_color": "494949",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9611,
+			"favorite_count": 15276,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 05 23:41:56 +0000 2017",
 		"id": 916086081812095000,
 		"id_str": "916086081812094976",
