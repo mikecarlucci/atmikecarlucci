@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 13 03:50:19 +0000 2017",
+		"id": 918685303115694100,
+		"id_str": "918685303115694081",
+		"text": "RT @goodfundies: It's uncanny https://t.co/ujIBexBR4o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "goodfundies",
+					"name": "Good Fundies",
+					"id": 97173694,
+					"id_str": "97173694",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 918678228394418200,
+					"id_str": "918678228394418177",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/918678228394418177/pu/img/K3vpEi-VbNYJb7Sw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/918678228394418177/pu/img/K3vpEi-VbNYJb7Sw.jpg",
+					"url": "https://t.co/ujIBexBR4o",
+					"display_url": "pic.twitter.com/ujIBexBR4o",
+					"expanded_url": "https://twitter.com/goodfundies/status/918678354206822400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 918678354206822400,
+					"source_status_id_str": "918678354206822400",
+					"source_user_id": 97173694,
+					"source_user_id_str": "97173694"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 918678228394418200,
+					"id_str": "918678228394418177",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/918678228394418177/pu/img/K3vpEi-VbNYJb7Sw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/918678228394418177/pu/img/K3vpEi-VbNYJb7Sw.jpg",
+					"url": "https://t.co/ujIBexBR4o",
+					"display_url": "pic.twitter.com/ujIBexBR4o",
+					"expanded_url": "https://twitter.com/goodfundies/status/918678354206822400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 918678354206822400,
+					"source_status_id_str": "918678354206822400",
+					"source_user_id": 97173694,
+					"source_user_id_str": "97173694",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 6206,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/918678228394418177/pu/vid/1280x720/L6NcVzEke2q3Zn1O.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/918678228394418177/pu/vid/640x360/9RYtzvxkZ9GUL3kM.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/918678228394418177/pu/pl/VC05AnAM97rofTIf.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/918678228394418177/pu/vid/320x180/1Xr9Qr_wN-NfcixW.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 97173694,
+							"id_str": "97173694",
+							"name": "Good Fundies",
+							"screen_name": "goodfundies",
+							"location": "",
+							"description": "A Mets podcast. We freed All-Star Michael Conforto.",
+							"url": "https://t.co/lWAG7sZiLG",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/lWAG7sZiLG",
+											"expanded_url": "http://goodfundies.com",
+											"display_url": "goodfundies.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3677,
+							"friends_count": 790,
+							"listed_count": 92,
+							"created_at": "Wed Dec 16 09:21:58 +0000 2009",
+							"favourites_count": 31332,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 39079,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/60088196/1.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/60088196/1.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/904052153634799616/CZSXjNzs_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/904052153634799616/CZSXjNzs_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/97173694/1479199403",
+							"profile_link_color": "FF691F",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5945,
+			"friends_count": 946,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 25803,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17786,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 13 03:22:42 +0000 2017",
+			"id": 918678354206822400,
+			"id_str": "918678354206822400",
+			"text": "It's uncanny https://t.co/ujIBexBR4o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 918678228394418200,
+						"id_str": "918678228394418177",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/918678228394418177/pu/img/K3vpEi-VbNYJb7Sw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/918678228394418177/pu/img/K3vpEi-VbNYJb7Sw.jpg",
+						"url": "https://t.co/ujIBexBR4o",
+						"display_url": "pic.twitter.com/ujIBexBR4o",
+						"expanded_url": "https://twitter.com/goodfundies/status/918678354206822400/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 918678228394418200,
+						"id_str": "918678228394418177",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/918678228394418177/pu/img/K3vpEi-VbNYJb7Sw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/918678228394418177/pu/img/K3vpEi-VbNYJb7Sw.jpg",
+						"url": "https://t.co/ujIBexBR4o",
+						"display_url": "pic.twitter.com/ujIBexBR4o",
+						"expanded_url": "https://twitter.com/goodfundies/status/918678354206822400/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 6206,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/918678228394418177/pu/vid/1280x720/L6NcVzEke2q3Zn1O.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/918678228394418177/pu/vid/640x360/9RYtzvxkZ9GUL3kM.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/918678228394418177/pu/pl/VC05AnAM97rofTIf.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/918678228394418177/pu/vid/320x180/1Xr9Qr_wN-NfcixW.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97173694,
+				"id_str": "97173694",
+				"name": "Good Fundies",
+				"screen_name": "goodfundies",
+				"location": "",
+				"description": "A Mets podcast. We freed All-Star Michael Conforto.",
+				"url": "https://t.co/lWAG7sZiLG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lWAG7sZiLG",
+								"expanded_url": "http://goodfundies.com",
+								"display_url": "goodfundies.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3677,
+				"friends_count": 790,
+				"listed_count": 92,
+				"created_at": "Wed Dec 16 09:21:58 +0000 2009",
+				"favourites_count": 31332,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39079,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/60088196/1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/60088196/1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/904052153634799616/CZSXjNzs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/904052153634799616/CZSXjNzs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97173694/1479199403",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1164,
+			"favorite_count": 2576,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1164,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 13 02:38:01 +0000 2017",
 		"id": 918667109542096900,
 		"id_str": "918667109542096896",
