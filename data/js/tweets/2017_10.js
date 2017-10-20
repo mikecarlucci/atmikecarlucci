@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 19 13:42:32 +0000 2017",
+		"id": 921008666471489500,
+		"id_str": "921008666471489536",
+		"text": "Will finally be seeing @alyankovic in concert next year! https://t.co/E32GUdQyXr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alyankovic",
+					"name": "Al Yankovic",
+					"id": 22461427,
+					"id_str": "22461427",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921008659550715900,
+					"id_str": "921008659550715905",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMgUfwOUQAEEDpV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMgUfwOUQAEEDpV.jpg",
+					"url": "https://t.co/E32GUdQyXr",
+					"display_url": "pic.twitter.com/E32GUdQyXr",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/921008666471489536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 164,
+							"h": 114,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 114,
+							"h": 114,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 164,
+							"h": 114,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 164,
+							"h": 114,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921008659550715900,
+					"id_str": "921008659550715905",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMgUfwOUQAEEDpV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMgUfwOUQAEEDpV.jpg",
+					"url": "https://t.co/E32GUdQyXr",
+					"display_url": "pic.twitter.com/E32GUdQyXr",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/921008666471489536/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 164,
+							"h": 114,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 114,
+							"h": 114,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 164,
+							"h": 114,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 164,
+							"h": 114,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							82,
+							57
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DMgUfwOUQAEEDpV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5946,
+			"friends_count": 947,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 26106,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 19 03:01:38 +0000 2017",
 		"id": 920847378449682400,
 		"id_str": "920847378449682433",
