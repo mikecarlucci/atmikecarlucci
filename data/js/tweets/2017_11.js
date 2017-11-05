@@ -1,6 +1,1561 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 04 19:38:37 +0000 2017",
+		"id": 926896484762767400,
+		"id_str": "926896484762767360",
+		"text": "RT @mccoveychron: only '90s kids will https://t.co/ZcVlH28i6J",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mccoveychron",
+					"name": "Grant Brisbee",
+					"id": 22037861,
+					"id_str": "22037861",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 926532333129236500,
+					"id_str": "926532333129236480",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DNu0P30VAAAt2mH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNu0P30VAAAt2mH.jpg",
+					"url": "https://t.co/ZcVlH28i6J",
+					"display_url": "pic.twitter.com/ZcVlH28i6J",
+					"expanded_url": "https://twitter.com/mccoveychron/status/926532382408056833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 614,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 580,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 614,
+							"h": 580,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926532382408056800,
+					"source_status_id_str": "926532382408056833",
+					"source_user_id": 22037861,
+					"source_user_id_str": "22037861"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 926532333129236500,
+					"id_str": "926532333129236480",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DNu0P30VAAAt2mH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNu0P30VAAAt2mH.jpg",
+					"url": "https://t.co/ZcVlH28i6J",
+					"display_url": "pic.twitter.com/ZcVlH28i6J",
+					"expanded_url": "https://twitter.com/mccoveychron/status/926532382408056833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 614,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 580,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 614,
+							"h": 580,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926532382408056800,
+					"source_status_id_str": "926532382408056833",
+					"source_user_id": 22037861,
+					"source_user_id_str": "22037861"
+				},
+				{
+					"id": 926532333238304800,
+					"id_str": "926532333238304769",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DNu0P4OVQAEYqqt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNu0P4OVQAEYqqt.jpg",
+					"url": "https://t.co/ZcVlH28i6J",
+					"display_url": "pic.twitter.com/ZcVlH28i6J",
+					"expanded_url": "https://twitter.com/mccoveychron/status/926532382408056833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 457,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 457,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926532382408056800,
+					"source_status_id_str": "926532382408056833",
+					"source_user_id": 22037861,
+					"source_user_id_str": "22037861"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5946,
+			"friends_count": 950,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 26924,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 03 19:31:48 +0000 2017",
+			"id": 926532382408056800,
+			"id_str": "926532382408056833",
+			"text": "only '90s kids will https://t.co/ZcVlH28i6J",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 926532333129236500,
+						"id_str": "926532333129236480",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DNu0P30VAAAt2mH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNu0P30VAAAt2mH.jpg",
+						"url": "https://t.co/ZcVlH28i6J",
+						"display_url": "pic.twitter.com/ZcVlH28i6J",
+						"expanded_url": "https://twitter.com/mccoveychron/status/926532382408056833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 614,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 614,
+								"h": 580,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 614,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 926532333129236500,
+						"id_str": "926532333129236480",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DNu0P30VAAAt2mH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNu0P30VAAAt2mH.jpg",
+						"url": "https://t.co/ZcVlH28i6J",
+						"display_url": "pic.twitter.com/ZcVlH28i6J",
+						"expanded_url": "https://twitter.com/mccoveychron/status/926532382408056833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 614,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 614,
+								"h": 580,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 614,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 926532333238304800,
+						"id_str": "926532333238304769",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DNu0P4OVQAEYqqt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNu0P4OVQAEYqqt.jpg",
+						"url": "https://t.co/ZcVlH28i6J",
+						"display_url": "pic.twitter.com/ZcVlH28i6J",
+						"expanded_url": "https://twitter.com/mccoveychron/status/926532382408056833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 411,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 756,
+								"h": 457,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 756,
+								"h": 457,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22037861,
+				"id_str": "22037861",
+				"name": "Grant Brisbee",
+				"screen_name": "mccoveychron",
+				"location": "",
+				"description": "Writing that's been featured in the SOU Siskiyou and the men's room at Behan's. Baseball at SB Nation, SF Giants at McCovey Chronicles. I do not break news.",
+				"url": "https://t.co/eTwBbVGQj1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eTwBbVGQj1",
+								"expanded_url": "http://www.mccoveychronicles.com",
+								"display_url": "mccoveychronicles.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36773,
+				"friends_count": 915,
+				"listed_count": 1819,
+				"created_at": "Thu Feb 26 17:51:53 +0000 2009",
+				"favourites_count": 24781,
+				"utc_offset": -28800,
+				"time_zone": "Alaska",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 67797,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5B658",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/626449568603836416/9AFFqXK5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/626449568603836416/9AFFqXK5.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000115610221/d30f5ec51574cb99cc9c5d2ae2352937_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000115610221/d30f5ec51574cb99cc9c5d2ae2352937_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22037861/1488428263",
+				"profile_link_color": "F78243",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 106,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 04 16:44:39 +0000 2017",
+		"id": 926852705016012800,
+		"id_str": "926852705016012800",
+		"text": "1984 Toyota Camry hatch. Well done, Bob. https://t.co/w23QZYyoGt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w23QZYyoGt",
+					"expanded_url": "https://twitter.com/ringer/status/926849489272496128",
+					"display_url": "twitter.com/ringer/status/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5946,
+			"friends_count": 950,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 26924,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 926849489272496100,
+		"quoted_status_id_str": "926849489272496128",
+		"quoted_status": {
+			"created_at": "Sat Nov 04 16:31:52 +0000 2017",
+			"id": 926849489272496100,
+			"id_str": "926849489272496128",
+			"text": "A brief ode to Bob Newby, the underrated hero of #StrangerThings https://t.co/5xnWNYiMhM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StrangerThings",
+						"indices": [
+							49,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5xnWNYiMhM",
+						"expanded_url": "http://therin.gr/4QC5Edd",
+						"display_url": "therin.gr/4QC5Edd",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4760694445,
+				"id_str": "4760694445",
+				"name": "The Ringer",
+				"screen_name": "ringer",
+				"location": "Los Angeles, CA",
+				"description": "Sports, pop culture, and tech.",
+				"url": "https://t.co/CIR7zszDmT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CIR7zszDmT",
+								"expanded_url": "http://theringer.com",
+								"display_url": "theringer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 352674,
+				"friends_count": 117,
+				"listed_count": 3517,
+				"created_at": "Fri Jan 15 01:30:52 +0000 2016",
+				"favourites_count": 274,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29110,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/920811688143724544/xczf7CHp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/920811688143724544/xczf7CHp_normal.jpg",
+				"profile_link_color": "67C285",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 141,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 04 15:41:46 +0000 2017",
+		"id": 926836880808833000,
+		"id_str": "926836880808833026",
+		"text": "I was born in the future and it was really nice. Thanks again for the backup log in the next few days! https://t.co/nB1WvdP614",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nB1WvdP614",
+					"expanded_url": "https://twitter.com/therealbradg/status/926260526270652416",
+					"display_url": "twitter.com/therealbradg/s…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5946,
+			"friends_count": 950,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 26924,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 926260526270652400,
+		"quoted_status_id_str": "926260526270652416",
+		"quoted_status": {
+			"created_at": "Fri Nov 03 01:31:33 +0000 2017",
+			"id": 926260526270652400,
+			"id_str": "926260526270652416",
+			"text": "Type “I was born” and then let your predictive write your autobiography.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117685747,
+				"id_str": "117685747",
+				"name": "NBA Kurt Vonnegut",
+				"screen_name": "therealbradg",
+				"location": "Woodland, CA",
+				"description": "Bradley Geiser was one of the Founding Fathers of the United States. Geiser was a renowned polymath and a leading blogger, printer, and political theorist",
+				"url": "https://t.co/FjyCdHZ6pj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FjyCdHZ6pj",
+								"expanded_url": "http://www.sactownroyalty.com",
+								"display_url": "sactownroyalty.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4472,
+				"friends_count": 1440,
+				"listed_count": 110,
+				"created_at": "Fri Feb 26 08:27:01 +0000 2010",
+				"favourites_count": 17516,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 133454,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4B0082",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/534925323947630593/H-nM5q_Y.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/534925323947630593/H-nM5q_Y.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/904479255848828928/knfa3ZQv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/904479255848828928/knfa3ZQv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117685747/1480561008",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2229,
+			"favorite_count": 9624,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 04 15:30:48 +0000 2017",
+		"id": 926834119455019000,
+		"id_str": "926834119455019014",
+		"text": "RT @MikeBatesSBN: The one-game playoff between the Yankees and Indians in Major League. https://t.co/DVAcMMHwPn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeBatesSBN",
+					"name": "Mike Bates",
+					"id": 110911172,
+					"id_str": "110911172",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DVAcMMHwPn",
+					"expanded_url": "https://twitter.com/DEvanAltman/status/926819207940939777",
+					"display_url": "twitter.com/DEvanAltman/st…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5946,
+			"friends_count": 950,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 26924,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 04 15:07:36 +0000 2017",
+			"id": 926828281307058200,
+			"id_str": "926828281307058176",
+			"text": "The one-game playoff between the Yankees and Indians in Major League. https://t.co/DVAcMMHwPn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DVAcMMHwPn",
+						"expanded_url": "https://twitter.com/DEvanAltman/status/926819207940939777",
+						"display_url": "twitter.com/DEvanAltman/st…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110911172,
+				"id_str": "110911172",
+				"name": "Mike Bates",
+				"screen_name": "MikeBatesSBN",
+				"location": "Blackoutsville, Iowa, USA",
+				"description": "Columnist for @MLBDailyDish. Podcaster for @TWIBHistory. \nA beacon in these dark times. \nOwner many dad-shirts.",
+				"url": "https://t.co/v6H9Mbe2p5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v6H9Mbe2p5",
+								"expanded_url": "http://thisweekinbaseballhistory.libsyn.com/",
+								"display_url": "thisweekinbaseballhistory.libsyn.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4172,
+				"friends_count": 775,
+				"listed_count": 263,
+				"created_at": "Wed Feb 03 05:09:00 +0000 2010",
+				"favourites_count": 602,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 67410,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/724608656570871809/alDoPl4n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/724608656570871809/alDoPl4n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110911172/1371740681",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 926819207940939800,
+			"quoted_status_id_str": "926819207940939777",
+			"quoted_status": {
+				"created_at": "Sat Nov 04 14:31:33 +0000 2017",
+				"id": 926819207940939800,
+				"id_str": "926819207940939777",
+				"text": "If you could attend any fictional cinematic sporting event, what would it be and why?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 455293177,
+					"id_str": "455293177",
+					"name": "Evan Altman",
+					"screen_name": "DEvanAltman",
+					"location": "Indianapolis, IN",
+					"description": "Husband, father, writer, changer of https://t.co/cxuKqaMQDV, unverified by Twitter. Co-founder/EIC https://t.co/QIve5E8x9V. Player reviews @TheAthleticChi.",
+					"url": "https://t.co/4l4RjqozUa",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/4l4RjqozUa",
+									"expanded_url": "http://www.cubsinsider.com",
+									"display_url": "cubsinsider.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/cxuKqaMQDV",
+									"expanded_url": "http://MLB.tv",
+									"display_url": "MLB.tv",
+									"indices": [
+										36,
+										59
+									]
+								},
+								{
+									"url": "https://t.co/QIve5E8x9V",
+									"expanded_url": "http://CubsInsider.com",
+									"display_url": "CubsInsider.com",
+									"indices": [
+										99,
+										122
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 5494,
+					"friends_count": 1185,
+					"listed_count": 197,
+					"created_at": "Wed Jan 04 23:26:36 +0000 2012",
+					"favourites_count": 55912,
+					"utc_offset": -14400,
+					"time_zone": "Indiana (East)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 95747,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444292868333522944/1r9qXuPe.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444292868333522944/1r9qXuPe.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/821888717111619584/1Ii6lCwZ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/821888717111619584/1Ii6lCwZ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/455293177/1434821050",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "00f424d474454ea0",
+					"url": "https://api.twitter.com/1.1/geo/id/00f424d474454ea0.json",
+					"place_type": "city",
+					"name": "Brownsburg",
+					"full_name": "Brownsburg, IN",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-86.439701,
+									39.800082
+								],
+								[
+									-86.326794,
+									39.800082
+								],
+								[
+									-86.326794,
+									39.912651
+								],
+								[
+									-86.439701,
+									39.912651
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 926819207940939800,
+		"quoted_status_id_str": "926819207940939777",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 04 15:20:43 +0000 2017",
+		"id": 926831580739448800,
+		"id_str": "926831580739448832",
+		"text": "RT @sung_minkim: A Springfield Nuclear Power Plant softball team game from \"Homer At The Bat\" https://t.co/AHIzZzIyPU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sung_minkim",
+					"name": "Sung Min Kim",
+					"id": 1661586091,
+					"id_str": "1661586091",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AHIzZzIyPU",
+					"expanded_url": "https://twitter.com/DEvanAltman/status/926819207940939777",
+					"display_url": "twitter.com/DEvanAltman/st…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5946,
+			"friends_count": 950,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 26924,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 04 15:18:51 +0000 2017",
+			"id": 926831111933530100,
+			"id_str": "926831111933530120",
+			"text": "A Springfield Nuclear Power Plant softball team game from \"Homer At The Bat\" https://t.co/AHIzZzIyPU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AHIzZzIyPU",
+						"expanded_url": "https://twitter.com/DEvanAltman/status/926819207940939777",
+						"display_url": "twitter.com/DEvanAltman/st…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1661586091,
+				"id_str": "1661586091",
+				"name": "Sung Min Kim",
+				"screen_name": "sung_minkim",
+				"location": "대한민국 서울",
+				"description": "contributor @sportingnews / staff writer @RiverAveBlues / award-winning photojournalist / former college radio overlord / I also tweet Korean baseball news",
+				"url": "https://t.co/Z2kzUDYDu1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z2kzUDYDu1",
+								"expanded_url": "http://www.riveraveblues.com",
+								"display_url": "riveraveblues.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8654,
+				"friends_count": 1979,
+				"listed_count": 255,
+				"created_at": "Sun Aug 11 03:49:59 +0000 2013",
+				"favourites_count": 72568,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 64860,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922562049476935680/dtjwnWOA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922562049476935680/dtjwnWOA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1661586091/1503504794",
+				"profile_link_color": "E00909",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 926819207940939800,
+			"quoted_status_id_str": "926819207940939777",
+			"quoted_status": {
+				"created_at": "Sat Nov 04 14:31:33 +0000 2017",
+				"id": 926819207940939800,
+				"id_str": "926819207940939777",
+				"text": "If you could attend any fictional cinematic sporting event, what would it be and why?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 455293177,
+					"id_str": "455293177",
+					"name": "Evan Altman",
+					"screen_name": "DEvanAltman",
+					"location": "Indianapolis, IN",
+					"description": "Husband, father, writer, changer of https://t.co/cxuKqaMQDV, unverified by Twitter. Co-founder/EIC https://t.co/QIve5E8x9V. Player reviews @TheAthleticChi.",
+					"url": "https://t.co/4l4RjqozUa",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/4l4RjqozUa",
+									"expanded_url": "http://www.cubsinsider.com",
+									"display_url": "cubsinsider.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/cxuKqaMQDV",
+									"expanded_url": "http://MLB.tv",
+									"display_url": "MLB.tv",
+									"indices": [
+										36,
+										59
+									]
+								},
+								{
+									"url": "https://t.co/QIve5E8x9V",
+									"expanded_url": "http://CubsInsider.com",
+									"display_url": "CubsInsider.com",
+									"indices": [
+										99,
+										122
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 5494,
+					"friends_count": 1185,
+					"listed_count": 197,
+					"created_at": "Wed Jan 04 23:26:36 +0000 2012",
+					"favourites_count": 55912,
+					"utc_offset": -14400,
+					"time_zone": "Indiana (East)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 95747,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444292868333522944/1r9qXuPe.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444292868333522944/1r9qXuPe.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/821888717111619584/1Ii6lCwZ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/821888717111619584/1Ii6lCwZ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/455293177/1434821050",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "00f424d474454ea0",
+					"url": "https://api.twitter.com/1.1/geo/id/00f424d474454ea0.json",
+					"place_type": "city",
+					"name": "Brownsburg",
+					"full_name": "Brownsburg, IN",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-86.439701,
+									39.800082
+								],
+								[
+									-86.326794,
+									39.800082
+								],
+								[
+									-86.326794,
+									39.912651
+								],
+								[
+									-86.439701,
+									39.912651
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 33,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 926819207940939800,
+		"quoted_status_id_str": "926819207940939777",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 03 17:58:23 +0000 2017",
 		"id": 926508871614718000,
 		"id_str": "926508871614717953",
