@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 09 02:07:45 +0000 2017",
+		"id": 928443965170384900,
+		"id_str": "928443965170384901",
+		"text": "RT @Super70sSports: I don't know about you, but I won't buy any encyclopedia that isn't endorsed by Pete Rose. https://t.co/J2PYM8dytQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Super70sSports",
+					"name": "Super 70s Sports",
+					"id": 2259809232,
+					"id_str": "2259809232",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 928429934820851700,
+					"id_str": "928429934820851712",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DOJyG0_WAAAr5OW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOJyG0_WAAAr5OW.jpg",
+					"url": "https://t.co/J2PYM8dytQ",
+					"display_url": "pic.twitter.com/J2PYM8dytQ",
+					"expanded_url": "https://twitter.com/Super70sSports/status/928429948389519360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928429948389519400,
+					"source_status_id_str": "928429948389519360",
+					"source_user_id": 2259809232,
+					"source_user_id_str": "2259809232"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 928429934820851700,
+					"id_str": "928429934820851712",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DOJyG0_WAAAr5OW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOJyG0_WAAAr5OW.jpg",
+					"url": "https://t.co/J2PYM8dytQ",
+					"display_url": "pic.twitter.com/J2PYM8dytQ",
+					"expanded_url": "https://twitter.com/Super70sSports/status/928429948389519360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928429948389519400,
+					"source_status_id_str": "928429948389519360",
+					"source_user_id": 2259809232,
+					"source_user_id_str": "2259809232"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5948,
+			"friends_count": 951,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 27115,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 01:12:03 +0000 2017",
+			"id": 928429948389519400,
+			"id_str": "928429948389519360",
+			"text": "I don't know about you, but I won't buy any encyclopedia that isn't endorsed by Pete Rose. https://t.co/J2PYM8dytQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 928429934820851700,
+						"id_str": "928429934820851712",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DOJyG0_WAAAr5OW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOJyG0_WAAAr5OW.jpg",
+						"url": "https://t.co/J2PYM8dytQ",
+						"display_url": "pic.twitter.com/J2PYM8dytQ",
+						"expanded_url": "https://twitter.com/Super70sSports/status/928429948389519360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928429934820851700,
+						"id_str": "928429934820851712",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DOJyG0_WAAAr5OW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOJyG0_WAAAr5OW.jpg",
+						"url": "https://t.co/J2PYM8dytQ",
+						"display_url": "pic.twitter.com/J2PYM8dytQ",
+						"expanded_url": "https://twitter.com/Super70sSports/status/928429948389519360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2259809232,
+				"id_str": "2259809232",
+				"name": "Super 70s Sports",
+				"screen_name": "Super70sSports",
+				"location": "Chicago, IL",
+				"description": "Subscribe to the Super 70s Sports Podcast: iTunes & https://t.co/kcxbZba1Ss. Media and business: rickydonaldcobb@gmail.com",
+				"url": "https://t.co/CRdgNzLuBm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CRdgNzLuBm",
+								"expanded_url": "http://www.therickycobb.com",
+								"display_url": "therickycobb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kcxbZba1Ss",
+								"expanded_url": "http://www.Super70sSports.com",
+								"display_url": "Super70sSports.com",
+								"indices": [
+									52,
+									75
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 131311,
+				"friends_count": 661,
+				"listed_count": 1027,
+				"created_at": "Tue Dec 24 04:55:10 +0000 2013",
+				"favourites_count": 154973,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14098,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605254223849254913/07f7mXGn.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605254223849254913/07f7mXGn.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741502638798168065/DPyDgMGd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741502638798168065/DPyDgMGd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2259809232/1465587763",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 515,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 08 00:47:47 +0000 2017",
 		"id": 928061453961228300,
 		"id_str": "928061453961228291",
