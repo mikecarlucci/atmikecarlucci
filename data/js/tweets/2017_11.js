@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 25 21:32:53 +0000 2017",
+		"id": 934535387510427600,
+		"id_str": "934535387510427650",
+		"text": "RT @AcademiaObscura: Still the best wikipedia page ever. https://t.co/SZXfpHSmyV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AcademiaObscura",
+					"name": "Academia Obscura",
+					"id": 2645602164,
+					"id_str": "2645602164",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 934343415361192000,
+					"id_str": "934343415361191936",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DPd0YsrUQAAR0dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPd0YsrUQAAR0dz.jpg",
+					"url": "https://t.co/SZXfpHSmyV",
+					"display_url": "pic.twitter.com/SZXfpHSmyV",
+					"expanded_url": "https://twitter.com/AcademiaObscura/status/934343417626324992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934343417626325000,
+					"source_status_id_str": "934343417626324992",
+					"source_user_id": 2645602164,
+					"source_user_id_str": "2645602164"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 934343415361192000,
+					"id_str": "934343415361191936",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DPd0YsrUQAAR0dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPd0YsrUQAAR0dz.jpg",
+					"url": "https://t.co/SZXfpHSmyV",
+					"display_url": "pic.twitter.com/SZXfpHSmyV",
+					"expanded_url": "https://twitter.com/AcademiaObscura/status/934343417626324992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934343417626325000,
+					"source_status_id_str": "934343417626324992",
+					"source_user_id": 2645602164,
+					"source_user_id_str": "2645602164"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5945,
+			"friends_count": 953,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 27956,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 25 08:50:04 +0000 2017",
+			"id": 934343417626325000,
+			"id_str": "934343417626324992",
+			"text": "Still the best wikipedia page ever. https://t.co/SZXfpHSmyV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 934343415361192000,
+						"id_str": "934343415361191936",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/DPd0YsrUQAAR0dz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPd0YsrUQAAR0dz.jpg",
+						"url": "https://t.co/SZXfpHSmyV",
+						"display_url": "pic.twitter.com/SZXfpHSmyV",
+						"expanded_url": "https://twitter.com/AcademiaObscura/status/934343417626324992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 424,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 424,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934343415361192000,
+						"id_str": "934343415361191936",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/DPd0YsrUQAAR0dz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPd0YsrUQAAR0dz.jpg",
+						"url": "https://t.co/SZXfpHSmyV",
+						"display_url": "pic.twitter.com/SZXfpHSmyV",
+						"expanded_url": "https://twitter.com/AcademiaObscura/status/934343417626324992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 424,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 424,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2645602164,
+				"id_str": "2645602164",
+				"name": "Academia Obscura",
+				"screen_name": "AcademiaObscura",
+				"location": "The Grooves of Academe",
+				"description": "The hidden silly side of higher education. Ed: @MarinePolicy. 📕 Book out now! https://t.co/3WpkojfF29 📕",
+				"url": "https://t.co/M7qMRGxfzf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M7qMRGxfzf",
+								"expanded_url": "http://AcademiaObscura.com",
+								"display_url": "AcademiaObscura.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3WpkojfF29",
+								"expanded_url": "http://amzn.to/2jqBZFO",
+								"display_url": "amzn.to/2jqBZFO",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 99514,
+				"friends_count": 143,
+				"listed_count": 1404,
+				"created_at": "Mon Jul 14 14:45:27 +0000 2014",
+				"favourites_count": 9024,
+				"utc_offset": 3600,
+				"time_zone": "Paris",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2245,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860084364587225089/DcVKaNCC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860084364587225089/DcVKaNCC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2645602164/1511626367",
+				"profile_link_color": "C5313D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2099,
+			"favorite_count": 5580,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2099,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 25 21:23:08 +0000 2017",
+		"id": 934532931976130600,
+		"id_str": "934532931976130561",
+		"text": "It'll be interesting to see what companies do next https://t.co/ZPJsinWC1j",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZPJsinWC1j",
+					"expanded_url": "https://twitter.com/yonatanzunger/status/934527956612812802",
+					"display_url": "twitter.com/yonatanzunger/…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5945,
+			"friends_count": 953,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 27956,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 934527956612812800,
+		"quoted_status_id_str": "934527956612812802",
+		"quoted_status": {
+			"created_at": "Sat Nov 25 21:03:22 +0000 2017",
+			"id": 934527956612812800,
+			"id_str": "934527956612812802",
+			"text": "Some lessons learned from checkmark verification systems: What works? What doesn't? What would be better?\nhttps://t.co/nprSOcm9Qq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nprSOcm9Qq",
+						"expanded_url": "https://medium.com/@yonatanzunger/the-hard-lessons-of-blue-checkmarks-c12094ed4a9c",
+						"display_url": "medium.com/@yonatanzunger…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 240569603,
+				"id_str": "240569603",
+				"name": "(((Yonatan Zunger)))",
+				"screen_name": "yonatanzunger",
+				"location": "",
+				"description": "Engineer and writer, working on making a better world. he/him. Ex-Google, now Humu. Writing at https://t.co/UkKeCilT0D • https://t.co/ly8xLYGuxC",
+				"url": "https://t.co/dKU5o3WiFT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dKU5o3WiFT",
+								"expanded_url": "https://google.com/+YonatanZunger",
+								"display_url": "google.com/+YonatanZunger",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UkKeCilT0D",
+								"expanded_url": "http://google.com/+YonatanZunger",
+								"display_url": "google.com/+YonatanZunger",
+								"indices": [
+									95,
+									118
+								]
+							},
+							{
+								"url": "https://t.co/ly8xLYGuxC",
+								"expanded_url": "http://medium.com/@yonatanzunger",
+								"display_url": "medium.com/@yonatanzunger",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 53078,
+				"friends_count": 820,
+				"listed_count": 744,
+				"created_at": "Thu Jan 20 06:44:15 +0000 2011",
+				"favourites_count": 27519,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15902,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/517547093842333697/IGqR-Gv-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/517547093842333697/IGqR-Gv-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/240569603/1412227639",
+				"profile_link_color": "1739C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CEEAEB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 25 16:02:13 +0000 2017",
+		"id": 934452169973141500,
+		"id_str": "934452169973141506",
+		"text": "RT @Thracks: In 2007, Comcast began a covert program to prevent their customers from using BitTorrent by secretly resetting their connectio…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Thracks",
+					"name": "Robert Hallock🎄",
+					"id": 15435597,
+					"id_str": "15435597",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5945,
+			"friends_count": 953,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 27956,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 23 16:19:28 +0000 2017",
+			"id": 933731735791075300,
+			"id_str": "933731735791075328",
+			"text": "In 2007, Comcast began a covert program to prevent their customers from using BitTorrent by secretly resetting thei… https://t.co/m9GSWVSYV8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/m9GSWVSYV8",
+						"expanded_url": "https://twitter.com/i/web/status/933731735791075328",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15435597,
+				"id_str": "15435597",
+				"name": "Robert Hallock🎄",
+				"screen_name": "Thracks",
+				"location": "Austin, TX",
+				"description": "I grew up on the mean streets of Felwithe. I do framing and messaging. Watches, shoes, candles, craft beer, and PC gaming are my 💖.",
+				"url": "https://t.co/9gKbeiQMGF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9gKbeiQMGF",
+								"expanded_url": "http://medium.com/@thracks",
+								"display_url": "medium.com/@thracks",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3121,
+				"friends_count": 304,
+				"listed_count": 93,
+				"created_at": "Tue Jul 15 02:29:32 +0000 2008",
+				"favourites_count": 853,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26617,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/128707838/test3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/128707838/test3.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/613796961053880320/vR5cUsMm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/613796961053880320/vR5cUsMm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15435597/1503453123",
+				"profile_link_color": "0096A3",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "416685",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 933394263689351200,
+			"quoted_status_id_str": "933394263689351175",
+			"quoted_status": {
+				"created_at": "Wed Nov 22 17:58:28 +0000 2017",
+				"id": 933394263689351200,
+				"id_str": "933394263689351175",
+				"text": "We do not and will not block, throttle, or discriminate against lawful content. We will continue to make sure that… https://t.co/byLAIaDtPn",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/byLAIaDtPn",
+							"expanded_url": "https://twitter.com/i/web/status/933394263689351175",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 89587925,
+					"id_str": "89587925",
+					"name": "Comcast",
+					"screen_name": "comcast",
+					"location": "Philadelphia, PA",
+					"description": "Shaping the future at the intersection of media & technology.",
+					"url": "https://t.co/S0I1bXLwxU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/S0I1bXLwxU",
+									"expanded_url": "http://www.comcastcorporation.com",
+									"display_url": "comcastcorporation.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 157205,
+					"friends_count": 2499,
+					"listed_count": 1584,
+					"created_at": "Fri Nov 13 00:56:26 +0000 2009",
+					"favourites_count": 4306,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 35997,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/856278005496385536/h-e_PWIa_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/856278005496385536/h-e_PWIa_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/89587925/1494340777",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "BDDCAD",
+					"profile_sidebar_fill_color": "DDFFCC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2164,
+				"favorite_count": 10927,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"scopes": {
+					"followers": false
+				},
+				"lang": "en"
+			},
+			"retweet_count": 19324,
+			"favorite_count": 27092,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 933394263689351200,
+		"quoted_status_id_str": "933394263689351175",
+		"retweet_count": 19324,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 24 23:05:48 +0000 2017",
 		"id": 934196379936845800,
 		"id_str": "934196379936845824",
