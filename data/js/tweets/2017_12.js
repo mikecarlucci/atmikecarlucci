@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 04 17:07:52 +0000 2017",
+		"id": 937730182974230500,
+		"id_str": "937730182974230528",
+		"text": "Sure https://t.co/TDnNUqV7Yf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TDnNUqV7Yf",
+					"expanded_url": "https://twitter.com/jurassicworld/status/937481581391949824",
+					"display_url": "twitter.com/jurassicworld/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5939,
+			"friends_count": 958,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 28469,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18030,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 937481581391949800,
+		"quoted_status_id_str": "937481581391949824",
+		"quoted_status": {
+			"created_at": "Mon Dec 04 00:40:01 +0000 2017",
+			"id": 937481581391949800,
+			"id_str": "937481581391949824",
+			"text": "The @JurassicWorld #FallenKingdom trailer debuts this Thursday. Retweet to get your reminder! https://t.co/SF6JpvPMfY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FallenKingdom",
+						"indices": [
+							19,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JurassicWorld",
+						"name": "Jurassic World",
+						"id": 525808515,
+						"id_str": "525808515",
+						"indices": [
+							4,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 937467327741751300,
+						"id_str": "937467327741751296",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DQKT4NgUEAAKV5Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQKT4NgUEAAKV5Y.jpg",
+						"url": "https://t.co/SF6JpvPMfY",
+						"display_url": "pic.twitter.com/SF6JpvPMfY",
+						"expanded_url": "https://twitter.com/JurassicWorld/status/937481581391949824/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 937467327741751300,
+						"id_str": "937467327741751296",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DQKT4NgUEAAKV5Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQKT4NgUEAAKV5Y.jpg",
+						"url": "https://t.co/SF6JpvPMfY",
+						"display_url": "pic.twitter.com/SF6JpvPMfY",
+						"expanded_url": "https://twitter.com/JurassicWorld/status/937481581391949824/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 15015,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/937467327741751296/pl/eTWtNkMJbq4s5O0c.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/937467327741751296/vid/640x360/emch-uUE7cMMCuyo.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/937467327741751296/vid/320x180/pGa-IKhp37NZ6G1a.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/937467327741751296/vid/1280x720/JRBCwPbf9TClkb5l.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 525808515,
+				"id_str": "525808515",
+				"name": "Jurassic World",
+				"screen_name": "JurassicWorld",
+				"location": "",
+				"description": "Jurassic World: Fallen Kingdom in theaters June 22, 2018.",
+				"url": "https://t.co/gCtqT2dWCn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gCtqT2dWCn",
+								"expanded_url": "http://jurassicworld.com",
+								"display_url": "jurassicworld.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 203178,
+				"friends_count": 22,
+				"listed_count": 741,
+				"created_at": "Thu Mar 15 22:29:35 +0000 2012",
+				"favourites_count": 540,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10127,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705251320/290026cbcedbdceb7730fa4f4b73bb3a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705251320/290026cbcedbdceb7730fa4f4b73bb3a.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877902472550985733/r3PKOP1i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877902472550985733/r3PKOP1i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/525808515/1511375051",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77163,
+			"favorite_count": 114971,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 03 21:47:28 +0000 2017",
 		"id": 937438160358961200,
 		"id_str": "937438160358961152",
