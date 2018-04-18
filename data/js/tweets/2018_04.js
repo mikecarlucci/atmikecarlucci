@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 17 10:40:53 +0000 2018",
+		"id": 986192768312774700,
+		"id_str": "986192768312774656",
+		"text": "RT @Shauncore: @MLB crying copyright &amp; getting a Twitter suspended is so petty. Particularly someone like @PitchingNinja who does nothing b…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shauncore",
+					"name": "Shaun Newkirk",
+					"id": 33444876,
+					"id_str": "33444876",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "MLB",
+					"name": "MLB",
+					"id": 18479513,
+					"id_str": "18479513",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"screen_name": "PitchingNinja",
+					"name": "Rob Friedman",
+					"id": 2911095315,
+					"id_str": "2911095315",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5923,
+			"friends_count": 863,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 35394,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18696,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 17 03:20:38 +0000 2018",
+			"id": 986081975051092000,
+			"id_str": "986081975051091969",
+			"text": "@MLB crying copyright &amp; getting a Twitter suspended is so petty. Particularly someone like @PitchingNinja who does… https://t.co/RvhOTQ7Wwm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MLB",
+						"name": "MLB",
+						"id": 18479513,
+						"id_str": "18479513",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"screen_name": "PitchingNinja",
+						"name": "Rob Friedman",
+						"id": 2911095315,
+						"id_str": "2911095315",
+						"indices": [
+							95,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RvhOTQ7Wwm",
+						"expanded_url": "https://twitter.com/i/web/status/986081975051091969",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 18479513,
+			"in_reply_to_user_id_str": "18479513",
+			"in_reply_to_screen_name": "MLB",
+			"user": {
+				"id": 33444876,
+				"id_str": "33444876",
+				"name": "Shaun Newkirk",
+				"screen_name": "Shauncore",
+				"location": "816",
+				"description": "Writer at https://t.co/BebOH3e1QS\nUsed to be https://t.co/njy0iAfGrI Prospects. \nCFA Lv II Candidate.\nPaul Rudd truther.\nSaber Friendly.\nMy views are probably stolen.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BebOH3e1QS",
+								"expanded_url": "http://RoyalsReview.com",
+								"display_url": "RoyalsReview.com",
+								"indices": [
+									10,
+									33
+								]
+							},
+							{
+								"url": "https://t.co/njy0iAfGrI",
+								"expanded_url": "http://RoyalsProspect.com",
+								"display_url": "RoyalsProspect.com",
+								"indices": [
+									45,
+									68
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1955,
+				"friends_count": 396,
+				"listed_count": 89,
+				"created_at": "Mon Apr 20 06:17:27 +0000 2009",
+				"favourites_count": 1556,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/102458077/35nardh.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/102458077/35nardh.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837179659913658368/lN13JI-v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837179659913658368/lN13JI-v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33444876/1508561003",
+				"profile_link_color": "607B85",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "292E31",
+				"profile_text_color": "070000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 187,
+			"favorite_count": 378,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 15 16:20:58 +0000 2018",
 		"id": 985553577778339800,
 		"id_str": "985553577778339840",
