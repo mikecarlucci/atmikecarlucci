@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 07 20:50:42 +0000 2018",
+		"id": 1004828015581433900,
+		"id_str": "1004828015581433856",
+		"text": "@Kazuto_Yamazaki Whoa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kazuto_Yamazaki",
+					"name": "Kazuto Yamazaki",
+					"id": 160515430,
+					"id_str": "160515430",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1004827081711091700,
+		"in_reply_to_status_id_str": "1004827081711091712",
+		"in_reply_to_user_id": 160515430,
+		"in_reply_to_user_id_str": "160515430",
+		"in_reply_to_screen_name": "Kazuto_Yamazaki",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5921,
+			"friends_count": 879,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 37969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 07 15:16:48 +0000 2018",
+		"id": 1004743985909436400,
+		"id_str": "1004743985909436416",
+		"text": "RT @HPMinute: Minute 139! The Soulular Level? \nWith @mikecarlucci from @ozminute! \nhttps://t.co/aS9BcYWySJ https://t.co/1sdjcNz70s",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HPMinute",
+					"name": "Harry Potter Minute",
+					"id": 781630916930056200,
+					"id_str": "781630916930056193",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "mikecarlucci",
+					"name": "Mike Carlucci",
+					"id": 90161583,
+					"id_str": "90161583",
+					"indices": [
+						52,
+						65
+					]
+				},
+				{
+					"screen_name": "ozminute",
+					"name": "Return to Oz Minute",
+					"id": 805783012961124400,
+					"id_str": "805783012961124352",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aS9BcYWySJ",
+					"expanded_url": "http://www.duelinggenre.com/chamber-of-secrets-minute-139-reconstituting-voldemort/",
+					"display_url": "duelinggenre.com/chamber-of-sec…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1004735934120669200,
+					"id_str": "1004735934120669184",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DfGKAj5VMAA0xWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfGKAj5VMAA0xWl.jpg",
+					"url": "https://t.co/1sdjcNz70s",
+					"display_url": "pic.twitter.com/1sdjcNz70s",
+					"expanded_url": "https://twitter.com/HPMinute/status/1004735940277858305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004735940277858300,
+					"source_status_id_str": "1004735940277858305",
+					"source_user_id": 781630916930056200,
+					"source_user_id_str": "781630916930056193"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004735934120669200,
+					"id_str": "1004735934120669184",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DfGKAj5VMAA0xWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfGKAj5VMAA0xWl.jpg",
+					"url": "https://t.co/1sdjcNz70s",
+					"display_url": "pic.twitter.com/1sdjcNz70s",
+					"expanded_url": "https://twitter.com/HPMinute/status/1004735940277858305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004735940277858300,
+					"source_status_id_str": "1004735940277858305",
+					"source_user_id": 781630916930056200,
+					"source_user_id_str": "781630916930056193"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5921,
+			"friends_count": 879,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 37969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 07 14:44:49 +0000 2018",
+			"id": 1004735940277858300,
+			"id_str": "1004735940277858305",
+			"text": "Minute 139! The Soulular Level? \nWith @mikecarlucci from @ozminute! \nhttps://t.co/aS9BcYWySJ https://t.co/1sdjcNz70s",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mikecarlucci",
+						"name": "Mike Carlucci",
+						"id": 90161583,
+						"id_str": "90161583",
+						"indices": [
+							38,
+							51
+						]
+					},
+					{
+						"screen_name": "ozminute",
+						"name": "Return to Oz Minute",
+						"id": 805783012961124400,
+						"id_str": "805783012961124352",
+						"indices": [
+							57,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aS9BcYWySJ",
+						"expanded_url": "http://www.duelinggenre.com/chamber-of-secrets-minute-139-reconstituting-voldemort/",
+						"display_url": "duelinggenre.com/chamber-of-sec…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1004735934120669200,
+						"id_str": "1004735934120669184",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DfGKAj5VMAA0xWl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfGKAj5VMAA0xWl.jpg",
+						"url": "https://t.co/1sdjcNz70s",
+						"display_url": "pic.twitter.com/1sdjcNz70s",
+						"expanded_url": "https://twitter.com/HPMinute/status/1004735940277858305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 283,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004735934120669200,
+						"id_str": "1004735934120669184",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DfGKAj5VMAA0xWl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfGKAj5VMAA0xWl.jpg",
+						"url": "https://t.co/1sdjcNz70s",
+						"display_url": "pic.twitter.com/1sdjcNz70s",
+						"expanded_url": "https://twitter.com/HPMinute/status/1004735940277858305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 283,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 781630916930056200,
+				"id_str": "781630916930056193",
+				"name": "Harry Potter Minute",
+				"screen_name": "HPMinute",
+				"location": "",
+				"description": "The Movies by Minutes podcast that overanalyzes Harry Potter, one minute at a time. Hosted by Victoria Laguna and @thegaryroby.\nA @DuelingGenre podcast!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 279,
+				"friends_count": 202,
+				"listed_count": 7,
+				"created_at": "Thu Sep 29 23:05:07 +0000 2016",
+				"favourites_count": 296,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 428,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784208472321593344/A44LWnta_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784208472321593344/A44LWnta_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/781630916930056193/1478921274",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 07 01:34:26 +0000 2018",
 		"id": 1004537032687878100,
 		"id_str": "1004537032687878144",
