@@ -1,6 +1,1722 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 05 22:02:20 +0000 2018",
+		"id": 1014992904115376100,
+		"id_str": "1014992904115376130",
+		"text": "RT @JasonKander: Let’s not let Scott Pruitt’s scandals distract us from the fact that he was an EPA chief who opposed protecting the enviro…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonKander",
+					"name": "Jason Kander",
+					"id": 20744708,
+					"id_str": "20744708",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5919,
+			"friends_count": 893,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 40065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 05 20:02:33 +0000 2018",
+			"id": 1014962757282795500,
+			"id_str": "1014962757282795521",
+			"text": "Let’s not let Scott Pruitt’s scandals distract us from the fact that he was an EPA chief who opposed protecting the environment.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20744708,
+				"id_str": "20744708",
+				"name": "Jason Kander",
+				"screen_name": "JasonKander",
+				"location": "Kansas City, MO",
+				"description": "Candidate for Mayor of Kansas City. President of @LetAmericaVote. Author of @OutsideWire. Host of @Majority54. Afghan vet. @DianaKander's husband. True's dad.",
+				"url": "https://t.co/yzjdtyclIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yzjdtyclIB",
+								"expanded_url": "https://www.jasonkanderbook.com",
+								"display_url": "jasonkanderbook.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 318681,
+				"friends_count": 1593,
+				"listed_count": 2678,
+				"created_at": "Fri Feb 13 03:30:08 +0000 2009",
+				"favourites_count": 13926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14047,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884607938186399749/goUDXf0H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884607938186399749/goUDXf0H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20744708/1502427356",
+				"profile_link_color": "0EB4F0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2529,
+			"favorite_count": 13157,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2529,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 05 17:31:08 +0000 2018",
+		"id": 1014924655461793800,
+		"id_str": "1014924655461793792",
+		"text": "@emmabaccellieri Sounds like they'll need SnackCast",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emmabaccellieri",
+					"name": "Emma Baccellieri",
+					"id": 456282494,
+					"id_str": "456282494",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1014923795566678000,
+		"in_reply_to_status_id_str": "1014923795566678017",
+		"in_reply_to_user_id": 456282494,
+		"in_reply_to_user_id_str": "456282494",
+		"in_reply_to_screen_name": "emmabaccellieri",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5919,
+			"friends_count": 893,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 40065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 05 17:24:49 +0000 2018",
+		"id": 1014923062540726300,
+		"id_str": "1014923062540726272",
+		"text": "RT @lexlanham: i want to frame this for my office https://t.co/goQgtnfLNj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lexlanham",
+					"name": "alexandra j. roberts",
+					"id": 22581994,
+					"id_str": "22581994",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/goQgtnfLNj",
+					"expanded_url": "https://twitter.com/mhintzesq/status/1014864224307343363",
+					"display_url": "twitter.com/mhintzesq/stat…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5919,
+			"friends_count": 893,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 40065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 05 17:01:07 +0000 2018",
+			"id": 1014917099968491500,
+			"id_str": "1014917099968491521",
+			"text": "i want to frame this for my office https://t.co/goQgtnfLNj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/goQgtnfLNj",
+						"expanded_url": "https://twitter.com/mhintzesq/status/1014864224307343363",
+						"display_url": "twitter.com/mhintzesq/stat…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22581994,
+				"id_str": "22581994",
+				"name": "alexandra j. roberts",
+				"screen_name": "lexlanham",
+				"location": "boston & nh",
+				"description": "law professor teaching & writing about trademarks, IP, contracts, entertainment law, & law of pop culture at @unhlaw & @uofnh. https://t.co/CW1nvYlumA",
+				"url": "http://t.co/Uckjo51Yrt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Uckjo51Yrt",
+								"expanded_url": "http://law.unh.edu/about/personnel/-/alexandra-roberts",
+								"display_url": "law.unh.edu/about/personne…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CW1nvYlumA",
+								"expanded_url": "https://www.bostonglobe.com/business/2016/04/22/five-things-you-should-know-about-alexandra-roberts/QxFrDV8V9SJrYABTs8nI8I/story.html",
+								"display_url": "bostonglobe.com/business/2016/…",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3733,
+				"friends_count": 2285,
+				"listed_count": 160,
+				"created_at": "Tue Mar 03 04:05:16 +0000 2009",
+				"favourites_count": 16945,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15587,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22581994/1398828123",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1014864224307343400,
+			"quoted_status_id_str": "1014864224307343363",
+			"quoted_status": {
+				"created_at": "Thu Jul 05 13:31:00 +0000 2018",
+				"id": 1014864224307343400,
+				"id_str": "1014864224307343363",
+				"text": "In Marvel Universe, Kitty Pryde is current owner of trademark registration to X-MEN to prevent other X-MEN-branded… https://t.co/t5fZh89X4W",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/t5fZh89X4W",
+							"expanded_url": "https://twitter.com/i/web/status/1014864224307343363",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1018884324,
+					"id_str": "1018884324",
+					"name": "Matthew H",
+					"screen_name": "mhintzesq",
+					"location": "",
+					"description": "Trademark & IP Attorney, runs, plays bass (Beethoven, not bebop) / Tweets not legal advice, but may be fun, RTs not endorsements, and ❤️s may be just bookmarks",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1869,
+					"friends_count": 867,
+					"listed_count": 91,
+					"created_at": "Tue Dec 18 03:25:10 +0000 2012",
+					"favourites_count": 8457,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 9070,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/633093011967242240/79P9WyoG_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/633093011967242240/79P9WyoG_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1018884324/1401327975",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 18,
+				"favorite_count": 37,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1014864224307343400,
+		"quoted_status_id_str": "1014864224307343363",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 05 13:37:13 +0000 2018",
+		"id": 1014865786878427100,
+		"id_str": "1014865786878427137",
+		"text": "RT @ByRosenberg: Millennial financial issues/priorities \n1. Rent\n2. Student debt \n3. Saving up for house you can't afford\n4. Real income is…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ByRosenberg",
+					"name": "Mike Rosenberg",
+					"id": 37557953,
+					"id_str": "37557953",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5919,
+			"friends_count": 893,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 40065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 05 05:18:18 +0000 2018",
+			"id": 1014740229364695000,
+			"id_str": "1014740229364695040",
+			"text": "Millennial financial issues/priorities \n1. Rent\n2. Student debt \n3. Saving up for house you can't afford\n4. Real in… https://t.co/8YnSQeFcJD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8YnSQeFcJD",
+						"expanded_url": "https://twitter.com/i/web/status/1014740229364695040",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37557953,
+				"id_str": "37557953",
+				"name": "Mike Rosenberg",
+				"screen_name": "ByRosenberg",
+				"location": "Bay Area to Seattle",
+				"description": "Seattle Times reporter covering housing and real estate. Formerly at San Jose Mercury News. Also tweeting on data analysis, sports and journalism.",
+				"url": "https://t.co/UzvlL4Kki2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UzvlL4Kki2",
+								"expanded_url": "http://www.seattletimes.com/author/mike-rosenberg/",
+								"display_url": "seattletimes.com/author/mike-ro…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28967,
+				"friends_count": 1021,
+				"listed_count": 872,
+				"created_at": "Mon May 04 01:26:46 +0000 2009",
+				"favourites_count": 8886,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 31399,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766040461626802177/1y24A1Kx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766040461626802177/1y24A1Kx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37557953/1369981963",
+				"profile_link_color": "006400",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "0E0E0E",
+				"profile_text_color": "4A66C1",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1014498361733472300,
+			"quoted_status_id_str": "1014498361733472257",
+			"quoted_status": {
+				"created_at": "Wed Jul 04 13:17:12 +0000 2018",
+				"id": 1014498361733472300,
+				"id_str": "1014498361733472257",
+				"text": "Why won’t Millennials join country clubs? https://t.co/9Lx06oEZs6 https://t.co/2pd3wDpIdd",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/9Lx06oEZs6",
+							"expanded_url": "https://trib.al/rSrs5Yu",
+							"display_url": "trib.al/rSrs5Yu",
+							"indices": [
+								42,
+								65
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 1014498359858614300,
+							"id_str": "1014498359858614273",
+							"indices": [
+								66,
+								89
+							],
+							"media_url": "http://pbs.twimg.com/media/DhQ44hyW0AEWzvA.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DhQ44hyW0AEWzvA.jpg",
+							"url": "https://t.co/2pd3wDpIdd",
+							"display_url": "pic.twitter.com/2pd3wDpIdd",
+							"expanded_url": "https://twitter.com/CityLab/status/1014498361733472257/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 940,
+									"h": 686,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 496,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 940,
+									"h": 686,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1014498359858614300,
+							"id_str": "1014498359858614273",
+							"indices": [
+								66,
+								89
+							],
+							"media_url": "http://pbs.twimg.com/media/DhQ44hyW0AEWzvA.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DhQ44hyW0AEWzvA.jpg",
+							"url": "https://t.co/2pd3wDpIdd",
+							"display_url": "pic.twitter.com/2pd3wDpIdd",
+							"expanded_url": "https://twitter.com/CityLab/status/1014498361733472257/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 940,
+									"h": 686,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 496,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 940,
+									"h": 686,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 331803536,
+					"id_str": "331803536",
+					"name": "CityLab",
+					"screen_name": "CityLab",
+					"location": "",
+					"description": "All things urban, from The Atlantic.",
+					"url": "http://t.co/RyYI3KyRXc",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/RyYI3KyRXc",
+									"expanded_url": "http://www.citylab.com",
+									"display_url": "citylab.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 187658,
+					"friends_count": 855,
+					"listed_count": 6179,
+					"created_at": "Fri Jul 08 18:55:32 +0000 2011",
+					"favourites_count": 15807,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 67183,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/880068113957572608/n-Xpp4p__normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/880068113957572608/n-Xpp4p__normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/331803536/1498514360",
+					"profile_link_color": "0899C3",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 96,
+				"favorite_count": 265,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1920,
+			"favorite_count": 4655,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1014498361733472300,
+		"quoted_status_id_str": "1014498361733472257",
+		"retweet_count": 1920,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 05 13:35:01 +0000 2018",
+		"id": 1014865233196838900,
+		"id_str": "1014865233196838912",
+		"text": "RT @alexdnz: Realistic graphics are not impressive anymore and artstyle/direction is more valuable to a game's visuals https://t.co/lscaayT…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alexdnz",
+					"name": "Alex",
+					"id": 131344460,
+					"id_str": "131344460",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5919,
+			"friends_count": 893,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 40065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 04 16:38:25 +0000 2018",
+			"id": 1014548997405585400,
+			"id_str": "1014548997405585409",
+			"text": "Realistic graphics are not impressive anymore and artstyle/direction is more valuable to a game's visuals https://t.co/lscaayTViv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lscaayTViv",
+						"expanded_url": "https://twitter.com/pcgamer/status/1014499123326803969",
+						"display_url": "twitter.com/pcgamer/status…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 131344460,
+				"id_str": "131344460",
+				"name": "The tweet is not about Fortnite you dipshits",
+				"screen_name": "alexdnz",
+				"location": "Brazil",
+				"description": "videogames huehuehue",
+				"url": "https://t.co/MIbyfF4r3j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MIbyfF4r3j",
+								"expanded_url": "http://alexxdz.tumblr.com",
+								"display_url": "alexxdz.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2750,
+				"friends_count": 236,
+				"listed_count": 46,
+				"created_at": "Sat Apr 10 00:43:25 +0000 2010",
+				"favourites_count": 15881,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50999,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008444118828244992/4xRSt9Ti_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008444118828244992/4xRSt9Ti_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/131344460/1461509855",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1014499123326804000,
+			"quoted_status_id_str": "1014499123326803969",
+			"quoted_status": {
+				"created_at": "Wed Jul 04 13:20:14 +0000 2018",
+				"id": 1014499123326804000,
+				"id_str": "1014499123326803969",
+				"text": "What's the most unpopular gaming opinion you're willing to stand by? https://t.co/wTxgYLZOJe https://t.co/Tku9Ko5WSo",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/wTxgYLZOJe",
+							"expanded_url": "https://buff.ly/2NnJqI8",
+							"display_url": "buff.ly/2NnJqI8",
+							"indices": [
+								69,
+								92
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 1014499120097083400,
+							"id_str": "1014499120097083394",
+							"indices": [
+								93,
+								116
+							],
+							"media_url": "http://pbs.twimg.com/media/DhQ5kx5VQAIUw04.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DhQ5kx5VQAIUw04.jpg",
+							"url": "https://t.co/Tku9Ko5WSo",
+							"display_url": "pic.twitter.com/Tku9Ko5WSo",
+							"expanded_url": "https://twitter.com/pcgamer/status/1014499123326803969/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1014499120097083400,
+							"id_str": "1014499120097083394",
+							"indices": [
+								93,
+								116
+							],
+							"media_url": "http://pbs.twimg.com/media/DhQ5kx5VQAIUw04.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DhQ5kx5VQAIUw04.jpg",
+							"url": "https://t.co/Tku9Ko5WSo",
+							"display_url": "pic.twitter.com/Tku9Ko5WSo",
+							"expanded_url": "https://twitter.com/pcgamer/status/1014499123326803969/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 16736535,
+					"id_str": "16736535",
+					"name": "PC Gamer",
+					"screen_name": "pcgamer",
+					"location": "San Francisco, Bath & Sydney",
+					"description": "The global authority on PC games. Tweets from our US, UK, and AU editors.",
+					"url": "https://t.co/C4FGsPK7FD",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/C4FGsPK7FD",
+									"expanded_url": "http://www.pcgamer.com",
+									"display_url": "pcgamer.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1992147,
+					"friends_count": 77,
+					"listed_count": 5278,
+					"created_at": "Tue Oct 14 11:19:09 +0000 2008",
+					"favourites_count": 720,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 51191,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/877980023025803270/xntVDuTq_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/877980023025803270/xntVDuTq_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/16736535/1437671412",
+					"profile_link_color": "DC1E25",
+					"profile_sidebar_border_color": "939598",
+					"profile_sidebar_fill_color": "E6E6E6",
+					"profile_text_color": "000F18",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 263,
+				"favorite_count": 2438,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 18894,
+			"favorite_count": 78237,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1014499123326804000,
+		"quoted_status_id_str": "1014499123326803969",
+		"retweet_count": 18894,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 05 10:56:33 +0000 2018",
+		"id": 1014825354287026200,
+		"id_str": "1014825354287026176",
+		"text": "RT @andrewhfine: So this makes that article asking if we needed more millennial members of Congress seem pretty stupid. https://t.co/SvJgiI…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewhfine",
+					"name": "andrewhfine",
+					"id": 17159185,
+					"id_str": "17159185",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5919,
+			"friends_count": 893,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 40065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 05 00:35:09 +0000 2018",
+			"id": 1014668972225122300,
+			"id_str": "1014668972225122305",
+			"text": "So this makes that article asking if we needed more millennial members of Congress seem pretty stupid. https://t.co/SvJgiI9UHv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SvJgiI9UHv",
+						"expanded_url": "https://twitter.com/scottconger/status/1014169353934311430",
+						"display_url": "twitter.com/scottconger/st…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17159185,
+				"id_str": "17159185",
+				"name": "andrewhfine",
+				"screen_name": "andrewhfine",
+				"location": "Michigan, USA",
+				"description": "Lawyer by education, entrepreneur at heart. Interested in startups, CRE, and Michigan football. Advisor to @Fantelope + @Nitetables. Line leader since 1985.",
+				"url": "https://t.co/xM8dYLG29k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xM8dYLG29k",
+								"expanded_url": "https://www.linkedin.com/in/andrewhfine",
+								"display_url": "linkedin.com/in/andrewhfine",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 960,
+				"friends_count": 1756,
+				"listed_count": 81,
+				"created_at": "Tue Nov 04 15:56:54 +0000 2008",
+				"favourites_count": 4210,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14180,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D0DDE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458711847323963392/KhZSuw7s_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458711847323963392/KhZSuw7s_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17159185/1458579002",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1014169353934311400,
+			"quoted_status_id_str": "1014169353934311430",
+			"quoted_status": {
+				"created_at": "Tue Jul 03 15:29:50 +0000 2018",
+				"id": 1014169353934311400,
+				"id_str": "1014169353934311430",
+				"text": "Ages of the Founding Fathers on July 4, 1776:\nJames Monroe, 18\nAaron Burr, 20\nAlexander Hamilton, 21\nJames Madison,… https://t.co/eibgaUqTX8",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/eibgaUqTX8",
+							"expanded_url": "https://twitter.com/i/web/status/1014169353934311430",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 29831338,
+					"id_str": "29831338",
+					"name": "Scott Conger",
+					"screen_name": "ScottConger",
+					"location": "Jackson, TN",
+					"description": "Believer, Husband, Dad, Runner, @LiveUnitedTN President & @BethelUniv board member, former city councilman, status quo challenger, #JacksonTN",
+					"url": "https://t.co/Pe7TCBwfV2",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Pe7TCBwfV2",
+									"expanded_url": "http://www.facebook.com/scottconger731",
+									"display_url": "facebook.com/scottconger731",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2082,
+					"friends_count": 1791,
+					"listed_count": 20,
+					"created_at": "Wed Apr 08 21:49:14 +0000 2009",
+					"favourites_count": 2512,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 2740,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/962405385792577536/XvzQm4tP_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/962405385792577536/XvzQm4tP_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/29831338/1518290407",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "76c39f0faecc2198",
+					"url": "https://api.twitter.com/1.1/geo/id/76c39f0faecc2198.json",
+					"place_type": "city",
+					"name": "Jackson",
+					"full_name": "Jackson, TN",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-88.927948,
+									35.533842
+								],
+								[
+									-88.749242,
+									35.533842
+								],
+								[
+									-88.749242,
+									35.754808
+								],
+								[
+									-88.927948,
+									35.754808
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11392,
+				"favorite_count": 34383,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 19,
+			"favorite_count": 55,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1014169353934311400,
+		"quoted_status_id_str": "1014169353934311430",
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 05 02:35:42 +0000 2018",
 		"id": 1014699312314486800,
 		"id_str": "1014699312314486785",
