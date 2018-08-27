@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 27 02:14:28 +0000 2018",
+		"id": 1033900522699481100,
+		"id_str": "1033900522699481089",
+		"text": "RT @JasonLukehart: Jose Ramirez could lead the league in home runs and stolen bases, which is even more rare, and arguably much cooler, eve…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonLukehart",
+					"name": "Jason Lukehart",
+					"id": 291508008,
+					"id_str": "291508008",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4552,
+			"friends_count": 921,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 43232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 26 15:02:03 +0000 2018",
+			"id": 1033731305333243900,
+			"id_str": "1033731305333243904",
+			"text": "Jose Ramirez could lead the league in home runs and stolen bases, which is even more rare, and arguably much cooler… https://t.co/DIBpKsubKe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DIBpKsubKe",
+						"expanded_url": "https://twitter.com/i/web/status/1033731305333243904",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 291508008,
+				"id_str": "291508008",
+				"name": "Jason Lukehart",
+				"screen_name": "JasonLukehart",
+				"location": "Oak Park, IL",
+				"description": "Occasional baseball writer. Star Wars and Simpsons nerd. Inventor of the Maddux.",
+				"url": "http://t.co/HeUaCi0uUu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HeUaCi0uUu",
+								"expanded_url": "http://GroundBallWithEyes.blogspot.com",
+								"display_url": "GroundBallWithEyes.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1312,
+				"friends_count": 181,
+				"listed_count": 74,
+				"created_at": "Mon May 02 04:00:50 +0000 2011",
+				"favourites_count": 2642,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16291,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/344513261565314299/4d5a93eaa7cae7bf57b5083d10055552_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261565314299/4d5a93eaa7cae7bf57b5083d10055552_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1033720727122440200,
+			"quoted_status_id_str": "1033720727122440192",
+			"quoted_status": {
+				"created_at": "Sun Aug 26 14:20:01 +0000 2018",
+				"id": 1033720727122440200,
+				"id_str": "1033720727122440192",
+				"text": "J.D. Martinez is now two points up in the batting average race, leads the majors in RBI by seven, and is one homer… https://t.co/IVqnvJdwfW",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/IVqnvJdwfW",
+							"expanded_url": "https://twitter.com/i/web/status/1033720727122440192",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 16037600,
+					"id_str": "16037600",
+					"name": "Jesse Spector",
+					"screen_name": "jessespector",
+					"location": "Astoria, NY",
+					"description": "Feel like this should be more than a list of my regular gigs - @dealbreaker @guardian_sport @Rockies @JesseSpectorIs @LockedOnYankees @NJDevils - but what?",
+					"url": "https://t.co/PJch5lPEiU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/PJch5lPEiU",
+									"expanded_url": "http://facebook.com/writerjessespector",
+									"display_url": "facebook.com/writerjessespe…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 29963,
+					"friends_count": 959,
+					"listed_count": 1643,
+					"created_at": "Fri Aug 29 04:09:55 +0000 2008",
+					"favourites_count": 45707,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 265087,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1024867705986449408/s2EA6Lx3_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024867705986449408/s2EA6Lx3_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/16037600/1528170870",
+					"profile_link_color": "981CEB",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDFFCC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 30,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 14,
+			"favorite_count": 63,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1033720727122440200,
+		"quoted_status_id_str": "1033720727122440192",
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 27 01:23:55 +0000 2018",
+		"id": 1033887803527098400,
+		"id_str": "1033887803527098369",
+		"text": "Young Dozen Eggs https://t.co/6ghBnPo6HO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ghBnPo6HO",
+					"expanded_url": "https://twitter.com/worldstar/status/1033222941037588480",
+					"display_url": "twitter.com/worldstar/stat…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4552,
+			"friends_count": 921,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 43232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1033222941037588500,
+		"quoted_status_id_str": "1033222941037588480",
+		"quoted_status": {
+			"created_at": "Sat Aug 25 05:22:00 +0000 2018",
+			"id": 1033222941037588500,
+			"id_str": "1033222941037588480",
+			"text": "What’s your rap name? https://t.co/ATqpqEwt3Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1033222935681617900,
+						"id_str": "1033222935681617920",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/Dla-yScW0AAKfpA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dla-yScW0AAKfpA.jpg",
+						"url": "https://t.co/ATqpqEwt3Q",
+						"display_url": "pic.twitter.com/ATqpqEwt3Q",
+						"expanded_url": "https://twitter.com/WORLDSTAR/status/1033222941037588480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 580,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033222935681617900,
+						"id_str": "1033222935681617920",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/Dla-yScW0AAKfpA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dla-yScW0AAKfpA.jpg",
+						"url": "https://t.co/ATqpqEwt3Q",
+						"display_url": "pic.twitter.com/ATqpqEwt3Q",
+						"expanded_url": "https://twitter.com/WORLDSTAR/status/1033222941037588480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 580,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11912362,
+				"id_str": "11912362",
+				"name": "WORLDSTARHIPHOP",
+				"screen_name": "WORLDSTAR",
+				"location": "USA",
+				"description": "Instagram- @Worldstar Snap- @RealWorldstar FB/YT- /Worldstarhiphop Posters@Worldstarhiphop.com #WSHH",
+				"url": "https://t.co/uAiGL4iQ8F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uAiGL4iQ8F",
+								"expanded_url": "http://worldstarhiphop.com",
+								"display_url": "worldstarhiphop.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3227634,
+				"friends_count": 3128,
+				"listed_count": 6159,
+				"created_at": "Sun Jan 06 18:06:13 +0000 2008",
+				"favourites_count": 213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21676,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "999999",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/488738791511703552/cxf92nyL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/488738791511703552/cxf92nyL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11912362/1405360887",
+				"profile_link_color": "961D15",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1267,
+			"favorite_count": 8219,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 25 21:05:20 +0000 2018",
 		"id": 1033460339105521700,
 		"id_str": "1033460339105521667",
