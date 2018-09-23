@@ -1,6 +1,814 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sat Sep 22 20:15:17 +0000 2018",
+		"id": 1043594606322028500,
+		"id_str": "1043594606322028544",
+		"text": "RT @googoodolls: 'Dizzy Up the Girl' was released on this day in 1998! #dizzy20 https://t.co/m8tjhpnx8h https://t.co/d2p3uW7ii5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dizzy20",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "googoodolls",
+					"name": "Goo Goo Dolls",
+					"id": 17398854,
+					"id_str": "17398854",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m8tjhpnx8h",
+					"expanded_url": "http://smarturl.it/DizzySpotify",
+					"display_url": "smarturl.it/DizzySpotify",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1043540194354376700,
+					"id_str": "1043540194354376704",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DntmRyFVsAAv8wD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DntmRyFVsAAv8wD.jpg",
+					"url": "https://t.co/d2p3uW7ii5",
+					"display_url": "pic.twitter.com/d2p3uW7ii5",
+					"expanded_url": "https://twitter.com/googoodolls/status/1043540334855114753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043540334855114800,
+					"source_status_id_str": "1043540334855114753",
+					"source_user_id": 17398854,
+					"source_user_id_str": "17398854"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1043540194354376700,
+					"id_str": "1043540194354376704",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DntmRyFVsAAv8wD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DntmRyFVsAAv8wD.jpg",
+					"url": "https://t.co/d2p3uW7ii5",
+					"display_url": "pic.twitter.com/d2p3uW7ii5",
+					"expanded_url": "https://twitter.com/googoodolls/status/1043540334855114753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043540334855114800,
+					"source_status_id_str": "1043540334855114753",
+					"source_user_id": 17398854,
+					"source_user_id_str": "17398854"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4547,
+			"friends_count": 926,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 44411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 22 16:39:38 +0000 2018",
+			"id": 1043540334855114800,
+			"id_str": "1043540334855114753",
+			"text": "'Dizzy Up the Girl' was released on this day in 1998! #dizzy20 https://t.co/m8tjhpnx8h https://t.co/d2p3uW7ii5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dizzy20",
+						"indices": [
+							54,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/m8tjhpnx8h",
+						"expanded_url": "http://smarturl.it/DizzySpotify",
+						"display_url": "smarturl.it/DizzySpotify",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1043540194354376700,
+						"id_str": "1043540194354376704",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DntmRyFVsAAv8wD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DntmRyFVsAAv8wD.jpg",
+						"url": "https://t.co/d2p3uW7ii5",
+						"display_url": "pic.twitter.com/d2p3uW7ii5",
+						"expanded_url": "https://twitter.com/googoodolls/status/1043540334855114753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1043540194354376700,
+						"id_str": "1043540194354376704",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DntmRyFVsAAv8wD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DntmRyFVsAAv8wD.jpg",
+						"url": "https://t.co/d2p3uW7ii5",
+						"display_url": "pic.twitter.com/d2p3uW7ii5",
+						"expanded_url": "https://twitter.com/googoodolls/status/1043540334855114753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17398854,
+				"id_str": "17398854",
+				"name": "Goo Goo Dolls",
+				"screen_name": "googoodolls",
+				"location": "Buffalo, NY",
+				"description": "Tickets & VIP Packages for our 'Dizzy Up The Girl' 20th Anniversary Tour are on sale now. #dizzy20",
+				"url": "https://t.co/8VNT3gWriz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8VNT3gWriz",
+								"expanded_url": "http://www.googoodolls.com/tour",
+								"display_url": "googoodolls.com/tour",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141629,
+				"friends_count": 123,
+				"listed_count": 1773,
+				"created_at": "Sat Nov 15 00:07:02 +0000 2008",
+				"favourites_count": 2426,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4098,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DA4B07",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983373346858397698/jWh5aWOw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983373346858397698/jWh5aWOw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17398854/1523289470",
+				"profile_link_color": "098D80",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "94B1BF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 97,
+			"favorite_count": 390,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 22 14:04:54 +0000 2018",
+		"id": 1043501394806939600,
+		"id_str": "1043501394806939648",
+		"text": "RT @darenw: .@mlb home runs broken down by team and player. Showing pictures for 15+ home runs. https://t.co/a1DTAGTipt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "darenw",
+					"name": "Daren Willman",
+					"id": 14344140,
+					"id_str": "14344140",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "MLB",
+					"name": "MLB",
+					"id": 18479513,
+					"id_str": "18479513",
+					"indices": [
+						13,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1043477761342337000,
+					"id_str": "1043477761342337027",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Dnstfs_UcAMQeak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dnstfs_UcAMQeak.jpg",
+					"url": "https://t.co/a1DTAGTipt",
+					"display_url": "pic.twitter.com/a1DTAGTipt",
+					"expanded_url": "https://twitter.com/darenw/status/1043477930725335040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 957,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043477930725335000,
+					"source_status_id_str": "1043477930725335040",
+					"source_user_id": 14344140,
+					"source_user_id_str": "14344140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1043477761342337000,
+					"id_str": "1043477761342337027",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Dnstfs_UcAMQeak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dnstfs_UcAMQeak.jpg",
+					"url": "https://t.co/a1DTAGTipt",
+					"display_url": "pic.twitter.com/a1DTAGTipt",
+					"expanded_url": "https://twitter.com/darenw/status/1043477930725335040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 957,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043477930725335000,
+					"source_status_id_str": "1043477930725335040",
+					"source_user_id": 14344140,
+					"source_user_id_str": "14344140"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4547,
+			"friends_count": 926,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 44411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 22 12:31:40 +0000 2018",
+			"id": 1043477930725335000,
+			"id_str": "1043477930725335040",
+			"text": ".@mlb home runs broken down by team and player. Showing pictures for 15+ home runs. https://t.co/a1DTAGTipt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MLB",
+						"name": "MLB",
+						"id": 18479513,
+						"id_str": "18479513",
+						"indices": [
+							1,
+							5
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1043477761342337000,
+						"id_str": "1043477761342337027",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/Dnstfs_UcAMQeak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dnstfs_UcAMQeak.jpg",
+						"url": "https://t.co/a1DTAGTipt",
+						"display_url": "pic.twitter.com/a1DTAGTipt",
+						"expanded_url": "https://twitter.com/darenw/status/1043477930725335040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 318,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 957,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1043477761342337000,
+						"id_str": "1043477761342337027",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/Dnstfs_UcAMQeak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dnstfs_UcAMQeak.jpg",
+						"url": "https://t.co/a1DTAGTipt",
+						"display_url": "pic.twitter.com/a1DTAGTipt",
+						"expanded_url": "https://twitter.com/darenw/status/1043477930725335040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 318,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 957,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14344140,
+				"id_str": "14344140",
+				"name": "Daren Willman",
+				"screen_name": "darenw",
+				"location": "Houston, TX",
+				"description": "Director of ⚾ Research & Development for @MLB.  I created https://t.co/Iy411ah0rc + https://t.co/QEPTX2GX25 + https://t.co/3AqbLOeyz2 + https://t.co/w6vjTobjp1",
+				"url": "https://t.co/Iy411ah0rc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Iy411ah0rc",
+								"expanded_url": "http://baseballsavant.com",
+								"display_url": "baseballsavant.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Iy411ah0rc",
+								"expanded_url": "http://baseballsavant.com",
+								"display_url": "baseballsavant.com",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/QEPTX2GX25",
+								"expanded_url": "https://www.mlb.com/prospects/stats",
+								"display_url": "mlb.com/prospects/stats",
+								"indices": [
+									84,
+									107
+								]
+							},
+							{
+								"url": "https://t.co/3AqbLOeyz2",
+								"expanded_url": "http://nbasavant.com",
+								"display_url": "nbasavant.com",
+								"indices": [
+									110,
+									133
+								]
+							},
+							{
+								"url": "https://t.co/w6vjTobjp1",
+								"expanded_url": "http://nflsavant.com",
+								"display_url": "nflsavant.com",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63148,
+				"friends_count": 691,
+				"listed_count": 1669,
+				"created_at": "Wed Apr 09 18:34:26 +0000 2008",
+				"favourites_count": 6951,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23759,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481482763304841218/7h4av6_P_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481482763304841218/7h4av6_P_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14344140/1478203192",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 21 23:21:30 +0000 2018",
 		"id": 1043279081087950800,
 		"id_str": "1043279081087950852",
