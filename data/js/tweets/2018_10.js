@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 20:07:01 +0000 2018",
+		"id": 1050840282437210100,
+		"id_str": "1050840282437210112",
+		"full_text": "I'm not ready ❄️ https://t.co/yB977VnDHd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050840278502903800,
+					"id_str": "1050840278502903808",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DpVVqmvWkAAMv_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpVVqmvWkAAMv_f.jpg",
+					"url": "https://t.co/yB977VnDHd",
+					"display_url": "pic.twitter.com/yB977VnDHd",
+					"expanded_url": "https://twitter.com/Snoopy/status/1050840282437210112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050840278502903800,
+					"id_str": "1050840278502903808",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DpVVqmvWkAAMv_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpVVqmvWkAAMv_f.jpg",
+					"url": "https://t.co/yB977VnDHd",
+					"display_url": "pic.twitter.com/yB977VnDHd",
+					"expanded_url": "https://twitter.com/Snoopy/status/1050840282437210112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245548093,
+			"id_str": "245548093",
+			"name": "PEANUTS",
+			"screen_name": "Snoopy",
+			"location": "",
+			"description": "Follow Peanuts everywhere! \nInstagram: Snoopygrams / Snapchat: SnoopysSnaps / Facebook: Snoopy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 880379,
+			"friends_count": 46,
+			"listed_count": 4980,
+			"created_at": "Mon Jan 31 23:14:17 +0000 2011",
+			"favourites_count": 569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044942577437368322/KUQPixoD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044942577437368322/KUQPixoD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245548093/1537968721",
+			"profile_link_color": "005596",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFE600",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1032,
+		"favorite_count": 3206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm not ready ❄️ https://t.co/yB977VnDHd"
+	},
+	{
+		"created_at": "Fri Oct 12 12:23:19 +0000 2018",
+		"id": 1050723587890528300,
+		"id_str": "1050723587890528257",
+		"full_text": "Will Smith is the genie?!?!?! Now I'm excited https://t.co/hJ5tQBOfkv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hJ5tQBOfkv",
+					"expanded_url": "https://twitter.com/disneyaladdin/status/1050563653785640962",
+					"display_url": "twitter.com/disneyaladdin/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4893,
+			"friends_count": 934,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 45063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050563653785641000,
+		"quoted_status_id_str": "1050563653785640962",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hJ5tQBOfkv",
+			"expanded": "https://twitter.com/disneyaladdin/status/1050563653785640962",
+			"display": "twitter.com/disneyaladdin/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 12 01:47:48 +0000 2018",
+			"id": 1050563653785641000,
+			"id_str": "1050563653785640962",
+			"full_text": "Watch the teaser-trailer for Disney's #Aladdin. In theaters May 24th, 2019. https://t.co/srMXkM84kO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Aladdin",
+						"indices": [
+							38,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1050558613033345000,
+						"id_str": "1050558613033345024",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DpRV-y2UcAARViB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpRV-y2UcAARViB.jpg",
+						"url": "https://t.co/srMXkM84kO",
+						"display_url": "pic.twitter.com/srMXkM84kO",
+						"expanded_url": "https://twitter.com/disneyaladdin/status/1050563653785640962/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 282,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 849,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 497,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050558613033345000,
+						"id_str": "1050558613033345024",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DpRV-y2UcAARViB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpRV-y2UcAARViB.jpg",
+						"url": "https://t.co/srMXkM84kO",
+						"display_url": "pic.twitter.com/srMXkM84kO",
+						"expanded_url": "https://twitter.com/disneyaladdin/status/1050563653785640962/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 282,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 849,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 497,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								320,
+								133
+							],
+							"duration_millis": 87588,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1050558613033345024/vid/866x360/AeLAJKFh9odcjH04.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1050558613033345024/pl/FnCND9kc88pao8Dj.m3u8?tag=8"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1050558613033345024/vid/432x180/CFpV1DKRGdIZiwMm.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1050558613033345024/vid/1280x532/ucNqcLkddqvqS0Bq.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1050110401793257500,
+				"id_str": "1050110401793257472",
+				"name": "Disney’s Aladdin",
+				"screen_name": "disneyaladdin",
+				"location": "",
+				"description": "In theaters May 24, 2019",
+				"url": "https://t.co/FVcyA8cAMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FVcyA8cAMQ",
+								"expanded_url": "http://disney.com",
+								"display_url": "disney.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9206,
+				"friends_count": 4,
+				"listed_count": 39,
+				"created_at": "Wed Oct 10 19:46:44 +0000 2018",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1050565108781309953/ukw6VxmF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050565108781309953/ukw6VxmF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050110401793257472/1539218656",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64013,
+			"favorite_count": 126316,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Will Smith is the genie?!?!?! Now I'm excited https://t.co/hJ5tQBOfkv"
+	},
+	{
+		"created_at": "Thu Oct 11 20:56:14 +0000 2018",
+		"id": 1050490279462092800,
+		"id_str": "1050490279462092800",
+		"full_text": "David Ortiz batted .289 with a .543 SLG in the postseason. He batted .286 with a .552 SLG in the regular season.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 582286801,
+			"id_str": "582286801",
+			"name": "David Laurila",
+			"screen_name": "DavidLaurilaQA",
+			"location": "",
+			"description": "Baseball Writer, FanGraphs Q&A guy, Upper Peninsula native.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3265,
+			"friends_count": 494,
+			"listed_count": 219,
+			"created_at": "Thu May 17 00:12:28 +0000 2012",
+			"favourites_count": 1805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000738636307/eb6b4d5771ffca58e867645309d8f9ee_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000738636307/eb6b4d5771ffca58e867645309d8f9ee_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "David Ortiz batted .289 with a .543 SLG in the postseason. He batted .286 with a .552 SLG in the regular season."
+	},
+	{
 		"created_at": "Thu Oct 11 20:56:14 +0000 2018",
 		"id": 1050490279462092800,
 		"id_str": "1050490279462092800",
