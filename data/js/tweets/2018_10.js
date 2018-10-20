@@ -1,6 +1,717 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 21:23:17 +0000 2018",
+		"id": 1053396189469728800,
+		"id_str": "1053396189469728768",
+		"full_text": "No memory of Orioles in ALCS.  ConfusedGaldalf.gif https://t.co/1P2wwK6wM7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1P2wwK6wM7",
+					"expanded_url": "https://twitter.com/jacksontaigu/status/1053391343815454720",
+					"display_url": "twitter.com/jacksontaigu/s…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4882,
+			"friends_count": 933,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 45489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19433,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053391343815454700,
+		"quoted_status_id_str": "1053391343815454720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1P2wwK6wM7",
+			"expanded": "https://twitter.com/jacksontaigu/status/1053391343815454720",
+			"display": "twitter.com/jacksontaigu/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 19 21:04:02 +0000 2018",
+			"id": 1053391343815454700,
+			"id_str": "1053391343815454720",
+			"full_text": "Machado was on the 2014 Orioles that went to the ALCS @ian_mendes",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ian_mendes",
+						"name": "Ian Mendes",
+						"id": 74322237,
+						"id_str": "74322237",
+						"indices": [
+							54,
+							65
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 245470531,
+				"id_str": "245470531",
+				"name": "highpockets jackson",
+				"screen_name": "jacksontaigu",
+				"location": "",
+				"description": "I make that data talk. Card-Carrying Round Earther. RTs = re-tweets",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 306,
+				"friends_count": 741,
+				"listed_count": 12,
+				"created_at": "Mon Jan 31 19:33:34 +0000 2011",
+				"favourites_count": 865,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9670,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1038411508655562752/U4zwOrWt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038411508655562752/U4zwOrWt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/245470531/1490979809",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No memory of Orioles in ALCS.  ConfusedGaldalf.gif https://t.co/1P2wwK6wM7"
+	},
+	{
+		"created_at": "Fri Oct 19 12:10:51 +0000 2018",
+		"id": 1053257164834463700,
+		"id_str": "1053257164834463745",
+		"full_text": "2018 Playoff Hero Eric Gagne https://t.co/bGwdQYYcGv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bGwdQYYcGv",
+					"expanded_url": "https://twitter.com/jcmccaffrey/status/1053158789203996672",
+					"display_url": "twitter.com/jcmccaffrey/st…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21119272,
+			"id_str": "21119272",
+			"name": "OverTheMonster",
+			"screen_name": "OverTheMonster",
+			"location": "Boston, Massachusetts",
+			"description": "An unofficial Boston Red Sox blog. Tweets from Matt Collins and the occasional robot.",
+			"url": "https://t.co/3iNEMMat4o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3iNEMMat4o",
+							"expanded_url": "http://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15559,
+			"friends_count": 308,
+			"listed_count": 829,
+			"created_at": "Tue Feb 17 19:17:06 +0000 2009",
+			"favourites_count": 430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053158789203996700,
+		"quoted_status_id_str": "1053158789203996672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bGwdQYYcGv",
+			"expanded": "https://twitter.com/jcmccaffrey/status/1053158789203996672",
+			"display": "twitter.com/jcmccaffrey/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 19 05:39:56 +0000 2018",
+			"id": 1053158789203996700,
+			"id_str": "1053158789203996672",
+			"full_text": "Cora says they realized recently that Kimbrel was tipping his pitches. Kimbrel says he got a text from Cora’s close friend Eric Gagne last night who noticed something and wanted to pass it along to Kimbrel and LeVangie for them to work on.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106609417,
+				"id_str": "106609417",
+				"name": "Jen McCaffrey",
+				"screen_name": "jcmccaffrey",
+				"location": "Boston",
+				"description": "Red Sox beat writer for The Athletic (@TheAthleticBOS) | Syracuse grad | Apologies for the typos and bad jokes | jmccaffrey@theathletic.com",
+				"url": "https://t.co/4sHD5wjteW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4sHD5wjteW",
+								"expanded_url": "http://www.theathletic.com",
+								"display_url": "theathletic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14130,
+				"friends_count": 608,
+				"listed_count": 618,
+				"created_at": "Wed Jan 20 03:07:40 +0000 2010",
+				"favourites_count": 13653,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 36335,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783838272820740096/wKNhViw3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783838272820740096/wKNhViw3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106609417/1533234905",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 665,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 25,
+		"favorite_count": 148,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2018 Playoff Hero Eric Gagne https://t.co/bGwdQYYcGv"
+	},
+	{
+		"created_at": "Fri Oct 19 03:46:20 +0000 2018",
+		"id": 1053130201788543000,
+		"id_str": "1053130201788542982",
+		"full_text": "The Red Sox are going to the World Series! Thanks to David Price pitching the game of his life and a couple of clutch dingers, the Red Sox took the ALCS in five games! 🍾 🍾 🍾 https://t.co/ovVDhG9IPt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ovVDhG9IPt",
+					"expanded_url": "https://www.overthemonster.com/2018/10/18/17998546/red-sox-astros-alcs-game-5-pennant-david-price-nathan-eovaldi-jd-martinez-rafael-devers?utm_campaign=overthemonster&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2018/10/18/179…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21119272,
+			"id_str": "21119272",
+			"name": "OverTheMonster",
+			"screen_name": "OverTheMonster",
+			"location": "Boston, Massachusetts",
+			"description": "An unofficial Boston Red Sox blog. Tweets from Matt Collins and the occasional robot.",
+			"url": "https://t.co/3iNEMMat4o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3iNEMMat4o",
+							"expanded_url": "http://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15559,
+			"friends_count": 308,
+			"listed_count": 829,
+			"created_at": "Tue Feb 17 19:17:06 +0000 2009",
+			"favourites_count": 430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 212,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Red Sox are going to the World Series! Thanks to David Price pitching the game of his life and a couple of clutch dingers, the Red Sox took the ALCS in five games! 🍾 🍾 🍾 https://t.co/ovVDhG9IPt"
+	},
+	{
+		"created_at": "Fri Oct 19 03:43:22 +0000 2018",
+		"id": 1053129451331076100,
+		"id_str": "1053129451331076096",
+		"full_text": "Ladies and gents, YOUR 2018 AL CHAMPS! 🍾\n\n#DoDamage https://t.co/Xf4CbjtSs1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoDamage",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053116942435868700,
+					"id_str": "1053116942435868672",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dp1sR4zV4AAyC6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dp1sR4zV4AAyC6W.jpg",
+					"url": "https://t.co/Xf4CbjtSs1",
+					"display_url": "pic.twitter.com/Xf4CbjtSs1",
+					"expanded_url": "https://twitter.com/RedSox/status/1053129451331076096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053116942435868700,
+					"id_str": "1053116942435868672",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dp1sR4zV4AAyC6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dp1sR4zV4AAyC6W.jpg",
+					"url": "https://t.co/Xf4CbjtSs1",
+					"display_url": "pic.twitter.com/Xf4CbjtSs1",
+					"expanded_url": "https://twitter.com/RedSox/status/1053129451331076096/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dp1sR4zV4AAyC6W.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40918816,
+			"id_str": "40918816",
+			"name": "Boston Red Sox",
+			"screen_name": "RedSox",
+			"location": "Fenway Park",
+			"description": "Official feed of the 2018 AL Champs!",
+			"url": "https://t.co/vZY9MTDrc5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vZY9MTDrc5",
+							"expanded_url": "http://redsox.com",
+							"display_url": "redsox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2054281,
+			"friends_count": 189,
+			"listed_count": 10418,
+			"created_at": "Mon May 18 17:21:20 +0000 2009",
+			"favourites_count": 6378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 80235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "213117",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053130376548360192/unAu2iWp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053130376548360192/unAu2iWp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40918816/1539920823",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18089,
+		"favorite_count": 27819,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ladies and gents, YOUR 2018 AL CHAMPS! 🍾\n\n#DoDamage https://t.co/Xf4CbjtSs1"
+	},
+	{
 		"created_at": "Fri Oct 19 02:45:46 +0000 2018",
 		"id": 1053114959377379300,
 		"id_str": "1053114959377379333",
