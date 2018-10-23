@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 22 20:50:33 +0000 2018",
+		"id": 1054475114622922800,
+		"id_str": "1054475114622922753",
+		"full_text": "Fennell Rollins Jr. https://t.co/l46n0OI2nN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l46n0OI2nN",
+					"expanded_url": "https://twitter.com/capshower/status/1054378753760071680",
+					"display_url": "twitter.com/capshower/stat…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4882,
+			"friends_count": 933,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 45558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19435,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054378753760071700,
+		"quoted_status_id_str": "1054378753760071680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l46n0OI2nN",
+			"expanded": "https://twitter.com/capshower/status/1054378753760071680",
+			"display": "twitter.com/capshower/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 22 14:27:38 +0000 2018",
+			"id": 1054378753760071700,
+			"id_str": "1054378753760071680",
+			"full_text": "Ok.  Your Old White Republican Senator on the Judiciary Committee name is your freshman dorm, followed by the last name of someone who was nominated for Best Supporting Actor the year you were born, but didn't win.\n\nI'm McCollum Farnsworth!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 862030539729104900,
+				"id_str": "862030539729104897",
+				"name": "Shower Cap",
+				"screen_name": "CapShower",
+				"location": "Evanston, IL",
+				"description": "Chronicling the Insanity over at https://t.co/QAbRp4R3n9, in a Mask and Bathrobe for No Real Good Reason. Not standing still; lying in wait.",
+				"url": "https://t.co/QAbRp4R3n9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QAbRp4R3n9",
+								"expanded_url": "http://showercapblog.com",
+								"display_url": "showercapblog.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QAbRp4R3n9",
+								"expanded_url": "http://showercapblog.com",
+								"display_url": "showercapblog.com",
+								"indices": [
+									33,
+									56
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 885,
+				"friends_count": 393,
+				"listed_count": 11,
+				"created_at": "Tue May 09 19:44:31 +0000 2017",
+				"favourites_count": 9711,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15232,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905162965925679104/6-EQwN-L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905162965925679104/6-EQwN-L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/862030539729104897/1494957949",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 1044,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fennell Rollins Jr. https://t.co/l46n0OI2nN"
+	},
+	{
 		"created_at": "Sat Oct 20 15:30:29 +0000 2018",
 		"id": 1053669793679716400,
 		"id_str": "1053669793679716352",
