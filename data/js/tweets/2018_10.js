@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 30 18:55:59 +0000 2018",
+		"id": 1057345386719907800,
+		"id_str": "1057345386719907845",
+		"full_text": "Tony Graffanino https://t.co/OmErViNkVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OmErViNkVn",
+					"expanded_url": "https://twitter.com/paintingcorner/status/1057338503388913664",
+					"display_url": "twitter.com/paintingcorner…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4884,
+			"friends_count": 883,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 46312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1057338503388913700,
+		"quoted_status_id_str": "1057338503388913664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OmErViNkVn",
+			"expanded": "https://twitter.com/paintingcorner/status/1057338503388913664",
+			"display": "twitter.com/paintingcorner…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 30 18:28:38 +0000 2018",
+			"id": 1057338503388913700,
+			"id_str": "1057338503388913664",
+			"full_text": "Quote this tweet with the most random Royals player you can think of",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 831911196840300500,
+				"id_str": "831911196840300547",
+				"name": "Patrick Brennan",
+				"screen_name": "paintingcorner",
+				"location": "Overland Park, KS",
+				"description": "Founder of @RoyalsFarm // Writing and tweeting @BTBScore // Writing @dynastyguru",
+				"url": "https://t.co/9cI66IDU6m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9cI66IDU6m",
+								"expanded_url": "https://royalsfarmreport.com/",
+								"display_url": "royalsfarmreport.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1463,
+				"friends_count": 1262,
+				"listed_count": 43,
+				"created_at": "Wed Feb 15 17:01:00 +0000 2017",
+				"favourites_count": 8812,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11177,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029214614419136512/An6o3sR2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029214614419136512/An6o3sR2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/831911196840300547/1532389712",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "Tony Graffanino https://t.co/OmErViNkVn"
+	},
+	{
+		"created_at": "Tue Oct 30 17:05:24 +0000 2018",
+		"id": 1057317559161241600,
+		"id_str": "1057317559161241601",
+		"full_text": "Attorneys general\n\nCourts martial\n\nSergeants major\n\nPoets laureate\n\nNotaries public\n\nHeirs apparent\n\nhttps://t.co/yHelATuqOX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yHelATuqOX",
+					"expanded_url": "https://www.merriam-webster.com/video/is-it-attorney-generals-or-attorneys-general",
+					"display_url": "merriam-webster.com/video/is-it-at…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1057313930492686300,
+		"in_reply_to_status_id_str": "1057313930492686336",
+		"in_reply_to_user_id": 19729115,
+		"in_reply_to_user_id_str": "19729115",
+		"in_reply_to_screen_name": "PeterSokolowski",
+		"user": {
+			"id": 19729115,
+			"id_str": "19729115",
+			"name": "Peter Sokolowski",
+			"screen_name": "PeterSokolowski",
+			"location": "At the airport.",
+			"description": "Lexicographer @MerriamWebster. TIME's Best Twitter Feeds. Public radio jazz host @NEPRnet. Closet trumpet player. Dictionary ambassador.",
+			"url": "https://t.co/R4489fn6Hc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R4489fn6Hc",
+							"expanded_url": "http://merriam-webster.com",
+							"display_url": "merriam-webster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20751,
+			"friends_count": 1074,
+			"listed_count": 799,
+			"created_at": "Thu Jan 29 19:39:18 +0000 2009",
+			"favourites_count": 32816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "355185",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2290198681/xq42d5uw9d5utiyng3ct_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2290198681/xq42d5uw9d5utiyng3ct_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19729115/1398811959",
+			"profile_link_color": "0E1D42",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 401,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Attorneys general\n\nCourts martial\n\nSergeants major\n\nPoets laureate\n\nNotaries public\n\nHeirs apparent\n\nhttps://t.co/yHelATuqOX"
+	},
+	{
+		"created_at": "Tue Oct 30 11:51:26 +0000 2018",
+		"id": 1057238547118387200,
+		"id_str": "1057238547118387200",
+		"full_text": "Strong agree https://t.co/e4xrAssQ69",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4xrAssQ69",
+					"expanded_url": "https://twitter.com/susie_dent/status/1057178162399006720",
+					"display_url": "twitter.com/susie_dent/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4884,
+			"friends_count": 883,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 46312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1057178162399006700,
+		"quoted_status_id_str": "1057178162399006720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/e4xrAssQ69",
+			"expanded": "https://twitter.com/susie_dent/status/1057178162399006720",
+			"display": "twitter.com/susie_dent/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 30 07:51:29 +0000 2018",
+			"id": 1057178162399006700,
+			"id_str": "1057178162399006720",
+			"full_text": "This will be familiar to many, but I love the fact that Bluetooth technology owes its name to a 10th century ruler - one King Harald Bluetooth, who united Denmark and Norway. His nickname was thought appropriate for technology that brings devices together.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2870653293,
+				"id_str": "2870653293",
+				"name": "Susie Dent",
+				"screen_name": "susie_dent",
+				"location": "",
+				"description": "That woman in Dictionary Corner",
+				"url": "http://t.co/QF9IzT7giy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QF9IzT7giy",
+								"expanded_url": "http://www.unitedagents.co.uk",
+								"display_url": "unitedagents.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 324902,
+				"friends_count": 566,
+				"listed_count": 848,
+				"created_at": "Mon Nov 10 15:04:40 +0000 2014",
+				"favourites_count": 3250,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5943,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/531825590878228480/4s2F9F6W_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/531825590878228480/4s2F9F6W_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2870653293/1539414927",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2327,
+			"favorite_count": 9404,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Strong agree https://t.co/e4xrAssQ69"
+	},
+	{
+		"created_at": "Tue Oct 30 07:01:13 +0000 2018",
+		"id": 1057165508909453300,
+		"id_str": "1057165508909453312",
+		"full_text": "So it's too early to talk about 2019, right?\n\nWrong, it's survey time.\n\nWho do you think will win the 2019 World Series?\n\nRT to increase the sample size! We'll publish the results in a few weeks. \n\nhttps://t.co/BmQhH00fxO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BmQhH00fxO",
+					"expanded_url": "https://goo.gl/forms/WjP4RSLs5GzbJhSl1",
+					"display_url": "goo.gl/forms/WjP4RSLs…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714742674075611100,
+			"id_str": "714742674075611136",
+			"name": "Bat Flips and Nerds",
+			"screen_name": "batflips_nerds",
+			"location": "UK",
+			"description": "UK based baseball podcast and blog. Tweets by @epouvantail & @PedroiasFace. Subscribe on iTunes: https://t.co/3qfj54ylGu 🇬🇧⚾️",
+			"url": "https://t.co/x0U4NjPBGe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x0U4NjPBGe",
+							"expanded_url": "http://batflipsandnerds.com",
+							"display_url": "batflipsandnerds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3qfj54ylGu",
+							"expanded_url": "http://itun.es/gb/GQ3Ceb.c",
+							"display_url": "itun.es/gb/GQ3Ceb.c",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3227,
+			"friends_count": 983,
+			"listed_count": 45,
+			"created_at": "Tue Mar 29 09:15:07 +0000 2016",
+			"favourites_count": 8653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839948032170917890/IFjbPIqK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839948032170917890/IFjbPIqK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714742674075611136/1540496222",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So it's too early to talk about 2019, right?\n\nWrong, it's survey time.\n\nWho do you think will win the 2019 World Series?\n\nRT to increase the sample size! We'll publish the results in a few weeks. \n\nhttps://t.co/BmQhH00fxO"
+	},
+	{
 		"created_at": "Mon Oct 29 22:06:45 +0000 2018",
 		"id": 1057031007076077600,
 		"id_str": "1057031007076077568",
