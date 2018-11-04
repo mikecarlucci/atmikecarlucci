@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 03 10:57:17 +0000 2018",
+		"id": 1058674471580721200,
+		"id_str": "1058674471580721153",
+		"full_text": "What an amazing journey https://t.co/gH6RkZH4IV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gH6RkZH4IV",
+					"expanded_url": "https://twitter.com/maxfagin/status/1058062583511404545",
+					"display_url": "twitter.com/maxfagin/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4884,
+			"friends_count": 884,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 46413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19530,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058062583511404500,
+		"quoted_status_id_str": "1058062583511404545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gH6RkZH4IV",
+			"expanded": "https://twitter.com/maxfagin/status/1058062583511404545",
+			"display": "twitter.com/maxfagin/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 01 18:25:52 +0000 2018",
+			"id": 1058062583511404500,
+			"id_str": "1058062583511404545",
+			"full_text": "November is here, and that means a massive shift is coming. And by \"massive\" I am of course referring to the redefinition of the kilogram unit of mass that the world has been building up to for more than 100 years. Let me explain: https://t.co/FnOmq4dFTF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1058059541621796900,
+						"id_str": "1058059541621796864",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq77jBmUcAAj48k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq77jBmUcAAj48k.jpg",
+						"url": "https://t.co/FnOmq4dFTF",
+						"display_url": "pic.twitter.com/FnOmq4dFTF",
+						"expanded_url": "https://twitter.com/MaxFagin/status/1058062583511404545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1058059541621796900,
+						"id_str": "1058059541621796864",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq77jBmUcAAj48k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq77jBmUcAAj48k.jpg",
+						"url": "https://t.co/FnOmq4dFTF",
+						"display_url": "pic.twitter.com/FnOmq4dFTF",
+						"expanded_url": "https://twitter.com/MaxFagin/status/1058062583511404545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83237964,
+				"id_str": "83237964",
+				"name": "Max Fagin",
+				"screen_name": "MaxFagin",
+				"location": "Mountain View, CA",
+				"description": "Aerospace engineer, astronomer & pilot, specializing in Mars EDL, ISRU & traj design. Currently MadeInSpace, fmrly SpaceX, NASA Ames, Purdue, Dartmouth & Vassar",
+				"url": "https://t.co/aM7RdbCjcx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aM7RdbCjcx",
+								"expanded_url": "http://www.facebook.com/MaxFagin",
+								"display_url": "facebook.com/MaxFagin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5719,
+				"friends_count": 161,
+				"listed_count": 76,
+				"created_at": "Sat Oct 17 22:40:48 +0000 2009",
+				"favourites_count": 620,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1286,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/462717528335056896/QKCnlmbD_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/462717528335056896/QKCnlmbD_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83237964/1541027901",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28183,
+			"favorite_count": 54932,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What an amazing journey https://t.co/gH6RkZH4IV"
+	},
+	{
 		"created_at": "Thu Nov 01 18:52:24 +0000 2018",
 		"id": 1058069259576901600,
 		"id_str": "1058069259576901634",
