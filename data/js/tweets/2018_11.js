@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 04 21:48:44 +0000 2018",
+		"id": 1059200802307231700,
+		"id_str": "1059200802307231744",
+		"full_text": "CUT MY LIFE INTO PIECES\nTHIS IS A TINY HORSE https://t.co/1XviRITXPu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059200795776827400,
+					"id_str": "1059200795776827392",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DrMJgwoWwAANCYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrMJgwoWwAANCYX.jpg",
+					"url": "https://t.co/1XviRITXPu",
+					"display_url": "pic.twitter.com/1XviRITXPu",
+					"expanded_url": "https://twitter.com/annetdonahue/status/1059200802307231744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 605,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059200795776827400,
+					"id_str": "1059200795776827392",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DrMJgwoWwAANCYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrMJgwoWwAANCYX.jpg",
+					"url": "https://t.co/1XviRITXPu",
+					"display_url": "pic.twitter.com/1XviRITXPu",
+					"expanded_url": "https://twitter.com/annetdonahue/status/1059200802307231744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 605,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22419345,
+			"id_str": "22419345",
+			"name": "Anne T. Donahue",
+			"screen_name": "annetdonahue",
+			"location": "Cambridge/Toronto, Canada",
+			"description": "I wrote a book called Nobody Cares and get to write for a bunch of places I love. I'm also a big fan of the mall. annetdonahue@gmail.com",
+			"url": "https://t.co/osNn3ggUMa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/osNn3ggUMa",
+							"expanded_url": "http://tinyletter.com/annetdonahue",
+							"display_url": "tinyletter.com/annetdonahue",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50403,
+			"friends_count": 2086,
+			"listed_count": 794,
+			"created_at": "Sun Mar 01 23:03:16 +0000 2009",
+			"favourites_count": 105221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7A7171",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049093300731502596/kESN7z16_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049093300731502596/kESN7z16_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22419345/1488402970",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "261818",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 551,
+		"favorite_count": 3767,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CUT MY LIFE INTO PIECES\nTHIS IS A TINY HORSE https://t.co/1XviRITXPu"
+	},
+	{
 		"created_at": "Sun Nov 04 03:45:12 +0000 2018",
 		"id": 1058928118839328800,
 		"id_str": "1058928118839328768",
