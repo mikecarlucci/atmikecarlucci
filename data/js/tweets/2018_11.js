@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 07 07:21:27 +0000 2018",
+		"id": 1060069703580708900,
+		"id_str": "1060069703580708864",
+		"full_text": "Wishlist https://t.co/qKi86VFwGn https://t.co/DhIxSGs4DN https://t.co/AbezMLAD9O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qKi86VFwGn",
+					"expanded_url": "https://xkcd.com/2069/",
+					"display_url": "xkcd.com/2069/",
+					"indices": [
+						9,
+						32
+					]
+				},
+				{
+					"url": "https://t.co/DhIxSGs4DN",
+					"expanded_url": "https://m.xkcd.com/2069/",
+					"display_url": "m.xkcd.com/2069/",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060069700627914800,
+					"id_str": "1060069700627914752",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DrYfxrcU4AAtsxI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrYfxrcU4AAtsxI.jpg",
+					"url": "https://t.co/AbezMLAD9O",
+					"display_url": "pic.twitter.com/AbezMLAD9O",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1060069703580708864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 236,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 236,
+							"h": 418,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 236,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060069700627914800,
+					"id_str": "1060069700627914752",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DrYfxrcU4AAtsxI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrYfxrcU4AAtsxI.jpg",
+					"url": "https://t.co/AbezMLAD9O",
+					"display_url": "pic.twitter.com/AbezMLAD9O",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1060069703580708864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 236,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 236,
+							"h": 418,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 236,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2251623492,
+			"id_str": "2251623492",
+			"name": "XKCD Comic",
+			"screen_name": "xkcdComic",
+			"location": "",
+			"description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+			"url": "http://t.co/Tca90xyNDW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Tca90xyNDW",
+							"expanded_url": "http://xkcd.com",
+							"display_url": "xkcd.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 194012,
+			"friends_count": 1,
+			"listed_count": 2315,
+			"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 524,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wishlist https://t.co/qKi86VFwGn https://t.co/DhIxSGs4DN https://t.co/AbezMLAD9O"
+	},
+	{
 		"created_at": "Tue Nov 06 23:08:22 +0000 2018",
 		"id": 1059945617064108000,
 		"id_str": "1059945617064108033",
