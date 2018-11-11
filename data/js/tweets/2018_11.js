@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 10 18:15:36 +0000 2018",
+		"id": 1061321492426907600,
+		"id_str": "1061321492426907648",
+		"full_text": "Look familiar? https://t.co/84iFsKACQH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061321457060450300,
+					"id_str": "1061321457060450304",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DrqSPfiWkAA3fc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrqSPfiWkAA3fc_.jpg",
+					"url": "https://t.co/84iFsKACQH",
+					"display_url": "pic.twitter.com/84iFsKACQH",
+					"expanded_url": "https://twitter.com/TTABlog/status/1061321492426907648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061321457060450300,
+					"id_str": "1061321457060450304",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DrqSPfiWkAA3fc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrqSPfiWkAA3fc_.jpg",
+					"url": "https://t.co/84iFsKACQH",
+					"display_url": "pic.twitter.com/84iFsKACQH",
+					"expanded_url": "https://twitter.com/TTABlog/status/1061321492426907648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40980300,
+			"id_str": "40980300",
+			"name": "TTABlog",
+			"screen_name": "TTABlog",
+			"location": "Boston, MA",
+			"description": "Keeping Tabs on the TTAB",
+			"url": "http://t.co/wdZjJK99cZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wdZjJK99cZ",
+							"expanded_url": "http://www.ttablog.com",
+							"display_url": "ttablog.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4084,
+			"friends_count": 128,
+			"listed_count": 164,
+			"created_at": "Mon May 18 22:01:29 +0000 2009",
+			"favourites_count": 201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "112233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/238263103/JWelch_copy_4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/238263103/JWelch_copy_4_normal.jpg",
+			"profile_link_color": "335577",
+			"profile_sidebar_border_color": "335577",
+			"profile_sidebar_fill_color": "EEEECC",
+			"profile_text_color": "FF6600",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look familiar? https://t.co/84iFsKACQH"
+	},
+	{
 		"created_at": "Fri Nov 09 14:54:02 +0000 2018",
 		"id": 1060908375649738800,
 		"id_str": "1060908375649738754",
