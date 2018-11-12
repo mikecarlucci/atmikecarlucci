@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 17:04:03 +0000 2018",
+		"id": 1061665873302339600,
+		"id_str": "1061665873302339584",
+		"full_text": "A Door So Red and Rainy https://t.co/TTkyVdk7LJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TTkyVdk7LJ",
+					"expanded_url": "https://twitter.com/ellle_em/status/1061608392345747457",
+					"display_url": "twitter.com/ellle_em/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4533,
+			"friends_count": 882,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 46663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061608392345747500,
+		"quoted_status_id_str": "1061608392345747457",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TTkyVdk7LJ",
+			"expanded": "https://twitter.com/ellle_em/status/1061608392345747457",
+			"display": "twitter.com/ellle_em/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 11 13:15:39 +0000 2018",
+			"id": 1061608392345747500,
+			"id_str": "1061608392345747457",
+			"full_text": "WHAT IS THE TITLE OF YOUR NEXT YA FANTASY NOVEL?\n\nA [object closest to your left] so [color of your shirt] and [weather outside]",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835209278600450000,
+				"id_str": "835209278600450054",
+				"name": "🍂Elle🐈Gato🍂(they/them)",
+				"screen_name": "ellle_em",
+				"location": "Cadiz, Spain",
+				"description": "33. they/them. bisexual. historian. American in Spain. writer. I have a lot of cats. https://t.co/DsN79T94zN",
+				"url": "https://t.co/VO4RjCcwGs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VO4RjCcwGs",
+								"expanded_url": "https://gumroad.com/ellle_em",
+								"display_url": "gumroad.com/ellle_em",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/DsN79T94zN",
+								"expanded_url": "http://ko-fi.com/A177LT5",
+								"display_url": "ko-fi.com/A177LT5",
+								"indices": [
+									85,
+									108
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16196,
+				"friends_count": 7952,
+				"listed_count": 287,
+				"created_at": "Fri Feb 24 19:26:24 +0000 2017",
+				"favourites_count": 128643,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 71243,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054845701279150081/vmI010d8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054845701279150081/vmI010d8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835209278600450054/1540329787",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 605,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Door So Red and Rainy https://t.co/TTkyVdk7LJ"
+	},
+	{
+		"created_at": "Sat Nov 10 18:15:36 +0000 2018",
+		"id": 1061321492426907600,
+		"id_str": "1061321492426907648",
+		"full_text": "Look familiar? https://t.co/84iFsKACQH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061321457060450300,
+					"id_str": "1061321457060450304",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DrqSPfiWkAA3fc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrqSPfiWkAA3fc_.jpg",
+					"url": "https://t.co/84iFsKACQH",
+					"display_url": "pic.twitter.com/84iFsKACQH",
+					"expanded_url": "https://twitter.com/TTABlog/status/1061321492426907648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061321457060450300,
+					"id_str": "1061321457060450304",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DrqSPfiWkAA3fc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrqSPfiWkAA3fc_.jpg",
+					"url": "https://t.co/84iFsKACQH",
+					"display_url": "pic.twitter.com/84iFsKACQH",
+					"expanded_url": "https://twitter.com/TTABlog/status/1061321492426907648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40980300,
+			"id_str": "40980300",
+			"name": "TTABlog",
+			"screen_name": "TTABlog",
+			"location": "Boston, MA",
+			"description": "Keeping Tabs on the TTAB",
+			"url": "http://t.co/wdZjJK99cZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wdZjJK99cZ",
+							"expanded_url": "http://www.ttablog.com",
+							"display_url": "ttablog.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4085,
+			"friends_count": 128,
+			"listed_count": 165,
+			"created_at": "Mon May 18 22:01:29 +0000 2009",
+			"favourites_count": 201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "112233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/238263103/JWelch_copy_4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/238263103/JWelch_copy_4_normal.jpg",
+			"profile_link_color": "335577",
+			"profile_sidebar_border_color": "335577",
+			"profile_sidebar_fill_color": "EEEECC",
+			"profile_text_color": "FF6600",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look familiar? https://t.co/84iFsKACQH"
+	},
+	{
 		"created_at": "Sat Nov 10 18:15:36 +0000 2018",
 		"id": 1061321492426907600,
 		"id_str": "1061321492426907648",
