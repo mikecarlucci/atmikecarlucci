@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 12 22:08:09 +0000 2018",
+		"id": 1062104791642443800,
+		"id_str": "1062104791642443778",
+		"full_text": "Princess Diaries 2: Electric Boogaloo? https://t.co/LiEFvGSJXV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LiEFvGSJXV",
+					"expanded_url": "https://twitter.com/lynnkrmr/status/1062065988257095681",
+					"display_url": "twitter.com/lynnkrmr/statu…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4533,
+			"friends_count": 882,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 46674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062065988257095700,
+		"quoted_status_id_str": "1062065988257095681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LiEFvGSJXV",
+			"expanded": "https://twitter.com/lynnkrmr/status/1062065988257095681",
+			"display": "twitter.com/lynnkrmr/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 12 19:33:58 +0000 2018",
+			"id": 1062065988257095700,
+			"id_str": "1062065988257095681",
+			"full_text": "My favourite Stan Lee cameo of all times: Princess Diaries 2. Rest in peace and thank you for a fantastic universe. https://t.co/yKQVPkw9ew",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1062065983706333200,
+						"id_str": "1062065983706333184",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr03YpbXgAAuafi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr03YpbXgAAuafi.jpg",
+						"url": "https://t.co/yKQVPkw9ew",
+						"display_url": "pic.twitter.com/yKQVPkw9ew",
+						"expanded_url": "https://twitter.com/lynnkrmr/status/1062065988257095681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 293,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 293,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 293,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1062065983706333200,
+						"id_str": "1062065983706333184",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr03YpbXgAAuafi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr03YpbXgAAuafi.jpg",
+						"url": "https://t.co/yKQVPkw9ew",
+						"display_url": "pic.twitter.com/yKQVPkw9ew",
+						"expanded_url": "https://twitter.com/lynnkrmr/status/1062065988257095681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 293,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 293,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 293,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1003224345844572200,
+				"id_str": "1003224345844572160",
+				"name": "Lynn Kraemer",
+				"screen_name": "lynnkrmr",
+				"location": "",
+				"description": "Politik/Soziologie/Englisch. Geschichtenjunkie. Journalismus. Bonn.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 94,
+				"listed_count": 0,
+				"created_at": "Sun Jun 03 10:38:17 +0000 2018",
+				"favourites_count": 52,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1036379205985021952/dDlNN2xU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036379205985021952/dDlNN2xU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003224345844572160/1529243060",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 351,
+			"favorite_count": 1608,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Princess Diaries 2: Electric Boogaloo? https://t.co/LiEFvGSJXV"
+	},
+	{
+		"created_at": "Mon Nov 12 21:18:43 +0000 2018",
+		"id": 1062092347964620800,
+		"id_str": "1062092347964620802",
+		"full_text": "I didn't get to watch The Simpsons until college. https://t.co/frb3EzYCit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/frb3EzYCit",
+					"expanded_url": "https://twitter.com/theavclub/status/967549752492650496",
+					"display_url": "twitter.com/theavclub/stat…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4533,
+			"friends_count": 882,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 46674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 967549752492650500,
+		"quoted_status_id_str": "967549752492650496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/frb3EzYCit",
+			"expanded": "https://twitter.com/theavclub/status/967549752492650496",
+			"display": "twitter.com/theavclub/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 25 00:00:11 +0000 2018",
+			"id": 967549752492650500,
+			"id_str": "967549752492650496",
+			"full_text": "What’s the silliest time your parents banned a piece of pop culture from you? https://t.co/IbOrVR4LnO https://t.co/gikFdKcQO3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IbOrVR4LnO",
+						"expanded_url": "https://trib.al/5dWkeQ6",
+						"display_url": "trib.al/5dWkeQ6",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 967549749741129700,
+						"id_str": "967549749741129728",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DW1tXv_WkAAq285.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DW1tXv_WkAAq285.jpg",
+						"url": "https://t.co/gikFdKcQO3",
+						"display_url": "pic.twitter.com/gikFdKcQO3",
+						"expanded_url": "https://twitter.com/TheAVClub/status/967549752492650496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 967549749741129700,
+						"id_str": "967549749741129728",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DW1tXv_WkAAq285.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DW1tXv_WkAAq285.jpg",
+						"url": "https://t.co/gikFdKcQO3",
+						"display_url": "pic.twitter.com/gikFdKcQO3",
+						"expanded_url": "https://twitter.com/TheAVClub/status/967549752492650496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16027904,
+				"id_str": "16027904",
+				"name": "The A.V. Club",
+				"screen_name": "TheAVClub",
+				"location": "U.S.A.",
+				"description": "Pop culture obsessives writing for the pop culture obsessed.  @AV_Newswire | @AVCFilm | @AVTVClub | @AVCopyDesk | @TheTakeout | @DialMForMaple",
+				"url": "http://t.co/vDM9MFGQ66",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vDM9MFGQ66",
+								"expanded_url": "http://www.avclub.com/",
+								"display_url": "avclub.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 457390,
+				"friends_count": 1150,
+				"listed_count": 8813,
+				"created_at": "Thu Aug 28 15:07:34 +0000 2008",
+				"favourites_count": 8147,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 127635,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060186125518532608/j4E8Q31t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060186125518532608/j4E8Q31t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16027904/1478704224",
+				"profile_link_color": "1C263C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I didn't get to watch The Simpsons until college. https://t.co/frb3EzYCit"
+	},
+	{
 		"created_at": "Sun Nov 11 17:04:03 +0000 2018",
 		"id": 1061665873302339600,
 		"id_str": "1061665873302339584",
