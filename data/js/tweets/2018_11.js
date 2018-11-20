@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 19 18:26:24 +0000 2018",
+		"id": 1064585699888906200,
+		"id_str": "1064585699888906242",
+		"full_text": "Strong agree https://t.co/UlJtWBqhZb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UlJtWBqhZb",
+					"expanded_url": "https://twitter.com/kevincollier/status/1064585106118070273",
+					"display_url": "twitter.com/kevincollier/s…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4532,
+			"friends_count": 884,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 46652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19560,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064585106118070300,
+		"quoted_status_id_str": "1064585106118070273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UlJtWBqhZb",
+			"expanded": "https://twitter.com/kevincollier/status/1064585106118070273",
+			"display": "twitter.com/kevincollier/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 19 18:24:02 +0000 2018",
+			"id": 1064585106118070300,
+			"id_str": "1064585106118070273",
+			"full_text": "Honda's doing a marketing thing where it's pretending the Grinch hacked its Twitter and this is worse than Christmas music in October. I don't think there's any way to prosecute or sue the marketing team under the CFAA here but I'd love to be proven wrong. https://t.co/MeEuGSBzFS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1064585091110920200,
+						"id_str": "1064585091110920192",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/media/DsYqf_zX4AA5j81.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsYqf_zX4AA5j81.jpg",
+						"url": "https://t.co/MeEuGSBzFS",
+						"display_url": "pic.twitter.com/MeEuGSBzFS",
+						"expanded_url": "https://twitter.com/kevincollier/status/1064585106118070273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1064585091110920200,
+						"id_str": "1064585091110920192",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/media/DsYqf_zX4AA5j81.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsYqf_zX4AA5j81.jpg",
+						"url": "https://t.co/MeEuGSBzFS",
+						"display_url": "pic.twitter.com/MeEuGSBzFS",
+						"expanded_url": "https://twitter.com/kevincollier/status/1064585106118070273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1064585097960144900,
+						"id_str": "1064585097960144897",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/media/DsYqgZUWwAEyWkK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsYqgZUWwAEyWkK.jpg",
+						"url": "https://t.co/MeEuGSBzFS",
+						"display_url": "pic.twitter.com/MeEuGSBzFS",
+						"expanded_url": "https://twitter.com/kevincollier/status/1064585106118070273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1374,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 805,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 440963378,
+				"id_str": "440963378",
+				"name": "Kevin Collier",
+				"screen_name": "kevincollier",
+				"location": "NYC and DC",
+				"description": "BuzzFeed News cybersecurity correspondent. From West Virginia. Tip me! Email kevin.collier@buzzfeed.com & ask for my Signal. Or kcbf@xmpp.jp.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10483,
+				"friends_count": 2353,
+				"listed_count": 446,
+				"created_at": "Mon Dec 19 16:05:00 +0000 2011",
+				"favourites_count": 26228,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15513,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/502112896076087297/QqTT6YMe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/502112896076087297/QqTT6YMe_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/440963378/1501764759",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Strong agree https://t.co/UlJtWBqhZb"
+	},
+	{
+		"created_at": "Sat Nov 17 18:03:11 +0000 2018",
+		"id": 1063855080389075000,
+		"id_str": "1063855080389074944",
+		"full_text": "Hello, weekend internet denizens. Please consider adding your favorite piece you wrote this year to this list, and enjoy what others created as well:\n\nhttps://t.co/JDOHTLmlwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JDOHTLmlwU",
+					"expanded_url": "https://docs.google.com/spreadsheets/d/1Ta7ub2kWbh41KcNiT1UkP9Exo9RuoR8hmNQ3Vg-KdW0/edit?usp=sharing",
+					"display_url": "docs.google.com/spreadsheets/d…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173205456,
+			"id_str": "173205456",
+			"name": "Patrick Dubuque",
+			"screen_name": "euqubud",
+			"location": "Seattle, WA",
+			"description": "director of editorial content @baseballpro + editor of short relief",
+			"url": "https://t.co/hFPLLcjZme",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hFPLLcjZme",
+							"expanded_url": "http://www.baseballprospectus.com/",
+							"display_url": "baseballprospectus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4882,
+			"friends_count": 687,
+			"listed_count": 266,
+			"created_at": "Sat Jul 31 18:43:15 +0000 2010",
+			"favourites_count": 4289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30850,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775197527117135872/2z0JSnXs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775197527117135872/2z0JSnXs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/173205456/1356619501",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello, weekend internet denizens. Please consider adding your favorite piece you wrote this year to this list, and enjoy what others created as well:\n\nhttps://t.co/JDOHTLmlwU"
+	},
+	{
 		"created_at": "Sun Nov 18 16:17:55 +0000 2018",
 		"id": 1064190979660488700,
 		"id_str": "1064190979660488704",
