@@ -152,6 +152,205 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 43015,
+			"friends_count": 1405,
+			"listed_count": 1804,
+			"created_at": "Sat Oct 16 00:18:28 +0000 2010",
+			"favourites_count": 1526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7428,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826480742372872192/Oqvr42Ky_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826480742372872192/Oqvr42Ky_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/203307838/1542741552",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy birthday Mark Twain, born #onthisday in 1835. The best known of his books is Huckleberry Finn, not so well known is Jap Herron which, according to a woman named Emily Grant Hutchings, he dictated from beyond the grave via a ouija board... https://t.co/BA2R9FrhBW #OTD https://t.co/fNtdQp9LuJ"
+	},
+	{
+		"created_at": "Fri Nov 30 17:59:10 +0000 2018",
+		"id": 1068565113932836900,
+		"id_str": "1068565113932836866",
+		"full_text": "Happy birthday Mark Twain, born #onthisday in 1835. The best known of his books is Huckleberry Finn, not so well known is Jap Herron which, according to a woman named Emily Grant Hutchings, he dictated from beyond the grave via a ouija board... https://t.co/BA2R9FrhBW #OTD https://t.co/fNtdQp9LuJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onthisday",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"text": "OTD",
+					"indices": [
+						269,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BA2R9FrhBW",
+					"expanded_url": "https://publicdomainreview.org/collections/jap-herron-a-novel-written-from-the-ouija-board-1917/",
+					"display_url": "publicdomainreview.org/collections/ja…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068565070270083100,
+					"id_str": "1068565070270083072",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DtRORRjWsAA3fkw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtRORRjWsAA3fkw.jpg",
+					"url": "https://t.co/fNtdQp9LuJ",
+					"display_url": "pic.twitter.com/fNtdQp9LuJ",
+					"expanded_url": "https://twitter.com/PublicDomainRev/status/1068565113932836866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 786,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 786,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068565070270083100,
+					"id_str": "1068565070270083072",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DtRORRjWsAA3fkw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtRORRjWsAA3fkw.jpg",
+					"url": "https://t.co/fNtdQp9LuJ",
+					"display_url": "pic.twitter.com/fNtdQp9LuJ",
+					"expanded_url": "https://twitter.com/PublicDomainRev/status/1068565113932836866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 786,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 786,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 203307838,
+			"id_str": "203307838",
+			"name": "Public Domain Review",
+			"screen_name": "PublicDomainRev",
+			"location": "",
+			"description": "Online journal and cabinet of curiosities dedicated to showcasing the most beautiful and unusual out-of-copyright works available on the web.",
+			"url": "http://t.co/Hzr7n1zZS4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Hzr7n1zZS4",
+							"expanded_url": "http://publicdomainreview.org",
+							"display_url": "publicdomainreview.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 43007,
 			"friends_count": 1404,
 			"listed_count": 1809,
