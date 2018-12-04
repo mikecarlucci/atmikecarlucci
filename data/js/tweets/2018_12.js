@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 03 14:18:41 +0000 2018",
+		"id": 1069596790381572100,
+		"id_str": "1069596790381572096",
+		"full_text": "\"opting for fresh or frozen fish\" \nyes, much easier than using a can opener. 😂 https://t.co/fFaRNYmP1R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fFaRNYmP1R",
+					"expanded_url": "https://twitter.com/AlecMacGillis/status/1069585285820964865",
+					"display_url": "twitter.com/AlecMacGillis/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about baseball @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4532,
+			"friends_count": 891,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 46961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1069585285820964900,
+		"quoted_status_id_str": "1069585285820964865",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fFaRNYmP1R",
+			"expanded": "https://twitter.com/AlecMacGillis/status/1069585285820964865",
+			"display": "twitter.com/AlecMacGillis/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 03 13:32:58 +0000 2018",
+			"id": 1069585285820964900,
+			"id_str": "1069585285820964865",
+			"full_text": "Latest casualty of dread millennials: canned tuna! https://t.co/k1BBnlxlxM https://t.co/LYC7DH6jyr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k1BBnlxlxM",
+						"expanded_url": "https://www.wsj.com/articles/tuna-makers-look-to-hook-younger-consumers-1543766400",
+						"display_url": "wsj.com/articles/tuna-…",
+						"indices": [
+							51,
+							74
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1069585218581934100,
+						"id_str": "1069585218581934080",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DtfuFuKVsAAvvlO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtfuFuKVsAAvvlO.jpg",
+						"url": "https://t.co/LYC7DH6jyr",
+						"display_url": "pic.twitter.com/LYC7DH6jyr",
+						"expanded_url": "https://twitter.com/AlecMacGillis/status/1069585285820964865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1069585218581934100,
+						"id_str": "1069585218581934080",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DtfuFuKVsAAvvlO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtfuFuKVsAAvvlO.jpg",
+						"url": "https://t.co/LYC7DH6jyr",
+						"display_url": "pic.twitter.com/LYC7DH6jyr",
+						"expanded_url": "https://twitter.com/AlecMacGillis/status/1069585285820964865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 436925910,
+				"id_str": "436925910",
+				"name": "Alec MacGillis",
+				"screen_name": "AlecMacGillis",
+				"location": "Baltimore via Pittsfield, Mass",
+				"description": "Reporter @ProPublica. Author of The Cynic. \"Fear the day that a train no longer stirs you.\" alec.macgillis@propublica.org",
+				"url": "https://t.co/B8sq9TpffH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B8sq9TpffH",
+								"expanded_url": "http://www.propublica.org/site/author/alec_macgillis",
+								"display_url": "propublica.org/site/author/al…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63225,
+				"friends_count": 5438,
+				"listed_count": 1864,
+				"created_at": "Wed Dec 14 19:05:49 +0000 2011",
+				"favourites_count": 5710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33627,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042435587125518336/DZ3Vnpdk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042435587125518336/DZ3Vnpdk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/436925910/1536376368",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 194,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"opting for fresh or frozen fish\" \nyes, much easier than using a can opener. 😂 https://t.co/fFaRNYmP1R"
+	},
+	{
 		"created_at": "Sat Dec 01 18:03:28 +0000 2018",
 		"id": 1068928583937286100,
 		"id_str": "1068928583937286146",
