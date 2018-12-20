@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 19 18:05:10 +0000 2018",
+		"id": 1075451990979825700,
+		"id_str": "1075451990979825664",
+		"full_text": "Thirsty for more https://t.co/QceoW8ziNJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QceoW8ziNJ",
+					"expanded_url": "https://twitter.com/IncredibleCulk/status/1075435865218764800",
+					"display_url": "twitter.com/IncredibleCulk…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 882,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 47485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19641,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075435865218764800,
+		"quoted_status_id_str": "1075435865218764800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QceoW8ziNJ",
+			"expanded": "https://twitter.com/IncredibleCulk/status/1075435865218764800",
+			"display": "twitter.com/IncredibleCulk…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 19 17:01:05 +0000 2018",
+			"id": 1075435865218764800,
+			"id_str": "1075435865218764800",
+			"full_text": "#heygoogle Have you ever wondered what Kevin McCallister is like as an adult?  Me neither. But just in case you’re curious you should totally watch this #ad https://t.co/uO9qMPrUT3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "heygoogle",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "ad",
+						"indices": [
+							153,
+							156
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1075435738143936500,
+						"id_str": "1075435738143936513",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1075435738143936513/pu/img/f16hkLDJUbcScGk8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1075435738143936513/pu/img/f16hkLDJUbcScGk8.jpg",
+						"url": "https://t.co/uO9qMPrUT3",
+						"display_url": "pic.twitter.com/uO9qMPrUT3",
+						"expanded_url": "https://twitter.com/IncredibleCulk/status/1075435865218764800/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075435738143936500,
+						"id_str": "1075435738143936513",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1075435738143936513/pu/img/f16hkLDJUbcScGk8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1075435738143936513/pu/img/f16hkLDJUbcScGk8.jpg",
+						"url": "https://t.co/uO9qMPrUT3",
+						"display_url": "pic.twitter.com/uO9qMPrUT3",
+						"expanded_url": "https://twitter.com/IncredibleCulk/status/1075435865218764800/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 60060,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1075435738143936513/pu/pl/Ng30DYouLJFv6FCb.m3u8?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1075435738143936513/pu/vid/320x180/nQARuE0FqHeZhCnV.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1075435738143936513/pu/vid/640x360/lclb--JtMLi4nRf6.mp4?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1075435738143936513/pu/vid/1280x720/40cKL8i7oXmDz2-m.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 259540958,
+				"id_str": "259540958",
+				"name": "Macaulay Culkin",
+				"screen_name": "IncredibleCulk",
+				"location": "Heading to the corner for some",
+				"description": "Actor, Writer, Painter, Pizza Band Member, Podcaster, Friend of Nick Roth, and President of https://t.co/JiHt3nokva... Whoa! Is there nothing this kid CAN'T do?",
+				"url": "https://t.co/JiHt3nokva",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JiHt3nokva",
+								"expanded_url": "http://Bunnyears.com",
+								"display_url": "Bunnyears.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JiHt3nokva",
+								"expanded_url": "http://Bunnyears.com",
+								"display_url": "Bunnyears.com",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 190177,
+				"friends_count": 104,
+				"listed_count": 367,
+				"created_at": "Wed Mar 02 03:13:06 +0000 2011",
+				"favourites_count": 899,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1115,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968572702788239360/KL-zulbA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968572702788239360/KL-zulbA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/259540958/1542035688",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 108323,
+			"favorite_count": 260863,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thirsty for more https://t.co/QceoW8ziNJ"
+	},
+	{
 		"created_at": "Tue Dec 18 03:34:12 +0000 2018",
 		"id": 1074870417146503200,
 		"id_str": "1074870417146503169",
