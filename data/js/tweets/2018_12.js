@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 27 02:33:05 +0000 2018",
+		"id": 1078116529747705900,
+		"id_str": "1078116529747705858",
+		"full_text": "Mystery Team! Scott Boras probably knows who it is 😂 https://t.co/MdnMBSLCwF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MdnMBSLCwF",
+					"expanded_url": "https://twitter.com/robillard/status/1078033672983511040",
+					"display_url": "twitter.com/robillard/stat…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4530,
+			"friends_count": 881,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 47831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1078033672983511000,
+		"quoted_status_id_str": "1078033672983511040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MdnMBSLCwF",
+			"expanded": "https://twitter.com/robillard/status/1078033672983511040",
+			"display": "twitter.com/robillard/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 26 21:03:51 +0000 2018",
+			"id": 1078033672983511000,
+			"id_str": "1078033672983511040",
+			"full_text": "an imaginary democrat is leading the 2020 field\n\nhttps://t.co/WP12GAbO53 https://t.co/0x6JLbp1Ob",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WP12GAbO53",
+						"expanded_url": "https://www.usatoday.com/story/news/politics/2018/12/26/2020-democrats-usa-today-suffolk-university-poll/2399076002/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=usatodaycomwashington-topstories",
+						"display_url": "usatoday.com/story/news/pol…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1078033543723286500,
+						"id_str": "1078033543723286528",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DvXxy92VAAAyr24.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvXxy92VAAAyr24.jpg",
+						"url": "https://t.co/0x6JLbp1Ob",
+						"display_url": "pic.twitter.com/0x6JLbp1Ob",
+						"expanded_url": "https://twitter.com/Robillard/status/1078033672983511040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 920,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1082,
+								"h": 1412,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 521,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1078033543723286500,
+						"id_str": "1078033543723286528",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DvXxy92VAAAyr24.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvXxy92VAAAyr24.jpg",
+						"url": "https://t.co/0x6JLbp1Ob",
+						"display_url": "pic.twitter.com/0x6JLbp1Ob",
+						"expanded_url": "https://twitter.com/Robillard/status/1078033672983511040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 920,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1082,
+								"h": 1412,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 521,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 163589845,
+				"id_str": "163589845",
+				"name": "Kevin Robillard",
+				"screen_name": "Robillard",
+				"location": "DC",
+				"description": "Senior political reporter @HuffPostPol. Grew up @Politico and @thedbk. Maryland Terrapin, Massachusetts native. kevin.robillard@huffpost.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18847,
+				"friends_count": 2323,
+				"listed_count": 914,
+				"created_at": "Tue Jul 06 20:17:45 +0000 2010",
+				"favourites_count": 10228,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42286,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563784138394566656/HAWQQeJI_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563784138394566656/HAWQQeJI_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/163589845/1461015402",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 273,
+			"favorite_count": 870,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mystery Team! Scott Boras probably knows who it is 😂 https://t.co/MdnMBSLCwF"
+	},
+	{
+		"created_at": "Wed Dec 26 13:28:19 +0000 2018",
+		"id": 1077919034216202200,
+		"id_str": "1077919034216202240",
+		"full_text": "Finally another multi-sport athlete https://t.co/cY4gJRhc05",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cY4gJRhc05",
+					"expanded_url": "https://twitter.com/BotStove/status/1077905735672098816",
+					"display_url": "twitter.com/BotStove/statu…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4530,
+			"friends_count": 881,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 47831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077905735672098800,
+		"quoted_status_id_str": "1077905735672098816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cY4gJRhc05",
+			"expanded": "https://twitter.com/BotStove/status/1077905735672098816",
+			"display": "twitter.com/BotStove/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 26 12:35:28 +0000 2018",
+			"id": 1077905735672098800,
+			"id_str": "1077905735672098816",
+			"full_text": "Air Bud being pursued by LAA, and likely to go to them.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 501278854,
+				"id_str": "501278854",
+				"name": "Bot Stove",
+				"screen_name": "BotStove",
+				"location": "Hot Stove, USA",
+				"description": "Fiercely plausible MLB transaction rumors. Bot by @mkilly",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2372,
+				"friends_count": 100,
+				"listed_count": 69,
+				"created_at": "Fri Feb 24 00:13:34 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4140,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1071118395817496576/5AFNHt8F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071118395817496576/5AFNHt8F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/501278854/1544209501",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finally another multi-sport athlete https://t.co/cY4gJRhc05"
+	},
+	{
 		"created_at": "Wed Dec 26 01:25:05 +0000 2018",
 		"id": 1077737029855821800,
 		"id_str": "1077737029855821824",
