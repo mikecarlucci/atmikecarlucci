@@ -1,6 +1,893 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 29 02:34:16 +0000 2018",
+		"id": 1078841601605189600,
+		"id_str": "1078841601605189633",
+		"full_text": "@MelissaDeTora One of the best Rhode Island exports",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MelissaDeTora",
+					"name": "Melissa DeTora",
+					"id": 2251014355,
+					"id_str": "2251014355",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1078836277024239600,
+		"in_reply_to_status_id_str": "1078836277024239616",
+		"in_reply_to_user_id": 2251014355,
+		"in_reply_to_user_id_str": "2251014355",
+		"in_reply_to_screen_name": "MelissaDeTora",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4528,
+			"friends_count": 881,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 47908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MelissaDeTora One of the best Rhode Island exports"
+	},
+	{
+		"created_at": "Wed Dec 26 15:49:33 +0000 2018",
+		"id": 1077954577499074600,
+		"id_str": "1077954577499074560",
+		"full_text": "@FastCoIdeas Saying people are \"choosing\" to freelance is like saying people are \"choosing\" to play minor league baseball instead of in the big leagues.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FastCoIdeas",
+					"name": "Fast Co. Ideas",
+					"id": 280716675,
+					"id_str": "280716675",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1077770979886141400,
+		"in_reply_to_status_id_str": "1077770979886141447",
+		"in_reply_to_user_id": 280716675,
+		"in_reply_to_user_id_str": "280716675",
+		"in_reply_to_screen_name": "FastCoIdeas",
+		"user": {
+			"id": 2986640033,
+			"id_str": "2986640033",
+			"name": "Brandon Warne",
+			"screen_name": "Brandon_Warne",
+			"location": "roseau, mn ➡️twin cities ➡️❓",
+			"description": "Twins/MLB reporter @zonecoveragemn | NFL/CFB/CBB research @SportradarUS | Bylines: @1500espn @stribsports @fangraphs @theathleticmin @baseballpro + more",
+			"url": "https://t.co/crTjh8Q3pr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/crTjh8Q3pr",
+							"expanded_url": "https://zonecoverage.com/author/bwarne/",
+							"display_url": "zonecoverage.com/author/bwarne/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7001,
+			"friends_count": 2136,
+			"listed_count": 263,
+			"created_at": "Tue Jan 20 01:02:26 +0000 2015",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A913C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059191890950676480/9xSVzIKA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059191890950676480/9xSVzIKA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2986640033/1545019782",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@FastCoIdeas Saying people are \"choosing\" to freelance is like saying people are \"choosing\" to play minor league baseball instead of in the big leagues."
+	},
+	{
+		"created_at": "Wed Dec 26 16:17:58 +0000 2018",
+		"id": 1077961729609474000,
+		"id_str": "1077961729609474048",
+		"full_text": "\"increasingly deciding\" is a really weird way to put \"constantly getting laid off\" https://t.co/efWYQHIJ1L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/efWYQHIJ1L",
+					"expanded_url": "https://twitter.com/FastCoIdeas/status/1077770979886141447",
+					"display_url": "twitter.com/FastCoIdeas/st…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26344065,
+			"id_str": "26344065",
+			"name": "Jenna Amatulli",
+			"screen_name": "ohheyjenna",
+			"location": "New York, USA",
+			"description": "Reporter @huffpost. Alumna @FIT, @NYUniversity. Book hoarding New Yorker, rarely seen without eyeliner 💁🏻",
+			"url": "https://t.co/JPv31RrTgD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JPv31RrTgD",
+							"expanded_url": "http://instagram.com/ohheyjenna/",
+							"display_url": "instagram.com/ohheyjenna/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8496,
+			"friends_count": 1200,
+			"listed_count": 187,
+			"created_at": "Tue Mar 24 22:38:45 +0000 2009",
+			"favourites_count": 18895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067906831933001728/m5v5essM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067906831933001728/m5v5essM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26344065/1522082852",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077770979886141400,
+		"quoted_status_id_str": "1077770979886141447",
+		"quoted_status_permalink": {
+			"url": "https://t.co/efWYQHIJ1L",
+			"expanded": "https://twitter.com/FastCoIdeas/status/1077770979886141447",
+			"display": "twitter.com/FastCoIdeas/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 26 03:40:00 +0000 2018",
+			"id": 1077770979886141400,
+			"id_str": "1077770979886141447",
+			"full_text": "Millennials are now the largest demographic in the American workforce, and they’re increasingly deciding to freelance:\n\n42% now freelance, up from 38% in 2014. https://t.co/l4Dlz1vppg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/l4Dlz1vppg",
+						"expanded_url": "https://buff.ly/2DdutGY",
+						"display_url": "buff.ly/2DdutGY",
+						"indices": [
+							160,
+							183
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 280716675,
+				"id_str": "280716675",
+				"name": "Fast Co. Ideas",
+				"screen_name": "FastCoIdeas",
+				"location": "New York, NY",
+				"description": "Fast Company's Ideas section: World-changing ideas and innovation. We talk about the environment, energy, tech, food, health, transportation, and more.",
+				"url": "https://t.co/Oe006g6Dr6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Oe006g6Dr6",
+								"expanded_url": "http://www.fastcompany.com/ideas",
+								"display_url": "fastcompany.com/ideas",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 212752,
+				"friends_count": 859,
+				"listed_count": 6535,
+				"created_at": "Mon Apr 11 22:21:34 +0000 2011",
+				"favourites_count": 1115,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 59881,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875770532292997120/RI3dXD0d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875770532292997120/RI3dXD0d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/280716675/1527798667",
+				"profile_link_color": "A34A90",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "333333",
+				"profile_text_color": "999999",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1909,
+			"favorite_count": 4933,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 23,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"increasingly deciding\" is a really weird way to put \"constantly getting laid off\" https://t.co/efWYQHIJ1L"
+	},
+	{
+		"created_at": "Thu Dec 27 04:02:12 +0000 2018",
+		"id": 1078138953495203800,
+		"id_str": "1078138953495203842",
+		"full_text": "Brock Holt! \\o/ https://t.co/O4yzO8qNxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078138947073499100,
+					"id_str": "1078138947073499136",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DvZRqP7UYAA4uSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvZRqP7UYAA4uSh.jpg",
+					"url": "https://t.co/O4yzO8qNxX",
+					"display_url": "pic.twitter.com/O4yzO8qNxX",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1078138953495203842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1179,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1221,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078138947073499100,
+					"id_str": "1078138947073499136",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DvZRqP7UYAA4uSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvZRqP7UYAA4uSh.jpg",
+					"url": "https://t.co/O4yzO8qNxX",
+					"display_url": "pic.twitter.com/O4yzO8qNxX",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1078138953495203842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1179,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1221,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4528,
+			"friends_count": 881,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 47908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brock Holt! \\o/ https://t.co/O4yzO8qNxX"
+	},
+	{
+		"created_at": "Thu Dec 27 02:33:05 +0000 2018",
+		"id": 1078116529747705900,
+		"id_str": "1078116529747705858",
+		"full_text": "Mystery Team! Scott Boras probably knows who it is 😂 https://t.co/MdnMBSLCwF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MdnMBSLCwF",
+					"expanded_url": "https://twitter.com/robillard/status/1078033672983511040",
+					"display_url": "twitter.com/robillard/stat…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/rbUdKXqP9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbUdKXqP9q",
+							"expanded_url": "http://www.sbnation.com/users/mikecarlucci/blog",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4528,
+			"friends_count": 881,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 47908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1078033672983511000,
+		"quoted_status_id_str": "1078033672983511040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MdnMBSLCwF",
+			"expanded": "https://twitter.com/robillard/status/1078033672983511040",
+			"display": "twitter.com/robillard/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 26 21:03:51 +0000 2018",
+			"id": 1078033672983511000,
+			"id_str": "1078033672983511040",
+			"full_text": "an imaginary democrat is leading the 2020 field\n\nhttps://t.co/WP12GAbO53 https://t.co/0x6JLbp1Ob",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WP12GAbO53",
+						"expanded_url": "https://www.usatoday.com/story/news/politics/2018/12/26/2020-democrats-usa-today-suffolk-university-poll/2399076002/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=usatodaycomwashington-topstories",
+						"display_url": "usatoday.com/story/news/pol…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1078033543723286500,
+						"id_str": "1078033543723286528",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DvXxy92VAAAyr24.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvXxy92VAAAyr24.jpg",
+						"url": "https://t.co/0x6JLbp1Ob",
+						"display_url": "pic.twitter.com/0x6JLbp1Ob",
+						"expanded_url": "https://twitter.com/Robillard/status/1078033672983511040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 920,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1082,
+								"h": 1412,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 521,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1078033543723286500,
+						"id_str": "1078033543723286528",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DvXxy92VAAAyr24.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvXxy92VAAAyr24.jpg",
+						"url": "https://t.co/0x6JLbp1Ob",
+						"display_url": "pic.twitter.com/0x6JLbp1Ob",
+						"expanded_url": "https://twitter.com/Robillard/status/1078033672983511040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 920,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1082,
+								"h": 1412,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 521,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 163589845,
+				"id_str": "163589845",
+				"name": "Kevin Robillard",
+				"screen_name": "Robillard",
+				"location": "DC",
+				"description": "Senior political reporter @HuffPostPol. Grew up @Politico and @thedbk. Maryland Terrapin, Massachusetts native. kevin.robillard@huffpost.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18883,
+				"friends_count": 2326,
+				"listed_count": 914,
+				"created_at": "Tue Jul 06 20:17:45 +0000 2010",
+				"favourites_count": 10234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42293,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563784138394566656/HAWQQeJI_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563784138394566656/HAWQQeJI_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/163589845/1461015402",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 672,
+			"favorite_count": 2233,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mystery Team! Scott Boras probably knows who it is 😂 https://t.co/MdnMBSLCwF"
+	},
+	{
 		"created_at": "Wed Dec 26 15:49:33 +0000 2018",
 		"id": 1077954577499074600,
 		"id_str": "1077954577499074560",
