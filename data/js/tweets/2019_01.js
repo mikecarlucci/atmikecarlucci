@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 23:23:34 +0000 2019",
+		"id": 1081330326759268400,
+		"id_str": "1081330326759268352",
+		"full_text": "Ocarina of Time https://t.co/relpTUnk6O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/relpTUnk6O",
+					"expanded_url": "https://twitter.com/gailsimone/status/1081203776827011074",
+					"display_url": "twitter.com/gailsimone/sta…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4528,
+			"friends_count": 882,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19700,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081203776827011100,
+		"quoted_status_id_str": "1081203776827011074",
+		"quoted_status_permalink": {
+			"url": "https://t.co/relpTUnk6O",
+			"expanded": "https://twitter.com/gailsimone/status/1081203776827011074",
+			"display": "twitter.com/gailsimone/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 15:00:42 +0000 2019",
+			"id": 1081203776827011100,
+			"id_str": "1081203776827011074",
+			"full_text": "QUESTION OF THE DAY: You get to live for a week inside any video game reality. You live, you're safe, but you are inside that world. And you get to be the hero there. For seven days.\n\nWhich game do you pick?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16024323,
+				"id_str": "16024323",
+				"name": "GAIL SIMONE",
+				"screen_name": "GailSimone",
+				"location": "butt chip",
+				"description": "Writer of comics and animation, superhero guru at @lionforge, repped by Ari Lubet, alubet@3arts.com",
+				"url": "https://t.co/NsXB5FtsPh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NsXB5FtsPh",
+								"expanded_url": "http://gailsimone.tumblr.com",
+								"display_url": "gailsimone.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 120175,
+				"friends_count": 9822,
+				"listed_count": 3616,
+				"created_at": "Thu Aug 28 07:19:24 +0000 2008",
+				"favourites_count": 342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 228739,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDE4DD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1071812115340488705/mhiY6p95_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071812115340488705/mhiY6p95_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16024323/1544467738",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106,
+			"favorite_count": 759,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ocarina of Time https://t.co/relpTUnk6O"
+	},
+	{
+		"created_at": "Fri Jan 04 13:11:02 +0000 2019",
+		"id": 1081176178797563900,
+		"id_str": "1081176178797563906",
+		"full_text": "George Steinbrenner ceded day-to-day control of the team to his sons in 2007. Say what you want about The Boss (and I will and have), but he put his profits back into the team in a way Hal and Hank have not. https://t.co/8d4VlY18QB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8d4VlY18QB",
+					"expanded_url": "https://twitter.com/Pretefunkera/status/1080945217140871168",
+					"display_url": "twitter.com/Pretefunkera/s…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65569176,
+			"id_str": "65569176",
+			"name": "Cliff Corcoran",
+			"screen_name": "CliffCorcoran",
+			"location": "New Jersey",
+			"description": "I write about baseball for The Athletic. Formerly SI .com, Sports on Earth, more. Will obsess about music, movies, uniforms & baseball cards. Full-time father.",
+			"url": "https://t.co/uyLygYWbac",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uyLygYWbac",
+							"expanded_url": "http://cliffcorcoran.com",
+							"display_url": "cliffcorcoran.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4894,
+			"friends_count": 1125,
+			"listed_count": 497,
+			"created_at": "Fri Aug 14 05:18:09 +0000 2009",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793335648820334594/xoHzq6qD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793335648820334594/xoHzq6qD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65569176/1453358009",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1080945217140871200,
+		"quoted_status_id_str": "1080945217140871168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8d4VlY18QB",
+			"expanded": "https://twitter.com/Pretefunkera/status/1080945217140871168",
+			"display": "twitter.com/Pretefunkera/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 03 21:53:17 +0000 2019",
+			"id": 1080945217140871200,
+			"id_str": "1080945217140871168",
+			"full_text": "@JoezMcfLy Seriously https://t.co/UJjijaLI92",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				20
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JoezMcfLy",
+						"name": "JoezMcfly🇩🇴",
+						"id": 32476610,
+						"id_str": "32476610",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1080945187671691300,
+						"id_str": "1080945187671691264",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DwBJ68zW0AAlo-2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwBJ68zW0AAlo-2.jpg",
+						"url": "https://t.co/UJjijaLI92",
+						"display_url": "pic.twitter.com/UJjijaLI92",
+						"expanded_url": "https://twitter.com/Pretefunkera/status/1080945217140871168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 999,
+								"h": 524,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 999,
+								"h": 524,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1080945187671691300,
+						"id_str": "1080945187671691264",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DwBJ68zW0AAlo-2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwBJ68zW0AAlo-2.jpg",
+						"url": "https://t.co/UJjijaLI92",
+						"display_url": "pic.twitter.com/UJjijaLI92",
+						"expanded_url": "https://twitter.com/Pretefunkera/status/1080945217140871168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 999,
+								"h": 524,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 999,
+								"h": 524,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1080942896453439500,
+			"in_reply_to_status_id_str": "1080942896453439488",
+			"in_reply_to_user_id": 32476610,
+			"in_reply_to_user_id_str": "32476610",
+			"in_reply_to_screen_name": "JoezMcfLy",
+			"user": {
+				"id": 70095723,
+				"id_str": "70095723",
+				"name": "Funkasaurus",
+				"screen_name": "Pretefunkera",
+				"location": "New Jersey, USA",
+				"description": "Yankees, Politics, & Wrestling. Pronounces GIF with a HARD G. Pro Oxford Comma. Dev best friend, bug tester extraordinaire. Front/Back end breaker. Buffy Stan.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 821,
+				"friends_count": 3494,
+				"listed_count": 35,
+				"created_at": "Sun Aug 30 10:29:10 +0000 2009",
+				"favourites_count": 16775,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18927,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2700630386/1c60882591894be2f7ae93322c9ecfbf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2700630386/1c60882591894be2f7ae93322c9ecfbf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70095723/1488948905",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 79,
+			"favorite_count": 180,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 69,
+		"favorite_count": 165,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "George Steinbrenner ceded day-to-day control of the team to his sons in 2007. Say what you want about The Boss (and I will and have), but he put his profits back into the team in a way Hal and Hank have not. https://t.co/8d4VlY18QB"
+	},
+	{
 		"created_at": "Thu Jan 03 00:01:59 +0000 2019",
 		"id": 1080615217959194600,
 		"id_str": "1080615217959194624",
