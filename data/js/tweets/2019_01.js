@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 13 23:52:25 +0000 2019",
+		"id": 1084599078443352000,
+		"id_str": "1084599078443352065",
+		"full_text": "Whatever Kyler Murray picks, how about baseball uses this is a moment to realize it ought to pay minor leaguers at least a livable wage? Not just in special cases.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14702626,
+			"id_str": "14702626",
+			"name": "Mike Oz",
+			"screen_name": "mikeoz",
+			"location": "Fresno, the Taco Capital",
+			"description": "@yahoosports MLB writer/editor/talker. #OldBaseballCards host. Side hustles at @newrock1041, @fresnotacos & @tacosbrewsjams. Raised on Bay Area hip-hop.",
+			"url": "https://t.co/t8RhUVklX1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t8RhUVklX1",
+							"expanded_url": "http://sports.yahoo.com/blogs/mlb-big-league-stew/",
+							"display_url": "sports.yahoo.com/blogs/mlb-big-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18313,
+			"friends_count": 2524,
+			"listed_count": 519,
+			"created_at": "Thu May 08 16:58:40 +0000 2008",
+			"favourites_count": 1264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 76423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F7F9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073449114363281408/lW9_OX4o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073449114363281408/lW9_OX4o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14702626/1544033292",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 845,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Whatever Kyler Murray picks, how about baseball uses this is a moment to realize it ought to pay minor leaguers at least a livable wage? Not just in special cases."
+	},
+	{
+		"created_at": "Sun Jan 13 19:54:18 +0000 2019",
+		"id": 1084539154535538700,
+		"id_str": "1084539154535538694",
+		"full_text": "@baetog_ @MTG_Lexicon Graceful Antelope, Plains Guardian",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baetog_",
+					"name": "Rachel Agnes",
+					"id": 3642525558,
+					"id_str": "3642525558",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "MTG_Lexicon",
+					"name": "MTG_Lexicon",
+					"id": 4670894960,
+					"id_str": "4670894960",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1084533638346158100,
+		"in_reply_to_status_id_str": "1084533638346158080",
+		"in_reply_to_user_id": 3642525558,
+		"in_reply_to_user_id_str": "3642525558",
+		"in_reply_to_screen_name": "baetog_",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 887,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19724,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@baetog_ @MTG_Lexicon Graceful Antelope, Plains Guardian"
+	},
+	{
+		"created_at": "Sun Jan 13 17:55:38 +0000 2019",
+		"id": 1084509290126295000,
+		"id_str": "1084509290126295043",
+		"full_text": "Stuff like this why I'm online https://t.co/o1nbFdL9Dp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o1nbFdL9Dp",
+					"expanded_url": "https://twitter.com/sistercelluloid/status/1084241783054393345",
+					"display_url": "twitter.com/sistercelluloi…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 887,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19724,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084241783054393300,
+		"quoted_status_id_str": "1084241783054393345",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o1nbFdL9Dp",
+			"expanded": "https://twitter.com/sistercelluloid/status/1084241783054393345",
+			"display": "twitter.com/sistercelluloi…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 13 00:12:39 +0000 2019",
+			"id": 1084241783054393300,
+			"id_str": "1084241783054393345",
+			"full_text": "Approach with caution. Or with a giant anvil. #TCMParty https://t.co/amK9DIF7bs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TCMParty",
+						"indices": [
+							46,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1084241781443752000,
+						"id_str": "1084241781443751936",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DwwAJ9mXcAA6h3I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwwAJ9mXcAA6h3I.jpg",
+						"url": "https://t.co/amK9DIF7bs",
+						"display_url": "pic.twitter.com/amK9DIF7bs",
+						"expanded_url": "https://twitter.com/sistercelluloid/status/1084241783054393345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 548,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 619,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 619,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1084241781443752000,
+						"id_str": "1084241781443751936",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DwwAJ9mXcAA6h3I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwwAJ9mXcAA6h3I.jpg",
+						"url": "https://t.co/amK9DIF7bs",
+						"display_url": "pic.twitter.com/amK9DIF7bs",
+						"expanded_url": "https://twitter.com/sistercelluloid/status/1084241783054393345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 548,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 619,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 619,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1845439525,
+				"id_str": "1845439525",
+				"name": "Sister Celluloid",
+				"screen_name": "sistercelluloid",
+				"location": "Where old movies go to live",
+				"description": "Writer, editor, founder of the classic film website http://t.co/1uWFBUz6UB. In love with old movies and the people who made them. Do you share this love affair?",
+				"url": "http://t.co/0GAp4GsMYM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0GAp4GsMYM",
+								"expanded_url": "http://www.sistercelluloid.com",
+								"display_url": "sistercelluloid.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/1uWFBUz6UB",
+								"expanded_url": "http://sistercelluloid.com",
+								"display_url": "sistercelluloid.com",
+								"indices": [
+									52,
+									74
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3372,
+				"friends_count": 2380,
+				"listed_count": 72,
+				"created_at": "Mon Sep 09 12:54:55 +0000 2013",
+				"favourites_count": 3385,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8995,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/474328709390819328/EoBZq42z_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/474328709390819328/EoBZq42z_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1845439525/1401923653",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stuff like this why I'm online https://t.co/o1nbFdL9Dp"
+	},
+	{
 		"created_at": "Fri Jan 11 17:22:42 +0000 2019",
 		"id": 1083776226567831600,
 		"id_str": "1083776226567831553",
