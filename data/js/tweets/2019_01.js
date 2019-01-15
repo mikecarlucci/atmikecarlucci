@@ -1,6 +1,1506 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 18:45:19 +0000 2019",
+		"id": 1084884179853160400,
+		"id_str": "1084884179853160448",
+		"full_text": "Of course @reCAPTCHA had other ideas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reCAPTCHA",
+					"name": "reCAPTCHA",
+					"id": 62395356,
+					"id_str": "62395356",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1084883909475790800,
+		"in_reply_to_status_id_str": "1084883909475790848",
+		"in_reply_to_user_id": 90161583,
+		"in_reply_to_user_id_str": "90161583",
+		"in_reply_to_screen_name": "mikecarlucci",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 887,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Of course @reCAPTCHA had other ideas"
+	},
+	{
+		"created_at": "Mon Jan 14 18:44:14 +0000 2019",
+		"id": 1084883909475790800,
+		"id_str": "1084883909475790848",
+		"full_text": "ce n'est pas un vélo https://t.co/tqcYkeE3Au",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084883505966972900,
+					"id_str": "1084883505966972928",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw5HzPvXgAAs8wT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw5HzPvXgAAs8wT.jpg",
+					"url": "https://t.co/tqcYkeE3Au",
+					"display_url": "pic.twitter.com/tqcYkeE3Au",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1084883909475790848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 391,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 391,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 391,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084883505966972900,
+					"id_str": "1084883505966972928",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw5HzPvXgAAs8wT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw5HzPvXgAAs8wT.jpg",
+					"url": "https://t.co/tqcYkeE3Au",
+					"display_url": "pic.twitter.com/tqcYkeE3Au",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1084883909475790848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 391,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 391,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 391,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 887,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "ce n'est pas un vélo https://t.co/tqcYkeE3Au"
+	},
+	{
+		"created_at": "Mon Jan 14 17:16:35 +0000 2019",
+		"id": 1084861848288194600,
+		"id_str": "1084861848288194565",
+		"full_text": "What is Mr. Holland's OPS? https://t.co/ddroc1Ksqr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ddroc1Ksqr",
+					"expanded_url": "https://twitter.com/Ken_Rosenthal/status/1084861467059515392",
+					"display_url": "twitter.com/Ken_Rosenthal/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166302087,
+			"id_str": "166302087",
+			"name": "Max T. Power 🛠️",
+			"screen_name": "Max_thePower",
+			"location": "",
+			"description": "Only cops read bios. - Seriously, if this an officer of the law or an FBI agent, that tweet was OBVIOUSLY a joke.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1281,
+			"friends_count": 898,
+			"listed_count": 30,
+			"created_at": "Tue Jul 13 20:39:21 +0000 2010",
+			"favourites_count": 90402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63997,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074755472887029760/ZPqVB4oW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074755472887029760/ZPqVB4oW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166302087/1546526035",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084861467059515400,
+		"quoted_status_id_str": "1084861467059515392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ddroc1Ksqr",
+			"expanded": "https://twitter.com/Ken_Rosenthal/status/1084861467059515392",
+			"display": "twitter.com/Ken_Rosenthal/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 14 17:15:04 +0000 2019",
+			"id": 1084861467059515400,
+			"id_str": "1084861467059515392",
+			"full_text": "Derek Holland signs with #SFGiants, per source: One year, $7M, with club option.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SFGiants",
+						"indices": [
+							25,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90959399,
+				"id_str": "90959399",
+				"name": "Ken Rosenthal",
+				"screen_name": "Ken_Rosenthal",
+				"location": "New York",
+				"description": "MLB on FOX reporter; senior writer, The Athletic; https://t.co/j3cpqdPag4 contributor; MLB Network insider. Facebook: kenrosenthalsports. Height: 5-4 1/2",
+				"url": "https://t.co/z3QBUDCNtX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z3QBUDCNtX",
+								"expanded_url": "http://TheAthletic.com/author/53289/",
+								"display_url": "TheAthletic.com/author/53289/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/j3cpqdPag4",
+								"expanded_url": "http://FOXSports.com",
+								"display_url": "FOXSports.com",
+								"indices": [
+									50,
+									73
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1005365,
+				"friends_count": 417,
+				"listed_count": 16297,
+				"created_at": "Wed Nov 18 21:10:47 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 67277,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/545915462609932288/X_vDhHiE_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/545915462609932288/X_vDhHiE_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 232,
+			"favorite_count": 705,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What is Mr. Holland's OPS? https://t.co/ddroc1Ksqr"
+	},
+	{
+		"created_at": "Mon Jan 14 13:57:11 +0000 2019",
+		"id": 1084811671506440200,
+		"id_str": "1084811671506440192",
+		"full_text": "Romanian Council Presidency has sent new proposal to governments on #Article13: Still includes staydown. It should be legal to upload memes you created yourself, but you’re not allowed to share somebody else’s meme. Have they understood the point of memes? https://t.co/kNz5iJhD1m https://t.co/HHhYjrKVrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Article13",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kNz5iJhD1m",
+					"expanded_url": "https://www.politico.eu/wp-content/uploads/2019/01/SPOLITICO-19011414270-1.pdf",
+					"display_url": "politico.eu/wp-content/upl…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084811617488027600,
+					"id_str": "1084811617488027648",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dw4GaySXQAA8Mca.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dw4GaySXQAA8Mca.jpg",
+					"url": "https://t.co/HHhYjrKVrT",
+					"display_url": "pic.twitter.com/HHhYjrKVrT",
+					"expanded_url": "https://twitter.com/Senficon/status/1084811671506440192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084811617488027600,
+					"id_str": "1084811617488027648",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dw4GaySXQAA8Mca.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dw4GaySXQAA8Mca.jpg",
+					"url": "https://t.co/HHhYjrKVrT",
+					"display_url": "pic.twitter.com/HHhYjrKVrT",
+					"expanded_url": "https://twitter.com/Senficon/status/1084811671506440192/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dw4GaySXQAA8Mca.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14861745,
+			"id_str": "14861745",
+			"name": "Julia Reda",
+			"screen_name": "Senficon",
+			"location": "Europe",
+			"description": "MEP for @Piratenpartei and the European Pirate Party (PPEU) | Vice-Chair of @GreensEP group",
+			"url": "https://t.co/MZuu3rxMEA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MZuu3rxMEA",
+							"expanded_url": "http://juliareda.eu",
+							"display_url": "juliareda.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37987,
+			"friends_count": 3727,
+			"listed_count": 1264,
+			"created_at": "Wed May 21 21:15:36 +0000 2008",
+			"favourites_count": 16451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 363,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Romanian Council Presidency has sent new proposal to governments on #Article13: Still includes staydown. It should be legal to upload memes you created yourself, but you’re not allowed to share somebody else’s meme. Have they understood the point of memes? https://t.co/kNz5iJhD1m https://t.co/HHhYjrKVrT"
+	},
+	{
+		"created_at": "Mon Jan 14 13:58:23 +0000 2019",
+		"id": 1084811972380581900,
+		"id_str": "1084811972380581888",
+		"full_text": "But I guess it doesn’t matter so much which memes will be legally allowed under #Article13, since the automated #UploadFilters can’t tell the difference anyway and will delete all of them, when in doubt. #SaveYourInternet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Article13",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "UploadFilters",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"text": "SaveYourInternet",
+					"indices": [
+						204,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1084811671506440200,
+		"in_reply_to_status_id_str": "1084811671506440192",
+		"in_reply_to_user_id": 14861745,
+		"in_reply_to_user_id_str": "14861745",
+		"in_reply_to_screen_name": "Senficon",
+		"user": {
+			"id": 14861745,
+			"id_str": "14861745",
+			"name": "Julia Reda",
+			"screen_name": "Senficon",
+			"location": "Europe",
+			"description": "MEP for @Piratenpartei and the European Pirate Party (PPEU) | Vice-Chair of @GreensEP group",
+			"url": "https://t.co/MZuu3rxMEA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MZuu3rxMEA",
+							"expanded_url": "http://juliareda.eu",
+							"display_url": "juliareda.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37987,
+			"friends_count": 3727,
+			"listed_count": 1264,
+			"created_at": "Wed May 21 21:15:36 +0000 2008",
+			"favourites_count": 16451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 143,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "But I guess it doesn’t matter so much which memes will be legally allowed under #Article13, since the automated #UploadFilters can’t tell the difference anyway and will delete all of them, when in doubt. #SaveYourInternet"
+	},
+	{
+		"created_at": "Mon Jan 14 14:04:10 +0000 2019",
+		"id": 1084813425065234400,
+		"id_str": "1084813425065234435",
+		"full_text": "Memes you can’t share. About as much fun as cake you can’t eat. #SaveYourInternet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SaveYourInternet",
+					"indices": [
+						64,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1084811972380581900,
+		"in_reply_to_status_id_str": "1084811972380581888",
+		"in_reply_to_user_id": 14861745,
+		"in_reply_to_user_id_str": "14861745",
+		"in_reply_to_screen_name": "Senficon",
+		"user": {
+			"id": 14861745,
+			"id_str": "14861745",
+			"name": "Julia Reda",
+			"screen_name": "Senficon",
+			"location": "Europe",
+			"description": "MEP for @Piratenpartei and the European Pirate Party (PPEU) | Vice-Chair of @GreensEP group",
+			"url": "https://t.co/MZuu3rxMEA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MZuu3rxMEA",
+							"expanded_url": "http://juliareda.eu",
+							"display_url": "juliareda.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37987,
+			"friends_count": 3727,
+			"listed_count": 1264,
+			"created_at": "Wed May 21 21:15:36 +0000 2008",
+			"favourites_count": 16451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 146,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Memes you can’t share. About as much fun as cake you can’t eat. #SaveYourInternet"
+	},
+	{
+		"created_at": "Mon Jan 14 13:27:51 +0000 2019",
+		"id": 1084804286247301100,
+		"id_str": "1084804286247301121",
+		"full_text": "WAR Horse https://t.co/HsIXBckCtE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HsIXBckCtE",
+					"expanded_url": "https://twitter.com/pitchingninja/status/928320415172308993",
+					"display_url": "twitter.com/pitchingninja/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 887,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 928320415172309000,
+		"quoted_status_id_str": "928320415172308993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HsIXBckCtE",
+			"expanded": "https://twitter.com/pitchingninja/status/928320415172308993",
+			"display": "twitter.com/pitchingninja/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 08 17:56:48 +0000 2017",
+			"id": 928320415172309000,
+			"id_str": "928320415172308993",
+			"full_text": "Sandy Koufax giving up an Inside the Parker to Mr. Ed.   🐎&gt; 🐐 https://t.co/KEnZCDfdG2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 928320217385758700,
+						"id_str": "928320217385758721",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOIOUbsXcAEPAU_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOIOUbsXcAEPAU_.jpg",
+						"url": "https://t.co/KEnZCDfdG2",
+						"display_url": "pic.twitter.com/KEnZCDfdG2",
+						"expanded_url": "https://twitter.com/PitchingNinja/status/928320415172308993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 264,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 264,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 264,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928320217385758700,
+						"id_str": "928320217385758721",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOIOUbsXcAEPAU_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOIOUbsXcAEPAU_.jpg",
+						"url": "https://t.co/KEnZCDfdG2",
+						"display_url": "pic.twitter.com/KEnZCDfdG2",
+						"expanded_url": "https://twitter.com/PitchingNinja/status/928320415172308993/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 264,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 264,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 264,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								22
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DOIOUbsXcAEPAU_.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2911095315,
+				"id_str": "2911095315",
+				"name": "Rob Friedman",
+				"screen_name": "PitchingNinja",
+				"location": "Atlanta, GA",
+				"description": "Pitching Coach & Certified @MLB Pitching Ninja. \nFounder,  FlatGround.\nhttps://t.co/4DMCBsB8Se\nhttps://t.co/oCam6S7X1o",
+				"url": "https://t.co/de0AFvyfcu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/de0AFvyfcu",
+								"expanded_url": "https://www.dropbox.com/sh/qw77db1loclcm0v/AADbEm4Po_fSzJ_XCK8mnNxQa?dl=0",
+								"display_url": "dropbox.com/sh/qw77db1locl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4DMCBsB8Se",
+								"expanded_url": "https://twitter.com/FlatgroundApp",
+								"display_url": "twitter.com/FlatgroundApp",
+								"indices": [
+									71,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/oCam6S7X1o",
+								"expanded_url": "https://www.instagram.com/pitchingninja",
+								"display_url": "instagram.com/pitchingninja",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 103347,
+				"friends_count": 367,
+				"listed_count": 905,
+				"created_at": "Mon Dec 08 15:58:02 +0000 2014",
+				"favourites_count": 37240,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32076,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080284915399356416/uzmAo3k2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080284915399356416/uzmAo3k2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2911095315/1546394787",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1470,
+			"favorite_count": 3176,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WAR Horse https://t.co/HsIXBckCtE"
+	},
+	{
+		"created_at": "Mon Jan 14 03:54:16 +0000 2019",
+		"id": 1084659939954643000,
+		"id_str": "1084659939954642946",
+		"full_text": "He's still Trogdor! https://t.co/CtUS4Dg9c1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084659934606831600,
+					"id_str": "1084659934606831616",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw18drhWsAAuZgZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw18drhWsAAuZgZ.jpg",
+					"url": "https://t.co/CtUS4Dg9c1",
+					"display_url": "pic.twitter.com/CtUS4Dg9c1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1084659939954642946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2040,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084659934606831600,
+					"id_str": "1084659934606831616",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw18drhWsAAuZgZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw18drhWsAAuZgZ.jpg",
+					"url": "https://t.co/CtUS4Dg9c1",
+					"display_url": "pic.twitter.com/CtUS4Dg9c1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1084659939954642946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2040,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 887,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "sv",
+		"text": "He's still Trogdor! https://t.co/CtUS4Dg9c1"
+	},
+	{
+		"created_at": "Sun Jan 13 23:52:25 +0000 2019",
+		"id": 1084599078443352000,
+		"id_str": "1084599078443352065",
+		"full_text": "Whatever Kyler Murray picks, how about baseball uses this is a moment to realize it ought to pay minor leaguers at least a livable wage? Not just in special cases.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14702626,
+			"id_str": "14702626",
+			"name": "Mike Oz",
+			"screen_name": "mikeoz",
+			"location": "Fresno, the Taco Capital",
+			"description": "@yahoosports MLB writer/editor/talker. #OldBaseballCards host. Side hustles at @newrock1041, @fresnotacos & @tacosbrewsjams. Raised on Bay Area hip-hop.",
+			"url": "https://t.co/t8RhUVklX1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t8RhUVklX1",
+							"expanded_url": "http://sports.yahoo.com/blogs/mlb-big-league-stew/",
+							"display_url": "sports.yahoo.com/blogs/mlb-big-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18317,
+			"friends_count": 2524,
+			"listed_count": 519,
+			"created_at": "Thu May 08 16:58:40 +0000 2008",
+			"favourites_count": 1268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 76429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F7F9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073449114363281408/lW9_OX4o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073449114363281408/lW9_OX4o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14702626/1544033292",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 392,
+		"favorite_count": 1587,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Whatever Kyler Murray picks, how about baseball uses this is a moment to realize it ought to pay minor leaguers at least a livable wage? Not just in special cases."
+	},
+	{
 		"created_at": "Sun Jan 13 23:52:25 +0000 2019",
 		"id": 1084599078443352000,
 		"id_str": "1084599078443352065",
