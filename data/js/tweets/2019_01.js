@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 23:21:19 +0000 2019",
+		"id": 1087852741286903800,
+		"id_str": "1087852741286903808",
+		"full_text": "“The Red-Blue Line Connector is not an expansion project, it’s a completion project” - @JimAloisi @transitmatters @MBTA @joeboncore #redblueconnector https://t.co/Yeg8x2xACV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "redblueconnector",
+					"indices": [
+						132,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JimAloisi",
+					"name": "Jim Aloisi",
+					"id": 104883304,
+					"id_str": "104883304",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"screen_name": "transitmatters",
+					"name": "TransitMatters",
+					"id": 99920355,
+					"id_str": "99920355",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"screen_name": "MBTA",
+					"name": "MBTA",
+					"id": 150334831,
+					"id_str": "150334831",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"screen_name": "joeboncore",
+					"name": "Senator Joe Boncore",
+					"id": 4817114249,
+					"id_str": "4817114249",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087852735582666800,
+					"id_str": "1087852735582666753",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DxjUTKBXgAEQ3dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxjUTKBXgAEQ3dq.jpg",
+					"url": "https://t.co/Yeg8x2xACV",
+					"display_url": "pic.twitter.com/Yeg8x2xACV",
+					"expanded_url": "https://twitter.com/juliawallerce/status/1087852741286903808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087852735582666800,
+					"id_str": "1087852735582666753",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DxjUTKBXgAEQ3dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxjUTKBXgAEQ3dq.jpg",
+					"url": "https://t.co/Yeg8x2xACV",
+					"display_url": "pic.twitter.com/Yeg8x2xACV",
+					"expanded_url": "https://twitter.com/juliawallerce/status/1087852741286903808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 892042769975390200,
+			"id_str": "892042769975390208",
+			"name": "Julia Wallerce",
+			"screen_name": "juliawallerce",
+			"location": "Winthrop, MA",
+			"description": "@ITDPUS Boston; @streetsboston board; #WinthropMA Transportation Cte; @Tinkergarten mama- nevertheless persisting. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 629,
+			"listed_count": 6,
+			"created_at": "Mon Jul 31 15:22:24 +0000 2017",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 871,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895725077035180032/MsmPFVl3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895725077035180032/MsmPFVl3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892042769975390208/1540522069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The Red-Blue Line Connector is not an expansion project, it’s a completion project” - @JimAloisi @transitmatters @MBTA @joeboncore #redblueconnector https://t.co/Yeg8x2xACV"
+	},
+	{
+		"created_at": "Tue Jan 22 23:07:26 +0000 2019",
+		"id": 1087849247125487600,
+		"id_str": "1087849247125487616",
+		"full_text": "Everybody give a round of applause to @NotMrTibbs. Ryan and his team have allowed you all a full winter of being crabby and celebratory and then back the crabby then back to celebratory. Cheer them, you monsters!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotMrTibbs",
+					"name": "Ryan Thibodaux",
+					"id": 733324506,
+					"id_str": "733324506",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 356752859,
+			"id_str": "356752859",
+			"name": "Lindsey Adler",
+			"screen_name": "lindseyadler",
+			"location": "Manhattan, NY",
+			"description": "I cover the baseball for @TheAthleticNYC. Vin Scully once said outfielders have a lot of time to think and destroy themselves. Writers, too.",
+			"url": "https://t.co/v3aEfTSnmX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v3aEfTSnmX",
+							"expanded_url": "https://theathletic.com/author/200224/",
+							"display_url": "theathletic.com/author/200224/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32271,
+			"friends_count": 1640,
+			"listed_count": 1031,
+			"created_at": "Wed Aug 17 09:35:01 +0000 2011",
+			"favourites_count": 54769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15575,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/973565340654305281/MLbcpwq3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/973565340654305281/MLbcpwq3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/356752859/1540623505",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D1A3A5",
+			"profile_text_color": "292729",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Everybody give a round of applause to @NotMrTibbs. Ryan and his team have allowed you all a full winter of being crabby and celebratory and then back the crabby then back to celebratory. Cheer them, you monsters!"
+	},
+	{
+		"created_at": "Tue Jan 22 18:06:42 +0000 2019",
+		"id": 1087773565938733000,
+		"id_str": "1087773565938733056",
+		"full_text": "@RikerGoogling There is no honor in fake combat",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RikerGoogling",
+					"name": "Riker Googling",
+					"id": 2341337263,
+					"id_str": "2341337263",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087771536885346300,
+		"in_reply_to_status_id_str": "1087771536885346304",
+		"in_reply_to_user_id": 2341337263,
+		"in_reply_to_user_id_str": "2341337263",
+		"in_reply_to_screen_name": "RikerGoogling",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4522,
+			"friends_count": 881,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RikerGoogling There is no honor in fake combat"
+	},
+	{
+		"created_at": "Tue Jan 22 13:16:08 +0000 2019",
+		"id": 1087700443344629800,
+		"id_str": "1087700443344629762",
+		"full_text": "Kids’ toys seem harmless but they end up brainwashing adults into building useless downtown loops rather than proper linear service with destinations on the way.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087699406185529300,
+		"in_reply_to_status_id_str": "1087699406185529355",
+		"in_reply_to_user_id": 15446531,
+		"in_reply_to_user_id_str": "15446531",
+		"in_reply_to_screen_name": "mattyglesias",
+		"user": {
+			"id": 15446531,
+			"id_str": "15446531",
+			"name": "Matthew Yglesias",
+			"screen_name": "mattyglesias",
+			"location": "Washington, DC",
+			"description": "The only take that matters: To win in 2020, Democrats need a nominee who agrees with all of my preferences on policy and rhetorical style.",
+			"url": "https://t.co/6PI79GANNr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6PI79GANNr",
+							"expanded_url": "http://www.vox.com/authors/matthew-yglesias",
+							"display_url": "vox.com/authors/matthe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 417700,
+			"friends_count": 836,
+			"listed_count": 11028,
+			"created_at": "Tue Jul 15 21:44:28 +0000 2008",
+			"favourites_count": 11454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1844,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081753394153443333/MAAifNLI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081753394153443333/MAAifNLI_normal.jpg",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fbe706f872cb32",
+			"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+			"place_type": "city",
+			"name": "Washington",
+			"full_name": "Washington, DC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-77.119401,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.9953797
+						],
+						[
+							-77.119401,
+							38.9953797
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 448,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Kids’ toys seem harmless but they end up brainwashing adults into building useless downtown loops rather than proper linear service with destinations on the way."
+	},
+	{
 		"created_at": "Mon Jan 21 21:27:14 +0000 2019",
 		"id": 1087461642240254000,
 		"id_str": "1087461642240253952",
