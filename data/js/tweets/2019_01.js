@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 14:22:08 +0000 2019",
+		"id": 1089166602728292400,
+		"id_str": "1089166602728292352",
+		"full_text": "2013 Red Sox legend! https://t.co/ZcQJiHW8uX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZcQJiHW8uX",
+					"expanded_url": "https://twitter.com/MDGonzales/status/1089158616798633984",
+					"display_url": "twitter.com/MDGonzales/sta…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4521,
+			"friends_count": 879,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19762,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089158616798634000,
+		"quoted_status_id_str": "1089158616798633984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZcQJiHW8uX",
+			"expanded": "https://twitter.com/MDGonzales/status/1089158616798633984",
+			"display": "twitter.com/MDGonzales/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 26 13:50:24 +0000 2019",
+			"id": 1089158616798634000,
+			"id_str": "1089158616798633984",
+			"full_text": "Cubs sign reliever Junichi Tazawa to minor league deal.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22978329,
+				"id_str": "22978329",
+				"name": "Mark Gonzales",
+				"screen_name": "MDGonzales",
+				"location": "Chicago, IL",
+				"description": "I'm the Cubs' beat writer for the Chicago Tribune.",
+				"url": "https://t.co/Z5FaWxysNY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z5FaWxysNY",
+								"expanded_url": "http://chicagotribune.com/sports",
+								"display_url": "chicagotribune.com/sports",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39733,
+				"friends_count": 1373,
+				"listed_count": 1903,
+				"created_at": "Thu Mar 05 21:02:11 +0000 2009",
+				"favourites_count": 3354,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59166,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011737322134499328/P-N1n53y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011737322134499328/P-N1n53y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22978329/1415246146",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 101,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2013 Red Sox legend! https://t.co/ZcQJiHW8uX"
+	},
+	{
 		"created_at": "Fri Jan 25 18:34:21 +0000 2019",
 		"id": 1088867685423820800,
 		"id_str": "1088867685423820801",
@@ -144,7 +351,7 @@ Grailbird.data.tweets_2019_01 =
 				"name": "Brandon Warne",
 				"screen_name": "Brandon_Warne",
 				"location": "roseau, mn ➡️twin cities ➡️❓",
-				"description": "Twins/MLB reporter @zonecoveragemn | NFL/CFB/CBB research @SportradarUS | Interests: ✝️👨‍👩‍👧🐈🇺🇸🔎📰🎙🎧🧘🏻‍♂️⚾️🏉🏒🥃🍽☕️🤼‍♂️🥓🙌🏻",
+				"description": "Twins/MLB reporter @zonecoveragemn | NFL/CFB/CBB research @SportradarUS | Interests: ✝️👨👩👧🐈🇺🇸🔎📰🎙🎧🧘🏻♂️⚾️🏉🏒🥃🍽☕️🤼♂️🥓🙌🏻",
 				"url": "https://t.co/crTjh8Q3pr",
 				"entities": {
 					"url": {
@@ -222,7 +429,7 @@ Grailbird.data.tweets_2019_01 =
 		"created_at": "Fri Jan 25 18:00:38 +0000 2019",
 		"id": 1088859204167774200,
 		"id_str": "1088859204167774208",
-		"full_text": "🙋‍♂️🙋‍♀️ https://t.co/an1yIcQ4nS",
+		"full_text": "🙋♂️🙋♀️ https://t.co/an1yIcQ4nS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -610,7 +817,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🙋‍♂️🙋‍♀️ https://t.co/an1yIcQ4nS"
+		"text": "🙋♂️🙋♀️ https://t.co/an1yIcQ4nS"
 	},
 	{
 		"created_at": "Thu Jan 24 17:12:07 +0000 2019",
