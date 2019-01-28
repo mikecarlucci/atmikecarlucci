@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 27 15:56:05 +0000 2019",
+		"id": 1089552635529695200,
+		"id_str": "1089552635529695238",
+		"full_text": "oh my https://t.co/5bWCEKUtAG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5bWCEKUtAG",
+					"expanded_url": "https://twitter.com/lexlanham/status/1089332397190062080",
+					"display_url": "twitter.com/lexlanham/stat…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4520,
+			"friends_count": 879,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19763,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089332397190062100,
+		"quoted_status_id_str": "1089332397190062080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5bWCEKUtAG",
+			"expanded": "https://twitter.com/lexlanham/status/1089332397190062080",
+			"display": "twitter.com/lexlanham/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 27 01:20:56 +0000 2019",
+			"id": 1089332397190062100,
+			"id_str": "1089332397190062080",
+			"full_text": "how did i only just discover these &amp; are they available in 2019 america\n\nalso what's a sainsbury's\n\n#mashtags https://t.co/And9lTsNKv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mashtags",
+						"indices": [
+							104,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1089332024299663400,
+						"id_str": "1089332024299663361",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Dx4VtF7WsAE_bT0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dx4VtF7WsAE_bT0.jpg",
+						"url": "https://t.co/And9lTsNKv",
+						"display_url": "pic.twitter.com/And9lTsNKv",
+						"expanded_url": "https://twitter.com/lexlanham/status/1089332397190062080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 548,
+								"h": 561,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 548,
+								"h": 561,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 548,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1089332024299663400,
+						"id_str": "1089332024299663361",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Dx4VtF7WsAE_bT0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dx4VtF7WsAE_bT0.jpg",
+						"url": "https://t.co/And9lTsNKv",
+						"display_url": "pic.twitter.com/And9lTsNKv",
+						"expanded_url": "https://twitter.com/lexlanham/status/1089332397190062080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 548,
+								"h": 561,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 548,
+								"h": 561,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 548,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22581994,
+				"id_str": "22581994",
+				"name": "alexandra j. roberts",
+				"screen_name": "lexlanham",
+				"location": "boston & nh",
+				"description": "law professor teaching & writing about trademarks, entertainment law, influencers, & law of pop culture at @unhlaw & @uofnh. https://t.co/CW1nvYlumA",
+				"url": "https://t.co/rQJzOFCU6Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rQJzOFCU6Y",
+								"expanded_url": "https://law.unh.edu/person/alexandra-j-roberts",
+								"display_url": "law.unh.edu/person/alexand…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CW1nvYlumA",
+								"expanded_url": "https://www.bostonglobe.com/business/2016/04/22/five-things-you-should-know-about-alexandra-roberts/QxFrDV8V9SJrYABTs8nI8I/story.html",
+								"display_url": "bostonglobe.com/business/2016/…",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4460,
+				"friends_count": 2649,
+				"listed_count": 175,
+				"created_at": "Tue Mar 03 04:05:16 +0000 2009",
+				"favourites_count": 20786,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17063,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22581994/1398828123",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "oh my https://t.co/5bWCEKUtAG"
+	},
+	{
 		"created_at": "Sat Jan 26 14:22:08 +0000 2019",
 		"id": 1089166602728292400,
 		"id_str": "1089166602728292352",
