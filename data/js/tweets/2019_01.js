@@ -70,6 +70,224 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 14920,
+			"friends_count": 2223,
+			"listed_count": 426,
+			"created_at": "Sun Aug 11 03:49:59 +0000 2013",
+			"favourites_count": 91516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085508667070308353/-V1fWOFk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085508667070308353/-V1fWOFk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1661586091/1547511214",
+			"profile_link_color": "E00909",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090955029383659500,
+		"quoted_status_id_str": "1090955029383659523",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zk2j8afrnu",
+			"expanded": "https://twitter.com/mikemayerMMO/status/1090955029383659523",
+			"display": "twitter.com/mikemayerMMO/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 31 12:48:42 +0000 2019",
+			"id": 1090955029383659500,
+			"id_str": "1090955029383659523",
+			"full_text": "The Mets have hired Russell Carleton to join their front office. \n\nHe's a long-time Baseball Prospectus analyst and writer of recent book The Shift: The Next Evolution in Baseball.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58825119,
+				"id_str": "58825119",
+				"name": "Michael Mayer",
+				"screen_name": "mikemayerMMO",
+				"location": "Maine",
+				"description": "Executive Editor for @MetsMerized and @Mets_Minors. Part of @IBWAA",
+				"url": "http://t.co/pXKGtRRnJH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/pXKGtRRnJH",
+								"expanded_url": "http://Metsmerizedonline.com",
+								"display_url": "Metsmerizedonline.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8119,
+				"friends_count": 943,
+				"listed_count": 222,
+				"created_at": "Tue Jul 21 15:28:43 +0000 2009",
+				"favourites_count": 81966,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 150461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1026555842026500096/w_vw86-3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026555842026500096/w_vw86-3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58825119/1538352829",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 249,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@pizzacutter4 got signed before Bryce Harper and Manny Machado. congratulations to one of the smartest in the biz! https://t.co/zk2j8afrnu"
+	},
+	{
+		"created_at": "Thu Jan 31 12:49:35 +0000 2019",
+		"id": 1090955252625371100,
+		"id_str": "1090955252625371137",
+		"full_text": ".@pizzacutter4 got signed before Bryce Harper and Manny Machado. congratulations to one of the smartest in the biz! https://t.co/zk2j8afrnu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pizzacutter4",
+					"name": "Russell A. Carleton",
+					"id": 96690588,
+					"id_str": "96690588",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zk2j8afrnu",
+					"expanded_url": "https://twitter.com/mikemayerMMO/status/1090955029383659523",
+					"display_url": "twitter.com/mikemayerMMO/s…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1661586091,
+			"id_str": "1661586091",
+			"name": "Sung Min Kim",
+			"screen_name": "sung_minkim",
+			"location": "대한민국 서울",
+			"description": "Not @seungminkim. I write baseball for @baseballpro @TheAthleticMLB & @RiverAveBlues. Former college radio DJ and basketball photographer turned baseball writer",
+			"url": "https://t.co/AA1w1OQoSU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AA1w1OQoSU",
+							"expanded_url": "http://www.smkphotographer.com/",
+							"display_url": "smkphotographer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 14914,
 			"friends_count": 2224,
 			"listed_count": 427,
