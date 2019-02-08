@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 19:16:33 +0000 2019",
+		"id": 1093589349298520000,
+		"id_str": "1093589349298520064",
+		"full_text": "@dianagram No",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dianagram",
+					"name": "Diane Firstman",
+					"id": 16273915,
+					"id_str": "16273915",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1093589126559998000,
+		"in_reply_to_status_id_str": "1093589126559997953",
+		"in_reply_to_user_id": 16273915,
+		"in_reply_to_user_id_str": "16273915",
+		"in_reply_to_screen_name": "dianagram",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4515,
+			"friends_count": 879,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 48798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19763,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@dianagram No"
+	},
+	{
+		"created_at": "Thu Feb 07 05:03:38 +0000 2019",
+		"id": 1093374704411398100,
+		"id_str": "1093374704411398149",
+		"full_text": "Biggest transaction on February 7 (at least that's listed on @baseball_ref) would be @OldHossRadbourn signing his first pro contract with the Providence Grays. Of modern times, Magglio Ordoñez signing with the Tigers. (feel free to top that, AA)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baseball_ref",
+					"name": "Baseball Reference",
+					"id": 68449573,
+					"id_str": "68449573",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"screen_name": "OldHossRadbourn",
+					"name": "Charles Radbourn, KCB",
+					"id": 48849046,
+					"id_str": "48849046",
+					"indices": [
+						85,
+						101
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1093373160735629300,
+		"in_reply_to_status_id_str": "1093373160735629318",
+		"in_reply_to_user_id": 179364566,
+		"in_reply_to_user_id_str": "179364566",
+		"in_reply_to_screen_name": "BravesAmerica",
+		"user": {
+			"id": 179364566,
+			"id_str": "179364566",
+			"name": "Dayton from Nebraska",
+			"screen_name": "BravesAmerica",
+			"location": "Omaha, Nebraska",
+			"description": "Braves. Baseball. That's all I need.\n\nFind me on twitter/IG/FB/snap: @daytonheadlee",
+			"url": "https://t.co/rAqcOprrbB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rAqcOprrbB",
+							"expanded_url": "http://www.bravesamerica.blogspot.com",
+							"display_url": "bravesamerica.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8159,
+			"friends_count": 754,
+			"listed_count": 299,
+			"created_at": "Tue Aug 17 03:16:06 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 101434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D50B2A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093590337434595328/waJFIN1J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093590337434595328/waJFIN1J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/179364566/1459772674",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D9DBDC",
+			"profile_text_color": "113F8B",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Biggest transaction on February 7 (at least that's listed on @baseball_ref) would be @OldHossRadbourn signing his first pro contract with the Providence Grays. Of modern times, Magglio Ordoñez signing with the Tigers. (feel free to top that, AA)"
+	},
+	{
+		"created_at": "Wed Feb 06 21:52:01 +0000 2019",
+		"id": 1093266084461834200,
+		"id_str": "1093266084461834245",
+		"full_text": "This is also journalism, at its core.\n\nhttps://t.co/CswYuWZoh5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CswYuWZoh5",
+					"expanded_url": "https://twitter.com/mattblaze/status/1093264192449249284",
+					"display_url": "twitter.com/mattblaze/stat…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 709313,
+			"id_str": "709313",
+			"name": "Cyrus Farivar",
+			"screen_name": "cfarivar",
+			"location": "Oakland, CA",
+			"description": "\"suh-ROOS\" / @nbcnews reporter, tech investigations / ex-@arstechnica / cfarivar@cfarivar.org / Author, HABEAS DATA (2018) / https://t.co/uQo8iwQ4Pz",
+			"url": "https://t.co/SDxunhSram",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SDxunhSram",
+							"expanded_url": "http://arstechnica.com/author/cyrus-farivar/",
+							"display_url": "arstechnica.com/author/cyrus-f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uQo8iwQ4Pz",
+							"expanded_url": "http://habeasdatabook.com",
+							"display_url": "habeasdatabook.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22279,
+			"friends_count": 23520,
+			"listed_count": 1282,
+			"created_at": "Fri Jan 26 16:38:14 +0000 2007",
+			"favourites_count": 13682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/709313/1484291429",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093264192449249300,
+		"quoted_status_id_str": "1093264192449249284",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CswYuWZoh5",
+			"expanded": "https://twitter.com/mattblaze/status/1093264192449249284",
+			"display": "twitter.com/mattblaze/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 06 21:44:30 +0000 2019",
+			"id": 1093264192449249300,
+			"id_str": "1093264192449249284",
+			"full_text": "Learn new stuff, think of new stuff, write it down, and tell it to others. https://t.co/3lD9tBCbsr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3lD9tBCbsr",
+						"expanded_url": "https://twitter.com/elle91/status/1092837337082544129",
+						"display_url": "twitter.com/elle91/status/…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26567591,
+				"id_str": "26567591",
+				"name": "matt blaze",
+				"screen_name": "mattblaze",
+				"location": "Washington and elsewhere.",
+				"description": "Scientist, safecracker, writer, professor. 280 is the new 140 is the new 1536.",
+				"url": "https://t.co/1QlLbU6bjg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1QlLbU6bjg",
+								"expanded_url": "http://www.mattblaze.org/blog/",
+								"display_url": "mattblaze.org/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53000,
+				"friends_count": 753,
+				"listed_count": 1685,
+				"created_at": "Wed Mar 25 19:18:25 +0000 2009",
+				"favourites_count": 8540,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 38095,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768501370118889472/kxf7xGoc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768501370118889472/kxf7xGoc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26567591/1353718304",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1092837337082544100,
+			"quoted_status_id_str": "1092837337082544129",
+			"quoted_status_permalink": {
+				"url": "https://t.co/3lD9tBCbsr",
+				"expanded": "https://twitter.com/elle91/status/1092837337082544129",
+				"display": "twitter.com/elle91/status/…"
+			},
+			"retweet_count": 7,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is also journalism, at its core.\n\nhttps://t.co/CswYuWZoh5"
+	},
+	{
 		"created_at": "Wed Feb 06 21:52:01 +0000 2019",
 		"id": 1093266084461834200,
 		"id_str": "1093266084461834245",
