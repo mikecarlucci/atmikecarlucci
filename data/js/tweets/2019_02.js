@@ -1,6 +1,1245 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 17:30:23 +0000 2019",
+		"id": 1096461736792723500,
+		"id_str": "1096461736792723456",
+		"full_text": "@Card_Kingdom The joy of going back to cards I've been playing for 22 years! #MyMagicValentine",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyMagicValentine",
+					"indices": [
+						77,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Card_Kingdom",
+					"name": "Card Kingdom",
+					"id": 117882953,
+					"id_str": "117882953",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096151922531196900,
+		"in_reply_to_status_id_str": "1096151922531196928",
+		"in_reply_to_user_id": 117882953,
+		"in_reply_to_user_id_str": "117882953",
+		"in_reply_to_screen_name": "Card_Kingdom",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 880,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Card_Kingdom The joy of going back to cards I've been playing for 22 years! #MyMagicValentine"
+	},
+	{
+		"created_at": "Fri Feb 15 17:27:07 +0000 2019",
+		"id": 1096460913840980000,
+		"id_str": "1096460913840979969",
+		"full_text": "@maro254 Where are Urza's sunglasses?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maro254",
+					"name": "Mark Rosewater",
+					"id": 14817235,
+					"id_str": "14817235",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096460592318111700,
+		"in_reply_to_status_id_str": "1096460592318111744",
+		"in_reply_to_user_id": 14817235,
+		"in_reply_to_user_id_str": "14817235",
+		"in_reply_to_screen_name": "maro254",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 880,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@maro254 Where are Urza's sunglasses?"
+	},
+	{
+		"created_at": "Fri Feb 15 17:26:08 +0000 2019",
+		"id": 1096460665227804700,
+		"id_str": "1096460665227804672",
+		"full_text": "Eh. I'll wait for Urza to return. https://t.co/EuXUw3T7rD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EuXUw3T7rD",
+					"expanded_url": "https://twitter.com/wizards_magic/status/1096454260324253696",
+					"display_url": "twitter.com/wizards_magic/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 880,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096454260324253700,
+		"quoted_status_id_str": "1096454260324253696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EuXUw3T7rD",
+			"expanded": "https://twitter.com/wizards_magic/status/1096454260324253696",
+			"display": "twitter.com/wizards_magic/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 15 17:00:41 +0000 2019",
+			"id": 1096454260324253700,
+			"id_str": "1096454260324253696",
+			"full_text": "Be there when it ends. #PAXEAST2019 #MTGWAR https://t.co/m44kBgd60q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PAXEAST2019",
+						"indices": [
+							23,
+							35
+						]
+					},
+					{
+						"text": "MTGWAR",
+						"indices": [
+							36,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1096454106879799300,
+						"id_str": "1096454106879799296",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1096454106879799296/img/0mIEktHe2XTmLo_b.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1096454106879799296/img/0mIEktHe2XTmLo_b.jpg",
+						"url": "https://t.co/m44kBgd60q",
+						"display_url": "pic.twitter.com/m44kBgd60q",
+						"expanded_url": "https://twitter.com/wizards_magic/status/1096454260324253696/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1096454106879799300,
+						"id_str": "1096454106879799296",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1096454106879799296/img/0mIEktHe2XTmLo_b.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1096454106879799296/img/0mIEktHe2XTmLo_b.jpg",
+						"url": "https://t.co/m44kBgd60q",
+						"display_url": "pic.twitter.com/m44kBgd60q",
+						"expanded_url": "https://twitter.com/wizards_magic/status/1096454260324253696/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 56348,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1096454106879799296/vid/320x180/cKWL0VTvyYt5mckQ.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1096454106879799296/vid/1280x720/nL8gsa8i3E2WNPpH.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1096454106879799296/pl/3qVhaVectpL1sfZr.m3u8?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1096454106879799296/vid/640x360/rSlJ3pgo3lrBzCXX.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 204870137,
+				"id_str": "204870137",
+				"name": "Magic: The Gathering",
+				"screen_name": "wizards_magic",
+				"location": "Seattle, WA",
+				"description": "The official account for Magic: The Gathering. #MTGRNA available in stores worldwide now!",
+				"url": "http://t.co/VNQOnaiKYX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VNQOnaiKYX",
+								"expanded_url": "http://magicthegathering.com",
+								"display_url": "magicthegathering.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 210909,
+				"friends_count": 209,
+				"listed_count": 1716,
+				"created_at": "Tue Oct 19 16:59:14 +0000 2010",
+				"favourites_count": 2243,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15029,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084851224866840576/yQSBr8GM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084851224866840576/yQSBr8GM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/204870137/1547483672",
+				"profile_link_color": "32164B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0D7E0",
+				"profile_text_color": "1F1E1F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 563,
+			"favorite_count": 1226,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Eh. I'll wait for Urza to return. https://t.co/EuXUw3T7rD"
+	},
+	{
+		"created_at": "Fri Feb 15 14:26:08 +0000 2019",
+		"id": 1096415367986057200,
+		"id_str": "1096415367986057216",
+		"full_text": "@TheProxyGuy Amazing! Bring back white borders @wizards_magic !",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheProxyGuy",
+					"name": "TheProxyGuy™",
+					"id": 82815982,
+					"id_str": "82815982",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "wizards_magic",
+					"name": "Magic: The Gathering",
+					"id": 204870137,
+					"id_str": "204870137",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1096408546344869900,
+		"in_reply_to_status_id_str": "1096408546344869894",
+		"in_reply_to_user_id": 82815982,
+		"in_reply_to_user_id_str": "82815982",
+		"in_reply_to_screen_name": "TheProxyGuy",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 880,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheProxyGuy Amazing! Bring back white borders @wizards_magic !"
+	},
+	{
+		"created_at": "Fri Feb 15 13:02:37 +0000 2019",
+		"id": 1096394347543707600,
+		"id_str": "1096394347543707651",
+		"full_text": "@Kazuto_Yamazaki 😂 https://t.co/XL3mlPVRvb",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kazuto_Yamazaki",
+					"name": "Kazuto Yamazaki",
+					"id": 160515430,
+					"id_str": "160515430",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096394341122277400,
+					"id_str": "1096394341122277376",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dzcs2CRXgAAhHNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dzcs2CRXgAAhHNN.jpg",
+					"url": "https://t.co/XL3mlPVRvb",
+					"display_url": "pic.twitter.com/XL3mlPVRvb",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1096394347543707651/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 350,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 350,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096394341122277400,
+					"id_str": "1096394341122277376",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dzcs2CRXgAAhHNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dzcs2CRXgAAhHNN.jpg",
+					"url": "https://t.co/XL3mlPVRvb",
+					"display_url": "pic.twitter.com/XL3mlPVRvb",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1096394347543707651/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 350,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 350,
+							"h": 242,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							175,
+							121
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dzcs2CRXgAAhHNN.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096356551101562900,
+		"in_reply_to_status_id_str": "1096356551101562880",
+		"in_reply_to_user_id": 160515430,
+		"in_reply_to_user_id_str": "160515430",
+		"in_reply_to_screen_name": "Kazuto_Yamazaki",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 880,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Kazuto_Yamazaki 😂 https://t.co/XL3mlPVRvb"
+	},
+	{
+		"created_at": "Fri Feb 15 10:40:07 +0000 2019",
+		"id": 1096358487007756300,
+		"id_str": "1096358487007756288",
+		"full_text": "Congrats @sean_forman! Great article! https://t.co/MIkw4UaMwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sean_forman",
+					"name": "Sean Forman",
+					"id": 30803494,
+					"id_str": "30803494",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MIkw4UaMwl",
+					"expanded_url": "https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html#click=https://t.co/tnnVfbDyx9",
+					"display_url": "nytimes.com/2019/02/13/spo…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130251368,
+			"id_str": "130251368",
+			"name": "Meredith Wills",
+			"screen_name": "Bbl_Astrophyscs",
+			"location": "Ask me tomorrow...",
+			"description": "Astrophysics PhD, Baseball HOF, Data Scientist, Official Scorer, Superhero, Knitting Designer. Not necessarily in that order. (Tweets are my own)",
+			"url": "https://t.co/MmpKYLnRg2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MmpKYLnRg2",
+							"expanded_url": "http://hofknitter.blogspot.com",
+							"display_url": "hofknitter.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3456,
+			"friends_count": 1347,
+			"listed_count": 164,
+			"created_at": "Tue Apr 06 19:37:41 +0000 2010",
+			"favourites_count": 16159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D1536",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/672601859614314496/3FFa9Ggq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/672601859614314496/3FFa9Ggq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130251368/1438176773",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1B1426",
+			"profile_text_color": "9C8DC4",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats @sean_forman! Great article! https://t.co/MIkw4UaMwl"
+	},
+	{
+		"created_at": "Fri Feb 15 12:58:52 +0000 2019",
+		"id": 1096393407302459400,
+		"id_str": "1096393407302459392",
+		"full_text": "He's the reason for the season!\n\ncc: @BenLindbergh @based_ball https://t.co/LY5v9PgCgC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BenLindbergh",
+					"name": "Ben Lindbergh",
+					"id": 47209624,
+					"id_str": "47209624",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "based_ball",
+					"name": "Jeff Sullivan",
+					"id": 1278161922,
+					"id_str": "1278161922",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LY5v9PgCgC",
+					"expanded_url": "https://twitter.com/iamtrevormay/status/1096246171977351168",
+					"display_url": "twitter.com/iamtrevormay/s…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 880,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096246171977351200,
+		"quoted_status_id_str": "1096246171977351168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LY5v9PgCgC",
+			"expanded": "https://twitter.com/iamtrevormay/status/1096246171977351168",
+			"display": "twitter.com/iamtrevormay/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 15 03:13:49 +0000 2019",
+			"id": 1096246171977351200,
+			"id_str": "1096246171977351168",
+			"full_text": "THE DAY IS ALMOST HERE https://t.co/IZ6GjFxK0o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IZ6GjFxK0o",
+						"expanded_url": "https://twitter.com/morsecode/status/1096127426579566593",
+						"display_url": "twitter.com/morsecode/stat…",
+						"indices": [
+							23,
+							46
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48183841,
+				"id_str": "48183841",
+				"name": "Trevor “IamTrevorMay” May",
+				"screen_name": "IamTrevorMay",
+				"location": "Seattle, WA ✈️ Minneapolis, MN",
+				"description": "@Twins Baseballer. Founder of Esports Lab, Entrepreneur, and Super-Pro Streamer for @Luminosity. https://t.co/ApHDXIiKtJ",
+				"url": "https://t.co/BuuFFPg0yZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BuuFFPg0yZ",
+								"expanded_url": "http://www.trevormay.me",
+								"display_url": "trevormay.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ApHDXIiKtJ",
+								"expanded_url": "http://www.Twitch.tv/IamTrevorMay",
+								"display_url": "Twitch.tv/IamTrevorMay",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 57804,
+				"friends_count": 1160,
+				"listed_count": 311,
+				"created_at": "Thu Jun 18 00:48:09 +0000 2009",
+				"favourites_count": 4581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22636,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057382257151754241/r6rFtAHt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057382257151754241/r6rFtAHt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48183841/1541192378",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1096127426579566600,
+			"quoted_status_id_str": "1096127426579566593",
+			"quoted_status_permalink": {
+				"url": "https://t.co/IZ6GjFxK0o",
+				"expanded": "https://twitter.com/morsecode/status/1096127426579566593",
+				"display": "twitter.com/morsecode/stat…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 91,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He's the reason for the season!\n\ncc: @BenLindbergh @based_ball https://t.co/LY5v9PgCgC"
+	},
+	{
 		"created_at": "Thu Feb 14 23:31:41 +0000 2019",
 		"id": 1096190271145025500,
 		"id_str": "1096190271145025536",
