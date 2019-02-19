@@ -1,6 +1,952 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 19:39:36 +0000 2019",
+		"id": 1097581417528262700,
+		"id_str": "1097581417528262657",
+		"full_text": "Thanks for recognizing my innate value @rolex 😂 https://t.co/tHkeg6J15d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ROLEX",
+					"name": "ROLEX",
+					"id": 494027712,
+					"id_str": "494027712",
+					"indices": [
+						39,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097581412776067100,
+					"id_str": "1097581412776067072",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DztkesyWwAA8btR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DztkesyWwAA8btR.jpg",
+					"url": "https://t.co/tHkeg6J15d",
+					"display_url": "pic.twitter.com/tHkeg6J15d",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1097581417528262657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 841,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 841,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097581412776067100,
+					"id_str": "1097581412776067072",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DztkesyWwAA8btR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DztkesyWwAA8btR.jpg",
+					"url": "https://t.co/tHkeg6J15d",
+					"display_url": "pic.twitter.com/tHkeg6J15d",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1097581417528262657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 841,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 841,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4510,
+			"friends_count": 883,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19809,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for recognizing my innate value @rolex 😂 https://t.co/tHkeg6J15d"
+	},
+	{
+		"created_at": "Sun Feb 17 06:01:12 +0000 2019",
+		"id": 1097013072630145000,
+		"id_str": "1097013072630145024",
+		"full_text": "Further proof that we’ve all just gotten used to living in hell https://t.co/JSHMMg41GB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JSHMMg41GB",
+					"expanded_url": "https://twitter.com/nicolegelinas/status/1096981028126765057",
+					"display_url": "twitter.com/nicolegelinas/…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98247788,
+			"id_str": "98247788",
+			"name": "Jess Dweck",
+			"screen_name": "TheDweck",
+			"location": "",
+			"description": "Writer for the TV. Some melted cheese in a rubbery flap.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176066,
+			"friends_count": 1186,
+			"listed_count": 1833,
+			"created_at": "Mon Dec 21 01:17:36 +0000 2009",
+			"favourites_count": 35096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/567054338845986817/NumlFMhY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/567054338845986817/NumlFMhY_normal.jpeg",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096981028126765000,
+		"quoted_status_id_str": "1096981028126765057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JSHMMg41GB",
+			"expanded": "https://twitter.com/nicolegelinas/status/1096981028126765057",
+			"display": "twitter.com/nicolegelinas/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 17 03:53:52 +0000 2019",
+			"id": 1096981028126765000,
+			"id_str": "1096981028126765057",
+			"full_text": "Intrepid pedestrian does not even glance at the flaming street. :) https://t.co/0IjYioq02o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1096980956681044000,
+						"id_str": "1096980956681043969",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1096980956681043969/pu/img/ohcFFl2Ra1VjnScv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1096980956681043969/pu/img/ohcFFl2Ra1VjnScv.jpg",
+						"url": "https://t.co/0IjYioq02o",
+						"display_url": "pic.twitter.com/0IjYioq02o",
+						"expanded_url": "https://twitter.com/nicolegelinas/status/1096981028126765057/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1096980956681044000,
+						"id_str": "1096980956681043969",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1096980956681043969/pu/img/ohcFFl2Ra1VjnScv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1096980956681043969/pu/img/ohcFFl2Ra1VjnScv.jpg",
+						"url": "https://t.co/0IjYioq02o",
+						"display_url": "pic.twitter.com/0IjYioq02o",
+						"expanded_url": "https://twitter.com/nicolegelinas/status/1096981028126765057/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 16045,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1096980956681043969/pu/vid/1280x720/bR3oHa-pX3ZF-sn6.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1096980956681043969/pu/vid/320x180/ZBxSVbrQ5xb6HbV_.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1096980956681043969/pu/vid/640x360/pBDCOwA4PzWIjxbH.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1096980956681043969/pu/pl/s3VhFBPlJ-NEBjxL.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70742961,
+				"id_str": "70742961",
+				"name": "Nicole Gelinas",
+				"screen_name": "nicolegelinas",
+				"location": "Hell's Kitchen NY NY 10019",
+				"description": "\"The state of the municipal subways is a disgrace. Comprehensive action must be taken at once to make them ... more dependable.\" - The New York Times, 1/3/70",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6984,
+				"friends_count": 4541,
+				"listed_count": 284,
+				"created_at": "Tue Sep 01 18:02:50 +0000 2009",
+				"favourites_count": 18739,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39255,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/657256717302956033/ppA91dFi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/657256717302956033/ppA91dFi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70742961/1547338707",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 305,
+			"favorite_count": 1861,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 506,
+		"favorite_count": 5214,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Further proof that we’ve all just gotten used to living in hell https://t.co/JSHMMg41GB"
+	},
+	{
+		"created_at": "Sun Feb 17 15:24:39 +0000 2019",
+		"id": 1097154869708898300,
+		"id_str": "1097154869708898305",
+		"full_text": "In Sim City 2000 you could house 30,000 people for less than the price of a modest 3-bedroom house today. https://t.co/lF2nDhA7mT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lF2nDhA7mT",
+					"expanded_url": "https://twitter.com/holly/status/1097151606540419078",
+					"display_url": "twitter.com/holly/status/1…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10064382,
+			"id_str": "10064382",
+			"name": "Martin Bryant",
+			"screen_name": "MartinSFP",
+			"location": "Manchester, UK",
+			"description": "Founder of language-focused tech and media consultancy, @thisisbigrev. Speaker, writer, educator, and I say 'Yes' a lot.",
+			"url": "https://t.co/Q82yzsO3GU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q82yzsO3GU",
+							"expanded_url": "http://www.bigrevolution.net",
+							"display_url": "bigrevolution.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24963,
+			"friends_count": 2678,
+			"listed_count": 1816,
+			"created_at": "Thu Nov 08 12:16:28 +0000 2007",
+			"favourites_count": 56618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 87139,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016368429333401601/VXVzgUOw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016368429333401601/VXVzgUOw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10064382/1506969502",
+			"profile_link_color": "69758F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097151606540419100,
+		"quoted_status_id_str": "1097151606540419078",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lF2nDhA7mT",
+			"expanded": "https://twitter.com/holly/status/1097151606540419078",
+			"display": "twitter.com/holly/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 17 15:11:41 +0000 2019",
+			"id": 1097151606540419100,
+			"id_str": "1097151606540419078",
+			"full_text": "Excuse me, it is 2019, where are my Arcologies https://t.co/Gfvnu4X5iw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				46
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1097151604258754600,
+						"id_str": "1097151604258754561",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DzndkjSX0AEdQhM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzndkjSX0AEdQhM.jpg",
+						"url": "https://t.co/Gfvnu4X5iw",
+						"display_url": "pic.twitter.com/Gfvnu4X5iw",
+						"expanded_url": "https://twitter.com/holly/status/1097151606540419078/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 580,
+								"h": 327,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 580,
+								"h": 327,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 580,
+								"h": 327,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1097151604258754600,
+						"id_str": "1097151604258754561",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DzndkjSX0AEdQhM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzndkjSX0AEdQhM.jpg",
+						"url": "https://t.co/Gfvnu4X5iw",
+						"display_url": "pic.twitter.com/Gfvnu4X5iw",
+						"expanded_url": "https://twitter.com/holly/status/1097151606540419078/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 580,
+								"h": 327,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 580,
+								"h": 327,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 580,
+								"h": 327,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7555262,
+				"id_str": "7555262",
+				"name": "Holly Brockwell",
+				"screen_name": "holly",
+				"location": "From Nottingham, in London",
+				"description": "British supergeek. Freelance tech journalist for Techradar, Gizmodo, Evening Standard etc. Founder of @Gadgette, Woman of the Year '15, mother of birds & cats.",
+				"url": "https://t.co/rr4zejtDOm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rr4zejtDOm",
+								"expanded_url": "https://hollybrockwell.com/",
+								"display_url": "hollybrockwell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 127774,
+				"friends_count": 77282,
+				"listed_count": 1561,
+				"created_at": "Wed Jul 18 10:27:16 +0000 2007",
+				"favourites_count": 24427,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17438,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "19599E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084478194449874946/qQmbuylk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084478194449874946/qQmbuylk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7555262/1549394900",
+				"profile_link_color": "1030AE",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 968,
+			"favorite_count": 3713,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 35,
+		"favorite_count": 151,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Sim City 2000 you could house 30,000 people for less than the price of a modest 3-bedroom house today. https://t.co/lF2nDhA7mT"
+	},
+	{
+		"created_at": "Sun Feb 17 15:52:08 +0000 2019",
+		"id": 1097161783255724000,
+		"id_str": "1097161783255724032",
+		"full_text": "Happy @Microsoft Windows 2000 day! 19! Years ago today 🎂 https://t.co/kQezUD1qb2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097161777832517600,
+					"id_str": "1097161777832517632",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Dznm0uzX4AAL1sI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dznm0uzX4AAL1sI.jpg",
+					"url": "https://t.co/kQezUD1qb2",
+					"display_url": "pic.twitter.com/kQezUD1qb2",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1097161783255724032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097161777832517600,
+					"id_str": "1097161777832517632",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Dznm0uzX4AAL1sI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dznm0uzX4AAL1sI.jpg",
+					"url": "https://t.co/kQezUD1qb2",
+					"display_url": "pic.twitter.com/kQezUD1qb2",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1097161783255724032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4510,
+			"friends_count": 883,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19809,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy @Microsoft Windows 2000 day! 19! Years ago today 🎂 https://t.co/kQezUD1qb2"
+	},
+	{
 		"created_at": "Sun Feb 17 06:01:12 +0000 2019",
 		"id": 1097013072630145000,
 		"id_str": "1097013072630145024",
