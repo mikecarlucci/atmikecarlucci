@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 20:43:24 +0000 2019",
+		"id": 1099047025704951800,
+		"id_str": "1099047025704951808",
+		"full_text": "@brooksbaseball @SaberSeminar me waiting for more details 😂 https://t.co/xUdRGak9J9",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brooksbaseball",
+					"name": "Dan Brooks",
+					"id": 21283675,
+					"id_str": "21283675",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "SaberSeminar",
+					"name": "Saberseminar",
+					"id": 268351423,
+					"id_str": "268351423",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099047015567249400,
+					"id_str": "1099047015567249411",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0CZcApW0AMY3vo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0CZcApW0AMY3vo.jpg",
+					"url": "https://t.co/xUdRGak9J9",
+					"display_url": "pic.twitter.com/xUdRGak9J9",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1099047025704951808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 118,
+							"h": 118,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 118,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 118,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 118,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099047015567249400,
+					"id_str": "1099047015567249411",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0CZcApW0AMY3vo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0CZcApW0AMY3vo.jpg",
+					"url": "https://t.co/xUdRGak9J9",
+					"display_url": "pic.twitter.com/xUdRGak9J9",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1099047025704951808/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 118,
+							"h": 118,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 118,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 118,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 118,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							59
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D0CZcApW0AMY3vo.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1098929386034733000,
+		"in_reply_to_status_id_str": "1098929386034733060",
+		"in_reply_to_user_id": 21283675,
+		"in_reply_to_user_id_str": "21283675",
+		"in_reply_to_screen_name": "brooksbaseball",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 881,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@brooksbaseball @SaberSeminar me waiting for more details 😂 https://t.co/xUdRGak9J9"
+	},
+	{
+		"created_at": "Fri Feb 22 16:39:19 +0000 2019",
+		"id": 1098985599145558000,
+		"id_str": "1098985599145558022",
+		"full_text": "hmm....neat! https://t.co/MY3eiBZCCt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MY3eiBZCCt",
+					"expanded_url": "https://twitter.com/PMoehringer/status/1098744040227569666",
+					"display_url": "twitter.com/PMoehringer/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 881,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098744040227569700,
+		"quoted_status_id_str": "1098744040227569666",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MY3eiBZCCt",
+			"expanded": "https://twitter.com/PMoehringer/status/1098744040227569666",
+			"display": "twitter.com/PMoehringer/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 00:39:27 +0000 2019",
+			"id": 1098744040227569700,
+			"id_str": "1098744040227569666",
+			"full_text": "Most career HR's amongst players who never led their team in HR's.\n\n1. Iván Rodríguez 311\n2. Edgar Martinez 309\n3. Rickey Henderson 297\n4. Robin Ventura 294\n5. Jorge Posada 275\n6. Brooks Robinson 268\n7. Adam Jones 266\n8. Derek Jeter 260\n9. Chase Utley 259\n10. John Olerud 255",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 809900555141320700,
+				"id_str": "809900555141320704",
+				"name": "Paul Moehringer",
+				"screen_name": "PMoehringer",
+				"location": "Westwood, MA",
+				"description": "Data analyst, writer for @Hardball_Times; @Fangraphs; creator of the Pyramid Rating System. The smartest name in baseball you've never heard of.",
+				"url": "https://t.co/y6M1fZY52c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y6M1fZY52c",
+								"expanded_url": "http://www.hardballtimes.com/the-pyramid-rating-systems-2016-season-update/",
+								"display_url": "hardballtimes.com/the-pyramid-ra…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 645,
+				"friends_count": 388,
+				"listed_count": 22,
+				"created_at": "Fri Dec 16 23:18:34 +0000 2016",
+				"favourites_count": 11027,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8591,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981532840629284864/3oeyZTY9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981532840629284864/3oeyZTY9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/809900555141320704/1522809340",
+				"profile_link_color": "3677ED",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "67b98f17fdcf20be",
+				"url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json",
+				"place_type": "city",
+				"name": "Boston",
+				"full_name": "Boston, MA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.191421,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.399542
+							],
+							[
+								-71.191421,
+								42.399542
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ro"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "lv",
+		"text": "hmm....neat! https://t.co/MY3eiBZCCt"
+	},
+	{
 		"created_at": "Thu Feb 21 20:40:56 +0000 2019",
 		"id": 1098684016755200000,
 		"id_str": "1098684016755200000",
@@ -447,7 +895,7 @@ Grailbird.data.tweets_2019_02 =
 				"name": "Jesse Halfon",
 				"screen_name": "HalfonJesse",
 				"location": "Ann Arbor, MI",
-				"description": "Attorney - Automotive Class Action & Product Liability Law; Tweets are L2 automated; Eyes on AVs, EVs, OVs (Other Vehicles™️) and Mobility Services \n\n🚘🚴‍♂️🛴📲📶",
+				"description": "Attorney - Automotive Class Action & Product Liability Law; Tweets are L2 automated; Eyes on AVs, EVs, OVs (Other Vehicles™️) and Mobility Services \n\n🚘🚴♂️🛴📲📶",
 				"url": "https://t.co/3n5jTXZlzn",
 				"entities": {
 					"url": {
