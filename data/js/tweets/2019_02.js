@@ -1,6 +1,782 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 19:39:22 +0000 2019",
+		"id": 1100842849682124800,
+		"id_str": "1100842849682124800",
+		"full_text": "@EricFisherSBJ How I would love to sit down and talk with the Commissioner... (I assume you know about my @sabr-nominated research explaining the source of the Home Run Surge?) \nhttps://t.co/gPwZjhyRWI\nhttps://t.co/wqeyeb7bg8",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EricFisherSBJ",
+					"name": "Eric Fisher",
+					"id": 29695913,
+					"id_str": "29695913",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "sabr",
+					"name": "SABR",
+					"id": 18104452,
+					"id_str": "18104452",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gPwZjhyRWI",
+					"expanded_url": "https://theathletic.com/381544/2018/06/06/how-one-tiny-change-to-the-baseball-may-have-led-to-both-the-home-run-surge-and-the-rise-in-pitcher-blisters/",
+					"display_url": "theathletic.com/381544/2018/06…",
+					"indices": [
+						178,
+						201
+					]
+				},
+				{
+					"url": "https://t.co/wqeyeb7bg8",
+					"expanded_url": "https://theathletic.com/533397/2018/09/19/studying-the-baseball-to-find-the-how-of-the-home-run-surge/",
+					"display_url": "theathletic.com/533397/2018/09…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1100838741340577800,
+		"in_reply_to_status_id_str": "1100838741340577795",
+		"in_reply_to_user_id": 29695913,
+		"in_reply_to_user_id_str": "29695913",
+		"in_reply_to_screen_name": "EricFisherSBJ",
+		"user": {
+			"id": 130251368,
+			"id_str": "130251368",
+			"name": "Meredith Wills",
+			"screen_name": "Bbl_Astrophyscs",
+			"location": "Ask me tomorrow...",
+			"description": "Astrophysics PhD, Baseball HOF, Data Scientist, Official Scorer, Superhero, Knitting Designer. Not necessarily in that order. (Tweets are my own)",
+			"url": "https://t.co/MmpKYLnRg2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MmpKYLnRg2",
+							"expanded_url": "http://hofknitter.blogspot.com",
+							"display_url": "hofknitter.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3499,
+			"friends_count": 1348,
+			"listed_count": 165,
+			"created_at": "Tue Apr 06 19:37:41 +0000 2010",
+			"favourites_count": 16215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18071,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D1536",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/672601859614314496/3FFa9Ggq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/672601859614314496/3FFa9Ggq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130251368/1438176773",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1B1426",
+			"profile_text_color": "9C8DC4",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EricFisherSBJ How I would love to sit down and talk with the Commissioner... (I assume you know about my @sabr-nominated research explaining the source of the Home Run Surge?) \nhttps://t.co/gPwZjhyRWI\nhttps://t.co/wqeyeb7bg8"
+	},
+	{
+		"created_at": "Wed Feb 27 17:32:31 +0000 2019",
+		"id": 1100810926662578200,
+		"id_str": "1100810926662578176",
+		"full_text": "who needs courts or judges or lawyers when you've got platforms making calls about trademark &amp; copyright infringement https://t.co/RY4LNCDXsI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RY4LNCDXsI",
+					"expanded_url": "https://twitter.com/CheapPanini/status/1099282644884508672",
+					"display_url": "twitter.com/CheapPanini/st…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22581994,
+			"id_str": "22581994",
+			"name": "alexandra j. roberts",
+			"screen_name": "lexlanham",
+			"location": "boston & nh",
+			"description": "law professor teaching & writing about trademarks, entertainment law, influencers, & law of pop culture at @unhlaw & @uofnh. https://t.co/CW1nvYlumA",
+			"url": "https://t.co/rQJzOFCU6Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rQJzOFCU6Y",
+							"expanded_url": "https://law.unh.edu/person/alexandra-j-roberts",
+							"display_url": "law.unh.edu/person/alexand…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CW1nvYlumA",
+							"expanded_url": "https://www.bostonglobe.com/business/2016/04/22/five-things-you-should-know-about-alexandra-roberts/QxFrDV8V9SJrYABTs8nI8I/story.html",
+							"display_url": "bostonglobe.com/business/2016/…",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4608,
+			"friends_count": 2742,
+			"listed_count": 177,
+			"created_at": "Tue Mar 03 04:05:16 +0000 2009",
+			"favourites_count": 21966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17437,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22581994/1398828123",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099282644884508700,
+		"quoted_status_id_str": "1099282644884508672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RY4LNCDXsI",
+			"expanded": "https://twitter.com/CheapPanini/status/1099282644884508672",
+			"display": "twitter.com/CheapPanini/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 23 12:19:40 +0000 2019",
+			"id": 1099282644884508700,
+			"id_str": "1099282644884508672",
+			"full_text": "@redmanpe @thegingerwig Out of our hands - they contacted Etsy who host our shop and Etsy delisted it in their behalf. Ah well...",
+			"truncated": false,
+			"display_text_range": [
+				24,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "redmanpe",
+						"name": "Peter Redman",
+						"id": 23114251,
+						"id_str": "23114251",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "thegingerwig",
+						"name": "Thegingerwigmcfc",
+						"id": 851648053,
+						"id_str": "851648053",
+						"indices": [
+							10,
+							23
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1099281077879955500,
+			"in_reply_to_status_id_str": "1099281077879955456",
+			"in_reply_to_user_id": 23114251,
+			"in_reply_to_user_id_str": "23114251",
+			"in_reply_to_screen_name": "redmanpe",
+			"user": {
+				"id": 2563336537,
+				"id_str": "2563336537",
+				"name": "Panini Cheapskates",
+				"screen_name": "CheapPanini",
+				"location": "Oxford, via Wales",
+				"description": "Artistically challenged duo. Drew every single WC2014, Euro2016 & WC2018 Panini sticker, raising £12k for charity. Cost-saving exercise gone wrong. Harmless.",
+				"url": "https://t.co/lkEODsbrpc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lkEODsbrpc",
+								"expanded_url": "https://www.etsy.com/uk/shop/PaniniCheapskates",
+								"display_url": "etsy.com/uk/shop/Panini…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29247,
+				"friends_count": 685,
+				"listed_count": 145,
+				"created_at": "Thu Jun 12 12:28:31 +0000 2014",
+				"favourites_count": 29963,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15227,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082401289181511682/HfZ3k1oT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082401289181511682/HfZ3k1oT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2563336537/1526456676",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "who needs courts or judges or lawyers when you've got platforms making calls about trademark &amp; copyright infringement https://t.co/RY4LNCDXsI"
+	},
+	{
+		"created_at": "Wed Feb 27 16:34:09 +0000 2019",
+		"id": 1100796237098426400,
+		"id_str": "1100796237098426369",
+		"full_text": "Make it so! https://t.co/O6lICCbI2E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O6lICCbI2E",
+					"expanded_url": "https://twitter.com/io9/status/1100794100931018753",
+					"display_url": "twitter.com/io9/status/110…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4510,
+			"friends_count": 823,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100794100931018800,
+		"quoted_status_id_str": "1100794100931018753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O6lICCbI2E",
+			"expanded": "https://twitter.com/io9/status/1100794100931018753",
+			"display": "twitter.com/io9/status/110…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 27 16:25:40 +0000 2019",
+			"id": 1100794100931018800,
+			"id_str": "1100794100931018753",
+			"full_text": "Star Trek's Jonathan Frakes will direct Patrick Stewart once more for the Picard show https://t.co/GbkAEkUOyg https://t.co/nqrtYfhVQf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GbkAEkUOyg",
+						"expanded_url": "http://on.io9.com/KL8sjBO",
+						"display_url": "on.io9.com/KL8sjBO",
+						"indices": [
+							86,
+							109
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1100794098972323800,
+						"id_str": "1100794098972323840",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/D0bOZpgXcAAaSjk.png",
+						"media_url_https": "https://pbs.twimg.com/media/D0bOZpgXcAAaSjk.png",
+						"url": "https://t.co/nqrtYfhVQf",
+						"display_url": "pic.twitter.com/nqrtYfhVQf",
+						"expanded_url": "https://twitter.com/io9/status/1100794100931018753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1100794098972323800,
+						"id_str": "1100794098972323840",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/D0bOZpgXcAAaSjk.png",
+						"media_url_https": "https://pbs.twimg.com/media/D0bOZpgXcAAaSjk.png",
+						"url": "https://t.co/nqrtYfhVQf",
+						"display_url": "pic.twitter.com/nqrtYfhVQf",
+						"expanded_url": "https://twitter.com/io9/status/1100794100931018753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13215132,
+				"id_str": "13215132",
+				"name": "io9",
+				"screen_name": "io9",
+				"location": "",
+				"description": "We come from the future. By @Gizmodo.",
+				"url": "https://t.co/jwPxjc4FzW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jwPxjc4FzW",
+								"expanded_url": "http://io9.com",
+								"display_url": "io9.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 143976,
+				"friends_count": 667,
+				"listed_count": 7357,
+				"created_at": "Thu Feb 07 18:34:52 +0000 2008",
+				"favourites_count": 826,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 85258,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2987478150/f20258fd958408104e415fbc7b57b0bc_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2987478150/f20258fd958408104e415fbc7b57b0bc_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13215132/1355763508",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make it so! https://t.co/O6lICCbI2E"
+	},
+	{
+		"created_at": "Wed Feb 27 12:27:40 +0000 2019",
+		"id": 1100734209830862800,
+		"id_str": "1100734209830862848",
+		"full_text": "@InspectorFlora It's the perfect answer",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InspectorFlora",
+					"name": "Jarf Harden",
+					"id": 1067310306689462300,
+					"id_str": "1067310306689462273",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1100537185076502500,
+		"in_reply_to_status_id_str": "1100537185076502528",
+		"in_reply_to_user_id": 1067310306689462300,
+		"in_reply_to_user_id_str": "1067310306689462273",
+		"in_reply_to_screen_name": "InspectorFlora",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4510,
+			"friends_count": 823,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@InspectorFlora It's the perfect answer"
+	},
+	{
 		"created_at": "Wed Feb 27 00:54:42 +0000 2019",
 		"id": 1100559818505490400,
 		"id_str": "1100559818505490443",
