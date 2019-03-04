@@ -1,6 +1,814 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 17:11:13 +0000 2019",
+		"id": 1102255118022598700,
+		"id_str": "1102255118022598656",
+		"full_text": "@KirbysLeftEye Happens all the time! https://t.co/yXo1u1LbN0",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KirbysLeftEye",
+					"name": "myjah",
+					"id": 146626127,
+					"id_str": "146626127",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102255114792910800,
+					"id_str": "1102255114792910854",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/D0v_L9kWwAYvUFX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0v_L9kWwAYvUFX.jpg",
+					"url": "https://t.co/yXo1u1LbN0",
+					"display_url": "pic.twitter.com/yXo1u1LbN0",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1102255118022598656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 570,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 303,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102255114792910800,
+					"id_str": "1102255114792910854",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/D0v_L9kWwAYvUFX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0v_L9kWwAYvUFX.jpg",
+					"url": "https://t.co/yXo1u1LbN0",
+					"display_url": "pic.twitter.com/yXo1u1LbN0",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1102255118022598656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 570,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 303,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1102230787917733900,
+		"in_reply_to_status_id_str": "1102230787917733889",
+		"in_reply_to_user_id": 146626127,
+		"in_reply_to_user_id_str": "146626127",
+		"in_reply_to_screen_name": "KirbysLeftEye",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4507,
+			"friends_count": 821,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KirbysLeftEye Happens all the time! https://t.co/yXo1u1LbN0"
+	},
+	{
+		"created_at": "Sun Mar 03 17:06:33 +0000 2019",
+		"id": 1102253943755804700,
+		"id_str": "1102253943755804674",
+		"full_text": "I'm assuming this isn't an authentic Canada Goose hat at the local convenience store https://t.co/8CTGuctaws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102253936420053000,
+					"id_str": "1102253936420052995",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D0v-HXyX4AMUN8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0v-HXyX4AMUN8U.jpg",
+					"url": "https://t.co/8CTGuctaws",
+					"display_url": "pic.twitter.com/8CTGuctaws",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1102253943755804674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102253936420053000,
+					"id_str": "1102253936420052995",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D0v-HXyX4AMUN8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0v-HXyX4AMUN8U.jpg",
+					"url": "https://t.co/8CTGuctaws",
+					"display_url": "pic.twitter.com/8CTGuctaws",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1102253943755804674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4507,
+			"friends_count": 821,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm assuming this isn't an authentic Canada Goose hat at the local convenience store https://t.co/8CTGuctaws"
+	},
+	{
+		"created_at": "Sun Mar 03 16:29:43 +0000 2019",
+		"id": 1101963045067214800,
+		"id_str": "1102244672251006977",
+		"full_text": "It’s hard to understand exponential growth in computing power.  If a 1971 VW Beetle had advanced according to Moore’s Law, today it would go 300,000 miles per hour and get 2 million miles per gallon.  That’s how fast our computers are advancing.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2228878592,
+			"id_str": "2228878592",
+			"name": "Andrew Yang",
+			"screen_name": "AndrewYangVFA",
+			"location": "USA",
+			"description": "2020 US Presidential Candidate (D). Entrepreneur & Founder of @venture4america My book: https://t.co/YLpZ53erIq Join the campaign here: https://t.co/phur3ya6AG",
+			"url": "https://t.co/122xMQY4h8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/122xMQY4h8",
+							"expanded_url": "https://www.instagram.com/andrewyangvfa/",
+							"display_url": "instagram.com/andrewyangvfa/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YLpZ53erIq",
+							"expanded_url": "http://amzn.to/2fXszgl",
+							"display_url": "amzn.to/2fXszgl",
+							"indices": [
+								88,
+								111
+							]
+						},
+						{
+							"url": "https://t.co/phur3ya6AG",
+							"expanded_url": "http://www.yang2020.com",
+							"display_url": "yang2020.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86126,
+			"friends_count": 3606,
+			"listed_count": 777,
+			"created_at": "Tue Dec 03 21:31:03 +0000 2013",
+			"favourites_count": 8195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5989,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042886888225267712/1W9BKljE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042886888225267712/1W9BKljE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2228878592/1550352538",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 773,
+		"favorite_count": 2902,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It’s hard to understand exponential growth in computing power.  If a 1971 VW Beetle had advanced according to Moore’s Law, today it would go 300,000 miles per hour and get 2 million miles per gallon.  That’s how fast our computers are advancing."
+	},
+	{
+		"created_at": "Sun Mar 03 16:19:20 +0000 2019",
+		"id": 1102242059275173900,
+		"id_str": "1102242059275173893",
+		"full_text": "@AaronGleeman Glorious.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AaronGleeman",
+					"name": "Aaron Gleeman",
+					"id": 59048747,
+					"id_str": "59048747",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1102241862457253900,
+		"in_reply_to_status_id_str": "1102241862457253888",
+		"in_reply_to_user_id": 59048747,
+		"in_reply_to_user_id_str": "59048747",
+		"in_reply_to_screen_name": "AaronGleeman",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4507,
+			"friends_count": 821,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AaronGleeman Glorious."
+	},
+	{
+		"created_at": "Sun Mar 03 16:17:57 +0000 2019",
+		"id": 1102241713308004400,
+		"id_str": "1102241713308004353",
+		"full_text": "I can't imagine a hardcover version but yet it exists https://t.co/1So0qeJl0t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1So0qeJl0t",
+					"expanded_url": "https://twitter.com/AaronGleeman/status/1100798735406161921",
+					"display_url": "twitter.com/AaronGleeman/s…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4507,
+			"friends_count": 821,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100798735406161900,
+		"quoted_status_id_str": "1100798735406161921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1So0qeJl0t",
+			"expanded": "https://twitter.com/AaronGleeman/status/1100798735406161921",
+			"display": "twitter.com/AaronGleeman/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 27 16:44:05 +0000 2019",
+			"id": 1100798735406161900,
+			"id_str": "1100798735406161921",
+			"full_text": "The @BaseballPro Annual is Amazon's top-selling baseball book, so they're giving it a big sales push today.\n\n32% off the paperback version.\n37% off the hardcover version.\n54% off the Kindle version.\n\nWe never know how long Amazon's sales last, so jump in. https://t.co/kG1ptqtWfi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "baseballpro",
+						"name": "Baseball Prospectus",
+						"id": 15739207,
+						"id_str": "15739207",
+						"indices": [
+							4,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kG1ptqtWfi",
+						"expanded_url": "https://amzn.to/2XtQTL8",
+						"display_url": "amzn.to/2XtQTL8",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59048747,
+				"id_str": "59048747",
+				"name": "Aaron Gleeman",
+				"screen_name": "AaronGleeman",
+				"location": "Minnesota",
+				"description": "@BaseballPro editor-in-chief, @GleemanAndGeek co-host on @KFAN1003, author of \"The Big 50: Minnesota Twins\" from @TriumphBooks, JCC basketball camp 1996 co-MVP.",
+				"url": "https://t.co/VFl1UTX3Nb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VFl1UTX3Nb",
+								"expanded_url": "http://amzn.to/2G1Va2m",
+								"display_url": "amzn.to/2G1Va2m",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35190,
+				"friends_count": 200,
+				"listed_count": 1674,
+				"created_at": "Wed Jul 22 05:40:11 +0000 2009",
+				"favourites_count": 27161,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44309,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885495592041852928/j_oB_f2h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885495592041852928/j_oB_f2h_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59048747/1364267582",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can't imagine a hardcover version but yet it exists https://t.co/1So0qeJl0t"
+	},
+	{
 		"created_at": "Fri Mar 01 16:50:20 +0000 2019",
 		"id": 1101525087826731000,
 		"id_str": "1101525087826731008",
