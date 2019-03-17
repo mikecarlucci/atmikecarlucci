@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 16:16:27 +0000 2019",
+		"id": 1106938978714804200,
+		"id_str": "1106952377213554689",
+		"full_text": "Happy birthday to Stephen Drew, who homered in the 2013 World Series clincher for the Red Sox at Fenway https://t.co/7Mt0qhH4ic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106938975908880400,
+					"id_str": "1106938975908880384",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/D1yjIj8VYAAGerG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1yjIj8VYAAGerG.jpg",
+					"url": "https://t.co/7Mt0qhH4ic",
+					"display_url": "pic.twitter.com/7Mt0qhH4ic",
+					"expanded_url": "https://twitter.com/sullybaseball/status/1106938978714804225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 633,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 633,
+							"h": 521,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 521,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106938975908880400,
+					"id_str": "1106938975908880384",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/D1yjIj8VYAAGerG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1yjIj8VYAAGerG.jpg",
+					"url": "https://t.co/7Mt0qhH4ic",
+					"display_url": "pic.twitter.com/7Mt0qhH4ic",
+					"expanded_url": "https://twitter.com/sullybaseball/status/1106938978714804225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 633,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 633,
+							"h": 521,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 521,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95752102,
+			"id_str": "95752102",
+			"name": "Sully Baseball",
+			"screen_name": "sullybaseball",
+			"location": "Southern California",
+			"description": "The home of all things Sully Baseball, podcasts, videos and writing. Daily Podcast featured 1,622 straight days with a new show every day. Please call me Sully.",
+			"url": "https://t.co/NPJGzs3u7h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NPJGzs3u7h",
+							"expanded_url": "https://itunes.apple.com/us/podcast/sully-baseball-daily/id580843151?mt=2",
+							"display_url": "itunes.apple.com/us/podcast/sul…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4075,
+			"friends_count": 393,
+			"listed_count": 285,
+			"created_at": "Wed Dec 09 22:52:22 +0000 2009",
+			"favourites_count": 35220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/649506128578002944/U7uYqA-B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/649506128578002944/U7uYqA-B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95752102/1543821540",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy birthday to Stephen Drew, who homered in the 2013 World Series clincher for the Red Sox at Fenway https://t.co/7Mt0qhH4ic"
+	},
+	{
+		"created_at": "Sat Mar 16 16:11:06 +0000 2019",
+		"id": 1106951030812618800,
+		"id_str": "1106951030812618754",
+		"full_text": "Legend https://t.co/jl48QxTGGp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jl48QxTGGp",
+					"expanded_url": "https://twitter.com/MLB/status/1106947687444856832",
+					"display_url": "twitter.com/MLB/status/110…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4509,
+			"friends_count": 779,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106947687444856800,
+		"quoted_status_id_str": "1106947687444856832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jl48QxTGGp",
+			"expanded": "https://twitter.com/MLB/status/1106947687444856832",
+			"display": "twitter.com/MLB/status/110…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 16 15:57:49 +0000 2019",
+			"id": 1106947687444856800,
+			"id_str": "1106947687444856832",
+			"full_text": "Going to be watching this on loop for a bit. #MLB開幕戦 https://t.co/L14v7ZGSpL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MLB開幕戦",
+						"indices": [
+							45,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1106928962402431000,
+						"id_str": "1106928962402430977",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1106928962402430977/img/ZP8ZHeAzGSKFGZIo.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1106928962402430977/img/ZP8ZHeAzGSKFGZIo.jpg",
+						"url": "https://t.co/L14v7ZGSpL",
+						"display_url": "pic.twitter.com/L14v7ZGSpL",
+						"expanded_url": "https://twitter.com/MLB/status/1106947687444856832/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106928962402431000,
+						"id_str": "1106928962402430977",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1106928962402430977/img/ZP8ZHeAzGSKFGZIo.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1106928962402430977/img/ZP8ZHeAzGSKFGZIo.jpg",
+						"url": "https://t.co/L14v7ZGSpL",
+						"display_url": "pic.twitter.com/L14v7ZGSpL",
+						"expanded_url": "https://twitter.com/MLB/status/1106947687444856832/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 7174,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1106928962402430977/vid/320x180/1GPNZYDgyJzNzyxg.mp4?tag=11"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1106928962402430977/vid/1280x720/ig4iu_Zx8ke1qzh0.mp4?tag=11"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1106928962402430977/vid/640x360/dYBlIV1vqS0AHKQh.mp4?tag=11"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1106928962402430977/pl/nOETUzLD-omCyOx-.m3u8?tag=11"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18479513,
+				"id_str": "18479513",
+				"name": "MLB",
+				"screen_name": "MLB",
+				"location": "",
+				"description": "Official Twitter account of Major League Baseball. ⚾️",
+				"url": "https://t.co/teGWLJu3BG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/teGWLJu3BG",
+								"expanded_url": "http://MLB.com",
+								"display_url": "MLB.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8261222,
+				"friends_count": 5716,
+				"listed_count": 31359,
+				"created_at": "Tue Dec 30 15:39:32 +0000 2008",
+				"favourites_count": 6066,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 166389,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097892906914979840/k4JrM__f_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097892906914979840/k4JrM__f_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18479513/1546546712",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4993,
+			"favorite_count": 19783,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Legend https://t.co/jl48QxTGGp"
+	},
+	{
 		"created_at": "Fri Mar 15 17:45:01 +0000 2019",
 		"id": 1106612277535522800,
 		"id_str": "1106612277535522818",
