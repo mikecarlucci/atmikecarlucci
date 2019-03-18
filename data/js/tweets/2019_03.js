@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 16:42:12 +0000 2019",
+		"id": 1107320701378281500,
+		"id_str": "1107321244209332224",
+		"full_text": "New look today! ☘️ \n\n#StPatricksDay2019 https://t.co/ERZUN5AeTa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StPatricksDay2019",
+					"indices": [
+						21,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107320554506387500,
+					"id_str": "1107320554506387456",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107320554506387456/pu/img/PyXWm22McovfhJQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107320554506387456/pu/img/PyXWm22McovfhJQu.jpg",
+					"url": "https://t.co/ERZUN5AeTa",
+					"display_url": "pic.twitter.com/ERZUN5AeTa",
+					"expanded_url": "https://twitter.com/RedSox/status/1107320701378281472/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107320554506387500,
+					"id_str": "1107320554506387456",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107320554506387456/pu/img/PyXWm22McovfhJQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107320554506387456/pu/img/PyXWm22McovfhJQu.jpg",
+					"url": "https://t.co/ERZUN5AeTa",
+					"display_url": "pic.twitter.com/ERZUN5AeTa",
+					"expanded_url": "https://twitter.com/RedSox/status/1107320701378281472/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6533,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107320554506387456/pu/vid/320x320/DjdH8lS9MDAbC5Y7.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107320554506387456/pu/vid/480x480/95twxhrsBKtBDwUZ.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107320554506387456/pu/vid/720x720/9Ft0q1EWjI6cSEvs.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1107320554506387456/pu/pl/glHJCCeNYXAVCyzZ.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40918816,
+			"id_str": "40918816",
+			"name": "Boston Red Sox",
+			"screen_name": "RedSox",
+			"location": "Fenway Park",
+			"description": "Official Twitter of the 2018 World Series Champions. Is it baseball season yet?",
+			"url": "https://t.co/vZY9MTDrc5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vZY9MTDrc5",
+							"expanded_url": "http://redsox.com",
+							"display_url": "redsox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2087413,
+			"friends_count": 192,
+			"listed_count": 10578,
+			"created_at": "Mon May 18 17:21:20 +0000 2009",
+			"favourites_count": 7083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "213117",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097135145956593665/Z-FkNaaA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097135145956593665/Z-FkNaaA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40918816/1548197371",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 512,
+		"favorite_count": 4387,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New look today! ☘️ \n\n#StPatricksDay2019 https://t.co/ERZUN5AeTa"
+	},
+	{
+		"created_at": "Sun Mar 17 16:27:32 +0000 2019",
+		"id": 1107317555222462500,
+		"id_str": "1107317555222462464",
+		"full_text": "Or, you know, the olds pulling up the ladder aggressively and blaming the young https://t.co/eiNDEO4UVc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eiNDEO4UVc",
+					"expanded_url": "https://twitter.com/NPR/status/1106264229210775552",
+					"display_url": "twitter.com/NPR/status/110…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 779,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19906,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106264229210775600,
+		"quoted_status_id_str": "1106264229210775552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eiNDEO4UVc",
+			"expanded": "https://twitter.com/NPR/status/1106264229210775552",
+			"display": "twitter.com/NPR/status/110…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 14 18:42:00 +0000 2019",
+			"id": 1106264229210775600,
+			"id_str": "1106264229210775552",
+			"full_text": "A new study shows a rise in depression and stress among young people parallels the growth in smartphone and social media use.\nhttps://t.co/AxyseUyBxn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AxyseUyBxn",
+						"expanded_url": "https://n.pr/2CjXGxH",
+						"display_url": "n.pr/2CjXGxH",
+						"indices": [
+							126,
+							149
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5392522,
+				"id_str": "5392522",
+				"name": "NPR",
+				"screen_name": "NPR",
+				"location": "",
+				"description": "News. Arts & Life. Music. Everything and more from NPR.\n\n🕵️ Securely send us news tips: https://t.co/LPkf6Tsozm",
+				"url": "http://t.co/SoL86ga4RI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SoL86ga4RI",
+								"expanded_url": "http://www.npr.org",
+								"display_url": "npr.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LPkf6Tsozm",
+								"expanded_url": "http://securedrop.npr.org",
+								"display_url": "securedrop.npr.org",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7707486,
+				"friends_count": 71184,
+				"listed_count": 66463,
+				"created_at": "Sun Apr 22 05:10:15 +0000 2007",
+				"favourites_count": 2444,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 172381,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1406560384",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 412,
+			"favorite_count": 758,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Or, you know, the olds pulling up the ladder aggressively and blaming the young https://t.co/eiNDEO4UVc"
+	},
+	{
+		"created_at": "Sun Mar 17 14:09:28 +0000 2019",
+		"id": 1107282808144347100,
+		"id_str": "1107282808144347142",
+		"full_text": "@BarackObama It was a must-see! https://t.co/RoXLwjUTQ7",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BarackObama",
+					"name": "Barack Obama",
+					"id": 813286,
+					"id_str": "813286",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107282801102078000,
+					"id_str": "1107282801102077952",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/D13b10mWwAASSaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D13b10mWwAASSaz.jpg",
+					"url": "https://t.co/RoXLwjUTQ7",
+					"display_url": "pic.twitter.com/RoXLwjUTQ7",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1107282808144347142/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 769,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 769,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107282801102078000,
+					"id_str": "1107282801102077952",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/D13b10mWwAASSaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D13b10mWwAASSaz.jpg",
+					"url": "https://t.co/RoXLwjUTQ7",
+					"display_url": "pic.twitter.com/RoXLwjUTQ7",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1107282808144347142/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 769,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 769,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1107279541741998100,
+		"in_reply_to_status_id_str": "1107279541741998081",
+		"in_reply_to_user_id": 813286,
+		"in_reply_to_user_id_str": "813286",
+		"in_reply_to_screen_name": "BarackObama",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 779,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 49801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19906,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BarackObama It was a must-see! https://t.co/RoXLwjUTQ7"
+	},
+	{
 		"created_at": "Sat Mar 16 16:16:27 +0000 2019",
 		"id": 1106938978714804200,
 		"id_str": "1106952377213554689",
