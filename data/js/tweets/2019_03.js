@@ -1,6 +1,1006 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 20:14:17 +0000 2019",
+		"id": 1110273721745461200,
+		"id_str": "1110273721745461248",
+		"full_text": "Finding money by smashing clay pots in every room https://t.co/SgOIt3oiAK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SgOIt3oiAK",
+					"expanded_url": "https://twitter.com/raejohnston/status/1110016637627850752",
+					"display_url": "twitter.com/raejohnston/st…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4515,
+			"friends_count": 766,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110016637627850800,
+		"quoted_status_id_str": "1110016637627850752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SgOIt3oiAK",
+			"expanded": "https://twitter.com/raejohnston/status/1110016637627850752",
+			"display": "twitter.com/raejohnston/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 25 03:12:44 +0000 2019",
+			"id": 1110016637627850800,
+			"id_str": "1110016637627850752",
+			"full_text": "Tell me about a technique you've used to survive in a video game that would never work in real life.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20512260,
+				"id_str": "20512260",
+				"name": "Rae Johnston",
+				"screen_name": "raejohnston",
+				"location": "Eora Country/Sydney, Australia",
+				"description": "Editor @Junkee💻Host @tsushow #REWired @NITV 📺@Working1unch Mentor 🎮 @SciGalleryMel Leonardo 🔭 @VinniesNSW Ambassador 💃🏽 Wiradjuri 🖤💛❤️ She/Her",
+				"url": "https://t.co/os1D4DFTy7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/os1D4DFTy7",
+								"expanded_url": "http://raejohnston.com",
+								"display_url": "raejohnston.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17596,
+				"friends_count": 3076,
+				"listed_count": 404,
+				"created_at": "Tue Feb 10 13:17:41 +0000 2009",
+				"favourites_count": 26140,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30593,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFCFC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009672641647501312/mzbsnI8__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009672641647501312/mzbsnI8__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20512260/1546114245",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "927CED",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 381,
+			"favorite_count": 2247,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finding money by smashing clay pots in every room https://t.co/SgOIt3oiAK"
+	},
+	{
+		"created_at": "Mon Mar 25 19:07:34 +0000 2019",
+		"id": 1110256931795599400,
+		"id_str": "1110256931795599360",
+		"full_text": "@DSzymborski it's only obnoxious... https://t.co/Qk5Nn2Bp6S",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DSzymborski",
+					"name": "Dan Szymborski",
+					"id": 44929255,
+					"id_str": "44929255",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110256888313200600,
+					"id_str": "1110256888313200640",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2hswe1WwAAfCPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2hswe1WwAAfCPT.jpg",
+					"url": "https://t.co/Qk5Nn2Bp6S",
+					"display_url": "pic.twitter.com/Qk5Nn2Bp6S",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1110256931795599360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110256888313200600,
+					"id_str": "1110256888313200640",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2hswe1WwAAfCPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2hswe1WwAAfCPT.jpg",
+					"url": "https://t.co/Qk5Nn2Bp6S",
+					"display_url": "pic.twitter.com/Qk5Nn2Bp6S",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1110256931795599360/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 230,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D2hswe1WwAAfCPT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1110256679701151700,
+		"in_reply_to_status_id_str": "1110256679701151744",
+		"in_reply_to_user_id": 44929255,
+		"in_reply_to_user_id_str": "44929255",
+		"in_reply_to_screen_name": "DSzymborski",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4515,
+			"friends_count": 766,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DSzymborski it's only obnoxious... https://t.co/Qk5Nn2Bp6S"
+	},
+	{
+		"created_at": "Mon Mar 25 17:46:59 +0000 2019",
+		"id": 1108752675493965800,
+		"id_str": "1110236652260208643",
+		"full_text": "Season Preview Series 2019: Chicago #WhiteSox\nby Mike Moriarty \nhttps://t.co/SwikkMtvAq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhiteSox",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SwikkMtvAq",
+					"expanded_url": "http://www.banishedtothepen.com/season-preview-series-2019-chicago-white-sox/",
+					"display_url": "banishedtothepen.com/season-preview…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2896145687,
+			"id_str": "2896145687",
+			"name": "Banished to the Pen",
+			"screen_name": "BanishedToPen",
+			"location": "Riding the pine",
+			"description": "Internal discussions on baseball, stats, and fandom. A group blog by fans of @EWPod.",
+			"url": "https://t.co/PPKiZatIZ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PPKiZatIZ2",
+							"expanded_url": "http://www.banishedtothepen.com/",
+							"display_url": "banishedtothepen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1229,
+			"friends_count": 243,
+			"listed_count": 65,
+			"created_at": "Fri Nov 28 16:54:03 +0000 2014",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896145687/1534321752",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Season Preview Series 2019: Chicago #WhiteSox\nby Mike Moriarty \nhttps://t.co/SwikkMtvAq"
+	},
+	{
+		"created_at": "Mon Mar 25 17:46:49 +0000 2019",
+		"id": 1109130505356664800,
+		"id_str": "1110236607670599681",
+		"full_text": "Season Preview Series 2019: Minnesota #Twins, \nby @sethmk\nhttps://t.co/SB5Spn1mqG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twins",
+					"indices": [
+						38,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sethmk",
+					"name": "sethmk",
+					"id": 14824933,
+					"id_str": "14824933",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SB5Spn1mqG",
+					"expanded_url": "http://www.banishedtothepen.com/season-preview-series-2019-minnesota-twins/",
+					"display_url": "banishedtothepen.com/season-preview…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2896145687,
+			"id_str": "2896145687",
+			"name": "Banished to the Pen",
+			"screen_name": "BanishedToPen",
+			"location": "Riding the pine",
+			"description": "Internal discussions on baseball, stats, and fandom. A group blog by fans of @EWPod.",
+			"url": "https://t.co/PPKiZatIZ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PPKiZatIZ2",
+							"expanded_url": "http://www.banishedtothepen.com/",
+							"display_url": "banishedtothepen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1229,
+			"friends_count": 243,
+			"listed_count": 65,
+			"created_at": "Fri Nov 28 16:54:03 +0000 2014",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896145687/1534321752",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Season Preview Series 2019: Minnesota #Twins, \nby @sethmk\nhttps://t.co/SB5Spn1mqG"
+	},
+	{
+		"created_at": "Mon Mar 25 17:46:44 +0000 2019",
+		"id": 1109821191655571500,
+		"id_str": "1110236588909432832",
+		"full_text": "Season Preview Series 2019: Baltimore Orioles, \nby @cjbaber\nhttps://t.co/S32oSNHU42",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjbaber",
+					"name": "Millennialaire",
+					"id": 317106815,
+					"id_str": "317106815",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S32oSNHU42",
+					"expanded_url": "http://www.banishedtothepen.com/season-preview-series-2019-baltimore-orioles/",
+					"display_url": "banishedtothepen.com/season-preview…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2896145687,
+			"id_str": "2896145687",
+			"name": "Banished to the Pen",
+			"screen_name": "BanishedToPen",
+			"location": "Riding the pine",
+			"description": "Internal discussions on baseball, stats, and fandom. A group blog by fans of @EWPod.",
+			"url": "https://t.co/PPKiZatIZ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PPKiZatIZ2",
+							"expanded_url": "http://www.banishedtothepen.com/",
+							"display_url": "banishedtothepen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1229,
+			"friends_count": 243,
+			"listed_count": 65,
+			"created_at": "Fri Nov 28 16:54:03 +0000 2014",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896145687/1534321752",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Season Preview Series 2019: Baltimore Orioles, \nby @cjbaber\nhttps://t.co/S32oSNHU42"
+	},
+	{
+		"created_at": "Mon Mar 25 17:05:00 +0000 2019",
+		"id": 1110222406742753300,
+		"id_str": "1110226084430258177",
+		"full_text": "Season Preview Series 2019: Washington #Nationals, \nby Peter Bloom\nhttps://t.co/5tX1UIlB24",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Nationals",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5tX1UIlB24",
+					"expanded_url": "http://www.banishedtothepen.com/season-preview-series-2019-washington-nationals/",
+					"display_url": "banishedtothepen.com/season-preview…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2896145687,
+			"id_str": "2896145687",
+			"name": "Banished to the Pen",
+			"screen_name": "BanishedToPen",
+			"location": "Riding the pine",
+			"description": "Internal discussions on baseball, stats, and fandom. A group blog by fans of @EWPod.",
+			"url": "https://t.co/PPKiZatIZ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PPKiZatIZ2",
+							"expanded_url": "http://www.banishedtothepen.com/",
+							"display_url": "banishedtothepen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1229,
+			"friends_count": 243,
+			"listed_count": 65,
+			"created_at": "Fri Nov 28 16:54:03 +0000 2014",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896145687/1534321752",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Season Preview Series 2019: Washington #Nationals, \nby Peter Bloom\nhttps://t.co/5tX1UIlB24"
+	},
+	{
+		"created_at": "Mon Mar 25 17:04:50 +0000 2019",
+		"id": 1110217369886953500,
+		"id_str": "1110226045138071553",
+		"full_text": "Season Preview Series 2019: Boston #RedSox,\nby @JamiesonTW\nhttps://t.co/i92J7MWDYQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedSox",
+					"indices": [
+						35,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamiesonTW",
+					"name": "Jamieson Weiss",
+					"id": 326133252,
+					"id_str": "326133252",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i92J7MWDYQ",
+					"expanded_url": "http://www.banishedtothepen.com/season-preview-series-2019-boston-red-sox/",
+					"display_url": "banishedtothepen.com/season-preview…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2896145687,
+			"id_str": "2896145687",
+			"name": "Banished to the Pen",
+			"screen_name": "BanishedToPen",
+			"location": "Riding the pine",
+			"description": "Internal discussions on baseball, stats, and fandom. A group blog by fans of @EWPod.",
+			"url": "https://t.co/PPKiZatIZ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PPKiZatIZ2",
+							"expanded_url": "http://www.banishedtothepen.com/",
+							"display_url": "banishedtothepen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1229,
+			"friends_count": 243,
+			"listed_count": 65,
+			"created_at": "Fri Nov 28 16:54:03 +0000 2014",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820786849102733312/BD6kdorq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896145687/1534321752",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Season Preview Series 2019: Boston #RedSox,\nby @JamiesonTW\nhttps://t.co/i92J7MWDYQ"
+	},
+	{
 		"created_at": "Mon Mar 25 02:55:58 +0000 2019",
 		"id": 1110012420750299100,
 		"id_str": "1110012420750299136",
