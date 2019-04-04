@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 13:18:43 +0000 2019",
+		"id": 1113430631625699300,
+		"id_str": "1113430631625699328",
+		"full_text": "Yikes https://t.co/xvhb5BSJcE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xvhb5BSJcE",
+					"expanded_url": "https://twitter.com/baseballamerica/status/1113429948717518853",
+					"display_url": "twitter.com/baseballameric…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4522,
+			"friends_count": 761,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19967,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113429948717518800,
+		"quoted_status_id_str": "1113429948717518853",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xvhb5BSJcE",
+			"expanded": "https://twitter.com/baseballamerica/status/1113429948717518853",
+			"display": "twitter.com/baseballameric…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 03 13:16:00 +0000 2019",
+			"id": 1113429948717518800,
+			"id_str": "1113429948717518853",
+			"full_text": "The organizations with the fewest Tommy John surgeries since 2016, according to @MLBPlayerAnalys \n\nRed Sox -- 4\nPirates -- 5\nPhillies -- 5\n\nThe average among all MLB orgs is 11. \n\nhttps://t.co/hxNcRQtlcZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MLBPlayerAnalys",
+						"name": "Jon Roegele",
+						"id": 759823346,
+						"id_str": "759823346",
+						"indices": [
+							80,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hxNcRQtlcZ",
+						"expanded_url": "https://buff.ly/2WLKtpr",
+						"display_url": "buff.ly/2WLKtpr",
+						"indices": [
+							180,
+							203
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21410529,
+				"id_str": "21410529",
+				"name": "Baseball America",
+				"screen_name": "BaseballAmerica",
+				"location": "Durham, N.C.",
+				"description": "Unparalleled coverage and authority for more than 35 years. Get in the game👇",
+				"url": "https://t.co/bkHpdMr2mk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bkHpdMr2mk",
+								"expanded_url": "https://www.baseballamerica.com/sign-up/",
+								"display_url": "baseballamerica.com/sign-up/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 244646,
+				"friends_count": 1030,
+				"listed_count": 4581,
+				"created_at": "Fri Feb 20 16:33:00 +0000 2009",
+				"favourites_count": 1092,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 93075,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1095443676413808640/tGwquyUa_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095443676413808640/tGwquyUa_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21410529/1537532547",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yikes https://t.co/xvhb5BSJcE"
+	},
+	{
 		"created_at": "Tue Apr 02 11:14:28 +0000 2019",
 		"id": 1113036973759922200,
 		"id_str": "1113036973759922176",
