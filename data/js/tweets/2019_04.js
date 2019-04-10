@@ -1,6 +1,1256 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 22:21:50 +0000 2019",
+		"id": 1115739846666887200,
+		"id_str": "1115741636594683905",
+		"full_text": "\"There’s something wrong when the Uber CEO can buy a $16.5 million mansion but drivers sleep in parking lots.”\n\nhttps://t.co/T05le0JMZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T05le0JMZ0",
+					"expanded_url": "https://twitter.com/techworkersco/status/1115716779320332288",
+					"display_url": "twitter.com/techworkersco/…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 709313,
+			"id_str": "709313",
+			"name": "Cyrus Farivar",
+			"screen_name": "cfarivar",
+			"location": "Oakland, CA",
+			"description": "\"suh-ROOS\" / Investigative Tech Reporter, @nbcnews / ex-@arstechnica / cyrus.farivar@nbcuni.com / +1-646-872-5369 (Signal/WhatsApp) / Author, HABEAS DATA (2018)",
+			"url": "https://t.co/1ilGNAwGvb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ilGNAwGvb",
+							"expanded_url": "http://cfarivar.org",
+							"display_url": "cfarivar.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22685,
+			"friends_count": 24131,
+			"listed_count": 1290,
+			"created_at": "Fri Jan 26 16:38:14 +0000 2007",
+			"favourites_count": 13983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/709313/1484291429",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115716779320332300,
+		"quoted_status_id_str": "1115716779320332288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T05le0JMZ0",
+			"expanded": "https://twitter.com/techworkersco/status/1115716779320332288",
+			"display": "twitter.com/techworkersco/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 09 20:43:03 +0000 2019",
+			"id": 1115716779320332300,
+			"id_str": "1115716779320332288",
+			"full_text": "\"Drivers are workers and we deserve a fair share of the millions that we make for Uber and Lyft each year [...] a living wage, healthcare, paid time off and worker protections aren't too much to ask from a company potentially worth $120 billion.\"\n\nhttps://t.co/V7WB3ZSU0p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V7WB3ZSU0p",
+						"expanded_url": "https://www.nbcnews.com/think/opinion/uber-i-m-driver-not-worker-their-billion-dollar-ipo-ncna992501",
+						"display_url": "nbcnews.com/think/opinion/…",
+						"indices": [
+							248,
+							271
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3226827997,
+				"id_str": "3226827997",
+				"name": "Tech Workers Coalition",
+				"screen_name": "techworkersco",
+				"location": "A workplace near you",
+				"description": "We are a coalition of workers in and around the tech industry, labor organizers, community organizers, and friends. Contact us at hello@techworkersco.org",
+				"url": "https://t.co/gIupBLY2NL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gIupBLY2NL",
+								"expanded_url": "https://techworkerscoalition.org",
+								"display_url": "techworkerscoalition.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10845,
+				"friends_count": 689,
+				"listed_count": 185,
+				"created_at": "Tue May 26 04:33:48 +0000 2015",
+				"favourites_count": 2049,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1940,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFF7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949087355431895040/JhcJzPpU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949087355431895040/JhcJzPpU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3226827997/1440754139",
+				"profile_link_color": "1AA89D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"There’s something wrong when the Uber CEO can buy a $16.5 million mansion but drivers sleep in parking lots.”\n\nhttps://t.co/T05le0JMZ0"
+	},
+	{
+		"created_at": "Tue Apr 09 19:52:06 +0000 2019",
+		"id": 1115703954405580800,
+		"id_str": "1115703954405580800",
+		"full_text": "It's just that kind of day https://t.co/kn1TdXvwWz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kn1TdXvwWz",
+					"expanded_url": "https://twitter.com/mlb/status/1115701628198375424",
+					"display_url": "twitter.com/mlb/status/111…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 752,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19990,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115701628198375400,
+		"quoted_status_id_str": "1115701628198375424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kn1TdXvwWz",
+			"expanded": "https://twitter.com/mlb/status/1115701628198375424",
+			"display": "twitter.com/mlb/status/111…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 09 19:42:51 +0000 2019",
+			"id": 1115701628198375400,
+			"id_str": "1115701628198375424",
+			"full_text": "Home's on sale and Lourdes Gurriel Jr. just stole it. https://t.co/NRWJSCpHGC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1115699917144711200,
+						"id_str": "1115699917144711173",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/D3vDVWcXoAEHa6W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3vDVWcXoAEHa6W.jpg",
+						"url": "https://t.co/NRWJSCpHGC",
+						"display_url": "pic.twitter.com/NRWJSCpHGC",
+						"expanded_url": "https://twitter.com/MLB/status/1115701628198375424/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115699917144711200,
+						"id_str": "1115699917144711173",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/D3vDVWcXoAEHa6W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3vDVWcXoAEHa6W.jpg",
+						"url": "https://t.co/NRWJSCpHGC",
+						"display_url": "pic.twitter.com/NRWJSCpHGC",
+						"expanded_url": "https://twitter.com/MLB/status/1115701628198375424/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 24725,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1115699917144711173/vid/320x320/BEqJNrjYhJYztJbJ.mp4?tag=11"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1115699917144711173/pl/gMwsP2k0HVGbRYHD.m3u8?tag=11"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1115699917144711173/vid/480x480/Wom_4ogN0gGkHNFq.mp4?tag=11"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1115699917144711173/vid/720x720/ZZz6CrdcRRuOL2Ko.mp4?tag=11"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18479513,
+				"id_str": "18479513",
+				"name": "MLB",
+				"screen_name": "MLB",
+				"location": "",
+				"description": "Official Twitter account of Major League Baseball. ⚾️",
+				"url": "https://t.co/teGWLJu3BG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/teGWLJu3BG",
+								"expanded_url": "http://MLB.com",
+								"display_url": "MLB.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8297489,
+				"friends_count": 5720,
+				"listed_count": 31508,
+				"created_at": "Tue Dec 30 15:39:32 +0000 2008",
+				"favourites_count": 6690,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 167794,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097892906914979840/k4JrM__f_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097892906914979840/k4JrM__f_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18479513/1553792350",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 951,
+			"favorite_count": 5269,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's just that kind of day https://t.co/kn1TdXvwWz"
+	},
+	{
+		"created_at": "Tue Apr 09 17:33:00 +0000 2019",
+		"id": 1115666466362282000,
+		"id_str": "1115668951575478272",
+		"full_text": "#RedSox #WorldSeriesChamps 2018 rings https://t.co/7nGKgIcObw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedSox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "WorldSeriesChamps",
+					"indices": [
+						8,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115666461576564700,
+					"id_str": "1115666461576564740",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ukvFoWkAQrCAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ukvFoWkAQrCAx.jpg",
+					"url": "https://t.co/7nGKgIcObw",
+					"display_url": "pic.twitter.com/7nGKgIcObw",
+					"expanded_url": "https://twitter.com/guerinaustin/status/1115666466362281984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 964,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 998,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115666461576564700,
+					"id_str": "1115666461576564740",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ukvFoWkAQrCAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ukvFoWkAQrCAx.jpg",
+					"url": "https://t.co/7nGKgIcObw",
+					"display_url": "pic.twitter.com/7nGKgIcObw",
+					"expanded_url": "https://twitter.com/guerinaustin/status/1115666466362281984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 964,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 998,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80937127,
+			"id_str": "80937127",
+			"name": "Guerin Austin",
+			"screen_name": "guerinaustin",
+			"location": "Boston, MA",
+			"description": "Sideline Reporter for the @RedSox & TV Host on @NESN | figure skater |IG: @guerinaustin",
+			"url": "https://t.co/b8uYOm4qn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b8uYOm4qn7",
+							"expanded_url": "http://www.guerinaustin.com",
+							"display_url": "guerinaustin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30666,
+			"friends_count": 401,
+			"listed_count": 318,
+			"created_at": "Thu Oct 08 20:36:33 +0000 2009",
+			"favourites_count": 3506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8638,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108186993249406976/tOD9Oatv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108186993249406976/tOD9Oatv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80937127/1547632610",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 273,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#RedSox #WorldSeriesChamps 2018 rings https://t.co/7nGKgIcObw"
+	},
+	{
+		"created_at": "Tue Apr 09 13:59:03 +0000 2019",
+		"id": 1115615107847983100,
+		"id_str": "1115615107847983111",
+		"full_text": "😂😂😂 https://t.co/zIil6U3Xh2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zIil6U3Xh2",
+					"expanded_url": "https://twitter.com/K_Liakos/status/1115335848965414912",
+					"display_url": "twitter.com/K_Liakos/statu…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 752,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19990,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115335848965414900,
+		"quoted_status_id_str": "1115335848965414912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zIil6U3Xh2",
+			"expanded": "https://twitter.com/K_Liakos/status/1115335848965414912",
+			"display": "twitter.com/K_Liakos/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 08 19:29:22 +0000 2019",
+			"id": 1115335848965414900,
+			"id_str": "1115335848965414912",
+			"full_text": "Q: Why did Scooby Doo go to the chiropractor?\n\nA: https://t.co/ACZw8zOjcp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1115335784117276700,
+						"id_str": "1115335784117276672",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/D3p3_IGXkAA8yyM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3p3_IGXkAA8yyM.jpg",
+						"url": "https://t.co/ACZw8zOjcp",
+						"display_url": "pic.twitter.com/ACZw8zOjcp",
+						"expanded_url": "https://twitter.com/K_Liakos/status/1115335848965414912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 539,
+								"h": 289,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 539,
+								"h": 289,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 539,
+								"h": 289,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115335784117276700,
+						"id_str": "1115335784117276672",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/D3p3_IGXkAA8yyM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3p3_IGXkAA8yyM.jpg",
+						"url": "https://t.co/ACZw8zOjcp",
+						"display_url": "pic.twitter.com/ACZw8zOjcp",
+						"expanded_url": "https://twitter.com/K_Liakos/status/1115335848965414912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 539,
+								"h": 289,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 539,
+								"h": 289,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 539,
+								"h": 289,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20874186,
+				"id_str": "20874186",
+				"name": "LeBron Iver",
+				"screen_name": "K_Liakos",
+				"location": "Greenpoint, Brooklyn",
+				"description": "Musician/Writer/Dork/Bartender/Transit/Agriculture/Pinball/Baseball",
+				"url": "https://t.co/ZqKH0ckDLu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZqKH0ckDLu",
+								"expanded_url": "http://fixturesmusic.bandcamp.com",
+								"display_url": "fixturesmusic.bandcamp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1151,
+				"friends_count": 1923,
+				"listed_count": 46,
+				"created_at": "Sat Feb 14 21:58:20 +0000 2009",
+				"favourites_count": 24353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15881,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "262A2C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1058199158597828609/vm5NSd_I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058199158597828609/vm5NSd_I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20874186/1511509801",
+				"profile_link_color": "98A7F1",
+				"profile_sidebar_border_color": "262A2C",
+				"profile_sidebar_fill_color": "262A2C",
+				"profile_text_color": "9A9693",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2099,
+			"favorite_count": 9136,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😂😂😂 https://t.co/zIil6U3Xh2"
+	},
+	{
+		"created_at": "Tue Apr 09 12:23:40 +0000 2019",
+		"id": 1115591103493890000,
+		"id_str": "1115591103493890048",
+		"full_text": "Those poor corporations https://t.co/IDOJSxqZ0N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IDOJSxqZ0N",
+					"expanded_url": "https://twitter.com/justinelliott/status/1115582655146463233",
+					"display_url": "twitter.com/justinelliott/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 752,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19990,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115582655146463200,
+		"quoted_status_id_str": "1115582655146463233",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IDOJSxqZ0N",
+			"expanded": "https://twitter.com/justinelliott/status/1115582655146463233",
+			"display": "twitter.com/justinelliott/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 09 11:50:06 +0000 2019",
+			"id": 1115582655146463200,
+			"id_str": "1115582655146463233",
+			"full_text": "New: Congress is about to *make it illegal* for the government to offer free online tax filing. Thank TurboTax. https://t.co/r2PuLM9lML",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/r2PuLM9lML",
+						"expanded_url": "https://www.propublica.org/article/congress-is-about-to-ban-the-government-from-offering-free-online-tax-filing-thank-turbotax",
+						"display_url": "propublica.org/article/congre…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40912473,
+				"id_str": "40912473",
+				"name": "Justin Elliott",
+				"screen_name": "JustinElliott",
+				"location": "New York",
+				"description": "ProPublica reporter. Email tips/comments/complaints: justin@propublica.org PGP: https://t.co/joLypn4LJU Leak to us: https://t.co/BUneX2DWt1",
+				"url": "https://t.co/Fqv83dZwE0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fqv83dZwE0",
+								"expanded_url": "http://www.propublica.org/",
+								"display_url": "propublica.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/joLypn4LJU",
+								"expanded_url": "https://goo.gl/FISLVH",
+								"display_url": "goo.gl/FISLVH",
+								"indices": [
+									80,
+									103
+								]
+							},
+							{
+								"url": "https://t.co/BUneX2DWt1",
+								"expanded_url": "https://goo.gl/LtJvCs",
+								"display_url": "goo.gl/LtJvCs",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18967,
+				"friends_count": 1609,
+				"listed_count": 884,
+				"created_at": "Mon May 18 16:51:30 +0000 2009",
+				"favourites_count": 271,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9464,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/994683938370150400/vVtxNNRZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/994683938370150400/vVtxNNRZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40912473/1508351127",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4864,
+			"favorite_count": 4617,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Those poor corporations https://t.co/IDOJSxqZ0N"
+	},
+	{
 		"created_at": "Mon Apr 08 23:59:51 +0000 2019",
 		"id": 1115403917037375500,
 		"id_str": "1115403917037375488",
