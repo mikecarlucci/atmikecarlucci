@@ -1,6 +1,821 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 02:36:16 +0000 2019",
+		"id": 1116529372759056400,
+		"id_str": "1116530442415628288",
+		"full_text": "THANK YOU &amp; GOODNIGHT! \n\nWALKED OFF!!! \n#DIRTYWATER https://t.co/TAbk0K2NWh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DIRTYWATER",
+					"indices": [
+						44,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116529299165724700,
+					"id_str": "1116529299165724677",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116529299165724677/pu/img/KxTWKc0mvvdMB3Ie.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116529299165724677/pu/img/KxTWKc0mvvdMB3Ie.jpg",
+					"url": "https://t.co/TAbk0K2NWh",
+					"display_url": "pic.twitter.com/TAbk0K2NWh",
+					"expanded_url": "https://twitter.com/RedSox/status/1116529372759056385/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116529299165724700,
+					"id_str": "1116529299165724677",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116529299165724677/pu/img/KxTWKc0mvvdMB3Ie.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116529299165724677/pu/img/KxTWKc0mvvdMB3Ie.jpg",
+					"url": "https://t.co/TAbk0K2NWh",
+					"display_url": "pic.twitter.com/TAbk0K2NWh",
+					"expanded_url": "https://twitter.com/RedSox/status/1116529372759056385/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 4040,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116529299165724677/pu/vid/320x180/RI8u-A38jkXI_5wo.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116529299165724677/pu/vid/1280x720/ejjlYN2gWW-wbmPb.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1116529299165724677/pu/pl/Pzp9tE2VcBVUksIU.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116529299165724677/pu/vid/640x360/SbKo6vEGzbBNQrke.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40918816,
+			"id_str": "40918816",
+			"name": "Boston Red Sox",
+			"screen_name": "RedSox",
+			"location": "Fenway Park",
+			"description": "Official Twitter of the 2018 World Series Champions. We wanna do it again.",
+			"url": "https://t.co/vZY9MTV23D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vZY9MTV23D",
+							"expanded_url": "http://redsox.com",
+							"display_url": "redsox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2097672,
+			"friends_count": 193,
+			"listed_count": 10628,
+			"created_at": "Mon May 18 17:21:20 +0000 2009",
+			"favourites_count": 7199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "213117",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111684217245560832/YM_P0LXV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111684217245560832/YM_P0LXV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40918816/1553771694",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1410,
+		"favorite_count": 5396,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THANK YOU &amp; GOODNIGHT! \n\nWALKED OFF!!! \n#DIRTYWATER https://t.co/TAbk0K2NWh"
+	},
+	{
+		"created_at": "Thu Apr 11 21:30:24 +0000 2019",
+		"id": 1116436047649484800,
+		"id_str": "1116453470436040704",
+		"full_text": "RT if you paid more taxes than Amazon, Netflix, Chevron, Eli Lilly, and John Deere who all paid $0. https://t.co/Xc4RlKRcmA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xc4RlKRcmA",
+					"expanded_url": "https://twitter.com/LOLGOP/status/1116318408105242624",
+					"display_url": "twitter.com/LOLGOP/status/…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11866582,
+			"id_str": "11866582",
+			"name": "LOLGOP",
+			"screen_name": "LOLGOP",
+			"location": "Ann Arbor, Michigan",
+			"description": "Anger, with compassion.",
+			"url": "https://t.co/cr9DadaHhk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cr9DadaHhk",
+							"expanded_url": "http://bit.ly/GOTMFVShow",
+							"display_url": "bit.ly/GOTMFVShow",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359683,
+			"friends_count": 10520,
+			"listed_count": 7106,
+			"created_at": "Sat Jan 05 05:15:08 +0000 2008",
+			"favourites_count": 52518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 249950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "216314",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111355134880202752/X0rXwY_5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111355134880202752/X0rXwY_5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11866582/1554843695",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116318408105242600,
+		"quoted_status_id_str": "1116318408105242624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Xc4RlKRcmA",
+			"expanded": "https://twitter.com/LOLGOP/status/1116318408105242624",
+			"display": "twitter.com/LOLGOP/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 11 12:33:43 +0000 2019",
+			"id": 1116318408105242600,
+			"id_str": "1116318408105242624",
+			"full_text": "\"Among them are household names like technology giant https://t.co/v15L0wbaFr Inc. and streaming service Netflix Inc., in addition to global oil giant Chevron Corp., pharmaceutical manufacturer Eli Lilly and Co., and farming and commercial equipment manufacturer Deere &amp; Co.\" https://t.co/zo8pIaDaVR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v15L0wbaFr",
+						"expanded_url": "http://Amazon.com",
+						"display_url": "Amazon.com",
+						"indices": [
+							54,
+							77
+						]
+					},
+					{
+						"url": "https://t.co/zo8pIaDaVR",
+						"expanded_url": "https://twitter.com/bfouhy/status/1116318082736246784",
+						"display_url": "twitter.com/bfouhy/status/…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11866582,
+				"id_str": "11866582",
+				"name": "LOLGOP",
+				"screen_name": "LOLGOP",
+				"location": "Ann Arbor, Michigan",
+				"description": "Anger, with compassion.",
+				"url": "https://t.co/cr9DadaHhk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cr9DadaHhk",
+								"expanded_url": "http://bit.ly/GOTMFVShow",
+								"display_url": "bit.ly/GOTMFVShow",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 359683,
+				"friends_count": 10520,
+				"listed_count": 7106,
+				"created_at": "Sat Jan 05 05:15:08 +0000 2008",
+				"favourites_count": 52518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 249950,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "216314",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111355134880202752/X0rXwY_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111355134880202752/X0rXwY_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11866582/1554843695",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1116318082736246800,
+			"quoted_status_id_str": "1116318082736246784",
+			"quoted_status_permalink": {
+				"url": "https://t.co/zo8pIaDaVR",
+				"expanded": "https://twitter.com/bfouhy/status/1116318082736246784",
+				"display": "twitter.com/bfouhy/status/…"
+			},
+			"retweet_count": 103,
+			"favorite_count": 156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 327,
+		"favorite_count": 346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RT if you paid more taxes than Amazon, Netflix, Chevron, Eli Lilly, and John Deere who all paid $0. https://t.co/Xc4RlKRcmA"
+	},
+	{
+		"created_at": "Thu Apr 11 17:12:34 +0000 2019",
+		"id": 1116388583630417900,
+		"id_str": "1116388583630417921",
+		"full_text": "Is Varitek celebrating a b-day with the Sox? https://t.co/bYeyIyKrgk https://t.co/d4LKB6hHCf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bYeyIyKrgk",
+					"expanded_url": "https://www.overthemonster.com/2019/4/11/18306458/celebrate-33-on-4-11?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2019/4/11/1830…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116388581843591200,
+					"id_str": "1116388581843591168",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D341gBQW4AAqkfy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D341gBQW4AAqkfy.jpg",
+					"url": "https://t.co/d4LKB6hHCf",
+					"display_url": "pic.twitter.com/d4LKB6hHCf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1116388583630417921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116388581843591200,
+					"id_str": "1116388581843591168",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D341gBQW4AAqkfy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D341gBQW4AAqkfy.jpg",
+					"url": "https://t.co/d4LKB6hHCf",
+					"display_url": "pic.twitter.com/d4LKB6hHCf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1116388583630417921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 752,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is Varitek celebrating a b-day with the Sox? https://t.co/bYeyIyKrgk https://t.co/d4LKB6hHCf"
+	},
+	{
+		"created_at": "Thu Apr 11 17:07:20 +0000 2019",
+		"id": 1116387265746493400,
+		"id_str": "1116387265746493442",
+		"full_text": "Happy B-Day to Trot https://t.co/qhILi6WiEc https://t.co/6HS2lLgh0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qhILi6WiEc",
+					"expanded_url": "https://www.overthemonster.com/2019/4/11/18306453/trot-day?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2019/4/11/1830…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116387264207179800,
+					"id_str": "1116387264207179777",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D340TUrW0AEoPL2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D340TUrW0AEoPL2.jpg",
+					"url": "https://t.co/6HS2lLgh0A",
+					"display_url": "pic.twitter.com/6HS2lLgh0A",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1116387265746493442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116387264207179800,
+					"id_str": "1116387264207179777",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D340TUrW0AEoPL2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D340TUrW0AEoPL2.jpg",
+					"url": "https://t.co/6HS2lLgh0A",
+					"display_url": "pic.twitter.com/6HS2lLgh0A",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1116387265746493442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 752,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy B-Day to Trot https://t.co/qhILi6WiEc https://t.co/6HS2lLgh0A"
+	},
+	{
 		"created_at": "Thu Apr 11 02:47:33 +0000 2019",
 		"id": 1116170894362198000,
 		"id_str": "1116170894362198016",
