@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 22:15:41 +0000 2019",
+		"id": 1117072061871075300,
+		"id_str": "1117189641646628864",
+		"full_text": "Looks like 27 million is safe. Let's be real, we would probably do it for 270,270. 😉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1116868534737559600,
+		"in_reply_to_status_id_str": "1116868534737559554",
+		"in_reply_to_user_id": 18479513,
+		"in_reply_to_user_id_str": "18479513",
+		"in_reply_to_screen_name": "MLB",
+		"user": {
+			"id": 18479513,
+			"id_str": "18479513",
+			"name": "MLB",
+			"screen_name": "MLB",
+			"location": "",
+			"description": "Official Twitter account of Major League Baseball. ⚾️",
+			"url": "https://t.co/teGWLJu3BG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/teGWLJu3BG",
+							"expanded_url": "http://MLB.com",
+							"display_url": "MLB.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8301936,
+			"friends_count": 5719,
+			"listed_count": 31498,
+			"created_at": "Tue Dec 30 15:39:32 +0000 2008",
+			"favourites_count": 6775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 168135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097892906914979840/k4JrM__f_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097892906914979840/k4JrM__f_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18479513/1553792350",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 1463,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Looks like 27 million is safe. Let's be real, we would probably do it for 270,270. 😉"
+	},
+	{
+		"created_at": "Sat Apr 13 19:01:27 +0000 2019",
+		"id": 1117140761315827700,
+		"id_str": "1117140761315827714",
+		"full_text": "Model of consistency https://t.co/r0RJkfZIew",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r0RJkfZIew",
+					"expanded_url": "https://twitter.com/KleinschmidtJD/status/1116893982569590786",
+					"display_url": "twitter.com/KleinschmidtJD…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4526,
+			"friends_count": 753,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19997,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116893982569590800,
+		"quoted_status_id_str": "1116893982569590786",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r0RJkfZIew",
+			"expanded": "https://twitter.com/KleinschmidtJD/status/1116893982569590786",
+			"display": "twitter.com/KleinschmidtJD…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 13 02:40:50 +0000 2019",
+			"id": 1116893982569590800,
+			"id_str": "1116893982569590786",
+			"full_text": "With that, Khris Davis is now batting .247 over his last 247 games played.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106597256,
+				"id_str": "106597256",
+				"name": "Jessica Kleinschmidt",
+				"screen_name": "KleinschmidtJD",
+				"location": "Reno ➡️ Bay Area, CA ",
+				"description": "Content: NBC Sports Bay Area || Baseball analyst || Jessica.Kleinschmidt@nbcuni.com || Instagram: jessicakleinschmidt",
+				"url": "https://t.co/JO452k1F24",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JO452k1F24",
+								"expanded_url": "https://www.nbcsports.com/bayarea/tags/jessica-kleinschmidt",
+								"display_url": "nbcsports.com/bayarea/tags/j…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32908,
+				"friends_count": 996,
+				"listed_count": 595,
+				"created_at": "Wed Jan 20 02:15:38 +0000 2010",
+				"favourites_count": 72049,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 73395,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107510094722285568/KbCrornP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107510094722285568/KbCrornP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106597256/1554071421",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 477,
+			"favorite_count": 3125,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Model of consistency https://t.co/r0RJkfZIew"
+	},
+	{
 		"created_at": "Fri Apr 12 16:27:32 +0000 2019",
 		"id": 1116739636850778100,
 		"id_str": "1116739636850778115",
