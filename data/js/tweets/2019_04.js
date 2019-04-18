@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 23:05:25 +0000 2019",
+		"id": 1118651708744327200,
+		"id_str": "1118651708744327169",
+		"full_text": "Well that's not in the playbook https://t.co/BUX2DfJyBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BUX2DfJyBI",
+					"expanded_url": "https://twitter.com/chriscotillo/status/1118651455467028481",
+					"display_url": "twitter.com/chriscotillo/s…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4525,
+			"friends_count": 755,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118651455467028500,
+		"quoted_status_id_str": "1118651455467028481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BUX2DfJyBI",
+			"expanded": "https://twitter.com/chriscotillo/status/1118651455467028481",
+			"display": "twitter.com/chriscotillo/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 17 23:04:25 +0000 2019",
+			"id": 1118651455467028500,
+			"id_str": "1118651455467028481",
+			"full_text": "Dustin Pedroia has been removed from the game. Eduardo Nunez in at second.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 340696305,
+				"id_str": "340696305",
+				"name": "Chris Cotillo",
+				"screen_name": "ChrisCotillo",
+				"location": "Boston, MA",
+				"description": "Red Sox beat writer, https://t.co/0JhHSIgu0l. MLB insider. Tar Heel. ccotillo@masslive.com",
+				"url": "https://t.co/yMqgmmClD7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yMqgmmClD7",
+								"expanded_url": "http://www.masslive.com/redsox/",
+								"display_url": "masslive.com/redsox/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0JhHSIgu0l",
+								"expanded_url": "http://MassLive.com",
+								"display_url": "MassLive.com",
+								"indices": [
+									21,
+									44
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41008,
+				"friends_count": 2915,
+				"listed_count": 1659,
+				"created_at": "Sat Jul 23 03:33:33 +0000 2011",
+				"favourites_count": 9522,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 52412,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "101010",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1003706409027072001/B-Mk7sMd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003706409027072001/B-Mk7sMd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/340696305/1526409993",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D2CDCB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well that's not in the playbook https://t.co/BUX2DfJyBI"
+	},
+	{
 		"created_at": "Wed Apr 17 00:44:15 +0000 2019",
 		"id": 1118313322720452600,
 		"id_str": "1118314191939690497",
