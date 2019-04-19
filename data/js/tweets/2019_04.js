@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 01:50:28 +0000 2019",
+		"id": 1119035902473457700,
+		"id_str": "1119055632500502529",
+		"full_text": "The #RedSox will place 2B Dustin Pedroia on the 10-day injured list with left knee irritation, effective today.\n\nTo fill Pedroia’s spot on the active 25-man roster, the club will recall RHP Marcus Walden from Triple-A Pawtucket prior to tomorrow’s game against the Tampa Bay Rays.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedSox",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40918816,
+			"id_str": "40918816",
+			"name": "Boston Red Sox",
+			"screen_name": "RedSox",
+			"location": "Fenway Park",
+			"description": "Official Twitter of the 2018 World Series Champions. We wanna do it again.",
+			"url": "https://t.co/vZY9MTV23D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vZY9MTV23D",
+							"expanded_url": "http://redsox.com",
+							"display_url": "redsox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2100259,
+			"friends_count": 194,
+			"listed_count": 10647,
+			"created_at": "Mon May 18 17:21:20 +0000 2009",
+			"favourites_count": 7230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "213117",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111684217245560832/YM_P0LXV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111684217245560832/YM_P0LXV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40918816/1555511387",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 348,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The #RedSox will place 2B Dustin Pedroia on the 10-day injured list with left knee irritation, effective today.\n\nTo fill Pedroia’s spot on the active 25-man roster, the club will recall RHP Marcus Walden from Triple-A Pawtucket prior to tomorrow’s game against the Tampa Bay Rays."
+	},
+	{
+		"created_at": "Thu Apr 18 17:03:56 +0000 2019",
+		"id": 1118923125750685700,
+		"id_str": "1118923125750685698",
+		"full_text": "Sorry Craig https://t.co/GF7uYimGDd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GF7uYimGDd",
+					"expanded_url": "https://twitter.com/mlbtraderumors/status/1118922665186799616",
+					"display_url": "twitter.com/mlbtraderumors…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4525,
+			"friends_count": 754,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118922665186799600,
+		"quoted_status_id_str": "1118922665186799616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GF7uYimGDd",
+			"expanded": "https://twitter.com/mlbtraderumors/status/1118922665186799616",
+			"display": "twitter.com/mlbtraderumors…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 17:02:06 +0000 2019",
+			"id": 1118922665186799600,
+			"id_str": "1118922665186799616",
+			"full_text": "Even with Vizcaino done for the year...\nhttps://t.co/NsjEgKcQFI\n\n...#Braves reportedly unlikely to meet Kimbrel's asking price:\nhttps://t.co/ch7r8lRtCD https://t.co/RInHt4Ii80",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Braves",
+						"indices": [
+							68,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NsjEgKcQFI",
+						"expanded_url": "https://www.mlbtraderumors.com/2019/04/arodys-vizcaino-undergoes-season-ending-shoulder-surgery.html",
+						"display_url": "mlbtraderumors.com/2019/04/arodys…",
+						"indices": [
+							40,
+							63
+						]
+					},
+					{
+						"url": "https://t.co/ch7r8lRtCD",
+						"expanded_url": "https://www.mlbtraderumors.com/2019/04/braves-rumors-craig-kimbrel-arodys-vizcaino.html",
+						"display_url": "mlbtraderumors.com/2019/04/braves…",
+						"indices": [
+							128,
+							151
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118922362345394200,
+						"id_str": "1118922362345394176",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/D4c19dLWkAAGNE5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4c19dLWkAAGNE5.jpg",
+						"url": "https://t.co/RInHt4Ii80",
+						"display_url": "pic.twitter.com/RInHt4Ii80",
+						"expanded_url": "https://twitter.com/mlbtraderumors/status/1118922665186799616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1443,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 845,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118922362345394200,
+						"id_str": "1118922362345394176",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/D4c19dLWkAAGNE5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4c19dLWkAAGNE5.jpg",
+						"url": "https://t.co/RInHt4Ii80",
+						"display_url": "pic.twitter.com/RInHt4Ii80",
+						"expanded_url": "https://twitter.com/mlbtraderumors/status/1118922665186799616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1443,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 845,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1118922435108143100,
+						"id_str": "1118922435108143105",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/D4c2BsPWAAEsbCR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4c2BsPWAAEsbCR.jpg",
+						"url": "https://t.co/RInHt4Ii80",
+						"display_url": "pic.twitter.com/RInHt4Ii80",
+						"expanded_url": "https://twitter.com/mlbtraderumors/status/1118922665186799616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1552,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 909,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 515,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18691328,
+				"id_str": "18691328",
+				"name": "MLB Trade Rumors",
+				"screen_name": "mlbtraderumors",
+				"location": "",
+				"description": "Official Twitter account for http://t.co/iJVlpFvVbs.",
+				"url": "http://t.co/Z3cBSOVdSA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Z3cBSOVdSA",
+								"expanded_url": "http://www.mlbtraderumors.com",
+								"display_url": "mlbtraderumors.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/iJVlpFvVbs",
+								"expanded_url": "http://MLBTradeRumors.com",
+								"display_url": "MLBTradeRumors.com",
+								"indices": [
+									29,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 677878,
+				"friends_count": 232,
+				"listed_count": 11037,
+				"created_at": "Tue Jan 06 19:41:23 +0000 2009",
+				"favourites_count": 219,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 74550,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930811344508645376/sXfGmB-P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930811344508645376/sXfGmB-P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18691328/1424374549",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sorry Craig https://t.co/GF7uYimGDd"
+	},
+	{
+		"created_at": "Thu Apr 18 15:24:51 +0000 2019",
+		"id": 1118898189837455400,
+		"id_str": "1118898189837455360",
+		"full_text": "Honestly I would have cited the direct tweet link itself 😂 https://t.co/o8wMqjns6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118897962850164700,
+					"id_str": "1118897962850164737",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D4cfxN-XoAExCjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4cfxN-XoAExCjt.jpg",
+					"url": "https://t.co/o8wMqjns6n",
+					"display_url": "pic.twitter.com/o8wMqjns6n",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1118898189837455360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 119,
+							"h": 119,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1003,
+							"h": 119,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 119,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 81,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118897962850164700,
+					"id_str": "1118897962850164737",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D4cfxN-XoAExCjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4cfxN-XoAExCjt.jpg",
+					"url": "https://t.co/o8wMqjns6n",
+					"display_url": "pic.twitter.com/o8wMqjns6n",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1118898189837455360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 119,
+							"h": 119,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1003,
+							"h": 119,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 119,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 81,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4525,
+			"friends_count": 754,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Honestly I would have cited the direct tweet link itself 😂 https://t.co/o8wMqjns6n"
+	},
+	{
 		"created_at": "Wed Apr 17 23:05:25 +0000 2019",
 		"id": 1118651708744327200,
 		"id_str": "1118651708744327169",
