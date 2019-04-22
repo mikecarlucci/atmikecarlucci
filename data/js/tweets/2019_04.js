@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 02:31:21 +0000 2019",
+		"id": 1120153086037827600,
+		"id_str": "1120153086037827585",
+		"full_text": "\"At last we will reveal ourselves to the Night King\" #got https://t.co/CNJ707PIFp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "got",
+					"indices": [
+						53,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CNJ707PIFp",
+					"expanded_url": "https://twitter.com/jacksonsafon/status/1120141456881045504",
+					"display_url": "twitter.com/jacksonsafon/s…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4525,
+			"friends_count": 751,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 50950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120141456881045500,
+		"quoted_status_id_str": "1120141456881045504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CNJ707PIFp",
+			"expanded": "https://twitter.com/jacksonsafon/status/1120141456881045504",
+			"display": "twitter.com/jacksonsafon/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 22 01:45:09 +0000 2019",
+			"id": 1120141456881045500,
+			"id_str": "1120141456881045504",
+			"full_text": "who's more dangerous with a double-sided weapon tho?? https://t.co/ZRwbVPQ0Bc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1120141203540860900,
+						"id_str": "1120141203540860928",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120141203540860928/pu/img/cuZsh3hTtcxIY2H9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120141203540860928/pu/img/cuZsh3hTtcxIY2H9.jpg",
+						"url": "https://t.co/ZRwbVPQ0Bc",
+						"display_url": "pic.twitter.com/ZRwbVPQ0Bc",
+						"expanded_url": "https://twitter.com/JacksonSafon/status/1120141456881045504/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1120141203540860900,
+						"id_str": "1120141203540860928",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120141203540860928/pu/img/cuZsh3hTtcxIY2H9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120141203540860928/pu/img/cuZsh3hTtcxIY2H9.jpg",
+						"url": "https://t.co/ZRwbVPQ0Bc",
+						"display_url": "pic.twitter.com/ZRwbVPQ0Bc",
+						"expanded_url": "https://twitter.com/JacksonSafon/status/1120141456881045504/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 3100,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1120141203540860928/pu/vid/720x720/5osZw5sbymmp_4kr.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1120141203540860928/pu/vid/480x480/gR2w_VRDT3M_g_Y8.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1120141203540860928/pu/pl/rUpwmCVEiKMQ40QO.m3u8?tag=8"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1120141203540860928/pu/vid/320x320/ybgwBIfJ517cbl0P.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895670786,
+				"id_str": "895670786",
+				"name": "Jackson Safon",
+				"screen_name": "JacksonSafon",
+				"location": "Seattle | LA",
+				"description": "@ringer video. is the internet real for you, in your life?",
+				"url": "https://t.co/7xxCRQwyoC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7xxCRQwyoC",
+								"expanded_url": "http://www.theringer.com",
+								"display_url": "theringer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1149,
+				"friends_count": 614,
+				"listed_count": 34,
+				"created_at": "Sun Oct 21 16:22:05 +0000 2012",
+				"favourites_count": 12660,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11013,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110047045115510784/JqZNXAF9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110047045115510784/JqZNXAF9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895670786/1405318654",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 82,
+			"favorite_count": 602,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"At last we will reveal ourselves to the Night King\" #got https://t.co/CNJ707PIFp"
+	},
+	{
 		"created_at": "Sat Apr 20 15:57:56 +0000 2019",
 		"id": 1119631293136949200,
 		"id_str": "1119631293136949256",
