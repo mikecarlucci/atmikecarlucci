@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 20:34:19 +0000 2019",
+		"id": 1121875172817031200,
+		"id_str": "1121875172817031169",
+		"full_text": "This is embarrassing https://t.co/vG4xXOhnES",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vG4xXOhnES",
+					"expanded_url": "https://twitter.com/techdirt/status/1121854491672838144",
+					"display_url": "twitter.com/techdirt/statu…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4532,
+			"friends_count": 750,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 51147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20050,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121854491672838100,
+		"quoted_status_id_str": "1121854491672838144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vG4xXOhnES",
+			"expanded": "https://twitter.com/techdirt/status/1121854491672838144",
+			"display": "twitter.com/techdirt/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 19:12:08 +0000 2019",
+			"id": 1121854491672838100,
+			"id_str": "1121854491672838144",
+			"full_text": "Today In Bananas Copyright Law: Court Urged To Rule That A Banana Costume Is Not Infringing https://t.co/R8iWP0dMSQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R8iWP0dMSQ",
+						"expanded_url": "https://tdrt.io/hhY",
+						"display_url": "tdrt.io/hhY",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11382292,
+				"id_str": "11382292",
+				"name": "techdirt",
+				"screen_name": "techdirt",
+				"location": "",
+				"description": "",
+				"url": "http://t.co/RDvqaK1tsQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RDvqaK1tsQ",
+								"expanded_url": "http://www.techdirt.com/",
+								"display_url": "techdirt.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44628,
+				"friends_count": 13,
+				"listed_count": 3688,
+				"created_at": "Thu Dec 20 19:55:40 +0000 2007",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39502,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/46559972/techdirt_logovertical_250x250_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/46559972/techdirt_logovertical_250x250_normal.png",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is embarrassing https://t.co/vG4xXOhnES"
+	},
+	{
+		"created_at": "Fri Apr 26 11:24:33 +0000 2019",
+		"id": 1121736822319722500,
+		"id_str": "1121736822319722501",
+		"full_text": "Like the return of https://t.co/F11ZgAF7St! https://t.co/YfscUK0S79",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F11ZgAF7St",
+					"expanded_url": "http://Outpost.com",
+					"display_url": "Outpost.com",
+					"indices": [
+						19,
+						42
+					]
+				},
+				{
+					"url": "https://t.co/YfscUK0S79",
+					"expanded_url": "https://twitter.com/AndroidPolice/status/1121711403692253190",
+					"display_url": "twitter.com/AndroidPolice/…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4532,
+			"friends_count": 750,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 51147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20050,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121711403692253200,
+		"quoted_status_id_str": "1121711403692253190",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YfscUK0S79",
+			"expanded": "https://twitter.com/AndroidPolice/status/1121711403692253190",
+			"display": "twitter.com/AndroidPolice/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 09:43:33 +0000 2019",
+			"id": 1121711403692253200,
+			"id_str": "1121711403692253190",
+			"full_text": "Amazon to offer free one-day Prime shipping https://t.co/FTh6T4RrOk https://t.co/N4VzFEhNF2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FTh6T4RrOk",
+						"expanded_url": "https://www.androidpolice.com/2019/04/26/amazon-to-offer-free-one-day-prime-shipping/",
+						"display_url": "androidpolice.com/2019/04/26/ama…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1121711401687339000,
+						"id_str": "1121711401687339009",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/D5Eek6YUUAE8SxG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5Eek6YUUAE8SxG.jpg",
+						"url": "https://t.co/N4VzFEhNF2",
+						"display_url": "pic.twitter.com/N4VzFEhNF2",
+						"expanded_url": "https://twitter.com/AndroidPolice/status/1121711403692253190/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 248,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 746,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 437,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121711401687339000,
+						"id_str": "1121711401687339009",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/D5Eek6YUUAE8SxG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5Eek6YUUAE8SxG.jpg",
+						"url": "https://t.co/N4VzFEhNF2",
+						"display_url": "pic.twitter.com/N4VzFEhNF2",
+						"expanded_url": "https://twitter.com/AndroidPolice/status/1121711403692253190/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 248,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 746,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 437,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98335997,
+				"id_str": "98335997",
+				"name": "Android Police",
+				"screen_name": "AndroidPolice",
+				"location": "San Francisco, CA",
+				"description": "We cover Android news, apps and games, phones and tablets. Sometimes we rant. Got a hot tip? tips@androidpolice.com.",
+				"url": "http://t.co/oPxy87IP2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/oPxy87IP2B",
+								"expanded_url": "http://www.androidpolice.com",
+								"display_url": "androidpolice.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 497313,
+				"friends_count": 359,
+				"listed_count": 8033,
+				"created_at": "Mon Dec 21 09:35:39 +0000 2009",
+				"favourites_count": 596,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 59456,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563109834988335104/mYPfSB_b_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563109834988335104/mYPfSB_b_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98335997/1423092178",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Like the return of https://t.co/F11ZgAF7St! https://t.co/YfscUK0S79"
+	},
+	{
 		"created_at": "Fri Apr 26 02:20:31 +0000 2019",
 		"id": 1121599909323575300,
 		"id_str": "1121599909323575297",
