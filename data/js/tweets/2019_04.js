@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 23:59:55 +0000 2019",
+		"id": 1122289300673060900,
+		"id_str": "1122289300673060866",
+		"full_text": "Good effort https://t.co/MKGIGO53si",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MKGIGO53si",
+					"expanded_url": "https://twitter.com/itsdanbull/status/1122284402673844224",
+					"display_url": "twitter.com/itsdanbull/sta…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4532,
+			"friends_count": 750,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 51145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1122284402673844200,
+		"quoted_status_id_str": "1122284402673844224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MKGIGO53si",
+			"expanded": "https://twitter.com/itsdanbull/status/1122284402673844224",
+			"display": "twitter.com/itsdanbull/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 27 23:40:27 +0000 2019",
+			"id": 1122284402673844200,
+			"id_str": "1122284402673844224",
+			"full_text": "\"Appeared to be a counterfeit\" well done, the police https://t.co/xEySkcWq2U",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1122284389457698800,
+						"id_str": "1122284389457698816",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/D5MntMKXoAA578U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5MntMKXoAA578U.jpg",
+						"url": "https://t.co/xEySkcWq2U",
+						"display_url": "pic.twitter.com/xEySkcWq2U",
+						"expanded_url": "https://twitter.com/itsDanBull/status/1122284402673844224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1019,
+								"h": 738,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1019,
+								"h": 738,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1122284389457698800,
+						"id_str": "1122284389457698816",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/D5MntMKXoAA578U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5MntMKXoAA578U.jpg",
+						"url": "https://t.co/xEySkcWq2U",
+						"display_url": "pic.twitter.com/xEySkcWq2U",
+						"expanded_url": "https://twitter.com/itsDanBull/status/1122284402673844224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1019,
+								"h": 738,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1019,
+								"h": 738,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25213378,
+				"id_str": "25213378",
+				"name": "Dan Bull 🍐",
+				"screen_name": "itsDanBull",
+				"location": "Birmingham, England",
+				"description": "The rhyme minister. Pearified account. Business only: hello@freshnutmedia.com T shirts: https://t.co/gm8OHH58vN Discord: https://t.co/3bRwWgtysO",
+				"url": "https://t.co/IEBn92hFNH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IEBn92hFNH",
+								"expanded_url": "http://youtube.com/douglby",
+								"display_url": "youtube.com/douglby",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gm8OHH58vN",
+								"expanded_url": "http://itsdanbull.com/shop",
+								"display_url": "itsdanbull.com/shop",
+								"indices": [
+									88,
+									111
+								]
+							},
+							{
+								"url": "https://t.co/3bRwWgtysO",
+								"expanded_url": "http://discord.gg/itsdanbull",
+								"display_url": "discord.gg/itsdanbull",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 124581,
+				"friends_count": 982,
+				"listed_count": 370,
+				"created_at": "Thu Mar 19 02:05:31 +0000 2009",
+				"favourites_count": 17632,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 46447,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/682451803066241024/bh22Zcvc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/682451803066241024/bh22Zcvc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25213378/1506509829",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 181,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good effort https://t.co/MKGIGO53si"
+	},
+	{
 		"created_at": "Fri Apr 26 20:34:19 +0000 2019",
 		"id": 1121875172817031200,
 		"id_str": "1121875172817031169",
