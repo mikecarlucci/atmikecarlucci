@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 16:47:51 +0000 2019",
+		"id": 1122899739958181900,
+		"id_str": "1122905347038031872",
+		"full_text": "\"First Brandon Lowe, now Nate Lowe?  Boy, the Rays really are embracing being a Lowe-payroll team!\"\n\n* send tweet * https://t.co/Amsp9KpkOg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Amsp9KpkOg",
+					"expanded_url": "https://twitter.com/draysbay/status/1122899401536614400",
+					"display_url": "twitter.com/draysbay/statu…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84443799,
+			"id_str": "84443799",
+			"name": "Adam J. Morris",
+			"screen_name": "lonestarball",
+			"location": "",
+			"description": "This is the official Twitter account for the Lone Star Ball blog on the SBN network, obsessively following the Texas Rangers",
+			"url": "https://t.co/q4hpyR9X6r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q4hpyR9X6r",
+							"expanded_url": "http://www.lonestarball.com",
+							"display_url": "lonestarball.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14596,
+			"friends_count": 270,
+			"listed_count": 825,
+			"created_at": "Thu Oct 22 22:44:03 +0000 2009",
+			"favourites_count": 435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1508973186/Th_BuckyKatt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508973186/Th_BuckyKatt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84443799/1540183316",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1122899401536614400,
+		"quoted_status_id_str": "1122899401536614400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Amsp9KpkOg",
+			"expanded": "https://twitter.com/draysbay/status/1122899401536614400",
+			"display": "twitter.com/draysbay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 29 16:24:14 +0000 2019",
+			"id": 1122899401536614400,
+			"id_str": "1122899401536614400",
+			"full_text": "Breaking News: Tampa Bay Rays to Promote 1B Nate Lowe https://t.co/d6uWpZe1Pv https://t.co/WguBvdyU9l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d6uWpZe1Pv",
+						"expanded_url": "https://www.draysbay.com/2019/4/29/18522681/tampa-bay-rays-to-promote-1b-nate-lowe-mlb-prospects?utm_campaign=draysbay&utm_content=chorus&utm_medium=social&utm_source=twitter",
+						"display_url": "draysbay.com/2019/4/29/1852…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1122899399682723800,
+						"id_str": "1122899399682723841",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/D5VXDfyWkAEUe7N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5VXDfyWkAEUe7N.jpg",
+						"url": "https://t.co/WguBvdyU9l",
+						"display_url": "pic.twitter.com/WguBvdyU9l",
+						"expanded_url": "https://twitter.com/draysbay/status/1122899401536614400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 448,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 791,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1122899399682723800,
+						"id_str": "1122899399682723841",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/D5VXDfyWkAEUe7N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5VXDfyWkAEUe7N.jpg",
+						"url": "https://t.co/WguBvdyU9l",
+						"display_url": "pic.twitter.com/WguBvdyU9l",
+						"expanded_url": "https://twitter.com/draysbay/status/1122899401536614400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 448,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 791,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20635455,
+				"id_str": "20635455",
+				"name": "DRaysBay",
+				"screen_name": "draysbay",
+				"location": "SB Nation",
+				"description": "Online community for fans of the Tampa Bay Rays, covering news, rumors and analysis. Tweets by @brett_or_brent, mostly | GIFs by @domhunt18",
+				"url": "https://t.co/D9lrz4MNHC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D9lrz4MNHC",
+								"expanded_url": "http://draysbay.com",
+								"display_url": "draysbay.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6593,
+				"friends_count": 720,
+				"listed_count": 416,
+				"created_at": "Wed Feb 11 22:30:46 +0000 2009",
+				"favourites_count": 11442,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29152,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "03022E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859259486644645888/JliLVtW__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859259486644645888/JliLVtW__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20635455/1543862860",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 64,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"First Brandon Lowe, now Nate Lowe?  Boy, the Rays really are embracing being a Lowe-payroll team!\"\n\n* send tweet * https://t.co/Amsp9KpkOg"
+	},
+	{
+		"created_at": "Mon Apr 29 12:42:08 +0000 2019",
+		"id": 1122843509252399100,
+		"id_str": "1122843509252399104",
+		"full_text": "@TheOriginalBull And there there's Grey Worm, The Indestructible",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheOriginalBull",
+					"name": "Admiral Buzzkill",
+					"id": 275869902,
+					"id_str": "275869902",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1122838354276560900,
+		"in_reply_to_status_id_str": "1122838354276560897",
+		"in_reply_to_user_id": 275869902,
+		"in_reply_to_user_id_str": "275869902",
+		"in_reply_to_screen_name": "TheOriginalBull",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4532,
+			"friends_count": 749,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 51223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheOriginalBull And there there's Grey Worm, The Indestructible"
+	},
+	{
 		"created_at": "Mon Apr 29 02:40:33 +0000 2019",
 		"id": 1122692113509101600,
 		"id_str": "1122692113509101568",
