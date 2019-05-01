@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 18:13:43 +0000 2019",
+		"id": 1123289343362203600,
+		"id_str": "1123289343362203648",
+		"full_text": "Literally the first thing I did after watching the trailer was listen to Amish Paradise https://t.co/wKNzcv68jl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wKNzcv68jl",
+					"expanded_url": "https://twitter.com/alyankovic/status/1123289100088369153",
+					"display_url": "twitter.com/alyankovic/sta…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4531,
+			"friends_count": 749,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 51207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20053,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1123289100088369200,
+		"quoted_status_id_str": "1123289100088369153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wKNzcv68jl",
+			"expanded": "https://twitter.com/alyankovic/status/1123289100088369153",
+			"display": "twitter.com/alyankovic/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 30 18:12:45 +0000 2019",
+			"id": 1123289100088369200,
+			"id_str": "1123289100088369153",
+			"full_text": "I'm not sure how comfortable I am with them using a parody of \"Amish Paradise\" in the Sonic the Hedgehog trailer.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22461427,
+				"id_str": "22461427",
+				"name": "Al Yankovic",
+				"screen_name": "alyankovic",
+				"location": "Los Angeles",
+				"description": "You know... the \"Eat It\" guy.",
+				"url": "https://t.co/AQRv276mUy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AQRv276mUy",
+								"expanded_url": "http://weirdal.com",
+								"display_url": "weirdal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5164339,
+				"friends_count": 595,
+				"listed_count": 30756,
+				"created_at": "Mon Mar 02 07:00:29 +0000 2009",
+				"favourites_count": 3977,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3953,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22461427/1398828117",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15813,
+			"favorite_count": 82884,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Literally the first thing I did after watching the trailer was listen to Amish Paradise https://t.co/wKNzcv68jl"
+	},
+	{
+		"created_at": "Tue Apr 30 12:22:23 +0000 2019",
+		"id": 1121828651056525300,
+		"id_str": "1123200925940703232",
+		"full_text": "How the hell does CNN still employ no one who can tell the difference between a copyright, trademark and patent? https://t.co/c9Dw3yaBQR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c9Dw3yaBQR",
+					"expanded_url": "https://twitter.com/marklemley/status/1121797903696089093",
+					"display_url": "twitter.com/marklemley/sta…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1270191,
+			"id_str": "1270191",
+			"name": "Mike Masnick",
+			"screen_name": "mmasnick",
+			"location": "",
+			"description": "",
+			"url": "http://t.co/eY1dwNDtAZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eY1dwNDtAZ",
+							"expanded_url": "http://www.techdirt.com/",
+							"display_url": "techdirt.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15632,
+			"friends_count": 1357,
+			"listed_count": 1081,
+			"created_at": "Fri Mar 16 06:42:05 +0000 2007",
+			"favourites_count": 16380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1769825351/simpsonsbuddy_bigger_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1769825351/simpsonsbuddy_bigger_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1270191/1462516125",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121797903696089100,
+		"quoted_status_id_str": "1121797903696089093",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c9Dw3yaBQR",
+			"expanded": "https://twitter.com/marklemley/status/1121797903696089093",
+			"display": "twitter.com/marklemley/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 15:27:16 +0000 2019",
+			"id": 1121797903696089100,
+			"id_str": "1121797903696089093",
+			"full_text": "CNN delivers some actual fake news https://t.co/bG0jjW94pC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bG0jjW94pC",
+						"expanded_url": "https://twitter.com/jnsheff/status/1121562071068553216",
+						"display_url": "twitter.com/jnsheff/status…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44470276,
+				"id_str": "44470276",
+				"name": "Mark Lemley",
+				"screen_name": "marklemley",
+				"location": "",
+				"description": "William H Neukom Professor, Stanford Law School. Partner, Durie Tangri. Co-founder, Lex Machina. Cook. Yogi. Fantasy RPG addict (at present, AC: Odyssey).",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8405,
+				"friends_count": 648,
+				"listed_count": 288,
+				"created_at": "Wed Jun 03 22:04:44 +0000 2009",
+				"favourites_count": 6598,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6086,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925929600353521664/gEwKw4up_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925929600353521664/gEwKw4up_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44470276/1435618073",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1121562071068553200,
+			"quoted_status_id_str": "1121562071068553216",
+			"quoted_status_permalink": {
+				"url": "https://t.co/bG0jjW94pC",
+				"expanded": "https://twitter.com/jnsheff/status/1121562071068553216",
+				"display": "twitter.com/jnsheff/status…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How the hell does CNN still employ no one who can tell the difference between a copyright, trademark and patent? https://t.co/c9Dw3yaBQR"
+	},
+	{
 		"created_at": "Mon Apr 29 16:47:51 +0000 2019",
 		"id": 1122899739958181900,
 		"id_str": "1122905347038031872",
