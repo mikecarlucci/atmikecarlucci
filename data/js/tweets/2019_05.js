@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 19:38:11 +0000 2019",
+		"id": 1127659252024324100,
+		"id_str": "1127659252024324096",
+		"full_text": "that must have been a rough few hours for someone https://t.co/GV6PqyVWCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GV6PqyVWCC",
+					"expanded_url": "https://twitter.com/awfulannouncing/status/1127635758351880193",
+					"display_url": "twitter.com/awfulannouncin…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4532,
+			"friends_count": 743,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 51718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1127635758351880200,
+		"quoted_status_id_str": "1127635758351880193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GV6PqyVWCC",
+			"expanded": "https://twitter.com/awfulannouncing/status/1127635758351880193",
+			"display": "twitter.com/awfulannouncin…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 12 18:04:49 +0000 2019",
+			"id": 1127635758351880200,
+			"id_str": "1127635758351880193",
+			"full_text": "Padres change Twitter handle to “Madres” for Mother’s Day, immediately lose original handle\n\nhttps://t.co/9e2KgqZKBA https://t.co/ljwdS7Kuow",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9e2KgqZKBA",
+						"expanded_url": "https://awfulannouncing.com/mlb/padre-change-twitter-handle-to-madres-for-mothers-day-immediately-lose-original-handle.html",
+						"display_url": "awfulannouncing.com/mlb/padre-chan…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1127635756783153200,
+						"id_str": "1127635756783153153",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Yqvw8WsAE_KW2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Yqvw8WsAE_KW2.jpg",
+						"url": "https://t.co/ljwdS7Kuow",
+						"display_url": "pic.twitter.com/ljwdS7Kuow",
+						"expanded_url": "https://twitter.com/awfulannouncing/status/1127635758351880193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 832,
+								"h": 447,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 832,
+								"h": 447,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1127635756783153200,
+						"id_str": "1127635756783153153",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Yqvw8WsAE_KW2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Yqvw8WsAE_KW2.jpg",
+						"url": "https://t.co/ljwdS7Kuow",
+						"display_url": "pic.twitter.com/ljwdS7Kuow",
+						"expanded_url": "https://twitter.com/awfulannouncing/status/1127635758351880193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 832,
+								"h": 447,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 832,
+								"h": 447,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 183675164,
+				"id_str": "183675164",
+				"name": "Awful Announcing",
+				"screen_name": "awfulannouncing",
+				"location": "",
+				"description": "Sports media news and analysis. Part of the @thecomeback network. Sign up for our newsletter https://t.co/UV18xHmBBo\n\nAlso please don't leave terrible comments",
+				"url": "http://t.co/KTEovy0vLc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KTEovy0vLc",
+								"expanded_url": "http://awfulannouncing.com",
+								"display_url": "awfulannouncing.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UV18xHmBBo",
+								"expanded_url": "http://eepurl.com/cDJYEz",
+								"display_url": "eepurl.com/cDJYEz",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 219677,
+				"friends_count": 191,
+				"listed_count": 3316,
+				"created_at": "Fri Aug 27 16:20:32 +0000 2010",
+				"favourites_count": 801,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80690,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/760731996318490625/sdzTWMgM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/760731996318490625/sdzTWMgM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183675164/1470207476",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 202,
+			"favorite_count": 670,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "that must have been a rough few hours for someone https://t.co/GV6PqyVWCC"
+	},
+	{
 		"created_at": "Sat May 11 18:46:58 +0000 2019",
 		"id": 1127283976098472000,
 		"id_str": "1127283976098471936",
