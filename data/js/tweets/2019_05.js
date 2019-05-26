@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 15:14:29 +0000 2019",
+		"id": 1132303935157542900,
+		"id_str": "1132303935157542913",
+		"full_text": "https://t.co/ji8S8MG8wj https://t.co/BzPfIZKm5l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ji8S8MG8wj",
+					"expanded_url": "https://twitter.com/katie__eden/status/1129851571456610310",
+					"display_url": "twitter.com/katie__eden/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1132303925036703700,
+					"id_str": "1132303925036703744",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7bAa62X4AAAQUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7bAa62X4AAAQUJ.jpg",
+					"url": "https://t.co/BzPfIZKm5l",
+					"display_url": "pic.twitter.com/BzPfIZKm5l",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1132303935157542913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132303925036703700,
+					"id_str": "1132303925036703744",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7bAa62X4AAAQUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7bAa62X4AAAQUJ.jpg",
+					"url": "https://t.co/BzPfIZKm5l",
+					"display_url": "pic.twitter.com/BzPfIZKm5l",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1132303935157542913/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							197,
+							247
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D7bAa62X4AAAQUJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 745,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129851571456610300,
+		"quoted_status_id_str": "1129851571456610310",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ji8S8MG8wj",
+			"expanded": "https://twitter.com/katie__eden/status/1129851571456610310",
+			"display": "twitter.com/katie__eden/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 18 20:49:40 +0000 2019",
+			"id": 1129851571456610300,
+			"id_str": "1129851571456610310",
+			"full_text": "If you put footage of coatimundis in reverse you get a miniature Jurassic Park.\nThis is the best thing I’ve seen for a long time...\n🦕🦕🦕 https://t.co/iV6U4o9crG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iV6U4o9crG",
+						"expanded_url": "https://twitter.com/jmellera/status/1126147579232817152",
+						"display_url": "twitter.com/jmellera/statu…",
+						"indices": [
+							136,
+							159
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 850392487021731800,
+				"id_str": "850392487021731843",
+				"name": "Katie Tunn",
+				"screen_name": "Katie__Eden",
+				"location": "Isle of Skye",
+				"description": "Artist & ocean advocate. ‘Serial Castaway’ according to The Times! #GetOutside Champion, @bdmlr medic & @sascampaigns rep. Lived in woods for a year (C4’s Eden)",
+				"url": "https://t.co/GZMGCO0niw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GZMGCO0niw",
+								"expanded_url": "http://www.thenewgirlskye.com",
+								"display_url": "thenewgirlskye.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2637,
+				"friends_count": 1168,
+				"listed_count": 16,
+				"created_at": "Fri Apr 07 16:59:03 +0000 2017",
+				"favourites_count": 10181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3171,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956303648384077827/vzJ-ogSI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956303648384077827/vzJ-ogSI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/850392487021731843/1491587661",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1126147579232817200,
+			"quoted_status_id_str": "1126147579232817152",
+			"quoted_status_permalink": {
+				"url": "https://t.co/iV6U4o9crG",
+				"expanded": "https://twitter.com/jmellera/status/1126147579232817152",
+				"display": "twitter.com/jmellera/statu…"
+			},
+			"retweet_count": 36,
+			"favorite_count": 115,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ji8S8MG8wj https://t.co/BzPfIZKm5l"
+	},
+	{
 		"created_at": "Sat May 25 02:06:36 +0000 2019",
 		"id": 1132105654523629600,
 		"id_str": "1132105654523629568",
