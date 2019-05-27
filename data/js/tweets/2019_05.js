@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 02:28:38 +0000 2019",
+		"id": 1132835977905561600,
+		"id_str": "1132835977905561601",
+		"full_text": "Ice pop. Red. https://t.co/hOoPuc08Ec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hOoPuc08Ec",
+					"expanded_url": "https://twitter.com/fetusieen/status/1132286469219979264",
+					"display_url": "twitter.com/fetusieen/stat…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4512,
+			"friends_count": 745,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132286469219979300,
+		"quoted_status_id_str": "1132286469219979264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hOoPuc08Ec",
+			"expanded": "https://twitter.com/fetusieen/status/1132286469219979264",
+			"display": "twitter.com/fetusieen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 25 14:05:05 +0000 2019",
+			"id": 1132286469219979300,
+			"id_str": "1132286469219979264",
+			"full_text": "it's dead summer. your mom comes home from the store with THESE. what do u call these and what is the best color? https://t.co/MqARWmrch8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1132286257663479800,
+						"id_str": "1132286257663479808",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/D7awWiwWkAAdO4k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7awWiwWkAAdO4k.jpg",
+						"url": "https://t.co/MqARWmrch8",
+						"display_url": "pic.twitter.com/MqARWmrch8",
+						"expanded_url": "https://twitter.com/fetusIeen/status/1132286469219979264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1063,
+								"h": 709,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1063,
+								"h": 709,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1132286257663479800,
+						"id_str": "1132286257663479808",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/D7awWiwWkAAdO4k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7awWiwWkAAdO4k.jpg",
+						"url": "https://t.co/MqARWmrch8",
+						"display_url": "pic.twitter.com/MqARWmrch8",
+						"expanded_url": "https://twitter.com/fetusIeen/status/1132286469219979264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1063,
+								"h": 709,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1063,
+								"h": 709,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1012813747021340700,
+				"id_str": "1012813747021340672",
+				"name": "lucy ♡ 9",
+				"screen_name": "fetusIeen",
+				"location": "colleen’s corner",
+				"description": "you'll never regret being kind- fan account",
+				"url": "https://t.co/DomBk8xBcU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DomBk8xBcU",
+								"expanded_url": "http://mirandasingslipstik.com",
+								"display_url": "mirandasingslipstik.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1053,
+				"friends_count": 899,
+				"listed_count": 12,
+				"created_at": "Fri Jun 29 21:43:09 +0000 2018",
+				"favourites_count": 17144,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14833,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1132468814875189249/Ilsp8h7Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132468814875189249/Ilsp8h7Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012813747021340672/1558876496",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 1422,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ice pop. Red. https://t.co/hOoPuc08Ec"
+	},
+	{
+		"created_at": "Sun May 26 22:25:40 +0000 2019",
+		"id": 1132765361479278600,
+		"id_str": "1132774830133207041",
+		"full_text": "\"Don't use the Oxford comma.\" https://t.co/d2pyunIBVr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d2pyunIBVr",
+					"expanded_url": "https://twitter.com/bhvide/status/1132671512618721282",
+					"display_url": "twitter.com/bhvide/status/…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44929255,
+			"id_str": "44929255",
+			"name": "Dan Szymborski",
+			"screen_name": "DSzymborski",
+			"location": "Basement Office/Lair",
+			"description": "Senior Writer for FanGraphs, ESPN contributor, ZiPSetician, gamer, talkative, exasperated.  Nerd of the people.  CCG addict.  BBWAA, Digital Dandy.",
+			"url": "https://t.co/LhdMECbKqG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LhdMECbKqG",
+							"expanded_url": "https://www.fangraphs.com/blogs/author/dszymborski/",
+							"display_url": "fangraphs.com/blogs/author/d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31061,
+			"friends_count": 3432,
+			"listed_count": 1359,
+			"created_at": "Fri Jun 05 16:24:03 +0000 2009",
+			"favourites_count": 8823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0B243B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124342793256755201/PLbrkfvt_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124342793256755201/PLbrkfvt_normal.png",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132671512618721300,
+		"quoted_status_id_str": "1132671512618721282",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d2pyunIBVr",
+			"expanded": "https://twitter.com/bhvide/status/1132671512618721282",
+			"display": "twitter.com/bhvide/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 26 15:35:07 +0000 2019",
+			"id": 1132671512618721300,
+			"id_str": "1132671512618721282",
+			"full_text": "What is the worst writing advice you ever heard?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 240513807,
+				"id_str": "240513807",
+				"name": "Brit E. B. Hvide",
+				"screen_name": "bhvide",
+				"location": "New York / Singapore",
+				"description": "Senior Editor with Orbit Books. Writer. 🇸🇬🇳🇴🇺🇸 (she/her)  Opinions are my own and don't reflect those of Orbit or Hachette!\n\nAvi by @inannaperegrin",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5619,
+				"friends_count": 2118,
+				"listed_count": 118,
+				"created_at": "Thu Jan 20 03:05:57 +0000 2011",
+				"favourites_count": 23287,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13165,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129101894121664514/T-lEleSP_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129101894121664514/T-lEleSP_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/240513807/1516481087",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 278,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 104,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Don't use the Oxford comma.\" https://t.co/d2pyunIBVr"
+	},
+	{
 		"created_at": "Sat May 25 15:14:29 +0000 2019",
 		"id": 1132303935157542900,
 		"id_str": "1132303935157542913",
