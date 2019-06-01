@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 17:59:38 +0000 2019",
+		"id": 1134463493686648800,
+		"id_str": "1134519820387586048",
+		"full_text": "Walt Whitman, 200 years old today, was once a baseball-beat reporter. Here is his coverage of a baseball game in June 1858. https://t.co/6PybYlVkvK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6PybYlVkvK",
+					"expanded_url": "https://ourgame.mlblogs.com/walt-whitman-baseball-reporter-973282e2ab58",
+					"display_url": "ourgame.mlblogs.com/walt-whitman-b…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 435820478,
+			"id_str": "435820478",
+			"name": "John Thorn",
+			"screen_name": "thorn_john",
+			"location": "Catskill, NY",
+			"description": "John Thorn is the Official Historian for Major League Baseball. His tweets reflect his own views of history, society, sports, and culture. Post No Bills.",
+			"url": "http://t.co/sCY6nRHWgA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/sCY6nRHWgA",
+							"expanded_url": "http://ourgame.mlblogs.com",
+							"display_url": "ourgame.mlblogs.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22241,
+			"friends_count": 1640,
+			"listed_count": 669,
+			"created_at": "Tue Dec 13 13:42:26 +0000 2011",
+			"favourites_count": 24213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/581535032550010881/9XIFb9Li_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/581535032550010881/9XIFb9Li_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/435820478/1497886448",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 245,
+		"favorite_count": 699,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Walt Whitman, 200 years old today, was once a baseball-beat reporter. Here is his coverage of a baseball game in June 1858. https://t.co/6PybYlVkvK"
+	},
+	{
 		"created_at": "Thu May 30 20:29:40 +0000 2019",
 		"id": 1134195190300860400,
 		"id_str": "1134195190300860416",
