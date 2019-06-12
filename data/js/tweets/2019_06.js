@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 18:52:55 +0000 2019",
+		"id": 1138519496757432300,
+		"id_str": "1138519496757432320",
+		"full_text": "Infuriating https://t.co/pp11JmxeuZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pp11JmxeuZ",
+					"expanded_url": "https://twitter.com/lolgop/status/1138481296907341824",
+					"display_url": "twitter.com/lolgop/status/…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 745,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138481296907341800,
+		"quoted_status_id_str": "1138481296907341824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pp11JmxeuZ",
+			"expanded": "https://twitter.com/lolgop/status/1138481296907341824",
+			"display": "twitter.com/lolgop/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 11 16:21:07 +0000 2019",
+			"id": 1138481296907341800,
+			"id_str": "1138481296907341824",
+			"full_text": "Baby Boomers. Soaking up the free college since 1962. https://t.co/GLQmI1nZmA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GLQmI1nZmA",
+						"expanded_url": "https://twitter.com/NBCNightlyNews/status/1137872001060630528",
+						"display_url": "twitter.com/NBCNightlyNews…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11866582,
+				"id_str": "11866582",
+				"name": "LOLGOP",
+				"screen_name": "LOLGOP",
+				"location": "Ann Arbor, Michigan",
+				"description": "Anger, with compassion.",
+				"url": "https://t.co/cr9DadaHhk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cr9DadaHhk",
+								"expanded_url": "http://bit.ly/GOTMFVShow",
+								"display_url": "bit.ly/GOTMFVShow",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 358731,
+				"friends_count": 10603,
+				"listed_count": 7117,
+				"created_at": "Sat Jan 05 05:15:08 +0000 2008",
+				"favourites_count": 54257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 254397,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "216314",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111355134880202752/X0rXwY_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111355134880202752/X0rXwY_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11866582/1554843695",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1137872001060630500,
+			"quoted_status_id_str": "1137872001060630528",
+			"quoted_status_permalink": {
+				"url": "https://t.co/GLQmI1nZmA",
+				"expanded": "https://twitter.com/NBCNightlyNews/status/1137872001060630528",
+				"display": "twitter.com/NBCNightlyNews…"
+			},
+			"retweet_count": 212,
+			"favorite_count": 1088,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Infuriating https://t.co/pp11JmxeuZ"
+	},
+	{
 		"created_at": "Sun Jun 09 19:55:17 +0000 2019",
 		"id": 1137810417596559400,
 		"id_str": "1137810417596559360",
