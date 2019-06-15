@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 01:54:22 +0000 2019",
+		"id": 1139712722184986600,
+		"id_str": "1139712722184986624",
+		"full_text": "Christian Vazquez, Third Baseman",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 746,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fi",
+		"text": "Christian Vazquez, Third Baseman"
+	},
+	{
+		"created_at": "Fri Jun 14 16:54:04 +0000 2019",
+		"id": 1139576749686251500,
+		"id_str": "1139576749686251520",
+		"full_text": "Nope https://t.co/y3E64m4uyg https://t.co/tsJsAopvav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y3E64m4uyg",
+					"expanded_url": "https://twitter.com/mbrennanchina/status/1139444859398320128",
+					"display_url": "twitter.com/mbrennanchina/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139576744116215800,
+					"id_str": "1139576744116215808",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9CXAtNX4AAuciu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9CXAtNX4AAuciu.jpg",
+					"url": "https://t.co/tsJsAopvav",
+					"display_url": "pic.twitter.com/tsJsAopvav",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1139576749686251520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139576744116215800,
+					"id_str": "1139576744116215808",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9CXAtNX4AAuciu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9CXAtNX4AAuciu.jpg",
+					"url": "https://t.co/tsJsAopvav",
+					"display_url": "pic.twitter.com/tsJsAopvav",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1139576749686251520/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							27
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D9CXAtNX4AAuciu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 746,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139444859398320100,
+		"quoted_status_id_str": "1139444859398320128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y3E64m4uyg",
+			"expanded": "https://twitter.com/mbrennanchina/status/1139444859398320128",
+			"display": "twitter.com/mbrennanchina/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 14 08:09:58 +0000 2019",
+			"id": 1139444859398320100,
+			"id_str": "1139444859398320128",
+			"full_text": "Chinese elementary school facial recognition system in action #Shenzhen https://t.co/8oAJnjHbGU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Shenzhen",
+						"indices": [
+							62,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1139444792507506700,
+						"id_str": "1139444792507506688",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139444792507506688/pu/img/rgMpIZDnw2--5EyU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139444792507506688/pu/img/rgMpIZDnw2--5EyU.jpg",
+						"url": "https://t.co/8oAJnjHbGU",
+						"display_url": "pic.twitter.com/8oAJnjHbGU",
+						"expanded_url": "https://twitter.com/mbrennanchina/status/1139444859398320128/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 544,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 544,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1139444792507506700,
+						"id_str": "1139444792507506688",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139444792507506688/pu/img/rgMpIZDnw2--5EyU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139444792507506688/pu/img/rgMpIZDnw2--5EyU.jpg",
+						"url": "https://t.co/8oAJnjHbGU",
+						"display_url": "pic.twitter.com/8oAJnjHbGU",
+						"expanded_url": "https://twitter.com/mbrennanchina/status/1139444859398320128/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 544,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 544,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								17,
+								30
+							],
+							"duration_millis": 12759,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1139444792507506688/pu/pl/pqiU-8TXkwNFDoda.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1139444792507506688/pu/vid/544x960/3rTV13mBLslGVJ_c.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1139444792507506688/pu/vid/320x564/KYloPD2AlNQc8wKx.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1139444792507506688/pu/vid/360x634/5_v0UnHJoDOCEAL4.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2343979050,
+				"id_str": "2343979050",
+				"name": "Matthew Brennan",
+				"screen_name": "mbrennanchina",
+				"location": "People's Republic of China",
+				"description": "China Tech | Speaker | Writer | WeChat & Tencent specialist. Speaking availability & media inquiries: info@chinachannel.co",
+				"url": "https://t.co/LRB2tJPRjW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LRB2tJPRjW",
+								"expanded_url": "http://matthewbrennan.info",
+								"display_url": "matthewbrennan.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14956,
+				"friends_count": 345,
+				"listed_count": 243,
+				"created_at": "Fri Feb 14 18:53:01 +0000 2014",
+				"favourites_count": 4414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1906,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947797731279478786/czFtc3gh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947797731279478786/czFtc3gh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343979050/1482342078",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 948,
+			"favorite_count": 1401,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nope https://t.co/y3E64m4uyg https://t.co/tsJsAopvav"
+	},
+	{
 		"created_at": "Fri Jun 14 02:37:01 +0000 2019",
 		"id": 1139360704807481300,
 		"id_str": "1139361067996340224",
