@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 03:08:03 +0000 2019",
+		"id": 1140818430280503300,
+		"id_str": "1140818430280503298",
+		"full_text": "My elementary school separated people into “math people “ and \"the rest\" based on a test in second grade. It's not like kids are always choosing not to like math on the merits. We were told it was a line every year afterwards. https://t.co/oymLjcX3fP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oymLjcX3fP",
+					"expanded_url": "https://twitter.com/edwithsports/status/1140813185588637701",
+					"display_url": "twitter.com/edwithsports/s…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4512,
+			"friends_count": 745,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1140813185588637700,
+		"quoted_status_id_str": "1140813185588637701",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oymLjcX3fP",
+			"expanded": "https://twitter.com/edwithsports/status/1140813185588637701",
+			"display": "twitter.com/edwithsports/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 18 02:47:13 +0000 2019",
+			"id": 1140813185588637700,
+			"id_str": "1140813185588637701",
+			"full_text": "I want to share this with EVERYONE in journalism or writing who got into it because they didn’t like math or stats.  It’s not supposed to come easy, you’re supposed to struggle, knowing the struggle will make you better. https://t.co/vgp9BxxEaf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vgp9BxxEaf",
+						"expanded_url": "https://twitter.com/edwardhkennedy/status/1140781840216862726",
+						"display_url": "twitter.com/edwardhkennedy…",
+						"indices": [
+							221,
+							244
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15553592,
+				"id_str": "15553592",
+				"name": "Edward Egros",
+				"screen_name": "EdWithSports",
+				"location": "Dallas, TX",
+				"description": "Seen on @FOXSportsSW, @VokalNow & assorted coffee shops.\n\nAlso CEO of RevMedia (part of @eplaybasketball) & @SMU Adjunct Prof.\n\nhttps://t.co/02u3Ymc2oR",
+				"url": "https://t.co/Wlh72tdAvp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Wlh72tdAvp",
+								"expanded_url": "https://www.revmedia.us",
+								"display_url": "revmedia.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/02u3Ymc2oR",
+								"expanded_url": "http://insidesportsanalytics.com",
+								"display_url": "insidesportsanalytics.com",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4940,
+				"friends_count": 1675,
+				"listed_count": 153,
+				"created_at": "Wed Jul 23 02:31:55 +0000 2008",
+				"favourites_count": 10184,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31999,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112822368928399361/rOVZLuDf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112822368928399361/rOVZLuDf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15553592/1514497430",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1140781840216862700,
+			"quoted_status_id_str": "1140781840216862726",
+			"quoted_status_permalink": {
+				"url": "https://t.co/vgp9BxxEaf",
+				"expanded": "https://twitter.com/edwardhkennedy/status/1140781840216862726",
+				"display": "twitter.com/edwardhkennedy…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My elementary school separated people into “math people “ and \"the rest\" based on a test in second grade. It's not like kids are always choosing not to like math on the merits. We were told it was a line every year afterwards. https://t.co/oymLjcX3fP"
+	},
+	{
 		"created_at": "Sun Jun 16 16:45:38 +0000 2019",
 		"id": 1140299406878658600,
 		"id_str": "1140299406878658560",
