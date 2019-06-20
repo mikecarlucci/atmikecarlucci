@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 19 14:19:05 +0000 2019",
+		"id": 1141349201042821100,
+		"id_str": "1141349687888359424",
+		"full_text": "Millennials https://t.co/lwk5ivdyZd https://t.co/BfUp7JnDTi https://t.co/jYKjkjPthS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lwk5ivdyZd",
+					"expanded_url": "https://xkcd.com/2165/",
+					"display_url": "xkcd.com/2165/",
+					"indices": [
+						12,
+						35
+					]
+				},
+				{
+					"url": "https://t.co/BfUp7JnDTi",
+					"expanded_url": "https://m.xkcd.com/2165/",
+					"display_url": "m.xkcd.com/2165/",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1141349198610100200,
+					"id_str": "1141349198610100224",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D9bjDIvU8AAQ1ZL.png",
+					"media_url_https": "https://pbs.twimg.com/media/D9bjDIvU8AAQ1ZL.png",
+					"url": "https://t.co/jYKjkjPthS",
+					"display_url": "pic.twitter.com/jYKjkjPthS",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1141349201042821121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 261,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 730,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141349198610100200,
+					"id_str": "1141349198610100224",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D9bjDIvU8AAQ1ZL.png",
+					"media_url_https": "https://pbs.twimg.com/media/D9bjDIvU8AAQ1ZL.png",
+					"url": "https://t.co/jYKjkjPthS",
+					"display_url": "pic.twitter.com/jYKjkjPthS",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1141349201042821121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 261,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 730,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2251623492,
+			"id_str": "2251623492",
+			"name": "XKCD Comic",
+			"screen_name": "xkcdComic",
+			"location": "",
+			"description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+			"url": "http://t.co/Tca90xyNDW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Tca90xyNDW",
+							"expanded_url": "http://xkcd.com",
+							"display_url": "xkcd.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225446,
+			"friends_count": 1,
+			"listed_count": 2579,
+			"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1298,
+		"favorite_count": 3310,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Millennials https://t.co/lwk5ivdyZd https://t.co/BfUp7JnDTi https://t.co/jYKjkjPthS"
+	},
+	{
+		"created_at": "Wed Jun 19 12:23:40 +0000 2019",
+		"id": 1141320641406263300,
+		"id_str": "1141320641406263296",
+		"full_text": "https://t.co/wS2MqZ1gbf https://t.co/LThPeUAbUm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wS2MqZ1gbf",
+					"expanded_url": "https://twitter.com/lin_manuel/status/1141314933340213249",
+					"display_url": "twitter.com/lin_manuel/sta…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1141320635261640700,
+					"id_str": "1141320635261640706",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9bJEh-X4AIbf2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9bJEh-X4AIbf2X.jpg",
+					"url": "https://t.co/LThPeUAbUm",
+					"display_url": "pic.twitter.com/LThPeUAbUm",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1141320641406263296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141320635261640700,
+					"id_str": "1141320635261640706",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9bJEh-X4AIbf2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9bJEh-X4AIbf2X.jpg",
+					"url": "https://t.co/LThPeUAbUm",
+					"display_url": "pic.twitter.com/LThPeUAbUm",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1141320641406263296/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 318,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							159
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D9bJEh-X4AIbf2X.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4512,
+			"friends_count": 727,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1141314933340213200,
+		"quoted_status_id_str": "1141314933340213249",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wS2MqZ1gbf",
+			"expanded": "https://twitter.com/lin_manuel/status/1141314933340213249",
+			"display": "twitter.com/lin_manuel/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 19 12:00:59 +0000 2019",
+			"id": 1141314933340213200,
+			"id_str": "1141314933340213249",
+			"full_text": "Gmorning\nHappy birthday to Garfield\nAnd happy Wednesday to you https://t.co/PrqCjWxJwe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1141314926931316700,
+						"id_str": "1141314926931316741",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9bD4QyXkAUxz8O.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9bD4QyXkAUxz8O.jpg",
+						"url": "https://t.co/PrqCjWxJwe",
+						"display_url": "pic.twitter.com/PrqCjWxJwe",
+						"expanded_url": "https://twitter.com/Lin_Manuel/status/1141314933340213249/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 370,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 370,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 370,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1141314926931316700,
+						"id_str": "1141314926931316741",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9bD4QyXkAUxz8O.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9bD4QyXkAUxz8O.jpg",
+						"url": "https://t.co/PrqCjWxJwe",
+						"display_url": "pic.twitter.com/PrqCjWxJwe",
+						"expanded_url": "https://twitter.com/Lin_Manuel/status/1141314933340213249/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 370,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 370,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 370,
+								"h": 300,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								37,
+								30
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D9bD4QyXkAUxz8O.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79923701,
+				"id_str": "79923701",
+				"name": "Lin-Manuel Miranda",
+				"screen_name": "Lin_Manuel",
+				"location": "Washington Heights",
+				"description": "el nene de la obra. https://t.co/KNRgSFxx3A",
+				"url": "https://t.co/1U0poRLi4I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1U0poRLi4I",
+								"expanded_url": "http://Linmanuel.com",
+								"display_url": "Linmanuel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KNRgSFxx3A",
+								"expanded_url": "https://hispanicfederation.org/unidos",
+								"display_url": "hispanicfederation.org/unidos",
+								"indices": [
+									20,
+									43
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2856329,
+				"friends_count": 3058,
+				"listed_count": 7536,
+				"created_at": "Mon Oct 05 04:59:07 +0000 2009",
+				"favourites_count": 46348,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 60739,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1140713849324224512/z82l7xO8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140713849324224512/z82l7xO8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79923701/1560798789",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 961,
+			"favorite_count": 9769,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/wS2MqZ1gbf https://t.co/LThPeUAbUm"
+	},
+	{
 		"created_at": "Tue Jun 18 22:41:59 +0000 2019",
 		"id": 1141113858079281200,
 		"id_str": "1141113858079281158",
