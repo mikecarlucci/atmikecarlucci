@@ -1,6 +1,754 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 19:16:11 +0000 2019",
+		"id": 1143598782879166500,
+		"id_str": "1143598782879166464",
+		"full_text": "cc: @marty_walsh please do the same https://t.co/mRojIm7Uvi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marty_walsh",
+					"name": "Mayor Marty Walsh",
+					"id": 77764733,
+					"id_str": "77764733",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mRojIm7Uvi",
+					"expanded_url": "https://twitter.com/ellenhuet/status/1143587011753676800",
+					"display_url": "twitter.com/ellenhuet/stat…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 713,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143587011753676800,
+		"quoted_status_id_str": "1143587011753676800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mRojIm7Uvi",
+			"expanded": "https://twitter.com/ellenhuet/status/1143587011753676800",
+			"display": "twitter.com/ellenhuet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 25 18:29:25 +0000 2019",
+			"id": 1143587011753676800,
+			"id_str": "1143587011753676800",
+			"full_text": "things between juul and its hometown, SF, are getting tense: SF wants to ban all e-cigarette sales (in-store and online). it probably will succeed (the vote is today). juul, in turn, is prepared to fight the sales ban on the nov ballot. strap in everyone!! https://t.co/OwhksKw9Px",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OwhksKw9Px",
+						"expanded_url": "https://www.bloomberg.com/news/articles/2019-06-25/juul-ban-in-san-francisco-is-expected-to-be-passed",
+						"display_url": "bloomberg.com/news/articles/…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98588767,
+				"id_str": "98588767",
+				"name": "Ellen Huet",
+				"screen_name": "ellenhuet",
+				"location": "San Francisco, CA",
+				"description": "I cover startups for Bloomberg @business. Provided by the management for your protection. I work for tips: ehuet4 at bloomberg dot net or DM me for Signal #",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25004,
+				"friends_count": 1538,
+				"listed_count": 911,
+				"created_at": "Tue Dec 22 08:42:34 +0000 2009",
+				"favourites_count": 6545,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11481,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8CA2C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931670114780397568/JJasQqdF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931670114780397568/JJasQqdF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98588767/1436772735",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "cc: @marty_walsh please do the same https://t.co/mRojIm7Uvi"
+	},
+	{
+		"created_at": "Tue Jun 25 19:12:28 +0000 2019",
+		"id": 1143597849386475500,
+		"id_str": "1143597849386475520",
+		"full_text": "As Big Papi said...this is our, uh, city! https://t.co/TZw49FotLU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TZw49FotLU",
+					"expanded_url": "https://twitter.com/BostInno/status/1143594972605820928",
+					"display_url": "twitter.com/BostInno/statu…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 713,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143594972605820900,
+		"quoted_status_id_str": "1143594972605820928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TZw49FotLU",
+			"expanded": "https://twitter.com/BostInno/status/1143594972605820928",
+			"display": "twitter.com/BostInno/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 25 19:01:03 +0000 2019",
+			"id": 1143594972605820900,
+			"id_str": "1143594972605820928",
+			"full_text": "Boston is ranked No.3 in the nation for job seekers \nhttps://t.co/Q9RYjRxK2s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Q9RYjRxK2s",
+						"expanded_url": "https://bit.ly/31yh05o",
+						"display_url": "bit.ly/31yh05o",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16877220,
+				"id_str": "16877220",
+				"name": "BostInno",
+				"screen_name": "BostInno",
+				"location": "Boston",
+				"description": "BostInno is a digital media & events company covering, connecting and catalyzing local startups, technology & innovation. We support local innovation.",
+				"url": "https://t.co/G3y3Uqz7Qe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G3y3Uqz7Qe",
+								"expanded_url": "http://bostinno.com",
+								"display_url": "bostinno.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92505,
+				"friends_count": 4822,
+				"listed_count": 2574,
+				"created_at": "Mon Oct 20 23:34:58 +0000 2008",
+				"favourites_count": 18041,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 101717,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDF0F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/433608862315200512/muHfFQjm_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/433608862315200512/muHfFQjm_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16877220/1405092048",
+				"profile_link_color": "35BEF0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B2D3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As Big Papi said...this is our, uh, city! https://t.co/TZw49FotLU"
+	},
+	{
+		"created_at": "Tue Jun 25 19:11:56 +0000 2019",
+		"id": 1143597711863586800,
+		"id_str": "1143597711863586816",
+		"full_text": "a what https://t.co/I9Oh19ZUNd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I9Oh19ZUNd",
+					"expanded_url": "https://twitter.com/wiki_tmnt/status/1143595213501288448",
+					"display_url": "twitter.com/wiki_tmnt/stat…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 713,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143595213501288400,
+		"quoted_status_id_str": "1143595213501288448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I9Oh19ZUNd",
+			"expanded": "https://twitter.com/wiki_tmnt/status/1143595213501288448",
+			"display": "twitter.com/wiki_tmnt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 25 19:02:00 +0000 2019",
+			"id": 1143595213501288400,
+			"id_str": "1143595213501288448",
+			"full_text": "Have Yourself a Tractors Christmas\nhttps://t.co/EmMvhrLqkR https://t.co/4soxAZBrWZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EmMvhrLqkR",
+						"expanded_url": "https://en.wikipedia.org/wiki/Have_Yourself_a_Tractors_Christmas",
+						"display_url": "en.wikipedia.org/wiki/Have_Your…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1143595212310061000,
+						"id_str": "1143595212310061056",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D97dyVyUIAAFO0T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D97dyVyUIAAFO0T.jpg",
+						"url": "https://t.co/4soxAZBrWZ",
+						"display_url": "pic.twitter.com/4soxAZBrWZ",
+						"expanded_url": "https://twitter.com/wiki_tmnt/status/1143595213501288448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1086,
+								"h": 571,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1086,
+								"h": 571,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1143595212310061000,
+						"id_str": "1143595212310061056",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D97dyVyUIAAFO0T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D97dyVyUIAAFO0T.jpg",
+						"url": "https://t.co/4soxAZBrWZ",
+						"display_url": "pic.twitter.com/4soxAZBrWZ",
+						"expanded_url": "https://twitter.com/wiki_tmnt/status/1143595213501288448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1086,
+								"h": 571,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1086,
+								"h": 571,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/catleeball/tmnt_wikipedia_bot\" rel=\"nofollow\">TMNT Wiki Title Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1138626066648424400,
+				"id_str": "1138626066648424448",
+				"name": "Wiki Titles Singable to TMNT Themesong",
+				"screen_name": "wiki_tmnt",
+				"location": "The Sewers",
+				"description": "Bot that posts hourly Wiki titles that you can sing to the TMNT song! Concept: https://t.co/XcKxZrz7iO Logos: https://t.co/Mt2UUfAyVe Bot by @__eel__",
+				"url": "https://t.co/69tdHnnPRV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/69tdHnnPRV",
+								"expanded_url": "https://github.com/catleeball/tmnt_wikipedia_bot/",
+								"display_url": "github.com/catleeball/tmn…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XcKxZrz7iO",
+								"expanded_url": "https://xkcd.com/1412",
+								"display_url": "xkcd.com/1412",
+								"indices": [
+									79,
+									102
+								]
+							},
+							{
+								"url": "https://t.co/Mt2UUfAyVe",
+								"expanded_url": "http://glench.com/tmnt",
+								"display_url": "glench.com/tmnt",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27742,
+				"friends_count": 1,
+				"listed_count": 76,
+				"created_at": "Wed Jun 12 01:56:23 +0000 2019",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 544,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1138626153424408576/GosXfwQ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138626153424408576/GosXfwQ7_normal.jpg",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 285,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "a what https://t.co/I9Oh19ZUNd"
+	},
+	{
 		"created_at": "Tue Jun 25 01:10:19 +0000 2019",
 		"id": 1143325517250269200,
 		"id_str": "1143325517250269185",
