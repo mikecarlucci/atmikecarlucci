@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 26 23:02:56 +0000 2019",
+		"id": 1144007631251677200,
+		"id_str": "1144018233277788163",
+		"full_text": "Baseball fans like @Jomboy_ are making amazing videos promoting Major League Baseball's product -- but it's after years of MLB being so focused on controlling everything it's hurt the game's popularity. https://t.co/3FYm1nvkjQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jomboy_",
+					"name": "Jomboy",
+					"id": 287735479,
+					"id_str": "287735479",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3FYm1nvkjQ",
+					"expanded_url": "https://twitter.com/techdirt/status/1143980182061178880",
+					"display_url": "twitter.com/techdirt/statu…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1270191,
+			"id_str": "1270191",
+			"name": "Mike Masnick",
+			"screen_name": "mmasnick",
+			"location": "",
+			"description": "",
+			"url": "http://t.co/eY1dwNDtAZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eY1dwNDtAZ",
+							"expanded_url": "http://www.techdirt.com/",
+							"display_url": "techdirt.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15774,
+			"friends_count": 1391,
+			"listed_count": 1089,
+			"created_at": "Fri Mar 16 06:42:05 +0000 2007",
+			"favourites_count": 17039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1769825351/simpsonsbuddy_bigger_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1769825351/simpsonsbuddy_bigger_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1270191/1462516125",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143980182061178900,
+		"quoted_status_id_str": "1143980182061178880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3FYm1nvkjQ",
+			"expanded": "https://twitter.com/techdirt/status/1143980182061178880",
+			"display": "twitter.com/techdirt/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 26 20:31:44 +0000 2019",
+			"id": 1143980182061178900,
+			"id_str": "1143980182061178880",
+			"full_text": "Major League Baseball's Obsession With Cashing In On Everything Has Harmed The Game's Popularity Online https://t.co/Njq5A0SnND",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Njq5A0SnND",
+						"expanded_url": "https://tdrt.io/hpq",
+						"display_url": "tdrt.io/hpq",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11382292,
+				"id_str": "11382292",
+				"name": "techdirt",
+				"screen_name": "techdirt",
+				"location": "",
+				"description": "",
+				"url": "http://t.co/RDvqaK1tsQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RDvqaK1tsQ",
+								"expanded_url": "http://www.techdirt.com/",
+								"display_url": "techdirt.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44597,
+				"friends_count": 13,
+				"listed_count": 3681,
+				"created_at": "Thu Dec 20 19:55:40 +0000 2007",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39867,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/46559972/techdirt_logovertical_250x250_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/46559972/techdirt_logovertical_250x250_normal.png",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Baseball fans like @Jomboy_ are making amazing videos promoting Major League Baseball's product -- but it's after years of MLB being so focused on controlling everything it's hurt the game's popularity. https://t.co/3FYm1nvkjQ"
+	},
+	{
 		"created_at": "Tue Jun 25 19:16:11 +0000 2019",
 		"id": 1143598782879166500,
 		"id_str": "1143598782879166464",
