@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 23:11:40 +0000 2019",
+		"id": 1144745209311440900,
+		"id_str": "1144745209311440898",
+		"full_text": "I...give up https://t.co/JA3D0f6Ina",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JA3D0f6Ina",
+					"expanded_url": "https://twitter.com/adage/status/1144728203157745666",
+					"display_url": "twitter.com/adage/status/1…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4506,
+			"friends_count": 712,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 52758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1144728203157745700,
+		"quoted_status_id_str": "1144728203157745666",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JA3D0f6Ina",
+			"expanded": "https://twitter.com/adage/status/1144728203157745666",
+			"display": "twitter.com/adage/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 28 22:04:06 +0000 2019",
+			"id": 1144728203157745700,
+			"id_str": "1144728203157745666",
+			"full_text": "Cheetos mascot named new Colonel Sanders in partnership with KFC https://t.co/adnSWXfPQP https://t.co/PNxIC2jB3W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/adnSWXfPQP",
+						"expanded_url": "http://bit.ly/2Nlw2IT",
+						"display_url": "bit.ly/2Nlw2IT",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1144728201417171000,
+						"id_str": "1144728201417170946",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/D-LkO_HXoAIdHzA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-LkO_HXoAIdHzA.jpg",
+						"url": "https://t.co/PNxIC2jB3W",
+						"display_url": "pic.twitter.com/PNxIC2jB3W",
+						"expanded_url": "https://twitter.com/adage/status/1144728203157745666/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1144728201417171000,
+						"id_str": "1144728201417170946",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/D-LkO_HXoAIdHzA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-LkO_HXoAIdHzA.jpg",
+						"url": "https://t.co/PNxIC2jB3W",
+						"display_url": "pic.twitter.com/PNxIC2jB3W",
+						"expanded_url": "https://twitter.com/adage/status/1144728203157745666/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12480582,
+				"id_str": "12480582",
+				"name": "Ad Age",
+				"screen_name": "adage",
+				"location": "New York, NY",
+				"description": "Ad Age is a daily must-read for an influential audience of decision makers and disruptors across the marketing and media landscape. https://t.co/gGStxZxw1m",
+				"url": "http://t.co/sy4FPwsQ56",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/sy4FPwsQ56",
+								"expanded_url": "http://adage.com",
+								"display_url": "adage.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gGStxZxw1m",
+								"expanded_url": "http://facebook.com/adage",
+								"display_url": "facebook.com/adage",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 970550,
+				"friends_count": 12208,
+				"listed_count": 27022,
+				"created_at": "Mon Jan 21 04:14:09 +0000 2008",
+				"favourites_count": 2379,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 121476,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912682094308012032/9QkafiSn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912682094308012032/9QkafiSn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12480582/1506359488",
+				"profile_link_color": "0099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDDDDD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I...give up https://t.co/JA3D0f6Ina"
+	},
+	{
 		"created_at": "Wed Jun 26 23:02:56 +0000 2019",
 		"id": 1144007631251677200,
 		"id_str": "1144018233277788163",
