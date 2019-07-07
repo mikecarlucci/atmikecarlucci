@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 03:02:48 +0000 2019",
+		"id": 1147702477216768000,
+		"id_str": "1147702477216768002",
+		"full_text": "Pineapple Headache https://t.co/TVrBsmfXAo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TVrBsmfXAo",
+					"expanded_url": "https://twitter.com/guardsounds/status/1146229767080824833",
+					"display_url": "twitter.com/guardsounds/st…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 712,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1146229767080824800,
+		"quoted_status_id_str": "1146229767080824833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TVrBsmfXAo",
+			"expanded": "https://twitter.com/guardsounds/status/1146229767080824833",
+			"display": "twitter.com/guardsounds/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 03 01:30:47 +0000 2019",
+			"id": 1146229767080824800,
+			"id_str": "1146229767080824833",
+			"full_text": "banana flu 🤪🤪🤪🤪 https://t.co/n55YH7nIx3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1146229759690465300,
+						"id_str": "1146229759690465280",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/D-g55LlU4AAxl_J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-g55LlU4AAxl_J.jpg",
+						"url": "https://t.co/n55YH7nIx3",
+						"display_url": "pic.twitter.com/n55YH7nIx3",
+						"expanded_url": "https://twitter.com/guardsounds/status/1146229767080824833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 429,
+								"h": 260,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 429,
+								"h": 260,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 429,
+								"h": 260,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1146229759690465300,
+						"id_str": "1146229759690465280",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/D-g55LlU4AAxl_J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-g55LlU4AAxl_J.jpg",
+						"url": "https://t.co/n55YH7nIx3",
+						"display_url": "pic.twitter.com/n55YH7nIx3",
+						"expanded_url": "https://twitter.com/guardsounds/status/1146229767080824833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 429,
+								"h": 260,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 429,
+								"h": 260,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 429,
+								"h": 260,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4284305479,
+				"id_str": "4284305479",
+				"name": "guard",
+				"screen_name": "guardsounds",
+				"location": "Melbourne ✈️ LA",
+				"description": "Single Christian Mom of 2 👁 𝖎’𝖒 𝖈𝖆𝖑𝖑𝖎𝖓𝖌 𝖙𝖍𝖊 𝖈𝖔𝖕𝖘 out now! 😈 info@tfmmgmt.com 🐹🐽",
+				"url": "https://t.co/IzGk8yRRTI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IzGk8yRRTI",
+								"expanded_url": "http://www.justjared.com/2019/06/19/get-familiar-with-singer-guard-loopy-premiere-listen-exclusive/",
+								"display_url": "justjared.com/2019/06/19/get…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2286,
+				"friends_count": 970,
+				"listed_count": 7,
+				"created_at": "Thu Nov 19 00:32:21 +0000 2015",
+				"favourites_count": 4120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1958,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1140450385804455937/HKxxEDuW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140450385804455937/HKxxEDuW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4284305479/1560739536",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91,
+			"favorite_count": 1381,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pineapple Headache https://t.co/TVrBsmfXAo"
+	},
+	{
 		"created_at": "Fri Jul 05 22:57:56 +0000 2019",
 		"id": 1147278467517616100,
 		"id_str": "1147278467517616128",
