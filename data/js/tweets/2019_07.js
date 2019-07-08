@@ -1,6 +1,709 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 22:07:47 +0000 2019",
+		"id": 1147990623192002600,
+		"id_str": "1147990623192002560",
+		"full_text": "2004 Red Sox great Cesar Crespo https://t.co/NMBGwSfsym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMBGwSfsym",
+					"expanded_url": "https://twitter.com/slangsonsports/status/1147987064228581376",
+					"display_url": "twitter.com/slangsonsports…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 712,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1147987064228581400,
+		"quoted_status_id_str": "1147987064228581376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NMBGwSfsym",
+			"expanded": "https://twitter.com/slangsonsports/status/1147987064228581376",
+			"display": "twitter.com/slangsonsports…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 07 21:53:39 +0000 2019",
+			"id": 1147987064228581400,
+			"id_str": "1147987064228581376",
+			"full_text": "At 20 years, 186 days old, Fernando Tatis Jr. is the youngest player in Padres history with a multi-HR game. \n\nPrevious youngest was Cesar Crespo, at 22 years, 124 days in 2001.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1636364526,
+				"id_str": "1636364526",
+				"name": "Sarah Langs",
+				"screen_name": "SlangsOnSports",
+				"location": "",
+				"description": "@MLB. Previously: @ESPN, @CSNChicago, @SNYtv & @MetsBlog. Plus, @UChicagoCollege and @ChicagoMaroon sports. Go Maroons. (Views my own.)",
+				"url": "https://t.co/czdSaaSURJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/czdSaaSURJ",
+								"expanded_url": "http://mlb.com",
+								"display_url": "mlb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10707,
+				"friends_count": 2427,
+				"listed_count": 297,
+				"created_at": "Wed Jul 31 21:04:37 +0000 2013",
+				"favourites_count": 9352,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057357151130271751/ko_seZi__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057357151130271751/ko_seZi__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1636364526/1504288165",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 167,
+			"favorite_count": 728,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2004 Red Sox great Cesar Crespo https://t.co/NMBGwSfsym"
+	},
+	{
+		"created_at": "Sun Jul 07 18:34:36 +0000 2019",
+		"id": 1147936973128159200,
+		"id_str": "1147936973128159232",
+		"full_text": "Perfection https://t.co/7ivd8P3blu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ivd8P3blu",
+					"expanded_url": "https://twitter.com/sosgsosg/status/1147925076894838785",
+					"display_url": "twitter.com/sosgsosg/statu…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 712,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1147925076894838800,
+		"quoted_status_id_str": "1147925076894838785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7ivd8P3blu",
+			"expanded": "https://twitter.com/sosgsosg/status/1147925076894838785",
+			"display": "twitter.com/sosgsosg/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 07 17:47:20 +0000 2019",
+			"id": 1147925076894838800,
+			"id_str": "1147925076894838785",
+			"full_text": "https://t.co/baVEmV452E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1147925072151060500,
+						"id_str": "1147925072151060481",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/D-4_xWpUIAERCGz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-4_xWpUIAERCGz.jpg",
+						"url": "https://t.co/baVEmV452E",
+						"display_url": "pic.twitter.com/baVEmV452E",
+						"expanded_url": "https://twitter.com/sosgsosg/status/1147925076894838785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1122,
+								"h": 631,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1122,
+								"h": 631,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1147925072151060500,
+						"id_str": "1147925072151060481",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/D-4_xWpUIAERCGz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-4_xWpUIAERCGz.jpg",
+						"url": "https://t.co/baVEmV452E",
+						"display_url": "pic.twitter.com/baVEmV452E",
+						"expanded_url": "https://twitter.com/sosgsosg/status/1147925076894838785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1122,
+								"h": 631,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1122,
+								"h": 631,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1147925072151060500,
+						"id_str": "1147925072151060482",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/D-4_xWpUIAIorb2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-4_xWpUIAIorb2.jpg",
+						"url": "https://t.co/baVEmV452E",
+						"display_url": "pic.twitter.com/baVEmV452E",
+						"expanded_url": "https://twitter.com/sosgsosg/status/1147925076894838785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 115981434,
+				"id_str": "115981434",
+				"name": "Sons of Steve Garvey",
+				"screen_name": "sosgsosg",
+				"location": "Chavez Ravine",
+				"description": "Random rantings and ravings about the Los Angeles Dodgers, written by a small consortium of rabid Dodger fans. sonsofstevegarvey@gmail.com",
+				"url": "https://t.co/ncjNF0avPe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ncjNF0avPe",
+								"expanded_url": "http://www.sonsofstevegarvey.com/",
+								"display_url": "sonsofstevegarvey.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7090,
+				"friends_count": 233,
+				"listed_count": 285,
+				"created_at": "Sat Feb 20 17:44:52 +0000 2010",
+				"favourites_count": 3165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24621,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141942953096564736/Y3q0pRlY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141942953096564736/Y3q0pRlY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/115981434/1347999222",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Perfection https://t.co/7ivd8P3blu"
+	},
+	{
+		"created_at": "Sun Jul 07 17:38:03 +0000 2019",
+		"id": 1147922034107666400,
+		"id_str": "1147922741301055488",
+		"full_text": "🎵It takes a lot to make a stew\nA pinch of salt and laughter too🎵\n🎵A scoop of kids to add the spice\nA dash of love to make it nice🎵\nAnd you've got...\n\n🎵Too many cooks 🎵\n\n🎵Too many cooks🎵 https://t.co/IVj4hgZWdj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147921586927722500,
+					"id_str": "1147921586927722496",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D-48mfLUYAATX8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-48mfLUYAATX8Z.jpg",
+					"url": "https://t.co/IVj4hgZWdj",
+					"display_url": "pic.twitter.com/IVj4hgZWdj",
+					"expanded_url": "https://twitter.com/sung_minkim/status/1147922034107666432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1697,
+							"h": 706,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147921586927722500,
+					"id_str": "1147921586927722496",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D-48mfLUYAATX8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-48mfLUYAATX8Z.jpg",
+					"url": "https://t.co/IVj4hgZWdj",
+					"display_url": "pic.twitter.com/IVj4hgZWdj",
+					"expanded_url": "https://twitter.com/sung_minkim/status/1147922034107666432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1697,
+							"h": 706,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1661586091,
+			"id_str": "1661586091",
+			"name": "Sung Min Kim",
+			"screen_name": "sung_minkim",
+			"location": "대한민국 서울",
+			"description": "Not @seungminkim. Baseball writing at @fangraphs, @baseballpro and @TheAthleticMLB. @merrillcollege alum 2015.",
+			"url": "https://t.co/AA1w1OQoSU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AA1w1OQoSU",
+							"expanded_url": "http://www.smkphotographer.com/",
+							"display_url": "smkphotographer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20269,
+			"friends_count": 2348,
+			"listed_count": 568,
+			"created_at": "Sun Aug 11 03:49:59 +0000 2013",
+			"favourites_count": 95322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 84977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146442312727162880/VN0H1j-X_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146442312727162880/VN0H1j-X_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1661586091/1562168377",
+			"profile_link_color": "E00909",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎵It takes a lot to make a stew\nA pinch of salt and laughter too🎵\n🎵A scoop of kids to add the spice\nA dash of love to make it nice🎵\nAnd you've got...\n\n🎵Too many cooks 🎵\n\n🎵Too many cooks🎵 https://t.co/IVj4hgZWdj"
+	},
+	{
 		"created_at": "Sun Jul 07 03:02:48 +0000 2019",
 		"id": 1147702477216768000,
 		"id_str": "1147702477216768002",
