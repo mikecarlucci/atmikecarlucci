@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 20:57:01 +0000 2019",
+		"id": 1149422363122913300,
+		"id_str": "1149422363122913280",
+		"full_text": "https://t.co/FdgRU5fWqr https://t.co/35ta4vXTqx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FdgRU5fWqr",
+					"expanded_url": "https://twitter.com/cityofboston/status/1149407872075350016",
+					"display_url": "twitter.com/cityofboston/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149422145681993700,
+					"id_str": "1149422145681993728",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_ORWgJXsAAZvOh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_ORWgJXsAAZvOh.jpg",
+					"url": "https://t.co/35ta4vXTqx",
+					"display_url": "pic.twitter.com/35ta4vXTqx",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1149422363122913280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149422145681993700,
+					"id_str": "1149422145681993728",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_ORWgJXsAAZvOh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_ORWgJXsAAZvOh.jpg",
+					"url": "https://t.co/35ta4vXTqx",
+					"display_url": "pic.twitter.com/35ta4vXTqx",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1149422363122913280/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D_ORWgJXsAAZvOh.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 705,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149407872075350000,
+		"quoted_status_id_str": "1149407872075350016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FdgRU5fWqr",
+			"expanded": "https://twitter.com/cityofboston/status/1149407872075350016",
+			"display": "twitter.com/cityofboston/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 11 19:59:26 +0000 2019",
+			"id": 1149407872075350000,
+			"id_str": "1149407872075350016",
+			"full_text": "Hey #Boston! \n\nThe City is trying to collect information on how people seek and receive information on trash and recycling.\n\nBy filling out this survey, you are helping us improve the ways that we provide this type of information to the City.\n\nhttps://t.co/0g91ftSMtN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Boston",
+						"indices": [
+							4,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0g91ftSMtN",
+						"expanded_url": "https://forms.gle/Rs6MXWYGfUWvfgGX8",
+						"display_url": "forms.gle/Rs6MXWYGfUWvfg…",
+						"indices": [
+							244,
+							267
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124455872,
+				"id_str": "124455872",
+				"name": "City of Boston",
+				"screen_name": "CityOfBoston",
+				"location": "Boston, MA",
+				"description": "Official Twitter account for the City of Boston. For non-emergency City services dial 311 or visit https://t.co/cucJ2iq3yL.",
+				"url": "https://t.co/kBayuo9b14",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kBayuo9b14",
+								"expanded_url": "http://boston.gov/",
+								"display_url": "boston.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cucJ2iq3yL",
+								"expanded_url": "http://boston.gov/311",
+								"display_url": "boston.gov/311",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 310051,
+				"friends_count": 456,
+				"listed_count": 1943,
+				"created_at": "Fri Mar 19 13:10:39 +0000 2010",
+				"favourites_count": 1402,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18645,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "288BE4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823906698897330177/H_6xVFoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823906698897330177/H_6xVFoF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124455872/1555441652",
+				"profile_link_color": "091F2F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/FdgRU5fWqr https://t.co/35ta4vXTqx"
+	},
+	{
 		"created_at": "Wed Jul 10 17:57:42 +0000 2019",
 		"id": 1149014850510774300,
 		"id_str": "1149014850510774274",
