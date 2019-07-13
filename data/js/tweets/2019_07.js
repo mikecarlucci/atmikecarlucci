@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 01:39:29 +0000 2019",
+		"id": 1149855836317126700,
+		"id_str": "1149855836317126659",
+		"full_text": "@Cut4 Nick Markakis!",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cut4",
+					"name": "Cut4",
+					"id": 241544156,
+					"id_str": "241544156",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149853900264095700,
+		"in_reply_to_status_id_str": "1149853900264095744",
+		"in_reply_to_user_id": 241544156,
+		"in_reply_to_user_id_str": "241544156",
+		"in_reply_to_screen_name": "Cut4",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 706,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Cut4 Nick Markakis!"
+	},
+	{
+		"created_at": "Fri Jul 12 16:29:32 +0000 2019",
+		"id": 1149717437799157800,
+		"id_str": "1149717437799157760",
+		"full_text": "https://t.co/VjrB4gCX27 https://t.co/YTsm1KphWO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VjrB4gCX27",
+					"expanded_url": "https://twitter.com/salemredsox/status/1149710672823033856",
+					"display_url": "twitter.com/salemredsox/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149717425455325200,
+					"id_str": "1149717425455325190",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_Sd6DBXYAYt3iA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_Sd6DBXYAYt3iA.jpg",
+					"url": "https://t.co/YTsm1KphWO",
+					"display_url": "pic.twitter.com/YTsm1KphWO",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1149717437799157760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149717425455325200,
+					"id_str": "1149717425455325190",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_Sd6DBXYAYt3iA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_Sd6DBXYAYt3iA.jpg",
+					"url": "https://t.co/YTsm1KphWO",
+					"display_url": "pic.twitter.com/YTsm1KphWO",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1149717437799157760/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 494,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							197,
+							247
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D_Sd6DBXYAYt3iA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 706,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149710672823033900,
+		"quoted_status_id_str": "1149710672823033856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VjrB4gCX27",
+			"expanded": "https://twitter.com/salemredsox/status/1149710672823033856",
+			"display": "twitter.com/salemredsox/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 12 16:02:39 +0000 2019",
+			"id": 1149710672823033900,
+			"id_str": "1149710672823033856",
+			"full_text": "Nothing will tricera-top this night... Dinos at the Diamond is back at the ballpark! 🦖\n\nWe're taking it back to the Jurassic Age on July 26th, and you'll wanna be early as the first 1,000 fans will score a Jurassic T-Shirt! \n\nTickets ➡️ https://t.co/xFXB3dTMFk\n\n#whereIThappens https://t.co/BJwXbOHG7e",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "whereIThappens",
+						"indices": [
+							262,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xFXB3dTMFk",
+						"expanded_url": "http://ow.ly/qwHw50uLCQ7",
+						"display_url": "ow.ly/qwHw50uLCQ7",
+						"indices": [
+							237,
+							260
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1149710670348394500,
+						"id_str": "1149710670348394508",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D_SXw2SXoAwbJo_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_SXw2SXoAwbJo_.jpg",
+						"url": "https://t.co/BJwXbOHG7e",
+						"display_url": "pic.twitter.com/BJwXbOHG7e",
+						"expanded_url": "https://twitter.com/salemredsox/status/1149710672823033856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1149710670348394500,
+						"id_str": "1149710670348394508",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D_SXw2SXoAwbJo_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_SXw2SXoAwbJo_.jpg",
+						"url": "https://t.co/BJwXbOHG7e",
+						"display_url": "pic.twitter.com/BJwXbOHG7e",
+						"expanded_url": "https://twitter.com/salemredsox/status/1149710672823033856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42500897,
+				"id_str": "42500897",
+				"name": "Salem Red Sox",
+				"screen_name": "salemredsox",
+				"location": "Salem, VA",
+				"description": "Salem Red Sox-The Advanced Class A Affiliate of the Boston Red Sox. For tickets, call 540-389-3333. Broadcast: https://t.co/ZDaYKvPe07 #whereIThappens",
+				"url": "https://t.co/QpJCvdKOBc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QpJCvdKOBc",
+								"expanded_url": "http://www.salemsox.com",
+								"display_url": "salemsox.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZDaYKvPe07",
+								"expanded_url": "http://SalemSox.com/ListenLive",
+								"display_url": "SalemSox.com/ListenLive",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 29603,
+				"friends_count": 417,
+				"listed_count": 389,
+				"created_at": "Mon May 25 22:20:26 +0000 2009",
+				"favourites_count": 3897,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21629,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1146792336590102528/ubh6luo3_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146792336590102528/ubh6luo3_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42500897/1538596311",
+				"profile_link_color": "BD3039",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/VjrB4gCX27 https://t.co/YTsm1KphWO"
+	},
+	{
 		"created_at": "Thu Jul 11 20:57:01 +0000 2019",
 		"id": 1149422363122913300,
 		"id_str": "1149422363122913280",
