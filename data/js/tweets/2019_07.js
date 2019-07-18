@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 17 11:45:16 +0000 2019",
+		"id": 1151457837211627500,
+		"id_str": "1151457837211627520",
+		"full_text": "😂😂😂 https://t.co/PEAN2XhoIU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PEAN2XhoIU",
+					"expanded_url": "https://twitter.com/kevinfarzad/status/1151299018024054784",
+					"display_url": "twitter.com/kevinfarzad/st…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4502,
+			"friends_count": 706,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151299018024054800,
+		"quoted_status_id_str": "1151299018024054784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PEAN2XhoIU",
+			"expanded": "https://twitter.com/kevinfarzad/status/1151299018024054784",
+			"display": "twitter.com/kevinfarzad/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 17 01:14:10 +0000 2019",
+			"id": 1151299018024054800,
+			"id_str": "1151299018024054784",
+			"full_text": "i like who podcast ads think i am – a successful businessman who hires employees but also i don’t own underwear or a mattress",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262333936,
+				"id_str": "262333936",
+				"name": "Kevin Farzad",
+				"screen_name": "KevinFarzad",
+				"location": "Los Angeles",
+				"description": "You're doing great - @suresuremusic",
+				"url": "https://t.co/Csahx1hxCI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Csahx1hxCI",
+								"expanded_url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei?si=30iS-UGOQH2Jqe5ZINvZTA",
+								"display_url": "open.spotify.com/album/7EfgATnO…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 87702,
+				"friends_count": 239,
+				"listed_count": 1000,
+				"created_at": "Mon Mar 07 21:13:02 +0000 2011",
+				"favourites_count": 68263,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2027,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265142061/Screen_shot_2011-03-07_at_2.37.34_PM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265142061/Screen_shot_2011-03-07_at_2.37.34_PM_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6068,
+			"favorite_count": 41621,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😂😂😂 https://t.co/PEAN2XhoIU"
+	},
+	{
 		"created_at": "Tue Jul 16 20:59:32 +0000 2019",
 		"id": 1151234936717926400,
 		"id_str": "1151234936717926401",
