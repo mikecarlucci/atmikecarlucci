@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 20:30:57 +0000 2019",
+		"id": 1151952521004535800,
+		"id_str": "1151952521004535808",
+		"full_text": "There are three ways to do things: The right, the wrong way, and the Ryan Lavarnway. https://t.co/5Ty72wERTY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Ty72wERTY",
+					"expanded_url": "https://twitter.com/Reds/status/1151925626120654849",
+					"display_url": "twitter.com/Reds/status/11…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4501,
+			"friends_count": 705,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151925626120654800,
+		"quoted_status_id_str": "1151925626120654849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5Ty72wERTY",
+			"expanded": "https://twitter.com/Reds/status/1151925626120654849",
+			"display": "twitter.com/Reds/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 18 18:44:05 +0000 2019",
+			"id": 1151925626120654800,
+			"id_str": "1151925626120654849",
+			"full_text": "The #Reds today made the following transactions: https://t.co/L5xMZ4OpdQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Reds",
+						"indices": [
+							4,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1151925623956414500,
+						"id_str": "1151925623956414464",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/D_x2QHeXoAAGTid.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_x2QHeXoAAGTid.jpg",
+						"url": "https://t.co/L5xMZ4OpdQ",
+						"display_url": "pic.twitter.com/L5xMZ4OpdQ",
+						"expanded_url": "https://twitter.com/Reds/status/1151925626120654849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1151925623956414500,
+						"id_str": "1151925623956414464",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/D_x2QHeXoAAGTid.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_x2QHeXoAAGTid.jpg",
+						"url": "https://t.co/L5xMZ4OpdQ",
+						"display_url": "pic.twitter.com/L5xMZ4OpdQ",
+						"expanded_url": "https://twitter.com/Reds/status/1151925626120654849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Spredfast</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35006336,
+				"id_str": "35006336",
+				"name": "Cincinnati Reds",
+				"screen_name": "Reds",
+				"location": "Great American Ball Park",
+				"description": "Baseball's first professional team, founded in 1869. Five-time World Series Champions. #ATOBTTR #BornToBaseball",
+				"url": "https://t.co/MMydu2LKa5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MMydu2LKa5",
+								"expanded_url": "http://reds.com/150",
+								"display_url": "reds.com/150",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 847445,
+				"friends_count": 370,
+				"listed_count": 5433,
+				"created_at": "Fri Apr 24 18:59:47 +0000 2009",
+				"favourites_count": 15249,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 63400,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114267100003086337/jSCO_CzD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114267100003086337/jSCO_CzD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35006336/1562851682",
+				"profile_link_color": "C6011F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CF2032",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 279,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There are three ways to do things: The right, the wrong way, and the Ryan Lavarnway. https://t.co/5Ty72wERTY"
+	},
+	{
+		"created_at": "Thu Jul 18 17:40:26 +0000 2019",
+		"id": 1151909607436103700,
+		"id_str": "1151909607436103680",
+		"full_text": "There is still a chance to save Earth... https://t.co/HvoT6rpfV2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HvoT6rpfV2",
+					"expanded_url": "https://twitter.com/mims/status/1151809414657138693",
+					"display_url": "twitter.com/mims/status/11…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4501,
+			"friends_count": 705,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151809414657138700,
+		"quoted_status_id_str": "1151809414657138693",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HvoT6rpfV2",
+			"expanded": "https://twitter.com/mims/status/1151809414657138693",
+			"display": "twitter.com/mims/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 18 11:02:18 +0000 2019",
+			"id": 1151809414657138700,
+			"id_str": "1151809414657138693",
+			"full_text": "Jeff Bezos: I spend my billions on space because we’re destroying Earth https://t.co/HKcQKqD6g8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HKcQKqD6g8",
+						"expanded_url": "https://www.cnbc.com/2019/07/17/why-jeff-bezos-spends-billions-on-space-technology.html?__source=sharebar|twitter&par=sharebar",
+						"display_url": "cnbc.com/2019/07/17/why…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1769191,
+				"id_str": "1769191",
+				"name": "Christopher Mims 🎆",
+				"screen_name": "mims",
+				"location": "Baltimore, MD",
+				"description": "Former baby and aspiring ghost. Writes about our tools and how they shape us for @WSJ. My DMs are open, be nice.",
+				"url": "https://t.co/oqoRRScUpn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oqoRRScUpn",
+								"expanded_url": "http://www.wsj.com/news/author/8003",
+								"display_url": "wsj.com/news/author/80…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89802,
+				"friends_count": 936,
+				"listed_count": 4160,
+				"created_at": "Wed Mar 21 17:01:19 +0000 2007",
+				"favourites_count": 186614,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25801,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055801570913337344/JWVV2JJB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055801570913337344/JWVV2JJB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1769191/1544269193",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 170,
+			"favorite_count": 471,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is still a chance to save Earth... https://t.co/HvoT6rpfV2"
+	},
+	{
+		"created_at": "Thu Jul 18 17:29:46 +0000 2019",
+		"id": 1151906921223544800,
+		"id_str": "1151906921223544834",
+		"full_text": "Albuquerque by Weird Al https://t.co/JjCogq0TBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JjCogq0TBC",
+					"expanded_url": "https://twitter.com/actuallynhayden/status/1151596343661514752",
+					"display_url": "twitter.com/actuallynhayde…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4501,
+			"friends_count": 705,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151596343661514800,
+		"quoted_status_id_str": "1151596343661514752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JjCogq0TBC",
+			"expanded": "https://twitter.com/actuallynhayden/status/1151596343661514752",
+			"display": "twitter.com/actuallynhayde…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 17 20:55:38 +0000 2019",
+			"id": 1151596343661514800,
+			"id_str": "1151596343661514752",
+			"full_text": "What’s your favourite song longer than 6 minutes? If you pick bohemian rhapsody you’re lame",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3100777910,
+				"id_str": "3100777910",
+				"name": "Actually Not Hayden",
+				"screen_name": "ActuallynHayden",
+				"location": "Climate change is bad",
+				"description": "e criminal, 500,000 Spotify streams, youtube man",
+				"url": "https://t.co/zWbYDA7tDL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zWbYDA7tDL",
+								"expanded_url": "https://open.spotify.com/artist/0exWgyr1UK7UxntNUP2hST?si=XDWBeCItSbS0dAz0WpV32g",
+								"display_url": "open.spotify.com/artist/0exWgyr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 977,
+				"friends_count": 407,
+				"listed_count": 28,
+				"created_at": "Sat Mar 21 03:29:23 +0000 2015",
+				"favourites_count": 53162,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35611,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1143490000299778049/IMWxQNnW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143490000299778049/IMWxQNnW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3100777910/1560859647",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 322,
+			"favorite_count": 4699,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ca",
+		"text": "Albuquerque by Weird Al https://t.co/JjCogq0TBC"
+	},
+	{
 		"created_at": "Wed Jul 17 11:45:16 +0000 2019",
 		"id": 1151457837211627500,
 		"id_str": "1151457837211627520",
