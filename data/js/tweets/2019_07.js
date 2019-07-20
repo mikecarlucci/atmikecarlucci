@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 19 12:20:55 +0000 2019",
+		"id": 1152030784326234100,
+		"id_str": "1152191588103327750",
+		"full_text": "Excited to have some drawings included in this “Sabermetric Starter Cards” set! \nhttps://t.co/0zMgXjCyRV @BanishedToPen",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BanishedToPen",
+					"name": "Banished to the Pen",
+					"id": 2896145687,
+					"id_str": "2896145687",
+					"indices": [
+						105,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0zMgXjCyRV",
+					"expanded_url": "http://www.banishedtothepen.com/saber-starter/",
+					"display_url": "banishedtothepen.com/saber-starter/",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1869685891,
+			"id_str": "1869685891",
+			"name": "Gummy Arts",
+			"screen_name": "gummyarts",
+			"location": "Chicago, IL",
+			"description": "Hand-drawn baseball cards and more. Cards at https://t.co/aDpWJyrAIQ, shirts at https://t.co/TotJtHXmEe.",
+			"url": "https://t.co/BCjz5F4cQg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BCjz5F4cQg",
+							"expanded_url": "http://www.gummyarts.com",
+							"display_url": "gummyarts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDpWJyrAIQ",
+							"expanded_url": "http://gummyarts.bigcartel.com",
+							"display_url": "gummyarts.bigcartel.com",
+							"indices": [
+								45,
+								68
+							]
+						},
+						{
+							"url": "https://t.co/TotJtHXmEe",
+							"expanded_url": "http://gummyarts.threadless.com",
+							"display_url": "gummyarts.threadless.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5893,
+			"friends_count": 1466,
+			"listed_count": 80,
+			"created_at": "Mon Sep 16 00:16:57 +0000 2013",
+			"favourites_count": 20128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047162960039333888/kPhnINIR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047162960039333888/kPhnINIR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1869685891/1514068059",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to have some drawings included in this “Sabermetric Starter Cards” set! \nhttps://t.co/0zMgXjCyRV @BanishedToPen"
+	},
+	{
 		"created_at": "Thu Jul 18 20:30:57 +0000 2019",
 		"id": 1151952521004535800,
 		"id_str": "1151952521004535808",
