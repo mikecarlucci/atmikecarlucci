@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 22 02:05:44 +0000 2019",
+		"id": 1153123933224394800,
+		"id_str": "1153123933224394753",
+		"full_text": "Time for Weird Al Strings Attached! 🎶🎶🎶 https://t.co/Msm8IBipBW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1153123927998324700,
+					"id_str": "1153123927998324737",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EAC4Gl5X4AEFTt7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAC4Gl5X4AEFTt7.jpg",
+					"url": "https://t.co/Msm8IBipBW",
+					"display_url": "pic.twitter.com/Msm8IBipBW",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1153123933224394753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153123927998324700,
+					"id_str": "1153123927998324737",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EAC4Gl5X4AEFTt7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAC4Gl5X4AEFTt7.jpg",
+					"url": "https://t.co/Msm8IBipBW",
+					"display_url": "pic.twitter.com/Msm8IBipBW",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1153123933224394753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4500,
+			"friends_count": 700,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 53791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Time for Weird Al Strings Attached! 🎶🎶🎶 https://t.co/Msm8IBipBW"
+	},
+	{
+		"created_at": "Sun Jul 21 19:58:10 +0000 2019",
+		"id": 1153002381145038800,
+		"id_str": "1153031432928993280",
+		"full_text": "Happy 30th Birthday to @alyankovic &amp; Jay Levy’s UHF. It’s one of the best “sketch comedy movies” of all time. Very much like if SCTV had made a movie. It has aged like a fine Twinkie Weiner Sandwich https://t.co/eYWt4QFalG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alyankovic",
+					"name": "Al Yankovic",
+					"id": 22461427,
+					"id_str": "22461427",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1153002373993730000,
+					"id_str": "1153002373993730048",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EABJjN8UEAAujjs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EABJjN8UEAAujjs.jpg",
+					"url": "https://t.co/eYWt4QFalG",
+					"display_url": "pic.twitter.com/eYWt4QFalG",
+					"expanded_url": "https://twitter.com/jonahray/status/1153002381145038849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153002373993730000,
+					"id_str": "1153002373993730048",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EABJjN8UEAAujjs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EABJjN8UEAAujjs.jpg",
+					"url": "https://t.co/eYWt4QFalG",
+					"display_url": "pic.twitter.com/eYWt4QFalG",
+					"expanded_url": "https://twitter.com/jonahray/status/1153002381145038849/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EABJjN8UEAAujjs.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180560224,
+			"id_str": "180560224",
+			"name": "Jonah Ray Rodrigues",
+			"screen_name": "jonahray",
+			"location": "Tinseltown",
+			"description": "I’m in the “entertainment” “business”: MST3K on NETFLIX, THE MELTDOWN on COMEDY CENTRAL, HIDDEN AMERICA on VRV, and a new EP coming soon on ASIANMAN RECORDS.",
+			"url": "https://t.co/KQOke2sPWj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KQOke2sPWj",
+							"expanded_url": "http://Instagram.com/jonahray",
+							"display_url": "Instagram.com/jonahray",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130920,
+			"friends_count": 1945,
+			"listed_count": 1902,
+			"created_at": "Thu Aug 19 23:02:32 +0000 2010",
+			"favourites_count": 54822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "42401E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152999243784658944/oBRdG4dj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152999243784658944/oBRdG4dj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180560224/1558164278",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 675,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 30th Birthday to @alyankovic &amp; Jay Levy’s UHF. It’s one of the best “sketch comedy movies” of all time. Very much like if SCTV had made a movie. It has aged like a fine Twinkie Weiner Sandwich https://t.co/eYWt4QFalG"
+	},
+	{
 		"created_at": "Sun Jul 21 02:18:53 +0000 2019",
 		"id": 1152762149183377400,
 		"id_str": "1152764855012737024",
