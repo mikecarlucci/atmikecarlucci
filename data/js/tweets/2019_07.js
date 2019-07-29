@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 28 20:26:49 +0000 2019",
+		"id": 1155575356168069000,
+		"id_str": "1155575356168069120",
+		"full_text": "👀 https://t.co/tIn4lBCMEu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tIn4lBCMEu",
+					"expanded_url": "https://twitter.com/mandybell02/status/1155570036460982274",
+					"display_url": "twitter.com/mandybell02/st…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4501,
+			"friends_count": 698,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 54088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1155570036460982300,
+		"quoted_status_id_str": "1155570036460982274",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tIn4lBCMEu",
+			"expanded": "https://twitter.com/mandybell02/status/1155570036460982274",
+			"display": "twitter.com/mandybell02/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 28 20:05:40 +0000 2019",
+			"id": 1155570036460982300,
+			"id_str": "1155570036460982274",
+			"full_text": "Never seen that before. Trevor Bauer gave up two runs and chucked the ball into the netting behind home plate out of anger after the play. Terry Francona then came out to get him and before he left, he launched the ball over the center field wall from the mound.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 468018105,
+				"id_str": "468018105",
+				"name": "Mandy Bell",
+				"screen_name": "MandyBell02",
+				"location": "",
+				"description": "Indians beat reporter for https://t.co/teGWLJcsd6 | Proud Penn State Alumna | Instagram: @MandyBellMLB",
+				"url": "https://t.co/Ke9AGnKAEX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ke9AGnKAEX",
+								"expanded_url": "http://indians.com",
+								"display_url": "indians.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/teGWLJcsd6",
+								"expanded_url": "http://MLB.com",
+								"display_url": "MLB.com",
+								"indices": [
+									26,
+									49
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18204,
+				"friends_count": 903,
+				"listed_count": 344,
+				"created_at": "Thu Jan 19 02:54:06 +0000 2012",
+				"favourites_count": 14482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12731,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1130982413016940544/ngqJ2_ZE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130982413016940544/ngqJ2_ZE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/468018105/1559928952",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 513,
+			"favorite_count": 2703,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 https://t.co/tIn4lBCMEu"
+	},
+	{
+		"created_at": "Sun Jul 28 20:16:47 +0000 2019",
+		"id": 1155572832795005000,
+		"id_str": "1155572832795004929",
+		"full_text": "😮 well that’s on my coffee wishlist now https://t.co/e6KmcHTcdt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e6KmcHTcdt",
+					"expanded_url": "https://twitter.com/iskandrah/status/1155014863426588672",
+					"display_url": "twitter.com/iskandrah/stat…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4501,
+			"friends_count": 698,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 54088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1155014863426588700,
+		"quoted_status_id_str": "1155014863426588672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/e6KmcHTcdt",
+			"expanded": "https://twitter.com/iskandrah/status/1155014863426588672",
+			"display": "twitter.com/iskandrah/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 27 07:19:37 +0000 2019",
+			"id": 1155014863426588700,
+			"id_str": "1155014863426588672",
+			"full_text": "Never seen this before, but my grandma described her grandfather making proper Arabic coffee in hot sand heated by charcoals in Ottoman era Palestine. Never understood what she meant til now. https://t.co/5U8guEO0R0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5U8guEO0R0",
+						"expanded_url": "https://twitter.com/Havenlust/status/1151642821755133953",
+						"display_url": "twitter.com/Havenlust/stat…",
+						"indices": [
+							192,
+							215
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 160304538,
+				"id_str": "160304538",
+				"name": "Alexandra Halaby",
+				"screen_name": "iskandrah",
+				"location": "Illinois, USA",
+				"description": "US Spokesperson @DaysofPalestine: English-language digital media platform from #Palestine🇵🇸 | Member of @AAIUSA🇺🇸 | Women's Forum @CarterCenter | #YallaVote",
+				"url": "https://t.co/vxSE2CWOnC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vxSE2CWOnC",
+								"expanded_url": "http://www.DaysofPalestine.com",
+								"display_url": "DaysofPalestine.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10922,
+				"friends_count": 5444,
+				"listed_count": 273,
+				"created_at": "Sun Jun 27 20:18:34 +0000 2010",
+				"favourites_count": 130656,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44589,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155620501903089666/eg2yQgj6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155620501903089666/eg2yQgj6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/160304538/1564356371",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "f54a2170ff4b15f7",
+				"url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+				"place_type": "admin",
+				"name": "Illinois",
+				"full_name": "Illinois, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-91.51308,
+								36.970298
+							],
+							[
+								-87.019935,
+								36.970298
+							],
+							[
+								-87.019935,
+								42.508303
+							],
+							[
+								-91.51308,
+								42.508303
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1151642821755134000,
+			"quoted_status_id_str": "1151642821755133953",
+			"quoted_status_permalink": {
+				"url": "https://t.co/5U8guEO0R0",
+				"expanded": "https://twitter.com/Havenlust/status/1151642821755133953",
+				"display": "twitter.com/Havenlust/stat…"
+			},
+			"retweet_count": 4418,
+			"favorite_count": 16587,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😮 well that’s on my coffee wishlist now https://t.co/e6KmcHTcdt"
+	},
+	{
 		"created_at": "Sat Jul 27 21:30:18 +0000 2019",
 		"id": 1155228947472367600,
 		"id_str": "1155228947472367617",
