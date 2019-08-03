@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 02 19:15:14 +0000 2019",
+		"id": 1157369280809361400,
+		"id_str": "1157369280809361409",
+		"full_text": "🤔🤔🤔 https://t.co/n9dhqdK7mT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n9dhqdK7mT",
+					"expanded_url": "https://twitter.com/eriqgardner/status/1157367778682310656",
+					"display_url": "twitter.com/eriqgardner/st…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4506,
+			"friends_count": 702,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 54261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1157367778682310700,
+		"quoted_status_id_str": "1157367778682310656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n9dhqdK7mT",
+			"expanded": "https://twitter.com/eriqgardner/status/1157367778682310656",
+			"display": "twitter.com/eriqgardner/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 02 19:09:15 +0000 2019",
+			"id": 1157367778682310700,
+			"id_str": "1157367778682310656",
+			"full_text": "Whoa boy. Do the Philadelphia Phillies own the mascot, the \"Phanatic,\" or is he a free agent? The MLB team files suit upon a notice of termination over the character. The Phillies say they authored the costume. A LOT in play here! https://t.co/vsqZKNjtnt https://t.co/Id7AyjsvKT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vsqZKNjtnt",
+						"expanded_url": "https://www.documentcloud.org/documents/6237438-Phanatic.html",
+						"display_url": "documentcloud.org/documents/6237…",
+						"indices": [
+							231,
+							254
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1157367772143325200,
+						"id_str": "1157367772143325184",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/EA_L21UWkAAxXDk.png",
+						"media_url_https": "https://pbs.twimg.com/media/EA_L21UWkAAxXDk.png",
+						"url": "https://t.co/Id7AyjsvKT",
+						"display_url": "pic.twitter.com/Id7AyjsvKT",
+						"expanded_url": "https://twitter.com/eriqgardner/status/1157367778682310656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 433,
+								"h": 435,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 433,
+								"h": 435,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 433,
+								"h": 435,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1157367772143325200,
+						"id_str": "1157367772143325184",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/EA_L21UWkAAxXDk.png",
+						"media_url_https": "https://pbs.twimg.com/media/EA_L21UWkAAxXDk.png",
+						"url": "https://t.co/Id7AyjsvKT",
+						"display_url": "pic.twitter.com/Id7AyjsvKT",
+						"expanded_url": "https://twitter.com/eriqgardner/status/1157367778682310656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 433,
+								"h": 435,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 433,
+								"h": 435,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 433,
+								"h": 435,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89200008,
+				"id_str": "89200008",
+				"name": "Eriq Gardner",
+				"screen_name": "eriqgardner",
+				"location": "Washington, DC",
+				"description": "Senior Editor, The Hollywood Reporter. @THREsq. Focused on the complicated side. Via Northwestern University.",
+				"url": "https://t.co/rOctlZXJ2m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rOctlZXJ2m",
+								"expanded_url": "http://thresq.com",
+								"display_url": "thresq.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9131,
+				"friends_count": 959,
+				"listed_count": 359,
+				"created_at": "Wed Nov 11 14:48:16 +0000 2009",
+				"favourites_count": 2128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11144,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895826451907436545/oswuRc-q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895826451907436545/oswuRc-q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89200008/1398253548",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤔🤔🤔 https://t.co/n9dhqdK7mT"
+	},
+	{
 		"created_at": "Thu Aug 01 20:49:50 +0000 2019",
 		"id": 1157030699800641500,
 		"id_str": "1157030699800641536",
