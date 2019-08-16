@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 15 22:29:49 +0000 2019",
+		"id": 1162129293067128800,
+		"id_str": "1162129293067128832",
+		"full_text": "@jlwoj Something from the Moira Rose Collection https://t.co/ZmZSUvuvhI",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jlwoj",
+					"name": "Jason Wojciechowski",
+					"id": 14995357,
+					"id_str": "14995357",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1162129281763500000,
+					"id_str": "1162129281763500032",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ECC2bK6X4AAhF4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ECC2bK6X4AAhF4I.jpg",
+					"url": "https://t.co/ZmZSUvuvhI",
+					"display_url": "pic.twitter.com/ZmZSUvuvhI",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1162129293067128832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1162129281763500000,
+					"id_str": "1162129281763500032",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ECC2bK6X4AAhF4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ECC2bK6X4AAhF4I.jpg",
+					"url": "https://t.co/ZmZSUvuvhI",
+					"display_url": "pic.twitter.com/ZmZSUvuvhI",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1162129293067128832/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ECC2bK6X4AAhF4I.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1161851931926511600,
+		"in_reply_to_status_id_str": "1161851931926511617",
+		"in_reply_to_user_id": 14995357,
+		"in_reply_to_user_id_str": "14995357",
+		"in_reply_to_screen_name": "jlwoj",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4522,
+			"friends_count": 722,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 54829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jlwoj Something from the Moira Rose Collection https://t.co/ZmZSUvuvhI"
+	},
+	{
+		"created_at": "Thu Aug 15 20:16:37 +0000 2019",
+		"id": 1085583434788020200,
+		"id_str": "1162095771929456642",
+		"full_text": "WeWork used artificial intelligence to learn that people drink coffee in the morning so they should hire a barista https://t.co/pJoUnZTi6l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085583359936524300,
+					"id_str": "1085583359936524289",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DxDEUG8XcAEi9JT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxDEUG8XcAEi9JT.jpg",
+					"url": "https://t.co/pJoUnZTi6l",
+					"display_url": "pic.twitter.com/pJoUnZTi6l",
+					"expanded_url": "https://twitter.com/modestproposal1/status/1085583434788020227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 615,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 546,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 615,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085583359936524300,
+					"id_str": "1085583359936524289",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DxDEUG8XcAEi9JT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxDEUG8XcAEi9JT.jpg",
+					"url": "https://t.co/pJoUnZTi6l",
+					"display_url": "pic.twitter.com/pJoUnZTi6l",
+					"expanded_url": "https://twitter.com/modestproposal1/status/1085583434788020227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 615,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 546,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 615,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 355866075,
+			"id_str": "355866075",
+			"name": "modest proposal",
+			"screen_name": "modestproposal1",
+			"location": "",
+			"description": "I shall now therefore humbly propose my own thoughts, which I hope will not be liable to the least objection.\n\nhttps://t.co/NuC25VaSff",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NuC25VaSff",
+							"expanded_url": "http://art-bin.com/art/omodest.html",
+							"display_url": "art-bin.com/art/omodest.ht…",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42177,
+			"friends_count": 632,
+			"listed_count": 1160,
+			"created_at": "Tue Aug 16 00:47:39 +0000 2011",
+			"favourites_count": 19678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3153337480/dce8c23773c6df21dc68bb3e65d7fa4c_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3153337480/dce8c23773c6df21dc68bb3e65d7fa4c_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1585,
+		"favorite_count": 5831,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WeWork used artificial intelligence to learn that people drink coffee in the morning so they should hire a barista https://t.co/pJoUnZTi6l"
+	},
+	{
 		"created_at": "Wed Aug 14 18:39:23 +0000 2019",
 		"id": 1161708915660185600,
 		"id_str": "1161708915660185600",
