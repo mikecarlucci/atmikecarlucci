@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 18 23:53:02 +0000 2019",
+		"id": 1163237397024428000,
+		"id_str": "1163237397024428034",
+		"full_text": "I really miss the old MLB on Fox theme https://t.co/exXSOsNoR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/exXSOsNoR0",
+					"expanded_url": "https://twitter.com/rexchapman/status/1162499822202568708",
+					"display_url": "twitter.com/rexchapman/sta…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4522,
+			"friends_count": 722,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 54899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1162499822202568700,
+		"quoted_status_id_str": "1162499822202568708",
+		"quoted_status_permalink": {
+			"url": "https://t.co/exXSOsNoR0",
+			"expanded": "https://twitter.com/rexchapman/status/1162499822202568708",
+			"display": "twitter.com/rexchapman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 16 23:02:10 +0000 2019",
+			"id": 1162499822202568700,
+			"id_str": "1162499822202568708",
+			"full_text": "My man created his own Olympics and I’m dead...💪😏😂 https://t.co/0kuD6EndYy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1162053205909487600,
+						"id_str": "1162053205909487616",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162053205909487616/pu/img/Cms--2fmNsY1HAr7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162053205909487616/pu/img/Cms--2fmNsY1HAr7.jpg",
+						"url": "https://t.co/0kuD6EndYy",
+						"display_url": "pic.twitter.com/0kuD6EndYy",
+						"expanded_url": "https://twitter.com/SportsFunnies/status/1162053334917718016/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1162053334917718000,
+						"source_status_id_str": "1162053334917718016",
+						"source_user_id": 1148718895,
+						"source_user_id_str": "1148718895"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1162053205909487600,
+						"id_str": "1162053205909487616",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162053205909487616/pu/img/Cms--2fmNsY1HAr7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162053205909487616/pu/img/Cms--2fmNsY1HAr7.jpg",
+						"url": "https://t.co/0kuD6EndYy",
+						"display_url": "pic.twitter.com/0kuD6EndYy",
+						"expanded_url": "https://twitter.com/SportsFunnies/status/1162053334917718016/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1162053334917718000,
+						"source_status_id_str": "1162053334917718016",
+						"source_user_id": 1148718895,
+						"source_user_id_str": "1148718895",
+						"video_info": {
+							"aspect_ratio": [
+								5,
+								4
+							],
+							"duration_millis": 81702,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1162053205909487616/pu/vid/336x270/AuL_nPZ-8-u7LhmG.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1162053205909487616/pu/vid/450x360/3pT7L86i7NO-k22O.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1162053205909487616/pu/pl/16EwftmGbs35s-Jq.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1148718895,
+								"id_str": "1148718895",
+								"name": "Sports Funnies",
+								"screen_name": "SportsFunnies",
+								"location": "Global",
+								"description": "Any page or business enquiries contact: 📩 SportsFunniesEnquiries@gmail.com 18+ https://t.co/2RyHF1JlEt",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/2RyHF1JlEt",
+												"expanded_url": "http://gambleaware.co.uk",
+												"display_url": "gambleaware.co.uk",
+												"indices": [
+													79,
+													102
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 160523,
+								"friends_count": 491,
+								"listed_count": 426,
+								"created_at": "Mon Feb 04 18:17:52 +0000 2013",
+								"favourites_count": 21,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 2283,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/901014933181280256/JpY39o3Y_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/901014933181280256/JpY39o3Y_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1148718895/1503653676",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 324703658,
+				"id_str": "324703658",
+				"name": "Rex Chapman🏇🏼",
+				"screen_name": "RexChapman",
+				"location": "Lexington/Phx/Atl ",
+				"description": "I hold the microphone like a grudge",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 274211,
+				"friends_count": 7273,
+				"listed_count": 1169,
+				"created_at": "Mon Jun 27 02:36:27 +0000 2011",
+				"favourites_count": 95683,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 55326,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E21F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/324703658/1539742514",
+				"profile_link_color": "2C12EB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "100D14",
+				"profile_text_color": "EB0E20",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35329,
+			"favorite_count": 130373,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I really miss the old MLB on Fox theme https://t.co/exXSOsNoR0"
+	},
+	{
 		"created_at": "Fri Aug 16 15:20:01 +0000 2019",
 		"id": 1162383518355226600,
 		"id_str": "1162383518355226625",
