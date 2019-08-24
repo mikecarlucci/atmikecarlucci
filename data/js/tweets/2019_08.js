@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 24 01:02:11 +0000 2019",
+		"id": 1165066740772024300,
+		"id_str": "1165066740772024320",
+		"full_text": "https://t.co/bYqVpRCOFX https://t.co/LHs9Fc9YWg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bYqVpRCOFX",
+					"expanded_url": "https://twitter.com/starwars/status/1165066376429486080",
+					"display_url": "twitter.com/starwars/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1165066730672218000,
+					"id_str": "1165066730672218118",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ECsmBM1X4AY2AuE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ECsmBM1X4AY2AuE.jpg",
+					"url": "https://t.co/LHs9Fc9YWg",
+					"display_url": "pic.twitter.com/LHs9Fc9YWg",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1165066740772024320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 452,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 452,
+							"h": 244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165066730672218000,
+					"id_str": "1165066730672218118",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ECsmBM1X4AY2AuE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ECsmBM1X4AY2AuE.jpg",
+					"url": "https://t.co/LHs9Fc9YWg",
+					"display_url": "pic.twitter.com/LHs9Fc9YWg",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1165066740772024320/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 452,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 452,
+							"h": 244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							113,
+							61
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ECsmBM1X4AY2AuE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4524,
+			"friends_count": 719,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 55031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1165066376429486000,
+		"quoted_status_id_str": "1165066376429486080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bYqVpRCOFX",
+			"expanded": "https://twitter.com/starwars/status/1165066376429486080",
+			"display": "twitter.com/starwars/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 24 01:00:44 +0000 2019",
+			"id": 1165066376429486000,
+			"id_str": "1165066376429486080",
+			"full_text": "Hello there! Just announced at #D23Expo: Ewan McGregor will reprise his role as Obi-Wan Kenobi in a new original series, coming to #DisneyPlus. https://t.co/UfMXztiQ6b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "D23Expo",
+						"indices": [
+							31,
+							39
+						]
+					},
+					{
+						"text": "DisneyPlus",
+						"indices": [
+							131,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1165066363271925800,
+						"id_str": "1165066363271925760",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/ECslr0KUUAAtvks.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECslr0KUUAAtvks.jpg",
+						"url": "https://t.co/UfMXztiQ6b",
+						"display_url": "pic.twitter.com/UfMXztiQ6b",
+						"expanded_url": "https://twitter.com/starwars/status/1165066376429486080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1165066363271925800,
+						"id_str": "1165066363271925760",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/ECslr0KUUAAtvks.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECslr0KUUAAtvks.jpg",
+						"url": "https://t.co/UfMXztiQ6b",
+						"display_url": "pic.twitter.com/UfMXztiQ6b",
+						"expanded_url": "https://twitter.com/starwars/status/1165066376429486080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20106852,
+				"id_str": "20106852",
+				"name": "Star Wars",
+				"screen_name": "starwars",
+				"location": "",
+				"description": "The official home of Star Wars on Twitter.",
+				"url": "https://t.co/VXUbBMMsyZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VXUbBMMsyZ",
+								"expanded_url": "http://www.starwars.com",
+								"display_url": "starwars.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4096457,
+				"friends_count": 417,
+				"listed_count": 15486,
+				"created_at": "Wed Feb 04 23:37:44 +0000 2009",
+				"favourites_count": 29858,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36174,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000405",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783419325830934528/7Ad49etX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783419325830934528/7Ad49etX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20106852/1555113506",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F1F4F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12165,
+			"favorite_count": 37332,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/bYqVpRCOFX https://t.co/LHs9Fc9YWg"
+	},
+	{
 		"created_at": "Thu Aug 22 17:54:05 +0000 2019",
 		"id": 1164596616805978000,
 		"id_str": "1164596616805978112",
