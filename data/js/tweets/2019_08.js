@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 22:38:34 +0000 2019",
+		"id": 1167929699550417000,
+		"id_str": "1167929699550416896",
+		"full_text": "https://t.co/fh9N5oTmgu https://t.co/O0dDNJt7OY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fh9N5oTmgu",
+					"expanded_url": "https://twitter.com/StarTrek/status/1167927042559500289",
+					"display_url": "twitter.com/StarTrek/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167929693133136000,
+					"id_str": "1167929693133135872",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDVR3jHU4AAYu0d.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDVR3jHU4AAYu0d.jpg",
+					"url": "https://t.co/O0dDNJt7OY",
+					"display_url": "pic.twitter.com/O0dDNJt7OY",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1167929699550416896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 122,
+							"h": 122,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167929693133136000,
+					"id_str": "1167929693133135872",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDVR3jHU4AAYu0d.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDVR3jHU4AAYu0d.jpg",
+					"url": "https://t.co/O0dDNJt7OY",
+					"display_url": "pic.twitter.com/O0dDNJt7OY",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1167929699550416896/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 122,
+							"h": 122,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							61
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EDVR3jHU4AAYu0d.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4522,
+			"friends_count": 720,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 55217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167927042559500300,
+		"quoted_status_id_str": "1167927042559500289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fh9N5oTmgu",
+			"expanded": "https://twitter.com/StarTrek/status/1167927042559500289",
+			"display": "twitter.com/StarTrek/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 31 22:28:00 +0000 2019",
+			"id": 1167927042559500300,
+			"id_str": "1167927042559500289",
+			"full_text": "#StarTrek ships are now available on @CS_Commander 👍 #gaming  @LucidsightInc \nhttps://t.co/5TE8b2TPj3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StarTrek",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "gaming",
+						"indices": [
+							53,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CS_Commander",
+						"name": "CSC",
+						"id": 979071310620840000,
+						"id_str": "979071310620839936",
+						"indices": [
+							37,
+							50
+						]
+					},
+					{
+						"screen_name": "LucidsightInc",
+						"name": "Lucid Sight",
+						"id": 4813183068,
+						"id_str": "4813183068",
+						"indices": [
+							62,
+							76
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5TE8b2TPj3",
+						"expanded_url": "https://www.startrek.com/news/blockchain-technology-star-trek",
+						"display_url": "startrek.com/news/blockchai…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130491582,
+				"id_str": "130491582",
+				"name": "Star Trek",
+				"screen_name": "StarTrek",
+				"location": "",
+				"description": "Welcome to the OFFICIAL Star Trek Twitter Page!",
+				"url": "https://t.co/bT4AwzfVAN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bT4AwzfVAN",
+								"expanded_url": "http://www.StarTrek.com",
+								"display_url": "StarTrek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 416640,
+				"friends_count": 421,
+				"listed_count": 4096,
+				"created_at": "Wed Apr 07 12:53:57 +0000 2010",
+				"favourites_count": 9698,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30057,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130491582/1560781557",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/fh9N5oTmgu https://t.co/O0dDNJt7OY"
+	},
+	{
 		"created_at": "Fri Aug 30 02:15:38 +0000 2019",
 		"id": 1167259553165127700,
 		"id_str": "1167259553165127681",
