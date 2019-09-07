@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 06 16:51:21 +0000 2019",
+		"id": 1170016650164260900,
+		"id_str": "1170016650164260864",
+		"full_text": "https://t.co/snRnMkMYun https://t.co/SITvsI9Fi8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/snRnMkMYun",
+					"expanded_url": "https://twitter.com/growingwisdom/status/1170013104865992705",
+					"display_url": "twitter.com/growingwisdom/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170016638512455700,
+					"id_str": "1170016638512455681",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDy77wfU4AECpiu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDy77wfU4AECpiu.jpg",
+					"url": "https://t.co/SITvsI9Fi8",
+					"display_url": "pic.twitter.com/SITvsI9Fi8",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1170016650164260864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170016638512455700,
+					"id_str": "1170016638512455681",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDy77wfU4AECpiu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDy77wfU4AECpiu.jpg",
+					"url": "https://t.co/SITvsI9Fi8",
+					"display_url": "pic.twitter.com/SITvsI9Fi8",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1170016650164260864/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 222,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							260,
+							111
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EDy77wfU4AECpiu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4523,
+			"friends_count": 719,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 55390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170013104865992700,
+		"quoted_status_id_str": "1170013104865992705",
+		"quoted_status_permalink": {
+			"url": "https://t.co/snRnMkMYun",
+			"expanded": "https://twitter.com/growingwisdom/status/1170013104865992705",
+			"display": "twitter.com/growingwisdom/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 06 16:37:16 +0000 2019",
+			"id": 1170013104865992700,
+			"id_str": "1170013104865992705",
+			"full_text": "Okay that's depressing.  🦌🎄🎅 https://t.co/lCP6MyWyHF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				28
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1170013097232425000,
+						"id_str": "1170013097232424960",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/EDy4toMX4AAMVEK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDy4toMX4AAMVEK.jpg",
+						"url": "https://t.co/lCP6MyWyHF",
+						"display_url": "pic.twitter.com/lCP6MyWyHF",
+						"expanded_url": "https://twitter.com/growingwisdom/status/1170013104865992705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1170013097232425000,
+						"id_str": "1170013097232424960",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/EDy4toMX4AAMVEK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDy4toMX4AAMVEK.jpg",
+						"url": "https://t.co/lCP6MyWyHF",
+						"display_url": "pic.twitter.com/lCP6MyWyHF",
+						"expanded_url": "https://twitter.com/growingwisdom/status/1170013104865992705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17311077,
+				"id_str": "17311077",
+				"name": "Dave Epstein",
+				"screen_name": "growingwisdom",
+				"location": "Massachusetts/Maine",
+				"description": "Meteorologist/Horticulturist.  Daily weather forecaster @wbur.  Blogger @bostonglobe. Freelance on-air @cbsboston. Proud alum/instructor @colbycollege.",
+				"url": "https://t.co/neTLHf3Z6r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/neTLHf3Z6r",
+								"expanded_url": "http://www.growingwisdom.com",
+								"display_url": "growingwisdom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39582,
+				"friends_count": 371,
+				"listed_count": 900,
+				"created_at": "Tue Nov 11 14:59:24 +0000 2008",
+				"favourites_count": 4211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 38166,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "798040",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1147851602667196417/Xz7Y1DQP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147851602667196417/Xz7Y1DQP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17311077/1361553866",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "E7EB9B",
+				"profile_sidebar_fill_color": "6D3D4D",
+				"profile_text_color": "90BCF4",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 111,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/snRnMkMYun https://t.co/SITvsI9Fi8"
+	},
+	{
 		"created_at": "Thu Sep 05 19:03:17 +0000 2019",
 		"id": 1169687464660758500,
 		"id_str": "1169687464660758528",
