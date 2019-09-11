@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 23:57:44 +0000 2019",
+		"id": 1171573503600025600,
+		"id_str": "1171573503600025601",
+		"full_text": "@lexlanham https://t.co/Xa61Sh4IHf",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lexlanham",
+					"name": "alexandra j. roberts",
+					"id": 22581994,
+					"id_str": "22581994",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171573497325412400,
+					"id_str": "1171573497325412353",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEJD43hX4AEZ9-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEJD43hX4AEZ9-_.jpg",
+					"url": "https://t.co/Xa61Sh4IHf",
+					"display_url": "pic.twitter.com/Xa61Sh4IHf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1171573503600025601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 266,
+							"h": 150,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171573497325412400,
+					"id_str": "1171573497325412353",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEJD43hX4AEZ9-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEJD43hX4AEZ9-_.jpg",
+					"url": "https://t.co/Xa61Sh4IHf",
+					"display_url": "pic.twitter.com/Xa61Sh4IHf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1171573503600025601/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 266,
+							"h": 150,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 150,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							133,
+							75
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EEJD43hX4AEZ9-_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1171540781208703000,
+		"in_reply_to_status_id_str": "1171540781208702976",
+		"in_reply_to_user_id": 22581994,
+		"in_reply_to_user_id_str": "22581994",
+		"in_reply_to_screen_name": "lexlanham",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4525,
+			"friends_count": 719,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 55495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@lexlanham https://t.co/Xa61Sh4IHf"
+	},
+	{
 		"created_at": "Mon Sep 09 22:33:20 +0000 2019",
 		"id": 1171189426980032500,
 		"id_str": "1171189874965274624",
