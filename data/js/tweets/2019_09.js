@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 13:19:09 +0000 2019",
+		"id": 1172499961994309600,
+		"id_str": "1172499961994309632",
+		"full_text": "Yup https://t.co/Ks6wK9bD1a https://t.co/INGgVdsSy1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ks6wK9bD1a",
+					"expanded_url": "https://twitter.com/merriamwebster/status/1172498164257103872",
+					"display_url": "twitter.com/merriamwebster…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1172499953618342000,
+					"id_str": "1172499953618341889",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EEWOfuKVUAERz4n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEWOfuKVUAERz4n.jpg",
+					"url": "https://t.co/INGgVdsSy1",
+					"display_url": "pic.twitter.com/INGgVdsSy1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1172499961994309632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 727,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 727,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172499953618342000,
+					"id_str": "1172499953618341889",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EEWOfuKVUAERz4n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEWOfuKVUAERz4n.jpg",
+					"url": "https://t.co/INGgVdsSy1",
+					"display_url": "pic.twitter.com/INGgVdsSy1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1172499961994309632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 727,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 727,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4523,
+			"friends_count": 719,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 55587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1172498164257104000,
+		"quoted_status_id_str": "1172498164257103872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ks6wK9bD1a",
+			"expanded": "https://twitter.com/merriamwebster/status/1172498164257103872",
+			"display": "twitter.com/merriamwebster…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 13 13:12:00 +0000 2019",
+			"id": 1172498164257104000,
+			"id_str": "1172498164257103872",
+			"full_text": "📈Our favorite Friday the 13th tradition: a spike on searches for 'triskaidekaphobia' (fear of the number 13) https://t.co/j3dxbniMUh https://t.co/Y5hjjz69sZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j3dxbniMUh",
+						"expanded_url": "https://www.merriam-webster.com/dictionary/triskaidekaphobia",
+						"display_url": "merriam-webster.com/dictionary/tri…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1172498065091104800,
+						"id_str": "1172498065091104768",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEWMxy2WkAAFEPg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEWMxy2WkAAFEPg.jpg",
+						"url": "https://t.co/Y5hjjz69sZ",
+						"display_url": "pic.twitter.com/Y5hjjz69sZ",
+						"expanded_url": "https://twitter.com/MerriamWebster/status/1172498164257103872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1172498065091104800,
+						"id_str": "1172498065091104768",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEWMxy2WkAAFEPg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEWMxy2WkAAFEPg.jpg",
+						"url": "https://t.co/Y5hjjz69sZ",
+						"display_url": "pic.twitter.com/Y5hjjz69sZ",
+						"expanded_url": "https://twitter.com/MerriamWebster/status/1172498164257103872/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 366,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								183
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EEWMxy2WkAAFEPg.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97040343,
+				"id_str": "97040343",
+				"name": "Merriam-Webster",
+				"screen_name": "MerriamWebster",
+				"location": "Springfield, MA",
+				"description": "Word of the Day, facts and observations on language, lookup trends, and wordplay from the editors at Merriam-Webster Dictionary.",
+				"url": "https://t.co/vQxcT3e4Iq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vQxcT3e4Iq",
+								"expanded_url": "http://Merriam-Webster.com",
+								"display_url": "Merriam-Webster.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 812966,
+				"friends_count": 702,
+				"listed_count": 6326,
+				"created_at": "Tue Dec 15 19:07:56 +0000 2009",
+				"favourites_count": 10071,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22408,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "355185",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97040343/1535382063",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 169,
+			"favorite_count": 442,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yup https://t.co/Ks6wK9bD1a https://t.co/INGgVdsSy1"
+	},
+	{
 		"created_at": "Thu Sep 12 13:12:43 +0000 2019",
 		"id": 1172135953290256400,
 		"id_str": "1172135953290256384",
