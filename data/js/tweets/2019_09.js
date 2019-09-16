@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 22:04:42 +0000 2019",
+		"id": 1173320936021475300,
+		"id_str": "1173356997821030400",
+		"full_text": "Red Sox catcher Christian Vazquez hit 10 homers in his first 999 career plate appearances from 2014-18. He has 21 blasts in 482 plate appearances this season.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158067020,
+			"id_str": "158067020",
+			"name": "Christopher Smith",
+			"screen_name": "SmittyOnMLB",
+			"location": "Georgetown, MA",
+			"description": "Red Sox reporter at https://t.co/0JhHSIgu0l. @NewhouseSU @SyracuseU. Drummer. Dad of @KayleeSmith0819 I love covering baseball, but football is a better sport",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0JhHSIgu0l",
+							"expanded_url": "http://MassLive.com",
+							"display_url": "MassLive.com",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8551,
+			"friends_count": 2177,
+			"listed_count": 390,
+			"created_at": "Mon Jun 21 17:53:21 +0000 2010",
+			"favourites_count": 8663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170134452854562817/7Nlt17Wb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170134452854562817/7Nlt17Wb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158067020/1568462029",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Red Sox catcher Christian Vazquez hit 10 homers in his first 999 career plate appearances from 2014-18. He has 21 blasts in 482 plate appearances this season."
+	},
+	{
 		"created_at": "Sun Sep 15 02:09:22 +0000 2019",
 		"id": 1173056178827513900,
 		"id_str": "1173056178827513856",
