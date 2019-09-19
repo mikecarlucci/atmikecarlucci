@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 21:03:04 +0000 2019",
+		"id": 1174428650604769300,
+		"id_str": "1174428650604769281",
+		"full_text": "Fun https://t.co/frGHGRqlks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/frGHGRqlks",
+					"expanded_url": "https://twitter.com/mtggoldfish/status/1174426348430987270",
+					"display_url": "twitter.com/mtggoldfish/st…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4521,
+			"friends_count": 719,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 55722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174426348430987300,
+		"quoted_status_id_str": "1174426348430987270",
+		"quoted_status_permalink": {
+			"url": "https://t.co/frGHGRqlks",
+			"expanded": "https://twitter.com/mtggoldfish/status/1174426348430987270",
+			"display": "twitter.com/mtggoldfish/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 18 20:53:55 +0000 2019",
+			"id": 1174426348430987300,
+			"id_str": "1174426348430987270",
+			"full_text": "And a couple more UR card draw archetype uncommons as well. More previews at https://t.co/9ly5HdR4E8 #MTGEldraine\n\nSource: https://t.co/tStELroAif\n🎨: @yozartwork https://t.co/7aOipSyxNq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MTGEldraine",
+						"indices": [
+							101,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "yozartwork",
+						"name": "Johann Bodin",
+						"id": 2542124618,
+						"id_str": "2542124618",
+						"indices": [
+							150,
+							161
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9ly5HdR4E8",
+						"expanded_url": "http://www.mtgpreviews.com",
+						"display_url": "mtgpreviews.com",
+						"indices": [
+							77,
+							100
+						]
+					},
+					{
+						"url": "https://t.co/tStELroAif",
+						"expanded_url": "https://twitter.com/HueyJensen/status/1174420655242010624",
+						"display_url": "twitter.com/HueyJensen/sta…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1174426346761662500,
+						"id_str": "1174426346761662474",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/EExmij2WsAotBso.png",
+						"media_url_https": "https://pbs.twimg.com/media/EExmij2WsAotBso.png",
+						"url": "https://t.co/7aOipSyxNq",
+						"display_url": "pic.twitter.com/7aOipSyxNq",
+						"expanded_url": "https://twitter.com/MTGGoldfish/status/1174426348430987270/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 265,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 265,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 265,
+								"h": 370,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1174426346761662500,
+						"id_str": "1174426346761662474",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/EExmij2WsAotBso.png",
+						"media_url_https": "https://pbs.twimg.com/media/EExmij2WsAotBso.png",
+						"url": "https://t.co/7aOipSyxNq",
+						"display_url": "pic.twitter.com/7aOipSyxNq",
+						"expanded_url": "https://twitter.com/MTGGoldfish/status/1174426348430987270/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 265,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 265,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 265,
+								"h": 370,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1174426346774311000,
+						"id_str": "1174426346774310912",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/EExmij5XsAAC8EK.png",
+						"media_url_https": "https://pbs.twimg.com/media/EExmij5XsAAC8EK.png",
+						"url": "https://t.co/7aOipSyxNq",
+						"display_url": "pic.twitter.com/7aOipSyxNq",
+						"expanded_url": "https://twitter.com/MTGGoldfish/status/1174426348430987270/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 265,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 265,
+								"h": 370,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 265,
+								"h": 370,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.mtggoldfish.com\" rel=\"nofollow\">mtggoldfish - rails</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 585549846,
+				"id_str": "585549846",
+				"name": "MTGGoldfish",
+				"screen_name": "MTGGoldfish",
+				"location": "",
+				"description": "Fast and accurate prices and decks for Magic the Gathering and Magic the Gathering Online.",
+				"url": "http://t.co/qTC68dmX6H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qTC68dmX6H",
+								"expanded_url": "http://www.mtggoldfish.com",
+								"display_url": "mtggoldfish.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60664,
+				"friends_count": 244,
+				"listed_count": 445,
+				"created_at": "Sun May 20 08:00:16 +0000 2012",
+				"favourites_count": 2008,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13992,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572281574326947840/NM8e-RHn_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572281574326947840/NM8e-RHn_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/585549846/1532617904",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1174420655242010600,
+			"quoted_status_id_str": "1174420655242010624",
+			"quoted_status_permalink": {
+				"url": "https://t.co/tStELroAif",
+				"expanded": "https://twitter.com/HueyJensen/status/1174420655242010624",
+				"display": "twitter.com/HueyJensen/sta…"
+			},
+			"retweet_count": 13,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Fun https://t.co/frGHGRqlks"
+	},
+	{
 		"created_at": "Tue Sep 17 11:48:11 +0000 2019",
 		"id": 1173923129107914800,
 		"id_str": "1173926620673036288",
