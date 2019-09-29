@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 23:09:24 +0000 2019",
+		"id": 1178084320608735200,
+		"id_str": "1178084320608735232",
+		"full_text": "Right? If that was the plan for years don't sign Sale and replace Eovaldi with a rental after 2018. \n\nSigh. https://t.co/jcsNtca2Yw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jcsNtca2Yw",
+					"expanded_url": "https://twitter.com/billsimmons/status/1177984538674253825",
+					"display_url": "twitter.com/billsimmons/st…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4522,
+			"friends_count": 719,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177984538674253800,
+		"quoted_status_id_str": "1177984538674253825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jcsNtca2Yw",
+			"expanded": "https://twitter.com/billsimmons/status/1177984538674253825",
+			"display": "twitter.com/billsimmons/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 28 16:32:54 +0000 2019",
+			"id": 1177984538674253800,
+			"id_str": "1177984538674253825",
+			"full_text": "Red Sox owner John Henry spent 68m on Eovaldi last winter and $145m on Chris Sale’s extension in March knowing Mookie’s extension + JD’s opt-out were looming. Now he’s saying, “We need to be under the CBT. That was something we've known for more than a year now.\"\n\nWHAT???",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32765534,
+				"id_str": "32765534",
+				"name": "Bill Simmons",
+				"screen_name": "BillSimmons",
+				"location": "LA (via Boston)",
+				"description": "@HBO + @ringer (CEO) + The BS Podcast https://t.co/MwceMXicPK Past Life: @grantland33/@30for30",
+				"url": "https://t.co/MWZKnULaMn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MWZKnULaMn",
+								"expanded_url": "https://www.theringer.com/bill-simmons",
+								"display_url": "theringer.com/bill-simmons",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MwceMXicPK",
+								"expanded_url": "https://www.theringer.com/the-bill-simmons-podcast",
+								"display_url": "theringer.com/the-bill-simmo…",
+								"indices": [
+									38,
+									61
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5862553,
+				"friends_count": 604,
+				"listed_count": 34687,
+				"created_at": "Sat Apr 18 03:37:31 +0000 2009",
+				"favourites_count": 62,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29166,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/645990884165578753/moYctN8w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/645990884165578753/moYctN8w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32765534/1547448637",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 150,
+			"favorite_count": 1653,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Right? If that was the plan for years don't sign Sale and replace Eovaldi with a rental after 2018. \n\nSigh. https://t.co/jcsNtca2Yw"
+	},
+	{
 		"created_at": "Sat Sep 28 00:24:52 +0000 2019",
 		"id": 1177740923549159400,
 		"id_str": "1177740923549159424",
