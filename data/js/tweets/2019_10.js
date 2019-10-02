@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 01 14:22:55 +0000 2019",
+		"id": 1178957725696290800,
+		"id_str": "1179038990411825157",
+		"full_text": "Win a trip to the Fall Classic 🍁 from #TMobileTuesdays. \n\nRT for a chance to win 2 tickets to Game 1 of the @MLB #WorldSeries🏆 plus hotel and airfare. Enter in the app to double your chances. ⚾️⚾️ #contest",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMobileTuesdays",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"text": "WorldSeries",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "contest",
+					"indices": [
+						197,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MLB",
+					"name": "MLB",
+					"id": 18479513,
+					"id_str": "18479513",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17338082,
+			"id_str": "17338082",
+			"name": "T-Mobile",
+			"screen_name": "TMobile",
+			"location": "",
+			"description": "Living our best Un-carrier life. Going further for customers, nbd. Working to create the most advanced wireless network in history. #AreYouWithUs",
+			"url": "https://t.co/F3n4pb6o0p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F3n4pb6o0p",
+							"expanded_url": "http://www.t-mobile.com",
+							"display_url": "t-mobile.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1178132,
+			"friends_count": 12894,
+			"listed_count": 5468,
+			"created_at": "Wed Nov 12 12:19:14 +0000 2008",
+			"favourites_count": 103722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 492381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167106431973113856/UxvwX3Dd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167106431973113856/UxvwX3Dd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17338082/1567094819",
+			"profile_link_color": "E20075",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24465,
+		"favorite_count": 5734,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Win a trip to the Fall Classic 🍁 from #TMobileTuesdays. \n\nRT for a chance to win 2 tickets to Game 1 of the @MLB #WorldSeries🏆 plus hotel and airfare. Enter in the app to double your chances. ⚾️⚾️ #contest"
+	},
+	{
 		"created_at": "Tue Oct 01 02:40:43 +0000 2019",
 		"id": 1178862274272006100,
 		"id_str": "1178862274272006144",
