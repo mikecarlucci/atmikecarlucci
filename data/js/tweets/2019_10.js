@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 23:14:02 +0000 2019",
+		"id": 1179897425391161300,
+		"id_str": "1179897425391161344",
+		"full_text": "Whoever wrote this bonkers post https://t.co/urFkb7Wc5G https://t.co/gXJqi46obB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/urFkb7Wc5G",
+					"expanded_url": "https://twitter.com/bestofnextdoor/status/1179791562307338240",
+					"display_url": "twitter.com/bestofnextdoor…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179897418550304800,
+					"id_str": "1179897418550304769",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EF_Wc2gXYAEwsvd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EF_Wc2gXYAEwsvd.jpg",
+					"url": "https://t.co/gXJqi46obB",
+					"display_url": "pic.twitter.com/gXJqi46obB",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1179897425391161344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179897418550304800,
+					"id_str": "1179897418550304769",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EF_Wc2gXYAEwsvd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EF_Wc2gXYAEwsvd.jpg",
+					"url": "https://t.co/gXJqi46obB",
+					"display_url": "pic.twitter.com/gXJqi46obB",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1179897425391161344/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EF_Wc2gXYAEwsvd.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4518,
+			"friends_count": 716,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1179791562307338200,
+		"quoted_status_id_str": "1179791562307338240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/urFkb7Wc5G",
+			"expanded": "https://twitter.com/bestofnextdoor/status/1179791562307338240",
+			"display": "twitter.com/bestofnextdoor…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 03 16:13:22 +0000 2019",
+			"id": 1179791562307338200,
+			"id_str": "1179791562307338240",
+			"full_text": "\"Dum Dums, Smarties, and Jolly Ranchers maybe suitable for Ontario, Fontana, and even Montclair... but NOT here in Rancho Cucamonga!\"\n\nWE 👏 ARE 👏 AN 👏 AFFLUENT 👏 NEIGHBORHOOD 👏 AND 👏 OUR 👏 HALLOWEEN 👏 CANDY 👏 SHOULD 👏 REFLECT 👏 THAT 👏 https://t.co/qk7WzCxGMB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1179791556250726400,
+						"id_str": "1179791556250726400",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/EF92K2tUcAAU66P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EF92K2tUcAAU66P.jpg",
+						"url": "https://t.co/qk7WzCxGMB",
+						"display_url": "pic.twitter.com/qk7WzCxGMB",
+						"expanded_url": "https://twitter.com/bestofnextdoor/status/1179791562307338240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 443,
+								"h": 793,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 380,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 443,
+								"h": 793,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1179791556250726400,
+						"id_str": "1179791556250726400",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/EF92K2tUcAAU66P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EF92K2tUcAAU66P.jpg",
+						"url": "https://t.co/qk7WzCxGMB",
+						"display_url": "pic.twitter.com/qk7WzCxGMB",
+						"expanded_url": "https://twitter.com/bestofnextdoor/status/1179791562307338240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 443,
+								"h": 793,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 380,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 443,
+								"h": 793,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 924836857988313100,
+				"id_str": "924836857988313088",
+				"name": "Best of Nextdoor",
+				"screen_name": "bestofnextdoor",
+				"location": "💌: tips@bestofnextdoor.com",
+				"description": "quality neighborhood drama 👀 / not affiliated with nextdoor, obvi 💅🏼 / chief lurker: @jenntakahashi🕵🏻‍♀️",
+				"url": "https://t.co/Rk7XP15srY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Rk7XP15srY",
+								"expanded_url": "http://instagram.com/bestofnextdoor_",
+								"display_url": "instagram.com/bestofnextdoor_",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 279515,
+				"friends_count": 4610,
+				"listed_count": 975,
+				"created_at": "Mon Oct 30 03:14:24 +0000 2017",
+				"favourites_count": 48018,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9216,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1179246859921055746/FMf5h-Pp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179246859921055746/FMf5h-Pp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/924836857988313088/1515580817",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2043,
+			"favorite_count": 10573,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whoever wrote this bonkers post https://t.co/urFkb7Wc5G https://t.co/gXJqi46obB"
+	},
+	{
 		"created_at": "Thu Oct 03 00:24:40 +0000 2019",
 		"id": 1179552812608430000,
 		"id_str": "1179552812608430080",
