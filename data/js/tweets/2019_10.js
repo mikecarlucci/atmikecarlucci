@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 04 11:09:12 +0000 2019",
+		"id": 1180077404217315300,
+		"id_str": "1180077404217315329",
+		"full_text": "https://t.co/qAMHUjZuFP https://t.co/hDBZNYXzjn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qAMHUjZuFP",
+					"expanded_url": "https://twitter.com/growingwisdom/status/1180064595257507840",
+					"display_url": "twitter.com/growingwisdom/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1180077398420836400,
+					"id_str": "1180077398420836352",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGB6JDxXUAAhbzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGB6JDxXUAAhbzk.jpg",
+					"url": "https://t.co/hDBZNYXzjn",
+					"display_url": "pic.twitter.com/hDBZNYXzjn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1180077404217315329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180077398420836400,
+					"id_str": "1180077398420836352",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGB6JDxXUAAhbzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGB6JDxXUAAhbzk.jpg",
+					"url": "https://t.co/hDBZNYXzjn",
+					"display_url": "pic.twitter.com/hDBZNYXzjn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1180077404217315329/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 362,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							181
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EGB6JDxXUAAhbzk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4518,
+			"friends_count": 716,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1180064595257507800,
+		"quoted_status_id_str": "1180064595257507840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qAMHUjZuFP",
+			"expanded": "https://twitter.com/growingwisdom/status/1180064595257507840",
+			"display": "twitter.com/growingwisdom/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 04 10:18:18 +0000 2019",
+			"id": 1180064595257507800,
+			"id_str": "1180064595257507840",
+			"full_text": "I would venture some of these will have a touch of frost in 24 hours. Highly unlikely the mosquitoes are affected by the way. https://t.co/mt4e26ru4N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1180064585656787000,
+						"id_str": "1180064585656786944",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/EGBufQgXYAAjlWt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGBufQgXYAAjlWt.jpg",
+						"url": "https://t.co/mt4e26ru4N",
+						"display_url": "pic.twitter.com/mt4e26ru4N",
+						"expanded_url": "https://twitter.com/growingwisdom/status/1180064595257507840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1180064585656787000,
+						"id_str": "1180064585656786944",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/EGBufQgXYAAjlWt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGBufQgXYAAjlWt.jpg",
+						"url": "https://t.co/mt4e26ru4N",
+						"display_url": "pic.twitter.com/mt4e26ru4N",
+						"expanded_url": "https://twitter.com/growingwisdom/status/1180064595257507840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17311077,
+				"id_str": "17311077",
+				"name": "Dave Epstein",
+				"screen_name": "growingwisdom",
+				"location": "Massachusetts/Maine",
+				"description": "Meteorologist/Horticulturist.  Daily weather forecaster @wbur.  Blogger @bostonglobe. Freelance on-air @cbsboston. Proud alum/instructor @colbycollege.",
+				"url": "https://t.co/neTLHf3Z6r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/neTLHf3Z6r",
+								"expanded_url": "http://www.growingwisdom.com",
+								"display_url": "growingwisdom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39630,
+				"friends_count": 373,
+				"listed_count": 900,
+				"created_at": "Tue Nov 11 14:59:24 +0000 2008",
+				"favourites_count": 4303,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 38461,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "798040",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1147851602667196417/Xz7Y1DQP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147851602667196417/Xz7Y1DQP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17311077/1361553866",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "E7EB9B",
+				"profile_sidebar_fill_color": "6D3D4D",
+				"profile_text_color": "90BCF4",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "cd450c94084cbf9b",
+				"url": "https://api.twitter.com/1.1/geo/id/cd450c94084cbf9b.json",
+				"place_type": "admin",
+				"name": "Massachusetts",
+				"full_name": "Massachusetts, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.508143,
+								41.187054
+							],
+							[
+								-69.858861,
+								41.187054
+							],
+							[
+								-69.858861,
+								42.8868241
+							],
+							[
+								-73.508143,
+								42.8868241
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/qAMHUjZuFP https://t.co/hDBZNYXzjn"
+	},
+	{
 		"created_at": "Thu Oct 03 23:14:02 +0000 2019",
 		"id": 1179897425391161300,
 		"id_str": "1179897425391161344",
@@ -302,7 +712,7 @@ Grailbird.data.tweets_2019_10 =
 				"name": "Best of Nextdoor",
 				"screen_name": "bestofnextdoor",
 				"location": "💌: tips@bestofnextdoor.com",
-				"description": "quality neighborhood drama 👀 / not affiliated with nextdoor, obvi 💅🏼 / chief lurker: @jenntakahashi🕵🏻‍♀️",
+				"description": "quality neighborhood drama 👀 / not affiliated with nextdoor, obvi 💅🏼 / chief lurker: @jenntakahashi🕵🏻♀️",
 				"url": "https://t.co/Rk7XP15srY",
 				"entities": {
 					"url": {
