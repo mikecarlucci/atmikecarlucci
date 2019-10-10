@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 02:21:06 +0000 2019",
+		"id": 1182118831914967000,
+		"id_str": "1182118831914967040",
+		"full_text": "@octonion The Final Sacrifice https://t.co/fm6OIhoqOd",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "octonion",
+					"name": "Christopher D. Long",
+					"id": 77810367,
+					"id_str": "77810367",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1182118826273628200,
+					"id_str": "1182118826273628160",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGe6zzJXYAA5oLQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGe6zzJXYAA5oLQ.jpg",
+					"url": "https://t.co/fm6OIhoqOd",
+					"display_url": "pic.twitter.com/fm6OIhoqOd",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1182118831914967040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182118826273628200,
+					"id_str": "1182118826273628160",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGe6zzJXYAA5oLQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGe6zzJXYAA5oLQ.jpg",
+					"url": "https://t.co/fm6OIhoqOd",
+					"display_url": "pic.twitter.com/fm6OIhoqOd",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1182118831914967040/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EGe6zzJXYAA5oLQ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1182117332686184400,
+		"in_reply_to_status_id_str": "1182117332686184455",
+		"in_reply_to_user_id": 77810367,
+		"in_reply_to_user_id_str": "77810367",
+		"in_reply_to_screen_name": "octonion",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4521,
+			"friends_count": 717,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@octonion The Final Sacrifice https://t.co/fm6OIhoqOd"
+	},
+	{
+		"created_at": "Thu Oct 10 01:55:40 +0000 2019",
+		"id": 1182060410419044400,
+		"id_str": "1182112428324216832",
+		"full_text": "That injury to Chris Martin in Game 1. When he had to leave, Luke Jackson gave up two runs, then Melancon called in for the long save and blew it. In Game 4, Teheran--who replaced Martin on the roster--took the loss. Braves have to be thinking, if only Chris Martin couldplay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14550476,
+			"id_str": "14550476",
+			"name": "Sam Miller",
+			"screen_name": "SamMillerBB",
+			"location": "",
+			"description": "ESPN.",
+			"url": "https://t.co/w7ihEfA0Bn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7ihEfA0Bn",
+							"expanded_url": "http://theonlyruleisithastowork.com",
+							"display_url": "theonlyruleisithastowork.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25507,
+			"friends_count": 77,
+			"listed_count": 1244,
+			"created_at": "Sat Apr 26 19:30:53 +0000 2008",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/686247382/photo16_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/686247382/photo16_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 424,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "That injury to Chris Martin in Game 1. When he had to leave, Luke Jackson gave up two runs, then Melancon called in for the long save and blew it. In Game 4, Teheran--who replaced Martin on the roster--took the loss. Braves have to be thinking, if only Chris Martin couldplay"
+	},
+	{
+		"created_at": "Wed Oct 09 19:57:29 +0000 2019",
+		"id": 1182022291892211700,
+		"id_str": "1182022291892211712",
+		"full_text": "Buy trains, tax roads https://t.co/cc1dWOzW3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cc1dWOzW3C",
+					"expanded_url": "https://twitter.com/wcvb/status/1181578493873790976",
+					"display_url": "twitter.com/wcvb/status/11…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4521,
+			"friends_count": 717,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181578493873791000,
+		"quoted_status_id_str": "1181578493873790976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cc1dWOzW3C",
+			"expanded": "https://twitter.com/wcvb/status/1181578493873790976",
+			"display": "twitter.com/wcvb/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 08 14:34:00 +0000 2019",
+			"id": 1181578493873791000,
+			"id_str": "1181578493873790976",
+			"full_text": "Ridership on the @mbta has declined over the past few years, while the number of registered vehicles on the roads has exploded. We'll look at the trends tonight at 7:30p during \"State of Gridlock\" https://t.co/Bt1dSSMNPX https://t.co/XgyEC7vl39",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MBTA",
+						"name": "MBTA",
+						"id": 150334831,
+						"id_str": "150334831",
+						"indices": [
+							17,
+							22
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Bt1dSSMNPX",
+						"expanded_url": "https://www.wcvb.com/article/tuesday-state-of-gridlock/29372486",
+						"display_url": "wcvb.com/article/tuesda…",
+						"indices": [
+							197,
+							220
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1181240640417517600,
+						"id_str": "1181240640417517569",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/EGScGp5XUAE1mi0.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGScGp5XUAE1mi0.png",
+						"url": "https://t.co/XgyEC7vl39",
+						"display_url": "pic.twitter.com/XgyEC7vl39",
+						"expanded_url": "https://twitter.com/WCVB/status/1181578493873790976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 550,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1181240640417517600,
+						"id_str": "1181240640417517569",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/EGScGp5XUAE1mi0.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGScGp5XUAE1mi0.png",
+						"url": "https://t.co/XgyEC7vl39",
+						"display_url": "pic.twitter.com/XgyEC7vl39",
+						"expanded_url": "https://twitter.com/WCVB/status/1181578493873790976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 550,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1181241073034760200,
+						"id_str": "1181241073034760195",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/EGScf1hWkAMWXHf.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGScf1hWkAMWXHf.png",
+						"url": "https://t.co/XgyEC7vl39",
+						"display_url": "pic.twitter.com/XgyEC7vl39",
+						"expanded_url": "https://twitter.com/WCVB/status/1181578493873790976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 550,
+								"h": 666,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 666,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 666,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21419504,
+				"id_str": "21419504",
+				"name": "WCVB-TV Boston",
+				"screen_name": "WCVB",
+				"location": "Boston, MA",
+				"description": "Real time updates from Boston's News Leader: WCVB NewsCenter 5",
+				"url": "http://t.co/ntLtMGD1n8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ntLtMGD1n8",
+								"expanded_url": "http://www.wcvb.com",
+								"display_url": "wcvb.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 281179,
+				"friends_count": 971,
+				"listed_count": 2977,
+				"created_at": "Fri Feb 20 18:23:59 +0000 2009",
+				"favourites_count": 4071,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 444854,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001943",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878418011673305089/v4cspBAl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878418011673305089/v4cspBAl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21419504/1560395685",
+				"profile_link_color": "EB1C24",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buy trains, tax roads https://t.co/cc1dWOzW3C"
+	},
+	{
 		"created_at": "Tue Oct 08 23:09:21 +0000 2019",
 		"id": 1181708187805896700,
 		"id_str": "1181708187805896704",
