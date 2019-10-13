@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 17:32:10 +0000 2019",
+		"id": 1183072883955904500,
+		"id_str": "1183072883955904513",
+		"full_text": "That'd be worth the chaos https://t.co/jIqXao0CPo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jIqXao0CPo",
+					"expanded_url": "https://twitter.com/redsoxstats/status/1182772433356505088",
+					"display_url": "twitter.com/redsoxstats/st…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4519,
+			"friends_count": 717,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182772433356505000,
+		"quoted_status_id_str": "1182772433356505088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jIqXao0CPo",
+			"expanded": "https://twitter.com/redsoxstats/status/1182772433356505088",
+			"display": "twitter.com/redsoxstats/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 11 21:38:17 +0000 2019",
+			"id": 1182772433356505000,
+			"id_str": "1182772433356505088",
+			"full_text": "Just beautiful coverage from everyone https://t.co/mkGZXyzKbP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1182772422895911000,
+						"id_str": "1182772422895910918",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/EGoNQITWwAYGsio.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGoNQITWwAYGsio.png",
+						"url": "https://t.co/mkGZXyzKbP",
+						"display_url": "pic.twitter.com/mkGZXyzKbP",
+						"expanded_url": "https://twitter.com/redsoxstats/status/1182772433356505088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 418,
+								"h": 175,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 418,
+								"h": 175,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 418,
+								"h": 175,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1182772422895911000,
+						"id_str": "1182772422895910918",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/EGoNQITWwAYGsio.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGoNQITWwAYGsio.png",
+						"url": "https://t.co/mkGZXyzKbP",
+						"display_url": "pic.twitter.com/mkGZXyzKbP",
+						"expanded_url": "https://twitter.com/redsoxstats/status/1182772433356505088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 418,
+								"h": 175,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 418,
+								"h": 175,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 418,
+								"h": 175,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1182772422975676400,
+						"id_str": "1182772422975676421",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/EGoNQImX4AUvrVL.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGoNQImX4AUvrVL.png",
+						"url": "https://t.co/mkGZXyzKbP",
+						"display_url": "pic.twitter.com/mkGZXyzKbP",
+						"expanded_url": "https://twitter.com/redsoxstats/status/1182772433356505088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 677,
+								"h": 204,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 677,
+								"h": 204,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 677,
+								"h": 204,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1182772422967283700,
+						"id_str": "1182772422967283712",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/EGoNQIkX0AAkQTa.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGoNQIkX0AAkQTa.png",
+						"url": "https://t.co/mkGZXyzKbP",
+						"display_url": "pic.twitter.com/mkGZXyzKbP",
+						"expanded_url": "https://twitter.com/redsoxstats/status/1182772433356505088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 635,
+								"h": 425,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 635,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 635,
+								"h": 425,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1182772422958833700,
+						"id_str": "1182772422958833666",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/EGoNQIiW4AIn9T2.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGoNQIiW4AIn9T2.png",
+						"url": "https://t.co/mkGZXyzKbP",
+						"display_url": "pic.twitter.com/mkGZXyzKbP",
+						"expanded_url": "https://twitter.com/redsoxstats/status/1182772433356505088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 372,
+								"h": 216,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 372,
+								"h": 216,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 372,
+								"h": 216,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 114221975,
+				"id_str": "114221975",
+				"name": "Red Sox Stats",
+				"screen_name": "redsoxstats",
+				"location": "",
+				"description": "Small sample sizes and Mark Bellhorn facts. A few Pats and Celts thoughts as well.",
+				"url": "https://t.co/HELgXni14Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HELgXni14Q",
+								"expanded_url": "http://www.redsoxstats.com",
+								"display_url": "redsoxstats.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30353,
+				"friends_count": 55,
+				"listed_count": 719,
+				"created_at": "Sun Feb 14 15:59:16 +0000 2010",
+				"favourites_count": 94,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7392,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E1E8ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616504945756504064/tD9W3Hg-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616504945756504064/tD9W3Hg-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/114221975/1555044835",
+				"profile_link_color": "4A79B7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C2C2C2",
+				"profile_text_color": "636363",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 330,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That'd be worth the chaos https://t.co/jIqXao0CPo"
+	},
+	{
 		"created_at": "Sat Oct 12 02:56:49 +0000 2019",
 		"id": 1182852596077355000,
 		"id_str": "1182852596077355014",
