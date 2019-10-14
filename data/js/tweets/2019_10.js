@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 13 23:17:54 +0000 2019",
+		"id": 1183522279944347600,
+		"id_str": "1183522279944347648",
+		"full_text": "Crossover! https://t.co/Em7V5ejzdy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Em7V5ejzdy",
+					"expanded_url": "https://twitter.com/wiki_tmnt/status/1183518106087505928",
+					"display_url": "twitter.com/wiki_tmnt/stat…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4519,
+			"friends_count": 717,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183518106087506000,
+		"quoted_status_id_str": "1183518106087505928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Em7V5ejzdy",
+			"expanded": "https://twitter.com/wiki_tmnt/status/1183518106087505928",
+			"display": "twitter.com/wiki_tmnt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 13 23:01:19 +0000 2019",
+			"id": 1183518106087506000,
+			"id_str": "1183518106087505928",
+			"full_text": "Country Bear Vacation Hoedown\nhttps://t.co/7DkG1Zsxga https://t.co/aPffnVYuAD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7DkG1Zsxga",
+						"expanded_url": "https://en.wikipedia.org/wiki/Country_Bear_Vacation_Hoedown",
+						"display_url": "en.wikipedia.org/wiki/Country_B…",
+						"indices": [
+							30,
+							53
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1183518104732786700,
+						"id_str": "1183518104732786688",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/EGyzchnXYAA6MeI.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGyzchnXYAA6MeI.png",
+						"url": "https://t.co/aPffnVYuAD",
+						"display_url": "pic.twitter.com/aPffnVYuAD",
+						"expanded_url": "https://twitter.com/wiki_tmnt/status/1183518106087505928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 585,
+								"h": 307,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 585,
+								"h": 307,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 585,
+								"h": 307,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183518104732786700,
+						"id_str": "1183518104732786688",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/EGyzchnXYAA6MeI.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGyzchnXYAA6MeI.png",
+						"url": "https://t.co/aPffnVYuAD",
+						"display_url": "pic.twitter.com/aPffnVYuAD",
+						"expanded_url": "https://twitter.com/wiki_tmnt/status/1183518106087505928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 585,
+								"h": 307,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 585,
+								"h": 307,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 585,
+								"h": 307,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/catleeball/tmnt_wikipedia_bot\" rel=\"nofollow\">TMNT Wiki Title Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1138626066648424400,
+				"id_str": "1138626066648424448",
+				"name": "Wiki Titles Singable to TMNT Themesong",
+				"screen_name": "wiki_tmnt",
+				"location": "The Sewers",
+				"description": "Bot that posts hourly Wiki titles that you can sing to the TMNT song! Concept: https://t.co/XcKxZrz7iO Logos: https://t.co/Mt2UUfAyVe Bot by @__eel__",
+				"url": "https://t.co/69tdHnnPRV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/69tdHnnPRV",
+								"expanded_url": "https://github.com/catleeball/tmnt_wikipedia_bot/",
+								"display_url": "github.com/catleeball/tmn…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XcKxZrz7iO",
+								"expanded_url": "https://xkcd.com/1412",
+								"display_url": "xkcd.com/1412",
+								"indices": [
+									79,
+									102
+								]
+							},
+							{
+								"url": "https://t.co/Mt2UUfAyVe",
+								"expanded_url": "http://glench.com/tmnt",
+								"display_url": "glench.com/tmnt",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 40148,
+				"friends_count": 1,
+				"listed_count": 143,
+				"created_at": "Wed Jun 12 01:56:23 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3158,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1138626153424408576/GosXfwQ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138626153424408576/GosXfwQ7_normal.jpg",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 234,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Crossover! https://t.co/Em7V5ejzdy"
+	},
+	{
+		"created_at": "Sun Oct 13 19:53:54 +0000 2019",
+		"id": 1183470938970640400,
+		"id_str": "1183470938970640384",
+		"full_text": "@CubeApril Goblin flavor text isn’t funny",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CubeApril",
+					"name": "April King",
+					"id": 816069769577173000,
+					"id_str": "816069769577172992",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1183463336933052400,
+		"in_reply_to_status_id_str": "1183463336933052419",
+		"in_reply_to_user_id": 816069769577173000,
+		"in_reply_to_user_id_str": "816069769577172992",
+		"in_reply_to_screen_name": "CubeApril",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4519,
+			"friends_count": 717,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CubeApril Goblin flavor text isn’t funny"
+	},
+	{
 		"created_at": "Sat Oct 12 17:32:10 +0000 2019",
 		"id": 1183072883955904500,
 		"id_str": "1183072883955904513",
