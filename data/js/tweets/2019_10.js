@@ -1,6 +1,1268 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 21:03:07 +0000 2019",
+		"id": 1183850744983773200,
+		"id_str": "1183850744983773185",
+		"full_text": "https://t.co/7QBreES6s5 https://t.co/QtwvrYqq6j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7QBreES6s5",
+					"expanded_url": "https://twitter.com/jason1749/status/1183816282258497537",
+					"display_url": "twitter.com/jason1749/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1183850734988746800,
+					"id_str": "1183850734988746752",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EG3h-J4W4AABNUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EG3h-J4W4AABNUo.jpg",
+					"url": "https://t.co/QtwvrYqq6j",
+					"display_url": "pic.twitter.com/QtwvrYqq6j",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1183850744983773185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 236,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183850734988746800,
+					"id_str": "1183850734988746752",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EG3h-J4W4AABNUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EG3h-J4W4AABNUo.jpg",
+					"url": "https://t.co/QtwvrYqq6j",
+					"display_url": "pic.twitter.com/QtwvrYqq6j",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1183850744983773185/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 236,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 236,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							118
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EG3h-J4W4AABNUo.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4520,
+			"friends_count": 718,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183816282258497500,
+		"quoted_status_id_str": "1183816282258497537",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7QBreES6s5",
+			"expanded": "https://twitter.com/jason1749/status/1183816282258497537",
+			"display": "twitter.com/jason1749/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 14 18:46:10 +0000 2019",
+			"id": 1183816282258497500,
+			"id_str": "1183816282258497537",
+			"full_text": "So glad to see my favorite films on Disney+ https://t.co/pa8feyrxxw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1183816274444542000,
+						"id_str": "1183816274444541952",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EG3CoSWX4AAtxyc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG3CoSWX4AAtxyc.jpg",
+						"url": "https://t.co/pa8feyrxxw",
+						"display_url": "pic.twitter.com/pa8feyrxxw",
+						"expanded_url": "https://twitter.com/jason1749/status/1183816282258497537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 513,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 513,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 513,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183816274444542000,
+						"id_str": "1183816274444541952",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EG3CoSWX4AAtxyc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG3CoSWX4AAtxyc.jpg",
+						"url": "https://t.co/pa8feyrxxw",
+						"display_url": "pic.twitter.com/pa8feyrxxw",
+						"expanded_url": "https://twitter.com/jason1749/status/1183816282258497537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 513,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 513,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 513,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1183816274662625300,
+						"id_str": "1183816274662625280",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EG3CoTKXkAABzS0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG3CoTKXkAABzS0.jpg",
+						"url": "https://t.co/pa8feyrxxw",
+						"display_url": "pic.twitter.com/pa8feyrxxw",
+						"expanded_url": "https://twitter.com/jason1749/status/1183816282258497537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 511,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 511,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 511,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1183816276562587600,
+						"id_str": "1183816276562587648",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EG3CoaPWsAAobxa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG3CoaPWsAAobxa.jpg",
+						"url": "https://t.co/pa8feyrxxw",
+						"display_url": "pic.twitter.com/pa8feyrxxw",
+						"expanded_url": "https://twitter.com/jason1749/status/1183816282258497537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 546,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 546,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 546,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1183816276562583600,
+						"id_str": "1183816276562583552",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EG3CoaPWoAACOc-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG3CoaPWoAACOc-.jpg",
+						"url": "https://t.co/pa8feyrxxw",
+						"display_url": "pic.twitter.com/pa8feyrxxw",
+						"expanded_url": "https://twitter.com/jason1749/status/1183816282258497537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 515,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 515,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 515,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7000002,
+				"id_str": "7000002",
+				"name": "Chewbacca Was The Doctor",
+				"screen_name": "jason1749",
+				"location": "The Expanding Tiger Empire",
+				"description": "dry land is a myth // avi by Daniel Butler",
+				"url": "https://t.co/iCKmhBMQRI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iCKmhBMQRI",
+								"expanded_url": "http://phoning-it-in.tumblr.com",
+								"display_url": "phoning-it-in.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1475,
+				"friends_count": 1309,
+				"listed_count": 72,
+				"created_at": "Thu Jun 21 17:19:51 +0000 2007",
+				"favourites_count": 100551,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 264198,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1169821054031654913/TBCIUVvh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169821054031654913/TBCIUVvh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7000002/1568514338",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1228,
+			"favorite_count": 3158,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/7QBreES6s5 https://t.co/QtwvrYqq6j"
+	},
+	{
+		"created_at": "Mon Oct 14 16:07:07 +0000 2019",
+		"id": 1183776254547419100,
+		"id_str": "1183776254547419136",
+		"full_text": "No one told me it was The Italian Job day https://t.co/6VhVyBr9hL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183776225074040800,
+					"id_str": "1183776225074040835",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EG2eNG0XUAMhKEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG2eNG0XUAMhKEj.jpg",
+					"url": "https://t.co/6VhVyBr9hL",
+					"display_url": "pic.twitter.com/6VhVyBr9hL",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1183776254547419136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183776225074040800,
+					"id_str": "1183776225074040835",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EG2eNG0XUAMhKEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG2eNG0XUAMhKEj.jpg",
+					"url": "https://t.co/6VhVyBr9hL",
+					"display_url": "pic.twitter.com/6VhVyBr9hL",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1183776254547419136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4520,
+			"friends_count": 718,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No one told me it was The Italian Job day https://t.co/6VhVyBr9hL"
+	},
+	{
+		"created_at": "Mon Oct 14 14:06:33 +0000 2019",
+		"id": 1183745912872624000,
+		"id_str": "1183745912872624128",
+		"full_text": "cc: @ozminute https://t.co/aFxS3tEmkV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ozminute",
+					"name": "Return to Oz Minute",
+					"id": 805783012961124400,
+					"id_str": "805783012961124352",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aFxS3tEmkV",
+					"expanded_url": "https://twitter.com/disneyplus/status/1183721457634820096",
+					"display_url": "twitter.com/disneyplus/sta…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4520,
+			"friends_count": 718,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183721457634820000,
+		"quoted_status_id_str": "1183721457634820096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aFxS3tEmkV",
+			"expanded": "https://twitter.com/disneyplus/status/1183721457634820096",
+			"display": "twitter.com/disneyplus/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 14 12:29:22 +0000 2019",
+			"id": 1183721457634820000,
+			"id_str": "1183721457634820096",
+			"full_text": "Return to Oz (1985) https://t.co/xetFz25qqr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				19
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1183721450370261000,
+						"id_str": "1183721450370260992",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/EG1sYzJUYAA13OK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG1sYzJUYAA13OK.jpg",
+						"url": "https://t.co/xetFz25qqr",
+						"display_url": "pic.twitter.com/xetFz25qqr",
+						"expanded_url": "https://twitter.com/disneyplus/status/1183721457634820096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183721450370261000,
+						"id_str": "1183721450370260992",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/EG1sYzJUYAA13OK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG1sYzJUYAA13OK.jpg",
+						"url": "https://t.co/xetFz25qqr",
+						"display_url": "pic.twitter.com/xetFz25qqr",
+						"expanded_url": "https://twitter.com/disneyplus/status/1183721457634820096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1183721448138895400,
+			"in_reply_to_status_id_str": "1183721448138895361",
+			"in_reply_to_user_id": 985916593065476100,
+			"in_reply_to_user_id_str": "985916593065476096",
+			"in_reply_to_screen_name": "disneyplus",
+			"user": {
+				"id": 985916593065476100,
+				"id_str": "985916593065476096",
+				"name": "Disney+",
+				"screen_name": "disneyplus",
+				"location": "",
+				"description": "@Disney + @Pixar + @Marvel + @StarWars + @NatGeo = 🤯 Start Streaming November 12 in the US and Pre-Order #DisneyPlus Now at https://t.co/iCEzQ9prIj",
+				"url": "https://t.co/V4haG0mCB5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V4haG0mCB5",
+								"expanded_url": "http://di.sn/6005EfmR7",
+								"display_url": "di.sn/6005EfmR7",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iCEzQ9prIj",
+								"expanded_url": "http://DisneyPlus.com",
+								"display_url": "DisneyPlus.com",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 493452,
+				"friends_count": 82,
+				"listed_count": 865,
+				"created_at": "Mon Apr 16 16:23:28 +0000 2018",
+				"favourites_count": 113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1163500173856661504/L7FiCkjY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163500173856661504/L7FiCkjY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985916593065476096/1566216871",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 211,
+			"favorite_count": 2386,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc: @ozminute https://t.co/aFxS3tEmkV"
+	},
+	{
+		"created_at": "Mon Oct 14 14:04:48 +0000 2019",
+		"id": 1183745473942872000,
+		"id_str": "1183745473942872066",
+		"full_text": "Knowing how little a million dollars is when buying a mansion with a racetrack is adulting https://t.co/yZ08Q5r80z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yZ08Q5r80z",
+					"expanded_url": "https://twitter.com/disneyplus/status/1183724416758235138",
+					"display_url": "twitter.com/disneyplus/sta…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4520,
+			"friends_count": 718,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183724416758235100,
+		"quoted_status_id_str": "1183724416758235138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yZ08Q5r80z",
+			"expanded": "https://twitter.com/disneyplus/status/1183724416758235138",
+			"display": "twitter.com/disneyplus/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 14 12:41:08 +0000 2019",
+			"id": 1183724416758235100,
+			"id_str": "1183724416758235138",
+			"full_text": "Blank Check (1994) https://t.co/ckKHZO7A3K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				18
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1183724409472741400,
+						"id_str": "1183724409472741378",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/EG1vFCqU8AItWzE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG1vFCqU8AItWzE.jpg",
+						"url": "https://t.co/ckKHZO7A3K",
+						"display_url": "pic.twitter.com/ckKHZO7A3K",
+						"expanded_url": "https://twitter.com/disneyplus/status/1183724416758235138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183724409472741400,
+						"id_str": "1183724409472741378",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/EG1vFCqU8AItWzE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG1vFCqU8AItWzE.jpg",
+						"url": "https://t.co/ckKHZO7A3K",
+						"display_url": "pic.twitter.com/ckKHZO7A3K",
+						"expanded_url": "https://twitter.com/disneyplus/status/1183724416758235138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1183724407547580400,
+			"in_reply_to_status_id_str": "1183724407547580416",
+			"in_reply_to_user_id": 985916593065476100,
+			"in_reply_to_user_id_str": "985916593065476096",
+			"in_reply_to_screen_name": "disneyplus",
+			"user": {
+				"id": 985916593065476100,
+				"id_str": "985916593065476096",
+				"name": "Disney+",
+				"screen_name": "disneyplus",
+				"location": "",
+				"description": "@Disney + @Pixar + @Marvel + @StarWars + @NatGeo = 🤯 Start Streaming November 12 in the US and Pre-Order #DisneyPlus Now at https://t.co/iCEzQ9prIj",
+				"url": "https://t.co/V4haG0mCB5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V4haG0mCB5",
+								"expanded_url": "http://di.sn/6005EfmR7",
+								"display_url": "di.sn/6005EfmR7",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iCEzQ9prIj",
+								"expanded_url": "http://DisneyPlus.com",
+								"display_url": "DisneyPlus.com",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 493452,
+				"friends_count": 82,
+				"listed_count": 865,
+				"created_at": "Mon Apr 16 16:23:28 +0000 2018",
+				"favourites_count": 113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1163500173856661504/L7FiCkjY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163500173856661504/L7FiCkjY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985916593065476096/1566216871",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 535,
+			"favorite_count": 2890,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Knowing how little a million dollars is when buying a mansion with a racetrack is adulting https://t.co/yZ08Q5r80z"
+	},
+	{
 		"created_at": "Sun Oct 13 23:17:54 +0000 2019",
 		"id": 1183522279944347600,
 		"id_str": "1183522279944347648",
