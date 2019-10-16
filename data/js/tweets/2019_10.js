@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 19:04:29 +0000 2019",
+		"id": 1184183278376407000,
+		"id_str": "1184183278376407040",
+		"full_text": "Cozy https://t.co/9rsNVV9gpi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9rsNVV9gpi",
+					"expanded_url": "https://twitter.com/atlasobscura/status/1184134373274275840",
+					"display_url": "twitter.com/atlasobscura/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4519,
+			"friends_count": 719,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 56748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184134373274275800,
+		"quoted_status_id_str": "1184134373274275840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9rsNVV9gpi",
+			"expanded": "https://twitter.com/atlasobscura/status/1184134373274275840",
+			"display": "twitter.com/atlasobscura/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 15 15:50:09 +0000 2019",
+			"id": 1184134373274275800,
+			"id_str": "1184134373274275840",
+			"full_text": "Hunched with paws together as if in prayer or genuflection, they bestow a kind of sylvan sanctity on the chalet. https://t.co/96mzOcjo1N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/96mzOcjo1N",
+						"expanded_url": "https://trib.al/vP3Thqf",
+						"display_url": "trib.al/vP3Thqf",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57047586,
+				"id_str": "57047586",
+				"name": "Atlas Obscura",
+				"screen_name": "atlasobscura",
+				"location": "Everywhere",
+				"description": "The definitive guide to the world's hidden wonders.",
+				"url": "http://t.co/eRquXCISa8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eRquXCISa8",
+								"expanded_url": "http://atlasobscura.com",
+								"display_url": "atlasobscura.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 406654,
+				"friends_count": 3366,
+				"listed_count": 5230,
+				"created_at": "Wed Jul 15 15:33:08 +0000 2009",
+				"favourites_count": 20595,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 60606,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093601394022600704/J6QnZxnP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093601394022600704/J6QnZxnP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57047586/1569941652",
+				"profile_link_color": "CCB48D",
+				"profile_sidebar_border_color": "4F6D85",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cozy https://t.co/9rsNVV9gpi"
+	},
+	{
 		"created_at": "Mon Oct 14 21:03:07 +0000 2019",
 		"id": 1183850744983773200,
 		"id_str": "1183850744983773185",
