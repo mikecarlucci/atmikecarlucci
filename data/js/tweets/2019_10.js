@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 02:49:40 +0000 2019",
+		"id": 1185019653560647700,
+		"id_str": "1185025123566477314",
+		"full_text": "Tell me more about avocado toast https://t.co/o0G4FRCLgi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o0G4FRCLgi",
+					"expanded_url": "https://twitter.com/NBCNews/status/1185015904150720512",
+					"display_url": "twitter.com/NBCNews/status…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168322664,
+			"id_str": "168322664",
+			"name": "ＰＩＥ",
+			"screen_name": "5GrootsPie",
+			"location": "",
+			"description": "I am 5 Groots. Pie.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1252,
+			"friends_count": 902,
+			"listed_count": 88,
+			"created_at": "Mon Jul 19 01:27:58 +0000 2010",
+			"favourites_count": 2056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/562403595350315008/rWRCFq8w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/562403595350315008/rWRCFq8w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168322664/1422922535",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185015904150720500,
+		"quoted_status_id_str": "1185015904150720512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o0G4FRCLgi",
+			"expanded": "https://twitter.com/NBCNews/status/1185015904150720512",
+			"display": "twitter.com/NBCNews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 02:13:02 +0000 2019",
+			"id": 1185015904150720500,
+			"id_str": "1185015904150720512",
+			"full_text": "Sallie Mae flies more than 100 employees to Hawaii to celebrate $5B in sales while student debt crisis tops $1.6T. https://t.co/0MuIVB1r5F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0MuIVB1r5F",
+						"expanded_url": "https://nbcnews.to/32pISZH",
+						"display_url": "nbcnews.to/32pISZH",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14173315,
+				"id_str": "14173315",
+				"name": "NBC News",
+				"screen_name": "NBCNews",
+				"location": "New York, NY",
+				"description": "The leading source of global news and info for more than 75 years. Our new free streaming service: @NBCNewsNow",
+				"url": "https://t.co/Z73is4fJ3x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z73is4fJ3x",
+								"expanded_url": "http://NBCNews.com",
+								"display_url": "NBCNews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6849216,
+				"friends_count": 1762,
+				"listed_count": 42101,
+				"created_at": "Tue Mar 18 23:19:17 +0000 2008",
+				"favourites_count": 768,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 228019,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "062131",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1564408207",
+				"profile_link_color": "5172A0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 138,
+			"favorite_count": 145,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tell me more about avocado toast https://t.co/o0G4FRCLgi"
+	},
+	{
 		"created_at": "Wed Oct 16 22:14:50 +0000 2019",
 		"id": 1184519466631061500,
 		"id_str": "1184593569367150594",
