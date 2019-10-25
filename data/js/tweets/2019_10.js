@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 24 18:00:44 +0000 2019",
+		"id": 1187174022972346400,
+		"id_str": "1187428725509386240",
+		"full_text": "🏆 I got an award today! https://t.co/J2ocqfZj2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1187174014055260200,
+					"id_str": "1187174014055260161",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EHmwedJWoAEBglX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHmwedJWoAEBglX.jpg",
+					"url": "https://t.co/J2ocqfZj2P",
+					"display_url": "pic.twitter.com/J2ocqfZj2P",
+					"expanded_url": "https://twitter.com/LucyKnisley/status/1187174022972346368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 997,
+							"h": 807,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 997,
+							"h": 807,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187174014055260200,
+					"id_str": "1187174014055260161",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EHmwedJWoAEBglX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHmwedJWoAEBglX.jpg",
+					"url": "https://t.co/J2ocqfZj2P",
+					"display_url": "pic.twitter.com/J2ocqfZj2P",
+					"expanded_url": "https://twitter.com/LucyKnisley/status/1187174022972346368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 997,
+							"h": 807,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 997,
+							"h": 807,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17053,
+			"id_str": "17053",
+			"name": "Lucy Knisley",
+			"screen_name": "LucyKnisley",
+			"location": "Chicago, IL",
+			"description": "Author/artist of graphic novels; Relish, French Milk, Displacement, An Age of License, Something New, and my latest, (NYT bestseller) KID GLOVES! (she/her)",
+			"url": "https://t.co/g8HZn1GX2s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g8HZn1GX2s",
+							"expanded_url": "http://LucyKnisley.com",
+							"display_url": "LucyKnisley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37447,
+			"friends_count": 537,
+			"listed_count": 807,
+			"created_at": "Thu Nov 23 04:16:59 +0000 2006",
+			"favourites_count": 11184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000489567852/ecb860c1a873a79d5baf14474c5acaca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000489567852/ecb860c1a873a79d5baf14474c5acaca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17053/1552939348",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 752,
+		"favorite_count": 6500,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏆 I got an award today! https://t.co/J2ocqfZj2P"
+	},
+	{
 		"created_at": "Wed Oct 23 19:52:36 +0000 2019",
 		"id": 1187094491259228200,
 		"id_str": "1187094491259228160",
