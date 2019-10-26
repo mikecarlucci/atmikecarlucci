@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 22:50:53 +0000 2019",
+		"id": 1187864132479062000,
+		"id_str": "1187864132479062018",
+		"full_text": "Very excited https://t.co/3SHbfpZLlY https://t.co/ItuxiB0OFj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3SHbfpZLlY",
+					"expanded_url": "https://twitter.com/alexspeier/status/1187838318987431937",
+					"display_url": "twitter.com/alexspeier/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187864121938714600,
+					"id_str": "1187864121938714624",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EHwkIBWWoAAQ1oN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHwkIBWWoAAQ1oN.jpg",
+					"url": "https://t.co/ItuxiB0OFj",
+					"display_url": "pic.twitter.com/ItuxiB0OFj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1187864132479062018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 200,
+							"h": 216,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 216,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187864121938714600,
+					"id_str": "1187864121938714624",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EHwkIBWWoAAQ1oN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHwkIBWWoAAQ1oN.jpg",
+					"url": "https://t.co/ItuxiB0OFj",
+					"display_url": "pic.twitter.com/ItuxiB0OFj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1187864132479062018/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 200,
+							"h": 216,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 216,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							27
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EHwkIBWWoAAQ1oN.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4521,
+			"friends_count": 719,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 57126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187838318987432000,
+		"quoted_status_id_str": "1187838318987431937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3SHbfpZLlY",
+			"expanded": "https://twitter.com/alexspeier/status/1187838318987431937",
+			"display": "twitter.com/alexspeier/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 25 21:08:18 +0000 2019",
+			"id": 1187838318987432000,
+			"id_str": "1187838318987431937",
+			"full_text": "Major League source confirms report from .@Joelsherman1: Chaim Bloom has been hired by the Red Sox. More on Bloom’s rise with the Rays and why he seemed like a natural fit for this time in the Red Sox org https://t.co/63KZtnXd57",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Joelsherman1",
+						"name": "Joel Sherman",
+						"id": 41591898,
+						"id_str": "41591898",
+						"indices": [
+							42,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/63KZtnXd57",
+						"expanded_url": "https://www.bostonglobe.com/sports/redsox/2019/10/24/red-sox-interview-chaim-bloom/H3qdKCTizaIWicTU1gp4MO/story.html",
+						"display_url": "bostonglobe.com/sports/redsox/…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45027357,
+				"id_str": "45027357",
+				"name": "Alex Speier",
+				"screen_name": "alexspeier",
+				"location": "To preorder “Homegrown” (8/13)",
+				"description": "Sports Writer, Boston Globe; author of “Homegrown” (coming 8/13 from William Morrow Books, an imprint of Harper Collins); moonlights on NESN as Stat Masterson",
+				"url": "https://t.co/n7ljJciqAK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n7ljJciqAK",
+								"expanded_url": "https://www.harpercollins.com/9780062943552/homegrown/",
+								"display_url": "harpercollins.com/9780062943552/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62129,
+				"friends_count": 960,
+				"listed_count": 2251,
+				"created_at": "Fri Jun 05 23:23:05 +0000 2009",
+				"favourites_count": 1645,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39799,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1A1A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827632389023227905/9C0ClX9K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827632389023227905/9C0ClX9K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45027357/1561753028",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 176,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very excited https://t.co/3SHbfpZLlY https://t.co/ItuxiB0OFj"
+	},
+	{
+		"created_at": "Fri Oct 25 14:00:30 +0000 2019",
+		"id": 1187730656484311000,
+		"id_str": "1187730656484311041",
+		"full_text": "All Gold Glove outfield? Maybe! https://t.co/hEN6rAZ1VY https://t.co/uQI74ZohF0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hEN6rAZ1VY",
+					"expanded_url": "https://www.overthemonster.com/2019/10/25/20932016/good-luck-guys?utm_campaign=overthemonster&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2019/10/25/209…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187730655167336400,
+					"id_str": "1187730655167336453",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EHuqvO4XUAUrJie.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHuqvO4XUAUrJie.png",
+					"url": "https://t.co/uQI74ZohF0",
+					"display_url": "pic.twitter.com/uQI74ZohF0",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1187730656484311041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 469,
+							"h": 369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 469,
+							"h": 369,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 469,
+							"h": 369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187730655167336400,
+					"id_str": "1187730655167336453",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EHuqvO4XUAUrJie.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHuqvO4XUAUrJie.png",
+					"url": "https://t.co/uQI74ZohF0",
+					"display_url": "pic.twitter.com/uQI74ZohF0",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1187730656484311041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 469,
+							"h": 369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 469,
+							"h": 369,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 469,
+							"h": 369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4521,
+			"friends_count": 719,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 57126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All Gold Glove outfield? Maybe! https://t.co/hEN6rAZ1VY https://t.co/uQI74ZohF0"
+	},
+	{
 		"created_at": "Thu Oct 24 18:00:44 +0000 2019",
 		"id": 1187174022972346400,
 		"id_str": "1187428725509386240",
