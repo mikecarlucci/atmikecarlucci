@@ -1,6 +1,1137 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 20:21:57 +0000 2019",
+		"id": 1189988000383545300,
+		"id_str": "1190000978705207297",
+		"full_text": "Waiting for bae on #Halloween like... https://t.co/yHpGTsoEBo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Halloween",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189987993693687800,
+					"id_str": "1189987993693687809",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EIOvxoMXkAEo_SU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIOvxoMXkAEo_SU.jpg",
+					"url": "https://t.co/yHpGTsoEBo",
+					"display_url": "pic.twitter.com/yHpGTsoEBo",
+					"expanded_url": "https://twitter.com/Slugger_SeaDog/status/1189988000383545344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "23637985",
+									"screen_name": "PortlandSeaDogs",
+									"name": "Portland Sea Dogs"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1566,
+									"y": 568,
+									"h": 176,
+									"w": 176
+								},
+								{
+									"x": 214,
+									"y": 248,
+									"h": 456,
+									"w": 456
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 519,
+									"y": 188,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 71,
+									"y": 82,
+									"h": 151,
+									"w": 151
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 917,
+									"y": 332,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 125,
+									"y": 145,
+									"h": 267,
+									"w": 267
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1566,
+									"y": 568,
+									"h": 176,
+									"w": 176
+								},
+								{
+									"x": 214,
+									"y": 248,
+									"h": 456,
+									"w": 456
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189987993693687800,
+					"id_str": "1189987993693687809",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EIOvxoMXkAEo_SU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIOvxoMXkAEo_SU.jpg",
+					"url": "https://t.co/yHpGTsoEBo",
+					"display_url": "pic.twitter.com/yHpGTsoEBo",
+					"expanded_url": "https://twitter.com/Slugger_SeaDog/status/1189988000383545344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "23637985",
+									"screen_name": "PortlandSeaDogs",
+									"name": "Portland Sea Dogs"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1566,
+									"y": 568,
+									"h": 176,
+									"w": 176
+								},
+								{
+									"x": 214,
+									"y": 248,
+									"h": 456,
+									"w": 456
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 519,
+									"y": 188,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 71,
+									"y": 82,
+									"h": 151,
+									"w": 151
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 917,
+									"y": 332,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 125,
+									"y": 145,
+									"h": 267,
+									"w": 267
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1566,
+									"y": 568,
+									"h": 176,
+									"w": 176
+								},
+								{
+									"x": 214,
+									"y": 248,
+									"h": 456,
+									"w": 456
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1074489692,
+			"id_str": "1074489692",
+			"name": "Slugger The Sea Dog",
+			"screen_name": "Slugger_SeaDog",
+			"location": "Portland, Maine",
+			"description": "Official Twitter Page of Slugger the Sea Dog - Mascot and Director of Fun for the Portland Sea Dogs",
+			"url": "https://t.co/z9ZPAflx6z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z9ZPAflx6z",
+							"expanded_url": "https://www.milb.com/portland",
+							"display_url": "milb.com/portland",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3344,
+			"friends_count": 803,
+			"listed_count": 53,
+			"created_at": "Wed Jan 09 18:11:29 +0000 2013",
+			"favourites_count": 1409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071633647642525697/hpXzXNQE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071633647642525697/hpXzXNQE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1074489692/1571537143",
+			"profile_link_color": "154399",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Waiting for bae on #Halloween like... https://t.co/yHpGTsoEBo"
+	},
+	{
+		"created_at": "Thu Oct 31 17:39:24 +0000 2019",
+		"id": 1189960073956798500,
+		"id_str": "1189960073956798467",
+		"full_text": "Yes! https://t.co/idFCcgZ2LW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/idFCcgZ2LW",
+					"expanded_url": "https://twitter.com/Nationals/status/1189929776225640448",
+					"display_url": "twitter.com/Nationals/stat…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4521,
+			"friends_count": 721,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 57404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1189929776225640400,
+		"quoted_status_id_str": "1189929776225640448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/idFCcgZ2LW",
+			"expanded": "https://twitter.com/Nationals/status/1189929776225640448",
+			"display": "twitter.com/Nationals/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 31 15:39:01 +0000 2019",
+			"id": 1189929776225640400,
+			"id_str": "1189929776225640448",
+			"full_text": "Victory is ours, victory is ours, great day in the morning, people, victory is ours.\n\nWe drink from the keg of glory, Donna...\n\nBRING US THE FINEST MUFFINS AND BAGELS IN ALL THE LAND!\n\n#WorldSeries // #STAYINTHEFIGHT https://t.co/APEtUQULRv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WorldSeries",
+						"indices": [
+							185,
+							197
+						]
+					},
+					{
+						"text": "STAYINTHEFIGHT",
+						"indices": [
+							201,
+							216
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1189929769544093700,
+						"id_str": "1189929769544093697",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EIN60iVWkAE7z--.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIN60iVWkAE7z--.jpg",
+						"url": "https://t.co/APEtUQULRv",
+						"display_url": "pic.twitter.com/APEtUQULRv",
+						"expanded_url": "https://twitter.com/Nationals/status/1189929776225640448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "3683068757",
+										"screen_name": "WestWingWeekly",
+										"name": "The West Wing Weekly"
+									},
+									{
+										"type": "user",
+										"user_id": "892219807",
+										"screen_name": "BradleyWhitford",
+										"name": "Bradley Whitford"
+									},
+									{
+										"type": "user",
+										"user_id": "68784947",
+										"screen_name": "stras37",
+										"name": "Stephen Strasburg"
+									},
+									{
+										"type": "user",
+										"user_id": "3506766379",
+										"screen_name": "Anthonyrendon_6",
+										"name": "Anthony Rendon"
+									},
+									{
+										"type": "user",
+										"user_id": "356834167",
+										"screen_name": "treavturner",
+										"name": "Trea Turner"
+									},
+									{
+										"type": "user",
+										"user_id": "18695490",
+										"screen_name": "HrishiHirway",
+										"name": "Hrishikesh Hirway"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 858,
+										"y": 731,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 303,
+										"y": 258,
+										"h": 24,
+										"w": 24
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 858,
+										"y": 731,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 536,
+										"y": 456,
+										"h": 43,
+										"w": 43
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1189929769544093700,
+						"id_str": "1189929769544093697",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EIN60iVWkAE7z--.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIN60iVWkAE7z--.jpg",
+						"url": "https://t.co/APEtUQULRv",
+						"display_url": "pic.twitter.com/APEtUQULRv",
+						"expanded_url": "https://twitter.com/Nationals/status/1189929776225640448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "3683068757",
+										"screen_name": "WestWingWeekly",
+										"name": "The West Wing Weekly"
+									},
+									{
+										"type": "user",
+										"user_id": "892219807",
+										"screen_name": "BradleyWhitford",
+										"name": "Bradley Whitford"
+									},
+									{
+										"type": "user",
+										"user_id": "68784947",
+										"screen_name": "stras37",
+										"name": "Stephen Strasburg"
+									},
+									{
+										"type": "user",
+										"user_id": "3506766379",
+										"screen_name": "Anthonyrendon_6",
+										"name": "Anthony Rendon"
+									},
+									{
+										"type": "user",
+										"user_id": "356834167",
+										"screen_name": "treavturner",
+										"name": "Trea Turner"
+									},
+									{
+										"type": "user",
+										"user_id": "18695490",
+										"screen_name": "HrishiHirway",
+										"name": "Hrishikesh Hirway"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 858,
+										"y": 731,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 303,
+										"y": 258,
+										"h": 24,
+										"w": 24
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 858,
+										"y": 731,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 536,
+										"y": 456,
+										"h": 43,
+										"w": 43
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1189929769539981300,
+						"id_str": "1189929769539981318",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EIN60iUX0AYzOGT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIN60iUX0AYzOGT.jpg",
+						"url": "https://t.co/APEtUQULRv",
+						"display_url": "pic.twitter.com/APEtUQULRv",
+						"expanded_url": "https://twitter.com/Nationals/status/1189929776225640448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "3683068757",
+										"screen_name": "WestWingWeekly",
+										"name": "The West Wing Weekly"
+									},
+									{
+										"type": "user",
+										"user_id": "892219807",
+										"screen_name": "BradleyWhitford",
+										"name": "Bradley Whitford"
+									},
+									{
+										"type": "user",
+										"user_id": "68784947",
+										"screen_name": "stras37",
+										"name": "Stephen Strasburg"
+									},
+									{
+										"type": "user",
+										"user_id": "3506766379",
+										"screen_name": "Anthonyrendon_6",
+										"name": "Anthony Rendon"
+									},
+									{
+										"type": "user",
+										"user_id": "356834167",
+										"screen_name": "treavturner",
+										"name": "Trea Turner"
+									},
+									{
+										"type": "user",
+										"user_id": "18695490",
+										"screen_name": "HrishiHirway",
+										"name": "Hrishikesh Hirway"
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 980,
+										"y": 315,
+										"h": 176,
+										"w": 176
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 347,
+										"y": 111,
+										"h": 62,
+										"w": 62
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 612,
+										"y": 196,
+										"h": 110,
+										"w": 110
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 980,
+										"y": 315,
+										"h": 176,
+										"w": 176
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1189929769548296200,
+						"id_str": "1189929769548296193",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EIN60iWWsAEQbL_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIN60iWWsAEQbL_.jpg",
+						"url": "https://t.co/APEtUQULRv",
+						"display_url": "pic.twitter.com/APEtUQULRv",
+						"expanded_url": "https://twitter.com/Nationals/status/1189929776225640448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "3683068757",
+										"screen_name": "WestWingWeekly",
+										"name": "The West Wing Weekly"
+									},
+									{
+										"type": "user",
+										"user_id": "892219807",
+										"screen_name": "BradleyWhitford",
+										"name": "Bradley Whitford"
+									},
+									{
+										"type": "user",
+										"user_id": "68784947",
+										"screen_name": "stras37",
+										"name": "Stephen Strasburg"
+									},
+									{
+										"type": "user",
+										"user_id": "3506766379",
+										"screen_name": "Anthonyrendon_6",
+										"name": "Anthony Rendon"
+									},
+									{
+										"type": "user",
+										"user_id": "356834167",
+										"screen_name": "treavturner",
+										"name": "Trea Turner"
+									},
+									{
+										"type": "user",
+										"user_id": "18695490",
+										"screen_name": "HrishiHirway",
+										"name": "Hrishikesh Hirway"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 793,
+										"y": 624,
+										"h": 277,
+										"w": 277
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 280,
+										"y": 221,
+										"h": 98,
+										"w": 98
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 495,
+										"y": 390,
+										"h": 173,
+										"w": 173
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 793,
+										"y": 624,
+										"h": 277,
+										"w": 277
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1189929769539973000,
+						"id_str": "1189929769539973121",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EIN60iUXsAEK_EK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIN60iUXsAEK_EK.jpg",
+						"url": "https://t.co/APEtUQULRv",
+						"display_url": "pic.twitter.com/APEtUQULRv",
+						"expanded_url": "https://twitter.com/Nationals/status/1189929776225640448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "3683068757",
+										"screen_name": "WestWingWeekly",
+										"name": "The West Wing Weekly"
+									},
+									{
+										"type": "user",
+										"user_id": "892219807",
+										"screen_name": "BradleyWhitford",
+										"name": "Bradley Whitford"
+									},
+									{
+										"type": "user",
+										"user_id": "68784947",
+										"screen_name": "stras37",
+										"name": "Stephen Strasburg"
+									},
+									{
+										"type": "user",
+										"user_id": "3506766379",
+										"screen_name": "Anthonyrendon_6",
+										"name": "Anthony Rendon"
+									},
+									{
+										"type": "user",
+										"user_id": "356834167",
+										"screen_name": "treavturner",
+										"name": "Trea Turner"
+									},
+									{
+										"type": "user",
+										"user_id": "18695490",
+										"screen_name": "HrishiHirway",
+										"name": "Hrishikesh Hirway"
+									}
+								]
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39419180,
+				"id_str": "39419180",
+				"name": "Washington Nationals",
+				"screen_name": "Nationals",
+				"location": "Nationals Park",
+				"description": "Digital home of the 2019 World Series Champion Washington Nationals.\n\nHome of the National Pastime in the Nation’s Capital.",
+				"url": "https://t.co/EnOoHuvPrz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EnOoHuvPrz",
+								"expanded_url": "http://Nationals.com",
+								"display_url": "Nationals.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 754894,
+				"friends_count": 661,
+				"listed_count": 5906,
+				"created_at": "Tue May 12 03:06:48 +0000 2009",
+				"favourites_count": 18281,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53953,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AB0205",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1189752900106510336/oNSfYwkt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189752900106510336/oNSfYwkt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39419180/1572499784",
+				"profile_link_color": "041E42",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "860000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2167,
+			"favorite_count": 10586,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yes! https://t.co/idFCcgZ2LW"
+	},
+	{
 		"created_at": "Thu Oct 31 02:32:21 +0000 2019",
 		"id": 1189731804741329000,
 		"id_str": "1189731804741328898",
