@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 17:42:48 +0000 2019",
+		"id": 1191038350838419500,
+		"id_str": "1191048094458294273",
+		"full_text": "Which of these pitchers are a #1 Starter? Please help in my annual research survey by answering and RTing. Resulting data available to everyone, just ask. Thanks for your help!\n\nhttps://t.co/I3sXjcr4kj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I3sXjcr4kj",
+					"expanded_url": "https://forms.gle/NSG3BdWeffzcursy5",
+					"display_url": "forms.gle/NSG3BdWeffzcur…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20242861,
+			"id_str": "20242861",
+			"name": "Sky Kalkman",
+			"screen_name": "Sky_Kalkman",
+			"location": "Rochester, NY",
+			"description": "Baseball fan, lime liker. In real life I analyze data for an awesome local credit union.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3622,
+			"friends_count": 813,
+			"listed_count": 279,
+			"created_at": "Fri Feb 06 15:09:52 +0000 2009",
+			"favourites_count": 6510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817765490206633989/qrcldq3j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817765490206633989/qrcldq3j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20242861/1398193786",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Which of these pitchers are a #1 Starter? Please help in my annual research survey by answering and RTing. Resulting data available to everyone, just ask. Thanks for your help!\n\nhttps://t.co/I3sXjcr4kj"
+	},
+	{
 		"created_at": "Sat Nov 02 17:38:29 +0000 2019",
 		"id": 1190684618850218000,
 		"id_str": "1190684618850217985",
