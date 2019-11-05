@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 17:15:31 +0000 2019",
+		"id": 1191403616101269500,
+		"id_str": "1191403616101269511",
+		"full_text": "Blue Jays: https://t.co/5g9NXvtldW https://t.co/oxwZXw6X91",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5g9NXvtldW",
+					"expanded_url": "https://twitter.com/ericstephen/status/1191391372181307392",
+					"display_url": "twitter.com/ericstephen/st…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191403602130026500,
+					"id_str": "1191403602130026496",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIi3Q4kUwAAVdN1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIi3Q4kUwAAVdN1.jpg",
+					"url": "https://t.co/oxwZXw6X91",
+					"display_url": "pic.twitter.com/oxwZXw6X91",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1191403616101269511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191403602130026500,
+					"id_str": "1191403602130026496",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIi3Q4kUwAAVdN1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIi3Q4kUwAAVdN1.jpg",
+					"url": "https://t.co/oxwZXw6X91",
+					"display_url": "pic.twitter.com/oxwZXw6X91",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1191403616101269511/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							56
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EIi3Q4kUwAAVdN1.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4518,
+			"friends_count": 723,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 57538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191391372181307400,
+		"quoted_status_id_str": "1191391372181307392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5g9NXvtldW",
+			"expanded": "https://twitter.com/ericstephen/status/1191391372181307392",
+			"display": "twitter.com/ericstephen/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 04 16:26:52 +0000 2019",
+			"id": 1191391372181307400,
+			"id_str": "1191391372181307392",
+			"full_text": "The hot stove can’t start a fire without a spark https://t.co/aTMTon4Vqz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aTMTon4Vqz",
+						"expanded_url": "https://twitter.com/ByRobertMurray/status/1191389960378568704",
+						"display_url": "twitter.com/ByRobertMurray…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24346793,
+				"id_str": "24346793",
+				"name": "Eric Stephen",
+				"screen_name": "ericstephen",
+				"location": "California, USA",
+				"description": "Senior Puntificator for @sbnation who sometimes writes and talks about the Dodgers for @TrueBlueLA. BBWAA member. eric.stephen@sbnation.com",
+				"url": "https://t.co/pyz1Uxmr0C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pyz1Uxmr0C",
+								"expanded_url": "http://www.truebluela.com",
+								"display_url": "truebluela.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32010,
+				"friends_count": 5373,
+				"listed_count": 1395,
+				"created_at": "Sat Mar 14 08:09:15 +0000 2009",
+				"favourites_count": 14507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 160495,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1137177839961137152/HbPGqgCj_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137177839961137152/HbPGqgCj_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24346793/1559515243",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1191389960378568700,
+			"quoted_status_id_str": "1191389960378568704",
+			"quoted_status_permalink": {
+				"url": "https://t.co/aTMTon4Vqz",
+				"expanded": "https://twitter.com/ByRobertMurray/status/1191389960378568704",
+				"display": "twitter.com/ByRobertMurray…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Blue Jays: https://t.co/5g9NXvtldW https://t.co/oxwZXw6X91"
+	},
+	{
 		"created_at": "Sun Nov 03 17:42:48 +0000 2019",
 		"id": 1191038350838419500,
 		"id_str": "1191048094458294273",
