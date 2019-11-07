@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 15:35:23 +0000 2019",
+		"id": 1192103192047153200,
+		"id_str": "1192103192047153153",
+		"full_text": "Walked into the new entrance and onto a new Orange Line train. Little glimpse at the future of @MBTA https://t.co/deU33e2Yde",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MBTA",
+					"name": "MBTA",
+					"id": 150334831,
+					"id_str": "150334831",
+					"indices": [
+						95,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/deU33e2Yde",
+					"expanded_url": "https://twitter.com/MBTA/status/1191679146914668544",
+					"display_url": "twitter.com/MBTA/status/11…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4516,
+			"friends_count": 717,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 57613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191679146914668500,
+		"quoted_status_id_str": "1191679146914668544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/deU33e2Yde",
+			"expanded": "https://twitter.com/MBTA/status/1191679146914668544",
+			"display": "twitter.com/MBTA/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 05 11:30:23 +0000 2019",
+			"id": 1191679146914668500,
+			"id_str": "1191679146914668544",
+			"full_text": "Today, the brand new Forest Hills Station headhouse opened to the public. Alongside @MassDOT's Casey Arborway Project, the new station entrance leads to the Orange Line platform &amp; improves access &amp; safety for T riders. \n\nLearn more: https://t.co/IKj8xu96xP \n\n#BuildingABetterT https://t.co/Ql1lNrgHCh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BuildingABetterT",
+						"indices": [
+							267,
+							284
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MassDOT",
+						"name": "Mass. Transportation",
+						"id": 23595586,
+						"id_str": "23595586",
+						"indices": [
+							84,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IKj8xu96xP",
+						"expanded_url": "http://mbta.com/ForestHillsImprovements",
+						"display_url": "mbta.com/ForestHillsImp…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1191679142900781000,
+						"id_str": "1191679142900781058",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EImx3d7X0AIxqvN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EImx3d7X0AIxqvN.jpg",
+						"url": "https://t.co/Ql1lNrgHCh",
+						"display_url": "pic.twitter.com/Ql1lNrgHCh",
+						"expanded_url": "https://twitter.com/MBTA/status/1191679146914668544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1191679142900781000,
+						"id_str": "1191679142900781058",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EImx3d7X0AIxqvN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EImx3d7X0AIxqvN.jpg",
+						"url": "https://t.co/Ql1lNrgHCh",
+						"display_url": "pic.twitter.com/Ql1lNrgHCh",
+						"expanded_url": "https://twitter.com/MBTA/status/1191679146914668544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1191679142737141800,
+						"id_str": "1191679142737141762",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EImx3dUW4AIQlSk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EImx3dUW4AIQlSk.jpg",
+						"url": "https://t.co/Ql1lNrgHCh",
+						"display_url": "pic.twitter.com/Ql1lNrgHCh",
+						"expanded_url": "https://twitter.com/MBTA/status/1191679146914668544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 492,
+										"y": 1098,
+										"h": 102,
+										"w": 102
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 196,
+										"y": 439,
+										"h": 40,
+										"w": 40
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 335,
+										"y": 749,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 111,
+										"y": 248,
+										"h": 23,
+										"w": 23
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1191679142477078500,
+						"id_str": "1191679142477078529",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EImx3cWWoAE4AL2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EImx3cWWoAE4AL2.jpg",
+						"url": "https://t.co/Ql1lNrgHCh",
+						"display_url": "pic.twitter.com/Ql1lNrgHCh",
+						"expanded_url": "https://twitter.com/MBTA/status/1191679146914668544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 796,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 451,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1359,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150334831,
+				"id_str": "150334831",
+				"name": "MBTA",
+				"screen_name": "MBTA",
+				"location": "Boston, MA",
+				"description": "The official Twitter feed of the Massachusetts Bay Transportation Authority (MBTA). Check out our partners @MBTA_CR and @MBTATransitPD. Emergency dial 911.",
+				"url": "https://t.co/x4s73p7ZNC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x4s73p7ZNC",
+								"expanded_url": "http://www.mbta.com",
+								"display_url": "mbta.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 337007,
+				"friends_count": 168,
+				"listed_count": 2016,
+				"created_at": "Mon May 31 17:36:40 +0000 2010",
+				"favourites_count": 8027,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 140468,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145467111860559874/4GOUDSre_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145467111860559874/4GOUDSre_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150334831/1569504537",
+				"profile_link_color": "165C96",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 163,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Walked into the new entrance and onto a new Orange Line train. Little glimpse at the future of @MBTA https://t.co/deU33e2Yde"
+	},
+	{
 		"created_at": "Mon Nov 04 17:15:31 +0000 2019",
 		"id": 1191403616101269500,
 		"id_str": "1191403616101269511",
