@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 01:29:47 +0000 2019",
+		"id": 1193339941549424600,
+		"id_str": "1193339941549424643",
+		"full_text": "cc: @DatesInMovies https://t.co/kyELDiRgxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DatesInMovies",
+					"name": "Dates in Movies",
+					"id": 1146429722,
+					"id_str": "1146429722",
+					"indices": [
+						4,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kyELDiRgxX",
+					"expanded_url": "https://twitter.com/espn/status/1193214894750994433",
+					"display_url": "twitter.com/espn/status/11…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4515,
+			"friends_count": 719,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 57732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1193214894750994400,
+		"quoted_status_id_str": "1193214894750994433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kyELDiRgxX",
+			"expanded": "https://twitter.com/espn/status/1193214894750994433",
+			"display": "twitter.com/espn/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 09 17:12:54 +0000 2019",
+			"id": 1193214894750994400,
+			"id_str": "1193214894750994433",
+			"full_text": "28 years ago today, Harry Potter made his Quidditch debut as Gryffindor's seeker ⚡️ https://t.co/7K94cbKaa8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1193214892406452200,
+						"id_str": "1193214892406452229",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/EI8mn2qXsAUk5FU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EI8mn2qXsAUk5FU.jpg",
+						"url": "https://t.co/7K94cbKaa8",
+						"display_url": "pic.twitter.com/7K94cbKaa8",
+						"expanded_url": "https://twitter.com/espn/status/1193214894750994433/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 610,
+										"y": 35,
+										"h": 50,
+										"w": 50
+									},
+									{
+										"x": 310,
+										"y": 88,
+										"h": 142,
+										"w": 142
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 1076,
+										"y": 61,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 548,
+										"y": 155,
+										"h": 250,
+										"w": 250
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1723,
+										"y": 99,
+										"h": 142,
+										"w": 142
+									},
+									{
+										"x": 877,
+										"y": 249,
+										"h": 401,
+										"w": 401
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1723,
+										"y": 99,
+										"h": 142,
+										"w": 142
+									},
+									{
+										"x": 877,
+										"y": 249,
+										"h": 401,
+										"w": 401
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1193214892406452200,
+						"id_str": "1193214892406452229",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/EI8mn2qXsAUk5FU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EI8mn2qXsAUk5FU.jpg",
+						"url": "https://t.co/7K94cbKaa8",
+						"display_url": "pic.twitter.com/7K94cbKaa8",
+						"expanded_url": "https://twitter.com/espn/status/1193214894750994433/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 610,
+										"y": 35,
+										"h": 50,
+										"w": 50
+									},
+									{
+										"x": 310,
+										"y": 88,
+										"h": 142,
+										"w": 142
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 1076,
+										"y": 61,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 548,
+										"y": 155,
+										"h": 250,
+										"w": 250
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1723,
+										"y": 99,
+										"h": 142,
+										"w": 142
+									},
+									{
+										"x": 877,
+										"y": 249,
+										"h": 401,
+										"w": 401
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1723,
+										"y": 99,
+										"h": 142,
+										"w": 142
+									},
+									{
+										"x": 877,
+										"y": 249,
+										"h": 401,
+										"w": 401
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Spredfast app</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2557521,
+				"id_str": "2557521",
+				"name": "ESPN",
+				"screen_name": "espn",
+				"location": "",
+				"description": "Download the ESPN App ⬇️",
+				"url": "https://t.co/RqqkIx8GI7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RqqkIx8GI7",
+								"expanded_url": "http://es.pn/app",
+								"display_url": "es.pn/app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34465349,
+				"friends_count": 306,
+				"listed_count": 60209,
+				"created_at": "Tue Mar 27 20:46:16 +0000 2007",
+				"favourites_count": 331,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 106443,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C8C8C8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557521/1516042897",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6668,
+			"favorite_count": 25935,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc: @DatesInMovies https://t.co/kyELDiRgxX"
+	},
+	{
 		"created_at": "Fri Nov 08 18:49:34 +0000 2019",
 		"id": 1192876836067262500,
 		"id_str": "1192876836067262464",
