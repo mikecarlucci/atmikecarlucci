@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 02:37:17 +0000 2019",
+		"id": 1194742901973979100,
+		"id_str": "1194806479469137920",
+		"full_text": "New (old) cards being added to @MTG_Arena’s Historic format later this month! https://t.co/ioOzquGRmS https://t.co/oYNYzJ4EB2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MTG_Arena",
+					"name": "MTG Arena",
+					"id": 859833590980280300,
+					"id_str": "859833590980280320",
+					"indices": [
+						31,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ioOzquGRmS",
+					"expanded_url": "https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-historic-rollout-2019-11-13",
+					"display_url": "magic.wizards.com/en/articles/ar…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194742894801772500,
+					"id_str": "1194742894801772544",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EJSUVTKU4AAy4Nl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJSUVTKU4AAy4Nl.jpg",
+					"url": "https://t.co/oYNYzJ4EB2",
+					"display_url": "pic.twitter.com/oYNYzJ4EB2",
+					"expanded_url": "https://twitter.com/mtgaaron/status/1194742901973979136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194742894801772500,
+					"id_str": "1194742894801772544",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EJSUVTKU4AAy4Nl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJSUVTKU4AAy4Nl.jpg",
+					"url": "https://t.co/oYNYzJ4EB2",
+					"display_url": "pic.twitter.com/oYNYzJ4EB2",
+					"expanded_url": "https://twitter.com/mtgaaron/status/1194742901973979136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46931587,
+			"id_str": "46931587",
+			"name": "Aaron Forsythe",
+			"screen_name": "mtgaaron",
+			"location": "Kent, WA",
+			"description": "Vice President, Design, Magic: The Gathering TCG — Wizards of the Coast / Hasbro. Dual-class Pirates-Mariners Fan.",
+			"url": "https://t.co/FSr7D0sIRS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FSr7D0sIRS",
+							"expanded_url": "http://www.dailymtg.com",
+							"display_url": "dailymtg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43276,
+			"friends_count": 1163,
+			"listed_count": 896,
+			"created_at": "Sat Jun 13 18:01:39 +0000 2009",
+			"favourites_count": 1205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091212142143893504/8J5f5fKj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091212142143893504/8J5f5fKj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46931587/1546992016",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a96f188f5de647b5",
+			"url": "https://api.twitter.com/1.1/geo/id/a96f188f5de647b5.json",
+			"place_type": "city",
+			"name": "Renton",
+			"full_name": "Renton, WA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.253717,
+							47.423263
+						],
+						[
+							-122.135079,
+							47.423263
+						],
+						[
+							-122.135079,
+							47.539933
+						],
+						[
+							-122.253717,
+							47.539933
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 129,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New (old) cards being added to @MTG_Arena’s Historic format later this month! https://t.co/ioOzquGRmS https://t.co/oYNYzJ4EB2"
+	},
+	{
+		"created_at": "Wed Nov 13 22:18:46 +0000 2019",
+		"id": 1194741420227211300,
+		"id_str": "1194741420227211265",
+		"full_text": "@sydrpfp Bang And Blame",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sydrpfp",
+					"name": "Seize the means of run production",
+					"id": 846522863049998300,
+					"id_str": "846522863049998338",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1194741052911112200,
+		"in_reply_to_status_id_str": "1194741052911112192",
+		"in_reply_to_user_id": 846522863049998300,
+		"in_reply_to_user_id_str": "846522863049998338",
+		"in_reply_to_screen_name": "sydrpfp",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4512,
+			"friends_count": 720,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 57851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sydrpfp Bang And Blame"
+	},
+	{
+		"created_at": "Wed Nov 13 22:17:55 +0000 2019",
+		"id": 1194741204602310700,
+		"id_str": "1194741204602310656",
+		"full_text": "https://t.co/SKE6iR1FPY https://t.co/3gNXdTwW2L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SKE6iR1FPY",
+					"expanded_url": "https://twitter.com/timbhealey/status/1194731429294247936",
+					"display_url": "twitter.com/timbhealey/sta…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194741197174198300,
+					"id_str": "1194741197174198272",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJSSyfAX0AA4pZL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJSSyfAX0AA4pZL.jpg",
+					"url": "https://t.co/3gNXdTwW2L",
+					"display_url": "pic.twitter.com/3gNXdTwW2L",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1194741204602310656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194741197174198300,
+					"id_str": "1194741197174198272",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJSSyfAX0AA4pZL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJSSyfAX0AA4pZL.jpg",
+					"url": "https://t.co/3gNXdTwW2L",
+					"display_url": "pic.twitter.com/3gNXdTwW2L",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1194741204602310656/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							147
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EJSSyfAX0AA4pZL.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4512,
+			"friends_count": 720,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 57851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194731429294248000,
+		"quoted_status_id_str": "1194731429294247936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SKE6iR1FPY",
+			"expanded": "https://twitter.com/timbhealey/status/1194731429294247936",
+			"display": "twitter.com/timbhealey/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 13 21:39:04 +0000 2019",
+			"id": 1194731429294248000,
+			"id_str": "1194731429294247936",
+			"full_text": "Scott Boras said the zoo is less fun when half the bears are asleep.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139894764,
+				"id_str": "139894764",
+				"name": "Tim Healey",
+				"screen_name": "timbhealey",
+				"location": "Manhattan(/Chipotle)",
+				"description": "Mets beat writer, @Newsday. Author, \"Hometown Hardball\" (https://t.co/rrELcehtTs). BU alum. New Englander. Generally enthusiastic.",
+				"url": "https://t.co/SZOCx52RBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SZOCx52RBt",
+								"expanded_url": "https://nwsdy.li/2Gznauq",
+								"display_url": "nwsdy.li/2Gznauq",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rrELcehtTs",
+								"expanded_url": "https://amzn.to/2hpDNvz",
+								"display_url": "amzn.to/2hpDNvz",
+								"indices": [
+									57,
+									80
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 20965,
+				"friends_count": 998,
+				"listed_count": 690,
+				"created_at": "Tue May 04 00:20:31 +0000 2010",
+				"favourites_count": 27444,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 45017,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049534947046887424/DEix77js_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049534947046887424/DEix77js_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139894764/1551134042",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/SKE6iR1FPY https://t.co/3gNXdTwW2L"
+	},
+	{
 		"created_at": "Wed Nov 13 01:12:54 +0000 2019",
 		"id": 1194422852876980200,
 		"id_str": "1194422852876980224",
