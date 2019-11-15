@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 14:48:57 +0000 2019",
+		"id": 1194990609053843500,
+		"id_str": "1194990609053843456",
+		"full_text": "Football! https://t.co/iJTYFNgwSg https://t.co/Sbko688OCM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iJTYFNgwSg",
+					"expanded_url": "https://twitter.com/MASHminute/status/1194977359658651650",
+					"display_url": "twitter.com/MASHminute/sta…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194990601562771500,
+					"id_str": "1194990601562771456",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJV1nuwUUAAknjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJV1nuwUUAAknjI.jpg",
+					"url": "https://t.co/Sbko688OCM",
+					"display_url": "pic.twitter.com/Sbko688OCM",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1194990609053843456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 288,
+							"h": 142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 288,
+							"h": 142,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 142,
+							"h": 142,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 288,
+							"h": 142,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194990601562771500,
+					"id_str": "1194990601562771456",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJV1nuwUUAAknjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJV1nuwUUAAknjI.jpg",
+					"url": "https://t.co/Sbko688OCM",
+					"display_url": "pic.twitter.com/Sbko688OCM",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1194990609053843456/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 288,
+							"h": 142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 288,
+							"h": 142,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 142,
+							"h": 142,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 288,
+							"h": 142,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							144,
+							71
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EJV1nuwUUAAknjI.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4514,
+			"friends_count": 720,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 57878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194977359658651600,
+		"quoted_status_id_str": "1194977359658651650",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iJTYFNgwSg",
+			"expanded": "https://twitter.com/MASHminute/status/1194977359658651650",
+			"display": "twitter.com/MASHminute/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 14 13:56:18 +0000 2019",
+			"id": 1194977359658651600,
+			"id_str": "1194977359658651650",
+			"full_text": "Minute 98: “Sports Expert”\n\nCome for the argument that everyone should play flag football, stay for us convinced that’s Colonel Flagg hiding in plain sight by disguising himself as Hammond’s aide.\n\nAlso: https://t.co/hpYMORdTfo\n\nWith guest @mikecarlucci \nhttps://t.co/TKX8QWPHqE https://t.co/vXkOmpxY7V",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mikecarlucci",
+						"name": "Mike Carlucci",
+						"id": 90161583,
+						"id_str": "90161583",
+						"indices": [
+							240,
+							253
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hpYMORdTfo",
+						"expanded_url": "https://video.disney.com/watch/gus-trailer-4beaf66de039c2b6f1045dfd",
+						"display_url": "video.disney.com/watch/gus-trai…",
+						"indices": [
+							204,
+							227
+						]
+					},
+					{
+						"url": "https://t.co/TKX8QWPHqE",
+						"expanded_url": "https://www.mashminute.com/episodes/2019/11/14/minute-98-sports-expert",
+						"display_url": "mashminute.com/episodes/2019/…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1194977357137875000,
+						"id_str": "1194977357137874945",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EJVpkzbWkAEq8EX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJVpkzbWkAEq8EX.jpg",
+						"url": "https://t.co/vXkOmpxY7V",
+						"display_url": "pic.twitter.com/vXkOmpxY7V",
+						"expanded_url": "https://twitter.com/MASHminute/status/1194977359658651650/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 270,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 270,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1194977357137875000,
+						"id_str": "1194977357137874945",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EJVpkzbWkAEq8EX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJVpkzbWkAEq8EX.jpg",
+						"url": "https://t.co/vXkOmpxY7V",
+						"display_url": "pic.twitter.com/vXkOmpxY7V",
+						"expanded_url": "https://twitter.com/MASHminute/status/1194977359658651650/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 270,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 270,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 870802076921507800,
+				"id_str": "870802076921507840",
+				"name": "MASHminute",
+				"screen_name": "MASHminute",
+				"location": "",
+				"description": "A fan podcast of the movie and tv show M*A*S*H starting 6/25/19. Episodes will release every weekday!",
+				"url": "https://t.co/i4qTadbb3t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i4qTadbb3t",
+								"expanded_url": "http://www.mashminute.com",
+								"display_url": "mashminute.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84,
+				"friends_count": 27,
+				"listed_count": 3,
+				"created_at": "Sat Jun 03 00:39:28 +0000 2017",
+				"favourites_count": 55,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 126,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870803790076665856/_FWz8sWO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870803790076665856/_FWz8sWO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/870802076921507840/1558284806",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Football! https://t.co/iJTYFNgwSg https://t.co/Sbko688OCM"
+	},
+	{
 		"created_at": "Thu Nov 14 02:37:17 +0000 2019",
 		"id": 1194742901973979100,
 		"id_str": "1194806479469137920",
