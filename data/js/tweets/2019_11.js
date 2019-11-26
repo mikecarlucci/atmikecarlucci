@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 00:56:22 +0000 2019",
+		"id": 1199129734954836000,
+		"id_str": "1199129734954835974",
+		"full_text": "Well then https://t.co/Xw26y89laf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xw26y89laf",
+					"expanded_url": "https://twitter.com/WooSox/status/1199121065944989696",
+					"display_url": "twitter.com/WooSox/status/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 722,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 58250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199121065944989700,
+		"quoted_status_id_str": "1199121065944989696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Xw26y89laf",
+			"expanded": "https://twitter.com/WooSox/status/1199121065944989696",
+			"display": "twitter.com/WooSox/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 26 00:21:55 +0000 2019",
+			"id": 1199121065944989700,
+			"id_str": "1199121065944989696",
+			"full_text": "This Is WooSox Nation #GoWooSox https://t.co/vm141AizLW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoWooSox",
+						"indices": [
+							22,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1199121026178793500,
+						"id_str": "1199121026178793472",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EKQiOFgWwAA2Oz3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKQiOFgWwAA2Oz3.jpg",
+						"url": "https://t.co/vm141AizLW",
+						"display_url": "pic.twitter.com/vm141AizLW",
+						"expanded_url": "https://twitter.com/WooSox/status/1199121065944989696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1199121026178793500,
+						"id_str": "1199121026178793472",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EKQiOFgWwAA2Oz3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKQiOFgWwAA2Oz3.jpg",
+						"url": "https://t.co/vm141AizLW",
+						"display_url": "pic.twitter.com/vm141AizLW",
+						"expanded_url": "https://twitter.com/WooSox/status/1199121065944989696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1199119759343792000,
+			"in_reply_to_status_id_str": "1199119759343792130",
+			"in_reply_to_user_id": 375064050,
+			"in_reply_to_user_id_str": "375064050",
+			"in_reply_to_screen_name": "WooSox",
+			"user": {
+				"id": 375064050,
+				"id_str": "375064050",
+				"name": "Worcester Red Sox",
+				"screen_name": "WooSox",
+				"location": "Worcester, MA",
+				"description": "Official Twitter of your Worcester Red Sox, future Triple-A Affiliate of the Boston @RedSox. #GoWooSox\nhttps://t.co/z3JnyuZ6gc - https://t.co/DsdaIosfgJ",
+				"url": "https://t.co/1kdvj5YY0O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1kdvj5YY0O",
+								"expanded_url": "http://milb.com/worcester",
+								"display_url": "milb.com/worcester",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/z3JnyuZ6gc",
+								"expanded_url": "https://www.milb.com/worcester",
+								"display_url": "milb.com/worcester",
+								"indices": [
+									103,
+									126
+								]
+							},
+							{
+								"url": "https://t.co/DsdaIosfgJ",
+								"expanded_url": "http://gowoosox.milbstore.com",
+								"display_url": "gowoosox.milbstore.com",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5588,
+				"friends_count": 4,
+				"listed_count": 36,
+				"created_at": "Sat Sep 17 12:51:38 +0000 2011",
+				"favourites_count": 1213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1199119287140724738/aXgBbkSH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199119287140724738/aXgBbkSH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/375064050/1574727294",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 89,
+			"favorite_count": 255,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well then https://t.co/Xw26y89laf"
+	},
+	{
+		"created_at": "Mon Nov 25 22:42:05 +0000 2019",
+		"id": 1199095941992734700,
+		"id_str": "1199095941992734722",
+		"full_text": "Phantom Menace is the best of the prequels https://t.co/CPzA5G0FMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CPzA5G0FMb",
+					"expanded_url": "https://twitter.com/wieneraaron/status/1198374157253132290",
+					"display_url": "twitter.com/wieneraaron/st…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 722,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 58250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1198374157253132300,
+		"quoted_status_id_str": "1198374157253132290",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CPzA5G0FMb",
+			"expanded": "https://twitter.com/wieneraaron/status/1198374157253132290",
+			"display": "twitter.com/wieneraaron/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 23 22:53:58 +0000 2019",
+			"id": 1198374157253132300,
+			"id_str": "1198374157253132290",
+			"full_text": "Please quote this tweet with your most controversial movie opinions. I love controversial movie opinions.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1243057506,
+				"id_str": "1243057506",
+				"name": "𝙰𝚊𝚛𝚘𝚗 𝚆𝚒𝚎𝚗𝚎𝚛",
+				"screen_name": "Wieneraaron",
+				"location": "",
+				"description": "𝚃𝚅 𝚆𝚛𝚒𝚝𝚎𝚛 📺\n\n𝙺𝚊𝚛𝚖𝚊 𝙿𝚘𝚕𝚒𝚌𝚎 𝙰𝚞𝚝𝚑𝚘𝚛 📖\n\n𝚃𝚠𝚎𝚎𝚝𝚜 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙾𝚗 @Time  @People  @ComedyCentral  @Buzzfeed",
+				"url": "https://t.co/5UTnDpF4J9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5UTnDpF4J9",
+								"expanded_url": "http://imdb.to/23ZHGdS",
+								"display_url": "imdb.to/23ZHGdS",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24645,
+				"friends_count": 26951,
+				"listed_count": 277,
+				"created_at": "Tue Mar 05 07:03:46 +0000 2013",
+				"favourites_count": 59051,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25077,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EB410E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459370224890810368/YBzOcViR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459370224890810368/YBzOcViR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1243057506/1420829011",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 277,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Phantom Menace is the best of the prequels https://t.co/CPzA5G0FMb"
+	},
+	{
 		"created_at": "Fri Nov 22 20:53:26 +0000 2019",
 		"id": 1197977344612290600,
 		"id_str": "1197981435216322560",
