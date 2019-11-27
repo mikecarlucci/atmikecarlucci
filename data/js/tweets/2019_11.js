@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 13:17:09 +0000 2019",
+		"id": 1199316161713901600,
+		"id_str": "1199316161713901571",
+		"full_text": "All those @EWPod mentions probably 😂 https://t.co/0KbaMH4tsZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EWPod",
+					"name": "Effectively Wild Pod",
+					"id": 2882400794,
+					"id_str": "2882400794",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0KbaMH4tsZ",
+					"expanded_url": "https://twitter.com/mlbtraderumors/status/1199303355585253379",
+					"display_url": "twitter.com/mlbtraderumors…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 722,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 58276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199303355585253400,
+		"quoted_status_id_str": "1199303355585253379",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0KbaMH4tsZ",
+			"expanded": "https://twitter.com/mlbtraderumors/status/1199303355585253379",
+			"display": "twitter.com/mlbtraderumors…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 26 12:26:16 +0000 2019",
+			"id": 1199303355585253400,
+			"id_str": "1199303355585253379",
+			"full_text": "Rich Hill still drawing interest despite surgery ...  https://t.co/QhLmbf7LLj https://t.co/P3Cajhvanc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QhLmbf7LLj",
+						"expanded_url": "https://www.mlbtraderumors.com/2019/11/quick-hits-hill-wheeler-twins-os-rays.html",
+						"display_url": "mlbtraderumors.com/2019/11/quick-…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1199303265244065800,
+						"id_str": "1199303265244065792",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKTH9y7WsAAvoRu.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKTH9y7WsAAvoRu.jpg",
+						"url": "https://t.co/P3Cajhvanc",
+						"display_url": "pic.twitter.com/P3Cajhvanc",
+						"expanded_url": "https://twitter.com/mlbtraderumors/status/1199303355585253379/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1199303265244065800,
+						"id_str": "1199303265244065792",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKTH9y7WsAAvoRu.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKTH9y7WsAAvoRu.jpg",
+						"url": "https://t.co/P3Cajhvanc",
+						"display_url": "pic.twitter.com/P3Cajhvanc",
+						"expanded_url": "https://twitter.com/mlbtraderumors/status/1199303355585253379/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EKTH9y7WsAAvoRu.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18691328,
+				"id_str": "18691328",
+				"name": "MLB Trade Rumors",
+				"screen_name": "mlbtraderumors",
+				"location": "",
+				"description": "Official Twitter account for http://t.co/iJVlpFvVbs.",
+				"url": "http://t.co/Z3cBSOVdSA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Z3cBSOVdSA",
+								"expanded_url": "http://www.mlbtraderumors.com",
+								"display_url": "mlbtraderumors.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/iJVlpFvVbs",
+								"expanded_url": "http://MLBTradeRumors.com",
+								"display_url": "MLBTradeRumors.com",
+								"indices": [
+									29,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 687705,
+				"friends_count": 237,
+				"listed_count": 11070,
+				"created_at": "Tue Jan 06 19:41:23 +0000 2009",
+				"favourites_count": 669,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 82662,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930811344508645376/sXfGmB-P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930811344508645376/sXfGmB-P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18691328/1424374549",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All those @EWPod mentions probably 😂 https://t.co/0KbaMH4tsZ"
+	},
+	{
 		"created_at": "Tue Nov 26 00:56:22 +0000 2019",
 		"id": 1199129734954836000,
 		"id_str": "1199129734954835974",
