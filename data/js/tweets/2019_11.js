@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 17:42:44 +0000 2019",
+		"id": 1199745382458118100,
+		"id_str": "1199745382458118145",
+		"full_text": "👀 https://t.co/2YQMXHG9Wk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2YQMXHG9Wk",
+					"expanded_url": "https://twitter.com/woodruffbets/status/1199729311550455808",
+					"display_url": "twitter.com/woodruffbets/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4509,
+			"friends_count": 722,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 58296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199729311550455800,
+		"quoted_status_id_str": "1199729311550455808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2YQMXHG9Wk",
+			"expanded": "https://twitter.com/woodruffbets/status/1199729311550455808",
+			"display": "twitter.com/woodruffbets/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 27 16:38:52 +0000 2019",
+			"id": 1199729311550455800,
+			"id_str": "1199729311550455808",
+			"full_text": "Apple maps now say Ukraine's Crimean peninsula is part of Russia https://t.co/6WOjxLIM0d",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6WOjxLIM0d",
+						"expanded_url": "https://www.bbc.com/news/technology-50573069",
+						"display_url": "bbc.com/news/technolog…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118245138,
+				"id_str": "118245138",
+				"name": "Betsy Woodruff Swan",
+				"screen_name": "woodruffbets",
+				"location": "Washington, DC",
+				"description": "Daily Beast reporter, federal law enforcement. betsy.woodruff@thedailybeast.com. Open DMs. DM for Protonmail or Signal/Whatsapp #",
+				"url": "https://t.co/DalxkbWMGr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DalxkbWMGr",
+								"expanded_url": "https://www.thedailybeast.com/author/betsy-swan",
+								"display_url": "thedailybeast.com/author/betsy-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163481,
+				"friends_count": 5920,
+				"listed_count": 2634,
+				"created_at": "Sun Feb 28 02:02:40 +0000 2010",
+				"favourites_count": 15659,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1479,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1162804031128866816/RKhDoOMF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162804031128866816/RKhDoOMF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118245138/1450989293",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 585,
+			"favorite_count": 443,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 https://t.co/2YQMXHG9Wk"
+	},
+	{
+		"created_at": "Wed Nov 27 17:39:41 +0000 2019",
+		"id": 1199744618490843100,
+		"id_str": "1199744618490843136",
+		"full_text": "White meat - $4\n🍠- $3\nBeets - $1\nBrussels - $4\nPumpkin pie - $5\nCranberries - $2\nCornbread - $1 https://t.co/mqSu0xdj8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mqSu0xdj8u",
+					"expanded_url": "https://twitter.com/fftoday/status/1199730854450225152",
+					"display_url": "twitter.com/fftoday/status…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4509,
+			"friends_count": 722,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 58296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199730854450225200,
+		"quoted_status_id_str": "1199730854450225152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mqSu0xdj8u",
+			"expanded": "https://twitter.com/fftoday/status/1199730854450225152",
+			"display": "twitter.com/fftoday/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 27 16:45:00 +0000 2019",
+			"id": 1199730854450225200,
+			"id_str": "1199730854450225152",
+			"full_text": "Quote tweet this with your ideal lineup. https://t.co/91NdGE735Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1199722386184122400,
+						"id_str": "1199722386184122369",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/EKZFJ2GWsAEcaxX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKZFJ2GWsAEcaxX.jpg",
+						"url": "https://t.co/91NdGE735Z",
+						"display_url": "pic.twitter.com/91NdGE735Z",
+						"expanded_url": "https://twitter.com/FFToday/status/1199730854450225152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1500,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1199722386184122400,
+						"id_str": "1199722386184122369",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/EKZFJ2GWsAEcaxX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKZFJ2GWsAEcaxX.jpg",
+						"url": "https://t.co/91NdGE735Z",
+						"display_url": "pic.twitter.com/91NdGE735Z",
+						"expanded_url": "https://twitter.com/FFToday/status/1199730854450225152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1500,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 343331728,
+				"id_str": "343331728",
+				"name": "Fantasy Football Today",
+				"screen_name": "FFToday",
+				"location": "Fort Lauderdale, FL",
+				"description": "Stay informed and entertained all Fantasy season long. Live on @CBSSportsHQ M-F noon ET, T-W 8pm, Sun 10am and ON DEMAND on @CBSSports on your streaming device.",
+				"url": "https://t.co/CUZzmk6gWg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CUZzmk6gWg",
+								"expanded_url": "https://www.cbssports.com/fantasy/football/",
+								"display_url": "cbssports.com/fantasy/footba…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 250186,
+				"friends_count": 63,
+				"listed_count": 3242,
+				"created_at": "Wed Jul 27 12:10:01 +0000 2011",
+				"favourites_count": 1020,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 38129,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093542465745825794/R9HCT8N8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093542465745825794/R9HCT8N8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/343331728/1454828349",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 295,
+			"favorite_count": 986,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "White meat - $4\n🍠- $3\nBeets - $1\nBrussels - $4\nPumpkin pie - $5\nCranberries - $2\nCornbread - $1 https://t.co/mqSu0xdj8u"
+	},
+	{
 		"created_at": "Tue Nov 26 13:17:09 +0000 2019",
 		"id": 1199316161713901600,
 		"id_str": "1199316161713901571",
