@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 20:50:50 +0000 2019",
+		"id": 1200145091303821300,
+		"id_str": "1200155108149022720",
+		"full_text": "A Thanksgiving story by Snoopy. https://t.co/EM1KMMqqcn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200145088514547700,
+					"id_str": "1200145088514547718",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EKfFmW_W4AY7uc1.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKfFmW_W4AY7uc1.png",
+					"url": "https://t.co/EM1KMMqqcn",
+					"display_url": "pic.twitter.com/EM1KMMqqcn",
+					"expanded_url": "https://twitter.com/Snoopy/status/1200145091303821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 189,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 189,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 189,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 189,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200145088514547700,
+					"id_str": "1200145088514547718",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EKfFmW_W4AY7uc1.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKfFmW_W4AY7uc1.png",
+					"url": "https://t.co/EM1KMMqqcn",
+					"display_url": "pic.twitter.com/EM1KMMqqcn",
+					"expanded_url": "https://twitter.com/Snoopy/status/1200145091303821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 189,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 189,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 189,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 189,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245548093,
+			"id_str": "245548093",
+			"name": "PEANUTS",
+			"screen_name": "Snoopy",
+			"location": "",
+			"description": "Follow Peanuts everywhere! \nInstagram: Snoopygrams / Snapchat: SnoopysSnaps / Facebook: Snoopy",
+			"url": "https://t.co/Y2beZ6Gfau",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y2beZ6Gfau",
+							"expanded_url": "https://www.peanuts.com/",
+							"display_url": "peanuts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969848,
+			"friends_count": 46,
+			"listed_count": 5380,
+			"created_at": "Mon Jan 31 23:14:17 +0000 2011",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108356093753901058/ggyF1z3u_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108356093753901058/ggyF1z3u_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245548093/1569260187",
+			"profile_link_color": "005596",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFE600",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 946,
+		"favorite_count": 3706,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Thanksgiving story by Snoopy. https://t.co/EM1KMMqqcn"
+	},
+	{
 		"created_at": "Wed Nov 27 17:42:44 +0000 2019",
 		"id": 1199745382458118100,
 		"id_str": "1199745382458118145",
