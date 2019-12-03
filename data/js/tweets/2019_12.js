@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 21:09:29 +0000 2019",
+		"id": 1201607216677171200,
+		"id_str": "1201609352152354821",
+		"full_text": "fordham tuition is now $52,980 a year https://t.co/Lo3ZBx89YZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201607211455258600,
+					"id_str": "1201607211455258624",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EKz3ZHZWoAAnMVt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKz3ZHZWoAAnMVt.jpg",
+					"url": "https://t.co/Lo3ZBx89YZ",
+					"display_url": "pic.twitter.com/Lo3ZBx89YZ",
+					"expanded_url": "https://twitter.com/MattBinder/status/1201607216677171207/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1184,
+							"h": 1304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1090,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 26,
+									"y": 18,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 26,
+									"y": 363,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 190,
+									"y": 267,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 35,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 50,
+									"y": 697,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 365,
+									"y": 513,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 46,
+									"y": 32,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 46,
+									"y": 641,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 336,
+									"y": 472,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 35,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 50,
+									"y": 697,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 365,
+									"y": 513,
+									"h": 140,
+									"w": 140
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201607211455258600,
+					"id_str": "1201607211455258624",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EKz3ZHZWoAAnMVt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKz3ZHZWoAAnMVt.jpg",
+					"url": "https://t.co/Lo3ZBx89YZ",
+					"display_url": "pic.twitter.com/Lo3ZBx89YZ",
+					"expanded_url": "https://twitter.com/MattBinder/status/1201607216677171207/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1184,
+							"h": 1304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1090,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 26,
+									"y": 18,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 26,
+									"y": 363,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 190,
+									"y": 267,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 35,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 50,
+									"y": 697,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 365,
+									"y": 513,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 46,
+									"y": 32,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 46,
+									"y": 641,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 336,
+									"y": 472,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 35,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 50,
+									"y": 697,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 365,
+									"y": 513,
+									"h": 140,
+									"w": 140
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14931637,
+			"id_str": "14931637",
+			"name": "Matt Binder",
+			"screen_name": "MattBinder",
+			"location": "New York, New York",
+			"description": "reporter @ @mashable covering tech & politics // host @ https://t.co/R2vydAYi6s // video producer // before: @CAFEdotcom @MajorityFM // email: matt@mashable.com",
+			"url": "https://t.co/gXxwG6DiQU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gXxwG6DiQU",
+							"expanded_url": "http://youtube.com/mattbinder",
+							"display_url": "youtube.com/mattbinder",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R2vydAYi6s",
+							"expanded_url": "http://DOOMEDpod.com",
+							"display_url": "DOOMEDpod.com",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37591,
+			"friends_count": 649,
+			"listed_count": 895,
+			"created_at": "Wed May 28 07:59:20 +0000 2008",
+			"favourites_count": 78348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177635972466515968/wagz7QQt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177635972466515968/wagz7QQt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14931637/1423690374",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1876,
+		"favorite_count": 10756,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "fordham tuition is now $52,980 a year https://t.co/Lo3ZBx89YZ"
+	},
+	{
 		"created_at": "Sun Dec 01 19:55:07 +0000 2019",
 		"id": 1201222287678201900,
 		"id_str": "1201228252506927104",
