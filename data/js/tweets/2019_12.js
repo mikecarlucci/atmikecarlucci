@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 21:45:51 +0000 2019",
+		"id": 1201980895290368000,
+		"id_str": "1201980895290368000",
+		"full_text": "Manny and Ortiz. A combo forever. https://t.co/Xqe5rbFiYd https://t.co/dRr4uqCF7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xqe5rbFiYd",
+					"expanded_url": "https://www.overthemonster.com/2019/12/3/20994243/red-sox-hof-got-some-stars?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2019/12/3/2099…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201980893692387300,
+					"id_str": "1201980893692387328",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EK5LQSNXYAAbXov.png",
+					"media_url_https": "https://pbs.twimg.com/media/EK5LQSNXYAAbXov.png",
+					"url": "https://t.co/dRr4uqCF7J",
+					"display_url": "pic.twitter.com/dRr4uqCF7J",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1201980895290368000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 587,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 587,
+							"h": 466,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 587,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 317,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 316,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 317,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 316,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 317,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 316,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 317,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 316,
+									"h": 59,
+									"w": 59
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201980893692387300,
+					"id_str": "1201980893692387328",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EK5LQSNXYAAbXov.png",
+					"media_url_https": "https://pbs.twimg.com/media/EK5LQSNXYAAbXov.png",
+					"url": "https://t.co/dRr4uqCF7J",
+					"display_url": "pic.twitter.com/dRr4uqCF7J",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1201980895290368000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 587,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 587,
+							"h": 466,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 587,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 317,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 316,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 317,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 316,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 317,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 316,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 317,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 316,
+									"h": 59,
+									"w": 59
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 721,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 58451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Manny and Ortiz. A combo forever. https://t.co/Xqe5rbFiYd https://t.co/dRr4uqCF7J"
+	},
+	{
 		"created_at": "Mon Dec 02 21:09:29 +0000 2019",
 		"id": 1201607216677171200,
 		"id_str": "1201609352152354821",
