@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 18:44:41 +0000 2019",
+		"id": 1199079984146649000,
+		"id_str": "1202297688911470594",
+		"full_text": "RT if you protected your data and privacy with \n@JumboPrivacy. Available for download for free on iOS and Android at: https://t.co/SYQvZ7oZvX https://t.co/4FPGuO5tIc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JumboPrivacy",
+					"name": "Jumbo: Privacy + Security",
+					"id": 1088506201028153300,
+					"id_str": "1088506201028153345",
+					"indices": [
+						48,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SYQvZ7oZvX",
+					"expanded_url": "https://bit.ly/2KT8TtA",
+					"display_url": "bit.ly/2KT8TtA",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199079976584335400,
+					"id_str": "1199079976584335361",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EKP84r2X0AEfBCc.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKP84r2X0AEfBCc.png",
+					"url": "https://t.co/4FPGuO5tIc",
+					"display_url": "pic.twitter.com/4FPGuO5tIc",
+					"expanded_url": "https://twitter.com/JumboPrivacy/status/1199079984146649089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199079976584335400,
+					"id_str": "1199079976584335361",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EKP84r2X0AEfBCc.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKP84r2X0AEfBCc.png",
+					"url": "https://t.co/4FPGuO5tIc",
+					"display_url": "pic.twitter.com/4FPGuO5tIc",
+					"expanded_url": "https://twitter.com/JumboPrivacy/status/1199079984146649089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1088506201028153300,
+			"id_str": "1088506201028153345",
+			"name": "Jumbo: Privacy + Security",
+			"screen_name": "JumboPrivacy",
+			"location": "Brooklyn, NY",
+			"description": "Jumbo is an app that gives you back control of your data and privacy. Featured by the New York Times, The Verge, Fast Company, TechCrunch.",
+			"url": "https://t.co/V0vzWcIHf6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V0vzWcIHf6",
+							"expanded_url": "https://download.jumboprivacy.com/?campaign=twitter-website",
+							"display_url": "download.jumboprivacy.com/?campaign=twit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6371,
+			"friends_count": 313,
+			"listed_count": 29,
+			"created_at": "Thu Jan 24 18:37:56 +0000 2019",
+			"favourites_count": 449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199795700315365376/NatA51pT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199795700315365376/NatA51pT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088506201028153345/1574888536",
+			"profile_link_color": "0755FE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RT if you protected your data and privacy with \n@JumboPrivacy. Available for download for free on iOS and Android at: https://t.co/SYQvZ7oZvX https://t.co/4FPGuO5tIc"
+	},
+	{
 		"created_at": "Tue Dec 03 21:45:51 +0000 2019",
 		"id": 1201980895290368000,
 		"id_str": "1201980895290368000",
