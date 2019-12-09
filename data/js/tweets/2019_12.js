@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 16:59:30 +0000 2019",
+		"id": 1203720770960199700,
+		"id_str": "1203720770960199681",
+		"full_text": "🤔 https://t.co/07mlJqpQvk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/07mlJqpQvk",
+					"expanded_url": "https://twitter.com/jmastrodonato/status/1203720002601472000",
+					"display_url": "twitter.com/jmastrodonato/…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4515,
+			"friends_count": 723,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 58579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1203720002601472000,
+		"quoted_status_id_str": "1203720002601472000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/07mlJqpQvk",
+			"expanded": "https://twitter.com/jmastrodonato/status/1203720002601472000",
+			"display": "twitter.com/jmastrodonato/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 08 16:56:27 +0000 2019",
+			"id": 1203720002601472000,
+			"id_str": "1203720002601472000",
+			"full_text": "Red Sox have interest in a reunion with Rick Porcello, per source\n\nStory: https://t.co/KAUQdO2Cuc via @bostonherald",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bostonherald",
+						"name": "Boston Herald",
+						"id": 2488541,
+						"id_str": "2488541",
+						"indices": [
+							102,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KAUQdO2Cuc",
+						"expanded_url": "https://www.bostonherald.com/2019/12/08/source-red-sox-in-talks-with-rick-porcello/",
+						"display_url": "bostonherald.com/2019/12/08/sou…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108785782,
+				"id_str": "108785782",
+				"name": "Jason Mastrodonato",
+				"screen_name": "JMastrodonato",
+				"location": "Rochester, NY -- Boston, MA",
+				"description": "Sports columnist / @BostonHerald. \"If you're tired of arguing with strangers on the internet, try talking with one in real life.\" first.last@bostonherald.com",
+				"url": "https://t.co/8bjonuzsnS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8bjonuzsnS",
+								"expanded_url": "http://bostonherald.com/sports",
+								"display_url": "bostonherald.com/sports",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17301,
+				"friends_count": 828,
+				"listed_count": 829,
+				"created_at": "Wed Jan 27 01:20:22 +0000 2010",
+				"favourites_count": 12682,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 35752,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910429011154579458/bHfBAG4n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910429011154579458/bHfBAG4n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108785782/1488004114",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 237,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤔 https://t.co/07mlJqpQvk"
+	},
+	{
 		"created_at": "Sat Dec 07 18:12:52 +0000 2019",
 		"id": 1203376845229613000,
 		"id_str": "1203376845229613058",
