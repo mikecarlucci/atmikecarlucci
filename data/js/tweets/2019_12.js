@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 26 21:21:15 +0000 2019",
+		"id": 1210309624362131500,
+		"id_str": "1210309624362131458",
+		"full_text": "Goes with previous retweet. \n\nAlso, from the Book of Riker: Can’t fight the Borg while you’re fighting your own fatigue. https://t.co/Yd1YUIZfEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yd1YUIZfEb",
+					"expanded_url": "https://twitter.com/picardtips/status/1210299404529225728",
+					"display_url": "twitter.com/picardtips/sta…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4506,
+			"friends_count": 726,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 59071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1210299404529225700,
+		"quoted_status_id_str": "1210299404529225728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yd1YUIZfEb",
+			"expanded": "https://twitter.com/picardtips/status/1210299404529225728",
+			"display": "twitter.com/picardtips/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 26 20:40:38 +0000 2019",
+			"id": 1210299404529225700,
+			"id_str": "1210299404529225728",
+			"full_text": "Picard management tip: Take your leisure time seriously. A relaxed captain is a sane captain.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://gitlab.com/JoeSondow\" rel=\"nofollow\">Joe's Tools</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1184647243,
+				"id_str": "1184647243",
+				"name": "Picard Tips",
+				"screen_name": "PicardTips",
+				"location": "Alpha Quadrant",
+				"description": "Wishing for a thing does not make it so. (By @JoeSondow)",
+				"url": "https://t.co/I8qlXalCSp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I8qlXalCSp",
+								"expanded_url": "http://patreon.com/JoeSondow",
+								"display_url": "patreon.com/JoeSondow",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147982,
+				"friends_count": 5,
+				"listed_count": 1623,
+				"created_at": "Sat Feb 16 04:31:23 +0000 2013",
+				"favourites_count": 4153,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1920,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/416337864809402368/iSHIA4Zt_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/416337864809402368/iSHIA4Zt_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1184647243/1398229393",
+				"profile_link_color": "2366D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 350,
+			"favorite_count": 1281,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Goes with previous retweet. \n\nAlso, from the Book of Riker: Can’t fight the Borg while you’re fighting your own fatigue. https://t.co/Yd1YUIZfEb"
+	},
+	{
 		"created_at": "Wed Dec 25 22:22:42 +0000 2019",
 		"id": 1209962699746095000,
 		"id_str": "1209962699746095104",
