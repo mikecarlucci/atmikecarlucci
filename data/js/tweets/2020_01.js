@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 22:36:11 +0000 2020",
+		"id": 1213227585557147600,
+		"id_str": "1213227585557147648",
+		"full_text": "As seen in \"I Love the 1710s\" https://t.co/vuyhbLaUVk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vuyhbLaUVk",
+					"expanded_url": "https://twitter.com/wiki_tmnt/status/1213219062735687681",
+					"display_url": "twitter.com/wiki_tmnt/stat…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 727,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 59404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213219062735687700,
+		"quoted_status_id_str": "1213219062735687681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vuyhbLaUVk",
+			"expanded": "https://twitter.com/wiki_tmnt/status/1213219062735687681",
+			"display": "twitter.com/wiki_tmnt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 03 22:02:19 +0000 2020",
+			"id": 1213219062735687700,
+			"id_str": "1213219062735687681",
+			"full_text": "1718 in music\nhttps://t.co/DfpGjEz4rl https://t.co/gNvxF1wnpy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DfpGjEz4rl",
+						"expanded_url": "https://en.wikipedia.org/wiki/1718_in_music",
+						"display_url": "en.wikipedia.org/wiki/1718_in_m…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1213219061439619000,
+						"id_str": "1213219061439619072",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/ENY4TvfXYAA8ayu.png",
+						"media_url_https": "https://pbs.twimg.com/media/ENY4TvfXYAA8ayu.png",
+						"url": "https://t.co/gNvxF1wnpy",
+						"display_url": "pic.twitter.com/gNvxF1wnpy",
+						"expanded_url": "https://twitter.com/wiki_tmnt/status/1213219062735687681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 388,
+								"h": 204,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 388,
+								"h": 204,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 388,
+								"h": 204,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1213219061439619000,
+						"id_str": "1213219061439619072",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/ENY4TvfXYAA8ayu.png",
+						"media_url_https": "https://pbs.twimg.com/media/ENY4TvfXYAA8ayu.png",
+						"url": "https://t.co/gNvxF1wnpy",
+						"display_url": "pic.twitter.com/gNvxF1wnpy",
+						"expanded_url": "https://twitter.com/wiki_tmnt/status/1213219062735687681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 388,
+								"h": 204,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 388,
+								"h": 204,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 388,
+								"h": 204,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/catleeball/tmnt_wikipedia_bot\" rel=\"nofollow\">TMNT Wiki Title Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1138626066648424400,
+				"id_str": "1138626066648424448",
+				"name": "Wiki Titles Singable to TMNT Themesong",
+				"screen_name": "wiki_tmnt",
+				"location": "The Sewers",
+				"description": "Bot that posts hourly Wiki titles that you can sing to the TMNT song! Concept: https://t.co/XcKxZrz7iO Logos: https://t.co/Mt2UUfAyVe Bot by @__eel__",
+				"url": "https://t.co/69tdHnnPRV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/69tdHnnPRV",
+								"expanded_url": "https://github.com/catleeball/tmnt_wikipedia_bot/",
+								"display_url": "github.com/catleeball/tmn…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XcKxZrz7iO",
+								"expanded_url": "https://xkcd.com/1412",
+								"display_url": "xkcd.com/1412",
+								"indices": [
+									79,
+									102
+								]
+							},
+							{
+								"url": "https://t.co/Mt2UUfAyVe",
+								"expanded_url": "http://glench.com/tmnt",
+								"display_url": "glench.com/tmnt",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 44928,
+				"friends_count": 1,
+				"listed_count": 173,
+				"created_at": "Wed Jun 12 01:56:23 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4991,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1138626153424408576/GosXfwQ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138626153424408576/GosXfwQ7_normal.jpg",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As seen in \"I Love the 1710s\" https://t.co/vuyhbLaUVk"
+	},
+	{
+		"created_at": "Fri Jan 03 21:08:14 +0000 2020",
+		"id": 1213205451459960800,
+		"id_str": "1213205451459960832",
+		"full_text": "David Ortiz makes any day better https://t.co/vu9DKfysnq https://t.co/HSmUAFAaF3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vu9DKfysnq",
+					"expanded_url": "https://www.overthemonster.com/2020/1/3/21048759/tgi-big-papi?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2020/1/3/21048…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213205449555816400,
+					"id_str": "1213205449555816448",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ENYr7bRXsAAr_EW.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENYr7bRXsAAr_EW.png",
+					"url": "https://t.co/HSmUAFAaF3",
+					"display_url": "pic.twitter.com/HSmUAFAaF3",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1213205451459960832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 588,
+							"h": 559,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 588,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 559,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213205449555816400,
+					"id_str": "1213205449555816448",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ENYr7bRXsAAr_EW.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENYr7bRXsAAr_EW.png",
+					"url": "https://t.co/HSmUAFAaF3",
+					"display_url": "pic.twitter.com/HSmUAFAaF3",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1213205451459960832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 588,
+							"h": 559,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 588,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 559,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 727,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 59404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "David Ortiz makes any day better https://t.co/vu9DKfysnq https://t.co/HSmUAFAaF3"
+	},
+	{
 		"created_at": "Thu Jan 02 23:36:49 +0000 2020",
 		"id": 1212880454489124900,
 		"id_str": "1212880454489124865",
