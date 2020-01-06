@@ -1,6 +1,1036 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 23:21:12 +0000 2020",
+		"id": 1213963688849358800,
+		"id_str": "1213963688849358850",
+		"full_text": "Secret of the Ooze https://t.co/HRq4riqwe2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HRq4riqwe2",
+					"expanded_url": "https://twitter.com/tmnt/status/1213959126440652802",
+					"display_url": "twitter.com/tmnt/status/12…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 727,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 59575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213959126440652800,
+		"quoted_status_id_str": "1213959126440652802",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HRq4riqwe2",
+			"expanded": "https://twitter.com/tmnt/status/1213959126440652802",
+			"display": "twitter.com/tmnt/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 05 23:03:04 +0000 2020",
+			"id": 1213959126440652800,
+			"id_str": "1213959126440652802",
+			"full_text": "you're stuck in a snowstorm with one of these... which do you choose? https://t.co/X7oOeSfNkh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1213959122506469400,
+						"id_str": "1213959122506469377",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/ENjZY9zX0AEa9jc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENjZY9zX0AEa9jc.jpg",
+						"url": "https://t.co/X7oOeSfNkh",
+						"display_url": "pic.twitter.com/X7oOeSfNkh",
+						"expanded_url": "https://twitter.com/TMNT/status/1213959126440652802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1202,
+								"h": 1198,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 678,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1196,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1213959122506469400,
+						"id_str": "1213959122506469377",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/ENjZY9zX0AEa9jc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENjZY9zX0AEa9jc.jpg",
+						"url": "https://t.co/X7oOeSfNkh",
+						"display_url": "pic.twitter.com/X7oOeSfNkh",
+						"expanded_url": "https://twitter.com/TMNT/status/1213959126440652802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1202,
+								"h": 1198,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 678,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1196,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Spredfast app</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262296989,
+				"id_str": "262296989",
+				"name": "TMNT",
+				"screen_name": "TMNT",
+				"location": "New York, NY",
+				"description": "From classic to current, the OFFICIAL Teenage Mutant Ninja Turtles account, as reported from inside the walls of Nickelodeon.",
+				"url": "https://t.co/hed48Pwkdq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hed48Pwkdq",
+								"expanded_url": "http://www.nick.com/tmnt",
+								"display_url": "nick.com/tmnt",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55893,
+				"friends_count": 174,
+				"listed_count": 311,
+				"created_at": "Mon Mar 07 19:41:26 +0000 2011",
+				"favourites_count": 3111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3C4042",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974730683087249408/JgFEVnn6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974730683087249408/JgFEVnn6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262296989/1551463249",
+				"profile_link_color": "41A82F",
+				"profile_sidebar_border_color": "BDE8B1",
+				"profile_sidebar_fill_color": "BBC3C7",
+				"profile_text_color": "3C6E42",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 513,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Secret of the Ooze https://t.co/HRq4riqwe2"
+	},
+	{
+		"created_at": "Sun Jan 05 14:10:11 +0000 2020",
+		"id": 1213825019178029000,
+		"id_str": "1213825019178029057",
+		"full_text": "This 👇 https://t.co/v4RpF67MYF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v4RpF67MYF",
+					"expanded_url": "https://twitter.com/zittrain/status/1213817167084437509",
+					"display_url": "twitter.com/zittrain/statu…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 727,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 59575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213817167084437500,
+		"quoted_status_id_str": "1213817167084437509",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v4RpF67MYF",
+			"expanded": "https://twitter.com/zittrain/status/1213817167084437509",
+			"display": "twitter.com/zittrain/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 05 13:38:58 +0000 2020",
+			"id": 1213817167084437500,
+			"id_str": "1213817167084437509",
+			"full_text": "What’s most amazing is that typical legal textbooks comprise mostly public domain material. That’s the highest price I’ve seen yet.\n\nWe are working to fix this: https://t.co/MfP0OKpS0x.  Cc @HarvardLIL https://t.co/I1sCUPDBqc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HarvardLIL",
+						"name": "lil (library innovation lab)",
+						"id": 338416941,
+						"id_str": "338416941",
+						"indices": [
+							190,
+							201
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MfP0OKpS0x",
+						"expanded_url": "http://opencasebook.org",
+						"display_url": "opencasebook.org",
+						"indices": [
+							161,
+							184
+						]
+					},
+					{
+						"url": "https://t.co/I1sCUPDBqc",
+						"expanded_url": "https://twitter.com/ellemarie76/status/1213493676296552448",
+						"display_url": "twitter.com/ellemarie76/st…",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1039531,
+				"id_str": "1039531",
+				"name": "Jonathan Zittrain",
+				"screen_name": "zittrain",
+				"location": "Cambridge, MA, USA",
+				"description": "A small creature who likes to run around in universities.  Prof. @Harvard_Law, @HSEAS, + @Kennedy_School; @EFF board mbr; director of @BKCHarvard and @HLSLib.",
+				"url": "https://t.co/kCHNpkLlu0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kCHNpkLlu0",
+								"expanded_url": "http://www.jz.org",
+								"display_url": "jz.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45793,
+				"friends_count": 7387,
+				"listed_count": 2571,
+				"created_at": "Mon Mar 12 20:31:27 +0000 2007",
+				"favourites_count": 1793,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5440,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/649437619114237953/o9Yf17Q6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/649437619114237953/o9Yf17Q6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1039531/1411700632",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1213493676296552400,
+			"quoted_status_id_str": "1213493676296552448",
+			"quoted_status_permalink": {
+				"url": "https://t.co/I1sCUPDBqc",
+				"expanded": "https://twitter.com/ellemarie76/status/1213493676296552448",
+				"display": "twitter.com/ellemarie76/st…"
+			},
+			"retweet_count": 35,
+			"favorite_count": 179,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This 👇 https://t.co/v4RpF67MYF"
+	},
+	{
+		"created_at": "Sun Jan 05 14:09:46 +0000 2020",
+		"id": 1213824917722009600,
+		"id_str": "1213824917722009602",
+		"full_text": "Even worse than the tuition was the insane book prices on top of it. After 1L only bought old editions and crossed my fingers. https://t.co/uh44d5AQox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uh44d5AQox",
+					"expanded_url": "https://twitter.com/ellemarie76/status/1213493676296552448",
+					"display_url": "twitter.com/ellemarie76/st…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 727,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 59575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213493676296552400,
+		"quoted_status_id_str": "1213493676296552448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uh44d5AQox",
+			"expanded": "https://twitter.com/ellemarie76/status/1213493676296552448",
+			"display": "twitter.com/ellemarie76/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 04 16:13:32 +0000 2020",
+			"id": 1213493676296552400,
+			"id_str": "1213493676296552448",
+			"full_text": "Love when professors update their textbook during the fall 2019 semester and the students in spring 2020 have to pay double the price for the updates https://t.co/zv9tCIOzN7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1213491756211290000,
+						"id_str": "1213491756211290112",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/ENcwUqrWwAAtZoi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENcwUqrWwAAtZoi.jpg",
+						"url": "https://t.co/zv9tCIOzN7",
+						"display_url": "pic.twitter.com/zv9tCIOzN7",
+						"expanded_url": "https://twitter.com/ellemarie76/status/1213493676296552448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1398,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 965,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1213491756211290000,
+						"id_str": "1213491756211290112",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/ENcwUqrWwAAtZoi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENcwUqrWwAAtZoi.jpg",
+						"url": "https://t.co/zv9tCIOzN7",
+						"display_url": "pic.twitter.com/zv9tCIOzN7",
+						"expanded_url": "https://twitter.com/ellemarie76/status/1213493676296552448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1398,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 965,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1213491756215472000,
+						"id_str": "1213491756215472129",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/ENcwUqsWkAEUEbK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENcwUqsWkAEUEbK.jpg",
+						"url": "https://t.co/zv9tCIOzN7",
+						"display_url": "pic.twitter.com/zv9tCIOzN7",
+						"expanded_url": "https://twitter.com/ellemarie76/status/1213493676296552448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 986,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1368,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 858112357817516000,
+				"id_str": "858112357817516032",
+				"name": "E.M.",
+				"screen_name": "ellemarie76",
+				"location": "Boston, MA",
+				"description": "law student-interested in criminal law, immigration, the Oxford comma, single spaces, and the bluebook",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 660,
+				"friends_count": 1770,
+				"listed_count": 3,
+				"created_at": "Sat Apr 29 00:15:03 +0000 2017",
+				"favourites_count": 16365,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3391,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876138428869607425/cFHbdt10_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876138428869607425/cFHbdt10_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/858112357817516032/1497722655",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 122,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even worse than the tuition was the insane book prices on top of it. After 1L only bought old editions and crossed my fingers. https://t.co/uh44d5AQox"
+	},
+	{
+		"created_at": "Sun Jan 05 14:07:27 +0000 2020",
+		"id": 1213824331349930000,
+		"id_str": "1213824331349929984",
+		"full_text": "@MikeBatesTWIBH They could almost have a movie airport hug",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeBatesTWIBH",
+					"name": "Mike Bates",
+					"id": 110911172,
+					"id_str": "110911172",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1213823619287138300,
+		"in_reply_to_status_id_str": "1213823619287138307",
+		"in_reply_to_user_id": 110911172,
+		"in_reply_to_user_id_str": "110911172",
+		"in_reply_to_screen_name": "MikeBatesTWIBH",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 727,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 59575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MikeBatesTWIBH They could almost have a movie airport hug"
+	},
+	{
 		"created_at": "Sun Jan 05 01:48:28 +0000 2020",
 		"id": 1213638361988128800,
 		"id_str": "1213638361988128768",
@@ -751,7 +1781,7 @@ Grailbird.data.tweets_2020_01 =
 		"created_at": "Sat Jan 04 19:32:26 +0000 2020",
 		"id": 1213540896001552400,
 		"id_str": "1213543729975435270",
-		"full_text": "Once again, @TheOnion appears disturbingly prescient. If you fast-forward this to 2019... 🤔🤷🏼‍♀️ (1/2)\nhttps://t.co/1XmiiBmTnr",
+		"full_text": "Once again, @TheOnion appears disturbingly prescient. If you fast-forward this to 2019... 🤔🤷🏼♀️ (1/2)\nhttps://t.co/1XmiiBmTnr",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -864,7 +1894,7 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Once again, @TheOnion appears disturbingly prescient. If you fast-forward this to 2019... 🤔🤷🏼‍♀️ (1/2)\nhttps://t.co/1XmiiBmTnr"
+		"text": "Once again, @TheOnion appears disturbingly prescient. If you fast-forward this to 2019... 🤔🤷🏼♀️ (1/2)\nhttps://t.co/1XmiiBmTnr"
 	},
 	{
 		"created_at": "Sat Jan 04 14:33:11 +0000 2020",
