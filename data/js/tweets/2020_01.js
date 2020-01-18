@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 22:53:53 +0000 2020",
+		"id": 1218305467862134800,
+		"id_str": "1218305467862134785",
+		"full_text": "https://t.co/esNRUZDg8U https://t.co/SFK0LCLm6o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/esNRUZDg8U",
+					"expanded_url": "https://twitter.com/rottentomatoes/status/1218272282226786304",
+					"display_url": "twitter.com/rottentomatoes…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218305462006964200,
+					"id_str": "1218305462006964224",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOhKXOLX4AAXtWO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOhKXOLX4AAXtWO.jpg",
+					"url": "https://t.co/SFK0LCLm6o",
+					"display_url": "pic.twitter.com/SFK0LCLm6o",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1218305467862134785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 214,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 214,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 214,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218305462006964200,
+					"id_str": "1218305462006964224",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOhKXOLX4AAXtWO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOhKXOLX4AAXtWO.jpg",
+					"url": "https://t.co/SFK0LCLm6o",
+					"display_url": "pic.twitter.com/SFK0LCLm6o",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1218305467862134785/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 214,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 214,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 214,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							122,
+							107
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EOhKXOLX4AAXtWO.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 727,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 60324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218272282226786300,
+		"quoted_status_id_str": "1218272282226786304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/esNRUZDg8U",
+			"expanded": "https://twitter.com/rottentomatoes/status/1218272282226786304",
+			"display": "twitter.com/rottentomatoes…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 20:42:01 +0000 2020",
+			"id": 1218272282226786300,
+			"id_str": "1218272282226786304",
+			"full_text": "National Treasure 3 is in the works at Disney. \n\n#BadBoysForLife screenwriter Chris Bremner will pen the script and Jerry Bruckheimer will return to produce the sequel to the Nicolas Cage classic. \n\nvia @THR https://t.co/dyWZZ5mgIc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BadBoysForLife",
+						"indices": [
+							49,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "THR",
+						"name": "The Hollywood Reporter",
+						"id": 17446621,
+						"id_str": "17446621",
+						"indices": [
+							203,
+							207
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1218272279378849800,
+						"id_str": "1218272279378849793",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/EOgsLvQU8AE0EqM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOgsLvQU8AE0EqM.jpg",
+						"url": "https://t.co/dyWZZ5mgIc",
+						"display_url": "pic.twitter.com/dyWZZ5mgIc",
+						"expanded_url": "https://twitter.com/RottenTomatoes/status/1218272282226786304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1134,
+								"h": 639,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1134,
+								"h": 639,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1218272279378849800,
+						"id_str": "1218272279378849793",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/EOgsLvQU8AE0EqM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOgsLvQU8AE0EqM.jpg",
+						"url": "https://t.co/dyWZZ5mgIc",
+						"display_url": "pic.twitter.com/dyWZZ5mgIc",
+						"expanded_url": "https://twitter.com/RottenTomatoes/status/1218272282226786304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1134,
+								"h": 639,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1134,
+								"h": 639,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20108560,
+				"id_str": "20108560",
+				"name": "Rotten Tomatoes",
+				"screen_name": "RottenTomatoes",
+				"location": "Los Angeles",
+				"description": "Vote now in our Golden Tomato Awards: https://t.co/OpfkpRludh",
+				"url": "https://t.co/kY8mEpg2hz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kY8mEpg2hz",
+								"expanded_url": "http://www.rottentomatoes.com",
+								"display_url": "rottentomatoes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OpfkpRludh",
+								"expanded_url": "https://editorial.rottentomatoes.com/rt-hub/golden-tomato-awards-best-movies-tv-of-2019/?cmp=TWRT_Edit_GTA_HubBio",
+								"display_url": "editorial.rottentomatoes.com/rt-hub/golden-…",
+								"indices": [
+									38,
+									61
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2241599,
+				"friends_count": 1388,
+				"listed_count": 14937,
+				"created_at": "Thu Feb 05 00:06:55 +0000 2009",
+				"favourites_count": 6848,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42297,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6EAE6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145693812464816128/9ZMAMaoT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145693812464816128/9ZMAMaoT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20108560/1577997268",
+				"profile_link_color": "FA320A",
+				"profile_sidebar_border_color": "A9A659",
+				"profile_sidebar_fill_color": "EBE9B6",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 405,
+			"favorite_count": 1854,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/esNRUZDg8U https://t.co/SFK0LCLm6o"
+	},
+	{
 		"created_at": "Thu Jan 16 23:06:08 +0000 2020",
 		"id": 1217946164466802700,
 		"id_str": "1217946164466802690",
