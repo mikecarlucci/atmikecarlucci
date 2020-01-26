@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 25 22:01:11 +0000 2020",
+		"id": 1221191311119802400,
+		"id_str": "1221191311119802370",
+		"full_text": "4A https://t.co/038NDmQ9zM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/038NDmQ9zM",
+					"expanded_url": "https://twitter.com/thaddeusprime/status/1220765540953677825",
+					"display_url": "twitter.com/thaddeusprime/…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4506,
+			"friends_count": 729,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 60726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1220765540953677800,
+		"quoted_status_id_str": "1220765540953677825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/038NDmQ9zM",
+			"expanded": "https://twitter.com/thaddeusprime/status/1220765540953677825",
+			"display": "twitter.com/thaddeusprime/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 24 17:49:20 +0000 2020",
+			"id": 1220765540953677800,
+			"id_str": "1220765540953677825",
+			"full_text": "4 C\nHow about you? https://t.co/tbic7WnxWQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				18
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1220765534146519000,
+						"id_str": "1220765534146519040",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/EPEHyRDX4AA-DV8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPEHyRDX4AA-DV8.jpg",
+						"url": "https://t.co/tbic7WnxWQ",
+						"display_url": "pic.twitter.com/tbic7WnxWQ",
+						"expanded_url": "https://twitter.com/thaddeusPrime/status/1220765540953677825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1315,
+								"h": 687,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1220765534146519000,
+						"id_str": "1220765534146519040",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/EPEHyRDX4AA-DV8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPEHyRDX4AA-DV8.jpg",
+						"url": "https://t.co/tbic7WnxWQ",
+						"display_url": "pic.twitter.com/tbic7WnxWQ",
+						"expanded_url": "https://twitter.com/thaddeusPrime/status/1220765540953677825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1315,
+								"h": 687,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 96716061,
+				"id_str": "96716061",
+				"name": "Thaddeus Prime 🤜💥🤛",
+				"screen_name": "thaddeusPrime",
+				"location": "Houston TX",
+				"description": "Father, bearded-gamer, sarcasm specialists, comic collector, GIF not JIF, bringer of shenanigans, & love me some Jesus. Co-host of @mulehorngaming podcast",
+				"url": "https://t.co/yUAZb2ddpU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yUAZb2ddpU",
+								"expanded_url": "http://mulehorngaming.com",
+								"display_url": "mulehorngaming.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2459,
+				"friends_count": 1920,
+				"listed_count": 102,
+				"created_at": "Mon Dec 14 07:29:07 +0000 2009",
+				"favourites_count": 97807,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 63854,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E9E9E9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1032313437278224384/54om_8pd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032313437278224384/54om_8pd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/96716061/1532738157",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "6C2022",
+				"profile_sidebar_fill_color": "BBBBBB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 200,
+			"favorite_count": 1790,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "4A https://t.co/038NDmQ9zM"
+	},
+	{
 		"created_at": "Fri Jan 24 23:24:33 +0000 2020",
 		"id": 1220849901015314400,
 		"id_str": "1220849901015314433",
