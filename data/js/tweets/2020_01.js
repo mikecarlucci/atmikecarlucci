@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 26 14:34:21 +0000 2020",
+		"id": 1221441247124054000,
+		"id_str": "1221441247124054017",
+		"full_text": "First person cast for the reboot https://t.co/6bkhmRZrAF https://t.co/ri5wsjbyq3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6bkhmRZrAF",
+					"expanded_url": "https://twitter.com/screaminwheat/status/1221079565377949701",
+					"display_url": "twitter.com/screaminwheat/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1221441240966758400,
+					"id_str": "1221441240966758402",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPNuVlHWAAIG_0L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPNuVlHWAAIG_0L.jpg",
+					"url": "https://t.co/ri5wsjbyq3",
+					"display_url": "pic.twitter.com/ri5wsjbyq3",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1221441247124054017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221441240966758400,
+					"id_str": "1221441240966758402",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPNuVlHWAAIG_0L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPNuVlHWAAIG_0L.jpg",
+					"url": "https://t.co/ri5wsjbyq3",
+					"display_url": "pic.twitter.com/ri5wsjbyq3",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1221441247124054017/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							109,
+							81
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EPNuVlHWAAIG_0L.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4507,
+			"friends_count": 728,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 60757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221079565377949700,
+		"quoted_status_id_str": "1221079565377949701",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6bkhmRZrAF",
+			"expanded": "https://twitter.com/screaminwheat/status/1221079565377949701",
+			"display": "twitter.com/screaminwheat/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 25 14:37:09 +0000 2020",
+			"id": 1221079565377949700,
+			"id_str": "1221079565377949701",
+			"full_text": "break the ninternet https://t.co/vfYR7gnz1f",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				19
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1221079562198704000,
+						"id_str": "1221079562198704128",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/EPIlZGtX4AAAP2_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPIlZGtX4AAAP2_.jpg",
+						"url": "https://t.co/vfYR7gnz1f",
+						"display_url": "pic.twitter.com/vfYR7gnz1f",
+						"expanded_url": "https://twitter.com/ScreaminWheat/status/1221079565377949701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 646,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 646,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221079562198704000,
+						"id_str": "1221079562198704128",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/EPIlZGtX4AAAP2_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPIlZGtX4AAAP2_.jpg",
+						"url": "https://t.co/vfYR7gnz1f",
+						"display_url": "pic.twitter.com/vfYR7gnz1f",
+						"expanded_url": "https://twitter.com/ScreaminWheat/status/1221079565377949701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 646,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 646,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21457733,
+				"id_str": "21457733",
+				"name": "rowdy peter pepper",
+				"screen_name": "ScreaminWheat",
+				"location": "Kansas City, MO",
+				"description": "suffering succotash, bylines @ComicBook, @WWEonCB",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1045,
+				"friends_count": 757,
+				"listed_count": 28,
+				"created_at": "Sat Feb 21 02:40:40 +0000 2009",
+				"favourites_count": 60935,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12124,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2867956944/5ca66cd6ef1e4ad2e2b6ce0c6dcffbe4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2867956944/5ca66cd6ef1e4ad2e2b6ce0c6dcffbe4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21457733/1571286307",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2220,
+			"favorite_count": 15188,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First person cast for the reboot https://t.co/6bkhmRZrAF https://t.co/ri5wsjbyq3"
+	},
+	{
 		"created_at": "Sat Jan 25 22:01:11 +0000 2020",
 		"id": 1221191311119802400,
 		"id_str": "1221191311119802370",
