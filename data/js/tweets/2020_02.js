@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 21:50:26 +0000 2020",
+		"id": 1226600749926191000,
+		"id_str": "1226624422913748992",
+		"full_text": "Still one of my favorite moments on this #NationalPizzaDay..... https://t.co/9hXOO92MG6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NationalPizzaDay",
+					"indices": [
+						41,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226584765547139000,
+					"id_str": "1226584765547139073",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226584765547139073/pu/img/aWxhQo5CptSLEXU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226584765547139073/pu/img/aWxhQo5CptSLEXU9.jpg",
+					"url": "https://t.co/9hXOO92MG6",
+					"display_url": "pic.twitter.com/9hXOO92MG6",
+					"expanded_url": "https://twitter.com/Ben13Porter/status/1226584796886900737/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 578,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 578,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 578,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1226584796886900700,
+					"source_status_id_str": "1226584796886900737",
+					"source_user_id": 329229530,
+					"source_user_id_str": "329229530"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226584765547139000,
+					"id_str": "1226584765547139073",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226584765547139073/pu/img/aWxhQo5CptSLEXU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226584765547139073/pu/img/aWxhQo5CptSLEXU9.jpg",
+					"url": "https://t.co/9hXOO92MG6",
+					"display_url": "pic.twitter.com/9hXOO92MG6",
+					"expanded_url": "https://twitter.com/Ben13Porter/status/1226584796886900737/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 578,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 578,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 578,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1226584796886900700,
+					"source_status_id_str": "1226584796886900737",
+					"source_user_id": 329229530,
+					"source_user_id_str": "329229530",
+					"video_info": {
+						"aspect_ratio": [
+							289,
+							180
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226584765547139073/pu/vid/432x270/2xpwT0BMvGtWCnd4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1226584765547139073/pu/pl/HUvQlAp1bfzU2lo7.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226584765547139073/pu/vid/578x360/ETEKHYTktCJ9jyI8.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 329229530,
+							"id_str": "329229530",
+							"name": "Ben Porter",
+							"screen_name": "Ben13Porter",
+							"location": "Newton, MA | Philly, PA",
+							"description": "Laughs are cheap, I'm going for gasps",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6555,
+							"friends_count": 967,
+							"listed_count": 37,
+							"created_at": "Mon Jul 04 18:48:17 +0000 2011",
+							"favourites_count": 16526,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 12068,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/626820146775093248/vPWTj6bm_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/626820146775093248/vPWTj6bm_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/329229530/1530113453",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28177043,
+			"id_str": "28177043",
+			"name": "Don Orsillo",
+			"screen_name": "DonOrsillo",
+			"location": "",
+			"description": "TV Play-By-Play San Diego Padres, MLB on TBS, MLB on FOX. Boston Red Sox 2001-2015. 8-Time MLB Post Season Announcer on TBS.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499600,
+			"friends_count": 1250,
+			"listed_count": 1000,
+			"created_at": "Wed Apr 01 19:42:24 +0000 2009",
+			"favourites_count": 991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120472310782341120/CRaiYJAl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120472310782341120/CRaiYJAl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28177043/1491717788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 579,
+		"favorite_count": 3096,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still one of my favorite moments on this #NationalPizzaDay..... https://t.co/9hXOO92MG6"
+	},
+	{
 		"created_at": "Sun Feb 09 03:04:26 +0000 2020",
 		"id": 1226341054821126100,
 		"id_str": "1226341054821126146",
