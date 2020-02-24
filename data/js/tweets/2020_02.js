@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 23 19:33:04 +0000 2020",
+		"id": 1231663281435218000,
+		"id_str": "1231663281435217924",
+		"full_text": "My voice is my passport. Verify me. https://t.co/NsBVvJUSUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NsBVvJUSUX",
+					"expanded_url": "https://twitter.com/annehelen/status/1231617484316430337",
+					"display_url": "twitter.com/annehelen/stat…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 729,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 62788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1231617484316430300,
+		"quoted_status_id_str": "1231617484316430337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NsBVvJUSUX",
+			"expanded": "https://twitter.com/annehelen/status/1231617484316430337",
+			"display": "twitter.com/annehelen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 23 16:31:05 +0000 2020",
+			"id": 1231617484316430300,
+			"id_str": "1231617484316430337",
+			"full_text": "Watched SNEAKERS (a movie I had memorized in my teens) for the first time in a long time last night, and you know what, that shit HOLDS UP https://t.co/HtZciDMSz3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1231617446504784000,
+						"id_str": "1231617446504783878",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/EReVis4XYAYhCLi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EReVis4XYAYhCLi.jpg",
+						"url": "https://t.co/HtZciDMSz3",
+						"display_url": "pic.twitter.com/HtZciDMSz3",
+						"expanded_url": "https://twitter.com/annehelen/status/1231617484316430337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 445,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 654,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 654,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1231617446504784000,
+						"id_str": "1231617446504783878",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/EReVis4XYAYhCLi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EReVis4XYAYhCLi.jpg",
+						"url": "https://t.co/HtZciDMSz3",
+						"display_url": "pic.twitter.com/HtZciDMSz3",
+						"expanded_url": "https://twitter.com/annehelen/status/1231617484316430337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 445,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 654,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 654,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16714443,
+				"id_str": "16714443",
+				"name": "Anne Helen Petersen",
+				"screen_name": "annehelen",
+				"location": "Missoula, MT",
+				"description": "Senior Culture Writer / Western Correspondent  @BuzzFeedNews. Idahoan. She/her. anne.helen.petersen@buzzfeed.com",
+				"url": "https://t.co/vxnmfVwSvk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vxnmfVwSvk",
+								"expanded_url": "https://annehelen.substack.com/",
+								"display_url": "annehelen.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88597,
+				"friends_count": 982,
+				"listed_count": 1715,
+				"created_at": "Mon Oct 13 01:11:40 +0000 2008",
+				"favourites_count": 55140,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24728,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1153838798993670144/J27RHvqN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153838798993670144/J27RHvqN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16714443/1509588775",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "CE7834",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101,
+			"favorite_count": 2040,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My voice is my passport. Verify me. https://t.co/NsBVvJUSUX"
+	},
+	{
 		"created_at": "Sat Feb 22 21:47:44 +0000 2020",
 		"id": 1231334784921690000,
 		"id_str": "1231334784921690113",
