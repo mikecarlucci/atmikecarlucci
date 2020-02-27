@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 21:33:50 +0000 2020",
+		"id": 1232780837818634200,
+		"id_str": "1232780837818634242",
+		"full_text": "@maro254 All I really want is to use this as a commander https://t.co/NufxGaBdX0 https://t.co/TVIeig6Gn3",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maro254",
+					"name": "Mark Rosewater",
+					"id": 14817235,
+					"id_str": "14817235",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NufxGaBdX0",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1232734892838047745?s=21",
+					"display_url": "twitter.com/mikecarlucci/s…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/TVIeig6Gn3",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1232734892838047745",
+					"display_url": "twitter.com/mikecarlucci/s…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1232734038906949600,
+		"in_reply_to_status_id_str": "1232734038906949632",
+		"in_reply_to_user_id": 14817235,
+		"in_reply_to_user_id_str": "14817235",
+		"in_reply_to_screen_name": "maro254",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 729,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 63003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232734892838047700,
+		"quoted_status_id_str": "1232734892838047745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TVIeig6Gn3",
+			"expanded": "https://twitter.com/mikecarlucci/status/1232734892838047745",
+			"display": "twitter.com/mikecarlucci/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 26 18:31:16 +0000 2020",
+			"id": 1232734892838047700,
+			"id_str": "1232734892838047745",
+			"full_text": "@wizards_magic @ALRadeck The longer it’s been since it started (1997) the more and more it’s Old Fogey https://t.co/LIq7rRHKPj",
+			"truncated": false,
+			"display_text_range": [
+				25,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wizards_magic",
+						"name": "Magic: The Gathering",
+						"id": 204870137,
+						"id_str": "204870137",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "ALRadeck",
+						"name": "Andrea Radeck",
+						"id": 209423501,
+						"id_str": "209423501",
+						"indices": [
+							15,
+							24
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1232734887460819000,
+						"id_str": "1232734887460818945",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/ERuN2U1VUAEpD80.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERuN2U1VUAEpD80.jpg",
+						"url": "https://t.co/LIq7rRHKPj",
+						"display_url": "pic.twitter.com/LIq7rRHKPj",
+						"expanded_url": "https://twitter.com/mikecarlucci/status/1232734892838047745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232734887460819000,
+						"id_str": "1232734887460818945",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/ERuN2U1VUAEpD80.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERuN2U1VUAEpD80.jpg",
+						"url": "https://t.co/LIq7rRHKPj",
+						"display_url": "pic.twitter.com/LIq7rRHKPj",
+						"expanded_url": "https://twitter.com/mikecarlucci/status/1232734892838047745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1232727411801960400,
+			"in_reply_to_status_id_str": "1232727411801960450",
+			"in_reply_to_user_id": 204870137,
+			"in_reply_to_user_id_str": "204870137",
+			"in_reply_to_screen_name": "wizards_magic",
+			"user": {
+				"id": 90161583,
+				"id_str": "90161583",
+				"name": "Mike Carlucci",
+				"screen_name": "mikecarlucci",
+				"location": "Boston, MA",
+				"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+				"url": "https://t.co/AvA6PiVYL1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AvA6PiVYL1",
+								"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+								"display_url": "sbnation.com/users/mikecarl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4511,
+				"friends_count": 729,
+				"listed_count": 49,
+				"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+				"favourites_count": 63003,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17544,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+				"profile_link_color": "0A0AFF",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EDE8ED",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@maro254 All I really want is to use this as a commander https://t.co/NufxGaBdX0 https://t.co/TVIeig6Gn3"
+	},
+	{
+		"created_at": "Wed Feb 26 18:31:16 +0000 2020",
+		"id": 1232734892838047700,
+		"id_str": "1232734892838047745",
+		"full_text": "@wizards_magic @ALRadeck The longer it’s been since it started (1997) the more and more it’s Old Fogey https://t.co/LIq7rRHKPj",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wizards_magic",
+					"name": "Magic: The Gathering",
+					"id": 204870137,
+					"id_str": "204870137",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ALRadeck",
+					"name": "Andrea Radeck",
+					"id": 209423501,
+					"id_str": "209423501",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232734887460819000,
+					"id_str": "1232734887460818945",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/ERuN2U1VUAEpD80.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERuN2U1VUAEpD80.jpg",
+					"url": "https://t.co/LIq7rRHKPj",
+					"display_url": "pic.twitter.com/LIq7rRHKPj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1232734892838047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232734887460819000,
+					"id_str": "1232734887460818945",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/ERuN2U1VUAEpD80.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERuN2U1VUAEpD80.jpg",
+					"url": "https://t.co/LIq7rRHKPj",
+					"display_url": "pic.twitter.com/LIq7rRHKPj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1232734892838047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1232727411801960400,
+		"in_reply_to_status_id_str": "1232727411801960450",
+		"in_reply_to_user_id": 204870137,
+		"in_reply_to_user_id_str": "204870137",
+		"in_reply_to_screen_name": "wizards_magic",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 729,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 63003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@wizards_magic @ALRadeck The longer it’s been since it started (1997) the more and more it’s Old Fogey https://t.co/LIq7rRHKPj"
+	},
+	{
+		"created_at": "Wed Feb 26 17:19:33 +0000 2020",
+		"id": 1232649015419973600,
+		"id_str": "1232716845607636992",
+		"full_text": "Kazuhisa Hashimoto, creator of the famous #KonamiCode introduced in 1986 in Gradius for the NES, has passed away at the age of 61. Thanks to give us that gift for the players in games like #Contra, #Gradius and many games... https://t.co/QHgeZFEKV5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KonamiCode",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"text": "Contra",
+					"indices": [
+						189,
+						196
+					]
+				},
+				{
+					"text": "Gradius",
+					"indices": [
+						198,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232649010319626200,
+					"id_str": "1232649010319626243",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/ERs_vnjWkAMLSXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERs_vnjWkAMLSXb.jpg",
+					"url": "https://t.co/QHgeZFEKV5",
+					"display_url": "pic.twitter.com/QHgeZFEKV5",
+					"expanded_url": "https://twitter.com/SeanTrebek/status/1232649015419973632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232649010319626200,
+					"id_str": "1232649010319626243",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/ERs_vnjWkAMLSXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERs_vnjWkAMLSXb.jpg",
+					"url": "https://t.co/QHgeZFEKV5",
+					"display_url": "pic.twitter.com/QHgeZFEKV5",
+					"expanded_url": "https://twitter.com/SeanTrebek/status/1232649015419973632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1151818348054876200,
+			"id_str": "1151818348054876161",
+			"name": "Sean Trebek",
+			"screen_name": "SeanTrebek",
+			"location": "",
+			"description": "Variety @Twitch streamer 🎮 #MetalGearSolid #SilentHill enthusiast (#videogames in general). Timmy ❤️ (22/11/2010 - 29/12/2019)",
+			"url": "https://t.co/14FmNgubrx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/14FmNgubrx",
+							"expanded_url": "https://www.twitch.tv/seantrebek",
+							"display_url": "twitch.tv/seantrebek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 49,
+			"listed_count": 2,
+			"created_at": "Thu Jul 18 11:37:48 +0000 2019",
+			"favourites_count": 915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220160648279199751/JBAHoOCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220160648279199751/JBAHoOCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1151818348054876161/1564252292",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 543,
+		"favorite_count": 1088,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kazuhisa Hashimoto, creator of the famous #KonamiCode introduced in 1986 in Gradius for the NES, has passed away at the age of 61. Thanks to give us that gift for the players in games like #Contra, #Gradius and many games... https://t.co/QHgeZFEKV5"
+	},
+	{
 		"created_at": "Wed Feb 26 02:08:42 +0000 2020",
 		"id": 1232487623177863200,
 		"id_str": "1232487623177863168",
@@ -1228,7 +1946,7 @@ Grailbird.data.tweets_2020_02 =
 			"created_at": "Sun Feb 23 12:35:51 +0000 2020",
 			"id": 1231558285087539200,
 			"id_str": "1231558285087539201",
-			"full_text": "Wow! Looks like MLB has discovered you can knit things out of baseball yarn! What a GREAT idea! (Wonder how they thought of it...? 🤔🧶🤦🏼‍♀️)\nhttps://t.co/u1nFzqJgTc https://t.co/AmP89KMguU",
+			"full_text": "Wow! Looks like MLB has discovered you can knit things out of baseball yarn! What a GREAT idea! (Wonder how they thought of it...? 🤔🧶🤦🏼♀️)\nhttps://t.co/u1nFzqJgTc https://t.co/AmP89KMguU",
 			"truncated": false,
 			"display_text_range": [
 				0,
