@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 22:02:05 +0000 2020",
+		"id": 1234599888949858300,
+		"id_str": "1234599888949858310",
+		"full_text": "@DSzymborski You hope that but then Stickybuns III is playing first base for the Blue Jays",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DSzymborski",
+					"name": "Dan Szymborski",
+					"id": 44929255,
+					"id_str": "44929255",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1234598760082235400,
+		"in_reply_to_status_id_str": "1234598760082235392",
+		"in_reply_to_user_id": 44929255,
+		"in_reply_to_user_id_str": "44929255",
+		"in_reply_to_screen_name": "DSzymborski",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4510,
+			"friends_count": 730,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 63239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DSzymborski You hope that but then Stickybuns III is playing first base for the Blue Jays"
+	},
+	{
+		"created_at": "Mon Mar 02 18:01:59 +0000 2020",
+		"id": 1234539463205937200,
+		"id_str": "1234539463205937152",
+		"full_text": "https://t.co/HnVaTaXmw9 https://t.co/GaRvLb9CYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HnVaTaXmw9",
+					"expanded_url": "https://twitter.com/mlcalderone/status/1234526185062830081",
+					"display_url": "twitter.com/mlcalderone/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234539455324786700,
+					"id_str": "1234539455324786691",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESH3F__WkAMFOy8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESH3F__WkAMFOy8.jpg",
+					"url": "https://t.co/GaRvLb9CYe",
+					"display_url": "pic.twitter.com/GaRvLb9CYe",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1234539463205937152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234539455324786700,
+					"id_str": "1234539455324786691",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESH3F__WkAMFOy8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESH3F__WkAMFOy8.jpg",
+					"url": "https://t.co/GaRvLb9CYe",
+					"display_url": "pic.twitter.com/GaRvLb9CYe",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1234539463205937152/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ESH3F__WkAMFOy8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4510,
+			"friends_count": 730,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 63239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234526185062830000,
+		"quoted_status_id_str": "1234526185062830081",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HnVaTaXmw9",
+			"expanded": "https://twitter.com/mlcalderone/status/1234526185062830081",
+			"display": "twitter.com/mlcalderone/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 02 17:09:13 +0000 2020",
+			"id": 1234526185062830000,
+			"id_str": "1234526185062830081",
+			"full_text": "There's a quadrennial journalism discussion around whether to vote or not. @peterbakernyt on why he doesn't https://t.co/GNe7x38IGn https://t.co/9a0rbmZLNN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "peterbakernyt",
+						"name": "Peter Baker",
+						"id": 123327472,
+						"id_str": "123327472",
+						"indices": [
+							75,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GNe7x38IGn",
+						"expanded_url": "https://nyti.ms/2wixqnw",
+						"display_url": "nyti.ms/2wixqnw",
+						"indices": [
+							108,
+							131
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1234526034831298600,
+						"id_str": "1234526034831298565",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/ESHq40wXUAUtIb7.png",
+						"media_url_https": "https://pbs.twimg.com/media/ESHq40wXUAUtIb7.png",
+						"url": "https://t.co/9a0rbmZLNN",
+						"display_url": "pic.twitter.com/9a0rbmZLNN",
+						"expanded_url": "https://twitter.com/mlcalderone/status/1234526185062830081/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 620,
+								"h": 303,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 303,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 620,
+								"h": 303,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1234526034831298600,
+						"id_str": "1234526034831298565",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/ESHq40wXUAUtIb7.png",
+						"media_url_https": "https://pbs.twimg.com/media/ESHq40wXUAUtIb7.png",
+						"url": "https://t.co/9a0rbmZLNN",
+						"display_url": "pic.twitter.com/9a0rbmZLNN",
+						"expanded_url": "https://twitter.com/mlcalderone/status/1234526185062830081/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 620,
+								"h": 303,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 303,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 620,
+								"h": 303,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63004503,
+				"id_str": "63004503",
+				"name": "Michael Calderone",
+				"screen_name": "mlcalderone",
+				"location": "Brooklyn, NY",
+				"description": "Senior editor, @VFHIVE. Covered media and politics for Politico, HuffPost, NY Observer; taught at NYU, Princeton. michael_calderone@condenast.com",
+				"url": "https://t.co/2fk6nCM0cZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2fk6nCM0cZ",
+								"expanded_url": "http://michaelcalderone.com",
+								"display_url": "michaelcalderone.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80407,
+				"friends_count": 2946,
+				"listed_count": 2932,
+				"created_at": "Wed Aug 05 02:23:01 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28593,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888555899404652546/hvfkqsom_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888555899404652546/hvfkqsom_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63004503/1481499293",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 86,
+			"favorite_count": 325,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/HnVaTaXmw9 https://t.co/GaRvLb9CYe"
+	},
+	{
 		"created_at": "Sun Mar 01 20:31:43 +0000 2020",
 		"id": 1234214758968123400,
 		"id_str": "1234214758968123394",
