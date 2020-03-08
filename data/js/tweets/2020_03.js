@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 18:31:29 +0000 2020",
+		"id": 1236358827165061000,
+		"id_str": "1236358827165061121",
+		"full_text": "@baetog_ Tempest \nInvasion\nCommander\nTinker\nDack Fayden",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baetog_",
+					"name": "Rachel Agnes",
+					"id": 3642525558,
+					"id_str": "3642525558",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1236339604690616300,
+		"in_reply_to_status_id_str": "1236339604690616320",
+		"in_reply_to_user_id": 3642525558,
+		"in_reply_to_user_id_str": "3642525558",
+		"in_reply_to_screen_name": "baetog_",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 729,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 63673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@baetog_ Tempest \nInvasion\nCommander\nTinker\nDack Fayden"
+	},
+	{
+		"created_at": "Sat Mar 07 18:19:47 +0000 2020",
+		"id": 1236355883262673000,
+		"id_str": "1236355883262672896",
+		"full_text": "All I can think of https://t.co/NAht5wNJii https://t.co/rVuDRh1AgT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NAht5wNJii",
+					"expanded_url": "https://twitter.com/sarahmucha/status/1236341099985358849",
+					"display_url": "twitter.com/sarahmucha/sta…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236355848248721400,
+					"id_str": "1236355848248721408",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EShrF-7XgAA4Hjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EShrF-7XgAA4Hjv.jpg",
+					"url": "https://t.co/rVuDRh1AgT",
+					"display_url": "pic.twitter.com/rVuDRh1AgT",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1236355883262672896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 440,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 440,
+							"h": 292,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236355848248721400,
+					"id_str": "1236355848248721408",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EShrF-7XgAA4Hjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EShrF-7XgAA4Hjv.jpg",
+					"url": "https://t.co/rVuDRh1AgT",
+					"display_url": "pic.twitter.com/rVuDRh1AgT",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1236355883262672896/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 440,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 440,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							73
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EShrF-7XgAA4Hjv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4511,
+			"friends_count": 729,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 63673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236341099985358800,
+		"quoted_status_id_str": "1236341099985358849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NAht5wNJii",
+			"expanded": "https://twitter.com/sarahmucha/status/1236341099985358849",
+			"display": "twitter.com/sarahmucha/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 07 17:21:03 +0000 2020",
+			"id": 1236341099985358800,
+			"id_str": "1236341099985358849",
+			"full_text": "There are Joementum signs at the St. Louis @JoeBiden rally https://t.co/d7cudwIALy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JoeBiden",
+						"name": "Joe Biden (Text Join to 30330)",
+						"id": 939091,
+						"id_str": "939091",
+						"indices": [
+							43,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236341093542891500,
+						"id_str": "1236341093542891521",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/EShdrJXXkAEXKW_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EShdrJXXkAEXKW_.jpg",
+						"url": "https://t.co/d7cudwIALy",
+						"display_url": "pic.twitter.com/d7cudwIALy",
+						"expanded_url": "https://twitter.com/sarahmucha/status/1236341099985358849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236341093542891500,
+						"id_str": "1236341093542891521",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/EShdrJXXkAEXKW_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EShdrJXXkAEXKW_.jpg",
+						"url": "https://t.co/d7cudwIALy",
+						"display_url": "pic.twitter.com/d7cudwIALy",
+						"expanded_url": "https://twitter.com/sarahmucha/status/1236341099985358849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1141039176,
+				"id_str": "1141039176",
+				"name": "Sarah Mucha",
+				"screen_name": "sarahmucha",
+				"location": "The Campaign Trail ✈️",
+				"description": "On the road for @CNN covering the 2020 election and @JoeBiden | Pulitzer Prize-reading journalist. I’m better at Instagram. Hoya Saxa sarah.mucha@cnn.com",
+				"url": "https://t.co/PfJpiuO2fB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PfJpiuO2fB",
+								"expanded_url": "http://instagram.com/sarahemucha",
+								"display_url": "instagram.com/sarahemucha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3876,
+				"friends_count": 860,
+				"listed_count": 126,
+				"created_at": "Sat Feb 02 00:10:46 +0000 2013",
+				"favourites_count": 3588,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3425,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "560820",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1121075995967197184/e4dcUzhN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121075995967197184/e4dcUzhN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141039176/1500085361",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "FBFAFF",
+				"profile_sidebar_fill_color": "FF5989",
+				"profile_text_color": "F6DD5F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 235,
+			"favorite_count": 869,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All I can think of https://t.co/NAht5wNJii https://t.co/rVuDRh1AgT"
+	},
+	{
 		"created_at": "Sat Mar 07 02:33:29 +0000 2020",
 		"id": 1236117736834596900,
 		"id_str": "1236117736834596869",
