@@ -1,6 +1,846 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 19:41:46 +0000 2020",
+		"id": 1237826067156496400,
+		"id_str": "1237826067156496384",
+		"full_text": "@DSzymborski But what about the Rockies of our hopes and dreams? https://t.co/WFmY15UEtQ",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DSzymborski",
+					"name": "Dan Szymborski",
+					"id": 44929255,
+					"id_str": "44929255",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237826060823060500,
+					"id_str": "1237826060823060480",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ES2kPnkUYAAGq2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ES2kPnkUYAAGq2F.jpg",
+					"url": "https://t.co/WFmY15UEtQ",
+					"display_url": "pic.twitter.com/WFmY15UEtQ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1237826067156496384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237826060823060500,
+					"id_str": "1237826060823060480",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ES2kPnkUYAAGq2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ES2kPnkUYAAGq2F.jpg",
+					"url": "https://t.co/WFmY15UEtQ",
+					"display_url": "pic.twitter.com/WFmY15UEtQ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1237826067156496384/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ES2kPnkUYAAGq2F.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1237821032058228700,
+		"in_reply_to_status_id_str": "1237821032058228737",
+		"in_reply_to_user_id": 44929255,
+		"in_reply_to_user_id_str": "44929255",
+		"in_reply_to_screen_name": "DSzymborski",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 730,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 63957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DSzymborski But what about the Rockies of our hopes and dreams? https://t.co/WFmY15UEtQ"
+	},
+	{
+		"created_at": "Wed Mar 11 19:37:17 +0000 2020",
+		"id": 1237821555712897000,
+		"id_str": "1237824937831743488",
+		"full_text": "Nomar never retired. He just decided to give others a chance. https://t.co/P5rapzG9f7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P5rapzG9f7",
+					"expanded_url": "https://twitter.com/jgolen/status/1237439800845774849",
+					"display_url": "twitter.com/jgolen/status/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19968995,
+			"id_str": "19968995",
+			"name": "Chad Finn",
+			"screen_name": "GlobeChadFinn",
+			"location": "Maine or Morrissey Blvd. ... er. State Street",
+			"description": "Globe sports media columnist. Globe/Boston,com online columnist. Supreme analyst. Convicted sentimentalist. Over-40 victim of fate. BBWAAer. Black Bear. Uncool",
+			"url": "https://t.co/fpDZc34ph4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fpDZc34ph4",
+							"expanded_url": "https://www.bostonglobe.com/staff/finn",
+							"display_url": "bostonglobe.com/staff/finn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37403,
+			"friends_count": 3241,
+			"listed_count": 1372,
+			"created_at": "Tue Feb 03 13:04:16 +0000 2009",
+			"favourites_count": 72323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 90767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/712051116465381378/stbT5FBa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/712051116465381378/stbT5FBa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19968995/1398782986",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237439800845774800,
+		"quoted_status_id_str": "1237439800845774849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/P5rapzG9f7",
+			"expanded": "https://twitter.com/jgolen/status/1237439800845774849",
+			"display": "twitter.com/jgolen/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 10 18:06:53 +0000 2020",
+			"id": 1237439800845774800,
+			"id_str": "1237439800845774849",
+			"full_text": "According to my Facebook \"on this day\" feature, it is the 10th anniversary of Nomar Garciaparra retiring. cc: @GlobeChadFinn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GlobeChadFinn",
+						"name": "Chad Finn",
+						"id": 19968995,
+						"id_str": "19968995",
+						"indices": [
+							110,
+							124
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24297208,
+				"id_str": "24297208",
+				"name": "Jimmy Golen",
+				"screen_name": "jgolen",
+				"location": "Boston",
+				"description": "\"Perfect.\" --Deadspin.",
+				"url": "https://t.co/ZUfQc6Ek2u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZUfQc6Ek2u",
+								"expanded_url": "http://apnews.com/search/jimmy%20golen",
+								"display_url": "apnews.com/search/jimmy%2…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1399,
+				"friends_count": 990,
+				"listed_count": 114,
+				"created_at": "Sat Mar 14 01:02:16 +0000 2009",
+				"favourites_count": 4932,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7727,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9A9BE6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/754340062624645120/HQfGRHUG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/754340062624645120/HQfGRHUG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24297208/1416796343",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nomar never retired. He just decided to give others a chance. https://t.co/P5rapzG9f7"
+	},
+	{
+		"created_at": "Wed Mar 11 17:59:09 +0000 2020",
+		"id": 1237800241472180200,
+		"id_str": "1237800241472180224",
+		"full_text": "Rich Hill day! \nCC: @EWPod https://t.co/m1JzfBMbXb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EWPod",
+					"name": "Effectively Wild Pod",
+					"id": 2882400794,
+					"id_str": "2882400794",
+					"indices": [
+						20,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m1JzfBMbXb",
+					"expanded_url": "https://twitter.com/baseball_ref/status/1237785833857593344",
+					"display_url": "twitter.com/baseball_ref/s…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 730,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 63957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237785833857593300,
+		"quoted_status_id_str": "1237785833857593344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m1JzfBMbXb",
+			"expanded": "https://twitter.com/baseball_ref/status/1237785833857593344",
+			"display": "twitter.com/baseball_ref/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 11 17:01:54 +0000 2020",
+			"id": 1237785833857593300,
+			"id_str": "1237785833857593344",
+			"full_text": "Born on this date: Bobby Abreu, Rich Hill, Steve Reed, Dan Uggla, Pedro Baez, Phil Bradley... see more: https://t.co/vuVx0hb5NX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vuVx0hb5NX",
+						"expanded_url": "https://www.baseball-reference.com/friv/birthdays.cgi?month=03&day=11",
+						"display_url": "baseball-reference.com/friv/birthdays…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68449573,
+				"id_str": "68449573",
+				"name": "Baseball Reference",
+				"screen_name": "baseball_ref",
+				"location": "Philly PA",
+				"description": "I'm a website devoted to baseball stats and history. Founded in 2000. Part of the @sports_ref family of sites",
+				"url": "http://t.co/HtW1YLgb1m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HtW1YLgb1m",
+								"expanded_url": "http://www.baseball-reference.com",
+								"display_url": "baseball-reference.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 213729,
+				"friends_count": 685,
+				"listed_count": 4791,
+				"created_at": "Mon Aug 24 16:45:51 +0000 2009",
+				"favourites_count": 15527,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 74577,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CC5A62",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849301979994234880/V9SybF8H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849301979994234880/V9SybF8H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/68449573/1572727183",
+				"profile_link_color": "04428A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "69BAF4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rich Hill day! \nCC: @EWPod https://t.co/m1JzfBMbXb"
+	},
+	{
+		"created_at": "Wed Mar 11 15:52:17 +0000 2020",
+		"id": 1237768315990421500,
+		"id_str": "1237768315990421504",
+		"full_text": "@baseball_ref Can we get Dan Johnson's nickname \"The Great Pumpkin\" added to his profile? Even have a wiki source for authenticity https://t.co/giWu4fPqie https://t.co/Gzb8UZzMTF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baseball_ref",
+					"name": "Baseball Reference",
+					"id": 68449573,
+					"id_str": "68449573",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/giWu4fPqie",
+					"expanded_url": "https://en.wikipedia.org/wiki/Great_Pumpkin#Dan_Johnson",
+					"display_url": "en.wikipedia.org/wiki/Great_Pum…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237768211346550800,
+					"id_str": "1237768211346550784",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ES1voVeU8AAdGSl.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES1voVeU8AAdGSl.png",
+					"url": "https://t.co/Gzb8UZzMTF",
+					"display_url": "pic.twitter.com/Gzb8UZzMTF",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1237768315990421504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 349,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 847,
+							"h": 349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237768211346550800,
+					"id_str": "1237768211346550784",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ES1voVeU8AAdGSl.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES1voVeU8AAdGSl.png",
+					"url": "https://t.co/Gzb8UZzMTF",
+					"display_url": "pic.twitter.com/Gzb8UZzMTF",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1237768315990421504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 349,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 847,
+							"h": 349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 68449573,
+		"in_reply_to_user_id_str": "68449573",
+		"in_reply_to_screen_name": "baseball_ref",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 730,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 63957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@baseball_ref Can we get Dan Johnson's nickname \"The Great Pumpkin\" added to his profile? Even have a wiki source for authenticity https://t.co/giWu4fPqie https://t.co/Gzb8UZzMTF"
+	},
+	{
 		"created_at": "Tue Mar 10 22:08:26 +0000 2020",
 		"id": 1237500588771991600,
 		"id_str": "1237500588771991554",
