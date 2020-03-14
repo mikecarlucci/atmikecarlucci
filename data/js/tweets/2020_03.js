@@ -1,6 +1,776 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 02:58:50 +0000 2020",
+		"id": 1238572657278431200,
+		"id_str": "1238660833363865600",
+		"full_text": "In these days of anxiety, I wanted to find a way to continue to share some of the music that gives me comfort. The first of my #SongsOfComfort: Dvořák – \"Going Home” \n\nStay safe. https://t.co/S28w6OlXiZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SongsOfComfort",
+					"indices": [
+						127,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238572548738162700,
+					"id_str": "1238572548738162688",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238572548738162688/pu/img/JxqjMZENMB3X6bJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238572548738162688/pu/img/JxqjMZENMB3X6bJq.jpg",
+					"url": "https://t.co/S28w6OlXiZ",
+					"display_url": "pic.twitter.com/S28w6OlXiZ",
+					"expanded_url": "https://twitter.com/YoYo_Ma/status/1238572657278431234/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238572548738162700,
+					"id_str": "1238572548738162688",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238572548738162688/pu/img/JxqjMZENMB3X6bJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238572548738162688/pu/img/JxqjMZENMB3X6bJq.jpg",
+					"url": "https://t.co/S28w6OlXiZ",
+					"display_url": "pic.twitter.com/S28w6OlXiZ",
+					"expanded_url": "https://twitter.com/YoYo_Ma/status/1238572657278431234/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"duration_millis": 107700,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238572548738162688/pu/vid/720x360/sJMXn27KPh3PieFv.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238572548738162688/pu/vid/1440x720/JheLHYDUEV-aSyRd.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238572548738162688/pu/pl/Nqh-M29HQCBrxz8J.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238572548738162688/pu/vid/540x270/1pD-G8buaCIIsCOm.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740821001,
+			"id_str": "2740821001",
+			"name": "Yo-Yo Ma",
+			"screen_name": "YoYo_Ma",
+			"location": "",
+			"description": "#Cellist asking how #CultureConnectsUs",
+			"url": "https://t.co/M64fOcTPeS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M64fOcTPeS",
+							"expanded_url": "http://GoatRodeo.lnk.to/NotOurFirst",
+							"display_url": "GoatRodeo.lnk.to/NotOurFirst",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60028,
+			"friends_count": 226,
+			"listed_count": 632,
+			"created_at": "Mon Aug 18 00:02:38 +0000 2014",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010136332977385472/wgLjPIvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010136332977385472/wgLjPIvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740821001/1584123221",
+			"profile_link_color": "343D60",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21432,
+		"favorite_count": 52628,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In these days of anxiety, I wanted to find a way to continue to share some of the music that gives me comfort. The first of my #SongsOfComfort: Dvořák – \"Going Home” \n\nStay safe. https://t.co/S28w6OlXiZ"
+	},
+	{
+		"created_at": "Sat Mar 14 02:55:18 +0000 2020",
+		"id": 1238659942690836500,
+		"id_str": "1238659942690836480",
+		"full_text": "@OneSteeleSister Hmmm. Could be!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneSteeleSister",
+					"name": "Tierney",
+					"id": 232980456,
+					"id_str": "232980456",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238646267393323000,
+		"in_reply_to_status_id_str": "1238646267393323009",
+		"in_reply_to_user_id": 232980456,
+		"in_reply_to_user_id_str": "232980456",
+		"in_reply_to_screen_name": "OneSteeleSister",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 730,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 64126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OneSteeleSister Hmmm. Could be!"
+	},
+	{
+		"created_at": "Fri Mar 13 21:48:04 +0000 2020",
+		"id": 1238578743058346000,
+		"id_str": "1238582624332980230",
+		"full_text": "Some Boston-area restaurants are temporarily closing or making changes amid novel coronavirus outbreak https://t.co/3pD5jiVsUh https://t.co/VrThesoAx5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3pD5jiVsUh",
+					"expanded_url": "https://boston.eater.com/2020/3/13/21178262/boston-restaurants-coronavirus-temporary-closures-changes-updates?utm_campaign=boston.eater&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "boston.eater.com/2020/3/13/2117…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238578740067799000,
+					"id_str": "1238578740067799047",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ETBQzUQXkAcFc7D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETBQzUQXkAcFc7D.jpg",
+					"url": "https://t.co/VrThesoAx5",
+					"display_url": "pic.twitter.com/VrThesoAx5",
+					"expanded_url": "https://twitter.com/EaterBoston/status/1238578743058345985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238578740067799000,
+					"id_str": "1238578740067799047",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ETBQzUQXkAcFc7D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETBQzUQXkAcFc7D.jpg",
+					"url": "https://t.co/VrThesoAx5",
+					"display_url": "pic.twitter.com/VrThesoAx5",
+					"expanded_url": "https://twitter.com/EaterBoston/status/1238578743058345985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 305709307,
+			"id_str": "305709307",
+			"name": "Eater Boston",
+			"screen_name": "EaterBoston",
+			"location": "Boston, MA",
+			"description": "Food news and dining guides for Boston. Sign up for our newsletter below ⬇️",
+			"url": "https://t.co/D3ehjPldrd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D3ehjPldrd",
+							"expanded_url": "https://bit.ly/2Ni6wjC",
+							"display_url": "bit.ly/2Ni6wjC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33392,
+			"friends_count": 4041,
+			"listed_count": 697,
+			"created_at": "Thu May 26 17:31:11 +0000 2011",
+			"favourites_count": 903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/513840657404674048/bKOVqy6l_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/513840657404674048/bKOVqy6l_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/305709307/1411342943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some Boston-area restaurants are temporarily closing or making changes amid novel coronavirus outbreak https://t.co/3pD5jiVsUh https://t.co/VrThesoAx5"
+	},
+	{
+		"created_at": "Fri Mar 13 18:41:20 +0000 2020",
+		"id": 1238455336329261000,
+		"id_str": "1238535634777706499",
+		"full_text": "Je pars à lidl faire mes courses du vendredi je vois rayon de pâtes vide à part celle ci 😭😭 ça me tuuue 😂 https://t.co/skwo25bJvj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238455317983375400,
+					"id_str": "1238455317983375360",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ES_gjNKXsAAtwmn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES_gjNKXsAAtwmn.jpg",
+					"url": "https://t.co/skwo25bJvj",
+					"display_url": "pic.twitter.com/skwo25bJvj",
+					"expanded_url": "https://twitter.com/dreamabtlife4/status/1238455336329261056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238455317983375400,
+					"id_str": "1238455317983375360",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ES_gjNKXsAAtwmn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES_gjNKXsAAtwmn.jpg",
+					"url": "https://t.co/skwo25bJvj",
+					"display_url": "pic.twitter.com/skwo25bJvj",
+					"expanded_url": "https://twitter.com/dreamabtlife4/status/1238455336329261056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 926874162798395400,
+			"id_str": "926874162798395394",
+			"name": "la diabétique 🇩🇿 de votre TL",
+			"screen_name": "dreamabtlife4",
+			"location": "Vogue merry",
+			"description": "tellement 7louwa 7kemni diabète",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1692,
+			"friends_count": 1617,
+			"listed_count": 3,
+			"created_at": "Sat Nov 04 18:09:55 +0000 2017",
+			"favourites_count": 18781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236728958890229762/tIMU5uCV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236728958890229762/tIMU5uCV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/926874162798395394/1583665363",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 325,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Je pars à lidl faire mes courses du vendredi je vois rayon de pâtes vide à part celle ci 😭😭 ça me tuuue 😂 https://t.co/skwo25bJvj"
+	},
+	{
+		"created_at": "Fri Mar 13 17:52:11 +0000 2020",
+		"id": 1238523262197469200,
+		"id_str": "1238523262197469184",
+		"full_text": "@TheProxyGuy Moxie! My great grandmother loved it. It’s not as bad as people say but it sure is unexpected compared to other sodas.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheProxyGuy",
+					"name": "TheProxyGuy™ (Not For Sale)",
+					"id": 82815982,
+					"id_str": "82815982",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238513996870963200,
+		"in_reply_to_status_id_str": "1238513996870963200",
+		"in_reply_to_user_id": 82815982,
+		"in_reply_to_user_id_str": "82815982",
+		"in_reply_to_screen_name": "TheProxyGuy",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 730,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 64126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheProxyGuy Moxie! My great grandmother loved it. It’s not as bad as people say but it sure is unexpected compared to other sodas."
+	},
+	{
 		"created_at": "Fri Mar 13 01:30:48 +0000 2020",
 		"id": 1238276290190495700,
 		"id_str": "1238276290190495745",
@@ -1930,7 +2700,7 @@ Grailbird.data.tweets_2020_03 =
 			"name": "Anthony Michael Kreis",
 			"screen_name": "AnthonyMKreis",
 			"location": "Chicago, IL",
-			"description": "Law prof Chicago-Kent 🔜 @GeorgiaStateLaw (Fall 2020) | Constitutional law, civil rights, anti-discrimination, and law & social change | he/him 🏳️‍🌈",
+			"description": "Law prof Chicago-Kent 🔜 @GeorgiaStateLaw (Fall 2020) | Constitutional law, civil rights, anti-discrimination, and law & social change | he/him 🏳️🌈",
 			"url": "https://t.co/GYZ2IMfOOQ",
 			"entities": {
 				"url": {
