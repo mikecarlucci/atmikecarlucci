@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 18:23:41 +0000 2020",
+		"id": 1241709219759427600,
+		"id_str": "1241792682483240961",
+		"full_text": "Mar 22nd 2233 - James Tiberius Kirk (prime timeline) was born in Riverside, Iowa #StarTrek. He shares his birthday with his real life counterpart, @WilliamShatner, who turns 89 today. Happy birthday Mr Shatner! https://t.co/IamXn3MMWL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StarTrek",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WilliamShatner",
+					"name": "William Shatner",
+					"id": 15227791,
+					"id_str": "15227791",
+					"indices": [
+						147,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241709217058349000,
+					"id_str": "1241709217058349058",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/ETtv9D0XYAIYrZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETtv9D0XYAIYrZQ.jpg",
+					"url": "https://t.co/IamXn3MMWL",
+					"display_url": "pic.twitter.com/IamXn3MMWL",
+					"expanded_url": "https://twitter.com/DatesInMovies/status/1241709219759427585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 893,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 1033,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241709217058349000,
+					"id_str": "1241709217058349058",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/ETtv9D0XYAIYrZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETtv9D0XYAIYrZQ.jpg",
+					"url": "https://t.co/IamXn3MMWL",
+					"display_url": "pic.twitter.com/IamXn3MMWL",
+					"expanded_url": "https://twitter.com/DatesInMovies/status/1241709219759427585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 893,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 1033,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1241709217314148400,
+					"id_str": "1241709217314148353",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/ETtv9ExWkAEfKm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETtv9ExWkAEfKm3.jpg",
+					"url": "https://t.co/IamXn3MMWL",
+					"display_url": "pic.twitter.com/IamXn3MMWL",
+					"expanded_url": "https://twitter.com/DatesInMovies/status/1241709219759427585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 879,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1194,
+							"h": 879,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1146429722,
+			"id_str": "1146429722",
+			"name": "Dates in Movies",
+			"screen_name": "DatesInMovies",
+			"location": "Not in Kansas anymore",
+			"description": "Tweeting the dates of major events in movie history. Possible spoilers, but avoided where we can",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17175,
+			"friends_count": 106,
+			"listed_count": 144,
+			"created_at": "Sun Feb 03 22:41:50 +0000 2013",
+			"favourites_count": 5407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146429722/1554069771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 85,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mar 22nd 2233 - James Tiberius Kirk (prime timeline) was born in Riverside, Iowa #StarTrek. He shares his birthday with his real life counterpart, @WilliamShatner, who turns 89 today. Happy birthday Mr Shatner! https://t.co/IamXn3MMWL"
+	},
+	{
 		"created_at": "Sun Mar 22 02:13:33 +0000 2020",
 		"id": 1241548542130491400,
 		"id_str": "1241548542130491392",
