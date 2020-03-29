@@ -1,6 +1,797 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 02:49:27 +0000 2020",
+		"id": 1244094291657588700,
+		"id_str": "1244094291657588736",
+		"full_text": "https://t.co/ZjgQKi3zRp https://t.co/0ZIcokgP6u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZjgQKi3zRp",
+					"expanded_url": "https://twitter.com/khanoisseur/status/1243954960037003266",
+					"display_url": "twitter.com/khanoisseur/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1244094281331155000,
+					"id_str": "1244094281331154944",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUPpKEnWoAAFsrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUPpKEnWoAAFsrb.jpg",
+					"url": "https://t.co/0ZIcokgP6u",
+					"display_url": "pic.twitter.com/0ZIcokgP6u",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1244094291657588736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244094281331155000,
+					"id_str": "1244094281331154944",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUPpKEnWoAAFsrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUPpKEnWoAAFsrb.jpg",
+					"url": "https://t.co/0ZIcokgP6u",
+					"display_url": "pic.twitter.com/0ZIcokgP6u",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1244094291657588736/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUPpKEnWoAAFsrb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 735,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 65368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243954960037003300,
+		"quoted_status_id_str": "1243954960037003266",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZjgQKi3zRp",
+			"expanded": "https://twitter.com/khanoisseur/status/1243954960037003266",
+			"display": "twitter.com/khanoisseur/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 28 17:35:48 +0000 2020",
+			"id": 1243954960037003300,
+			"id_str": "1243954960037003266",
+			"full_text": "The Rotterdam Philharmonic Orchestra delivers Beethoven's 'Ode to Joy' with 19 musicians playing their parts from their homes https://t.co/YVLrXN9yh6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1243594826647396400,
+						"id_str": "1243594826647396352",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1243594826647396352/img/QSQ0gSMUQK1Foxhr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1243594826647396352/img/QSQ0gSMUQK1Foxhr.jpg",
+						"url": "https://t.co/YVLrXN9yh6",
+						"display_url": "pic.twitter.com/YVLrXN9yh6",
+						"expanded_url": "https://twitter.com/Reuters/status/1243734556777250817/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1243734556777250800,
+						"source_status_id_str": "1243734556777250817",
+						"source_user_id": 1652541,
+						"source_user_id_str": "1652541"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1243594826647396400,
+						"id_str": "1243594826647396352",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1243594826647396352/img/QSQ0gSMUQK1Foxhr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1243594826647396352/img/QSQ0gSMUQK1Foxhr.jpg",
+						"url": "https://t.co/YVLrXN9yh6",
+						"display_url": "pic.twitter.com/YVLrXN9yh6",
+						"expanded_url": "https://twitter.com/Reuters/status/1243734556777250817/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1243734556777250800,
+						"source_status_id_str": "1243734556777250817",
+						"source_user_id": 1652541,
+						"source_user_id_str": "1652541",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 192259,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1243594826647396352/vid/1280x720/FwngEF-oZs80cmb_.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1243594826647396352/pl/cfy995vMfBQZqPdo.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1243594826647396352/vid/480x270/0z7A9EGpOf5KSDRE.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1243594826647396352/vid/640x360/TwD3zlw-fNIi1iHZ.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Dutch orchestra play ‘Ode to Joy’ from their homes – News",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.youtube.com/user/ReutersVideo"
+								}
+							},
+							"embeddable": true,
+							"monetizable": true,
+							"source_user": {
+								"id": 1652541,
+								"id_str": "1652541",
+								"name": "Reuters",
+								"screen_name": "Reuters",
+								"location": "Around the world",
+								"description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+								"url": "http://t.co/BmHxhkm3Mh",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/BmHxhkm3Mh",
+												"expanded_url": "http://www.reuters.com",
+												"display_url": "reuters.com",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 21572551,
+								"friends_count": 1114,
+								"listed_count": 122729,
+								"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+								"favourites_count": 750,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 508848,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "444444",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397",
+								"profile_link_color": "006F97",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "F5F5F5",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 373564351,
+				"id_str": "373564351",
+				"name": "Khanoisseur 🐶🤦🏻‍♂️🌎",
+				"screen_name": "Khanoisseur",
+				"location": "United States",
+				"description": "Nonpartisan fact-checks + “frustratingly accurate” analysis of news (+🐶 pics). *Turn notifications on* Stuff for @Google @Twitter @Uber @Facebook @Tesla @Audi",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 146500,
+				"friends_count": 9844,
+				"listed_count": 2982,
+				"created_at": "Wed Sep 14 20:14:50 +0000 2011",
+				"favourites_count": 885469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54986,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105252871208087552/VzSdkBBY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105252871208087552/VzSdkBBY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/373564351/1534978477",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3180,
+			"favorite_count": 7680,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ZjgQKi3zRp https://t.co/0ZIcokgP6u"
+	},
+	{
+		"created_at": "Sat Mar 28 18:13:34 +0000 2020",
+		"id": 1243939459135127600,
+		"id_str": "1243964463142916099",
+		"full_text": "Hey @MassDCR you know what would make a ton of sense now and for the duration of this shutdown? Closing Memorial Drive to cars. The paths along the road are full of people right now with not enough room to distance. @MayorSiddiqui @MassGovernor @qzondervan @universalhub",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MassDCR",
+					"name": "MassDCR",
+					"id": 449135722,
+					"id_str": "449135722",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"screen_name": "MayorSiddiqui",
+					"name": "Mayor Sumbul Siddiqui",
+					"id": 2899913399,
+					"id_str": "2899913399",
+					"indices": [
+						216,
+						230
+					]
+				},
+				{
+					"screen_name": "MassGovernor",
+					"name": "Charlie Baker",
+					"id": 18023868,
+					"id_str": "18023868",
+					"indices": [
+						231,
+						244
+					]
+				},
+				{
+					"screen_name": "qzondervan",
+					"name": "Quinton #ShutItDown Zondervan",
+					"id": 82263512,
+					"id_str": "82263512",
+					"indices": [
+						245,
+						256
+					]
+				},
+				{
+					"screen_name": "universalhub",
+					"name": "Adam Gaffin",
+					"id": 12705772,
+					"id_str": "12705772",
+					"indices": [
+						257,
+						270
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78745639,
+			"id_str": "78745639",
+			"name": "Pete Septoff",
+			"screen_name": "wombatofevil",
+			"location": "Cambridge, MA",
+			"description": "Amateur filmmaker, semi-pro human",
+			"url": "http://t.co/8ctLDziJrW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8ctLDziJrW",
+							"expanded_url": "http://charlesriverfilm.com",
+							"display_url": "charlesriverfilm.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156,
+			"friends_count": 282,
+			"listed_count": 7,
+			"created_at": "Wed Sep 30 23:57:32 +0000 2009",
+			"favourites_count": 13933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783671428449234945/xBHCKX9-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783671428449234945/xBHCKX9-_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 152,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey @MassDCR you know what would make a ton of sense now and for the duration of this shutdown? Closing Memorial Drive to cars. The paths along the road are full of people right now with not enough room to distance. @MayorSiddiqui @MassGovernor @qzondervan @universalhub"
+	},
+	{
+		"created_at": "Sat Mar 28 15:20:18 +0000 2020",
+		"id": 1243920861104570400,
+		"id_str": "1243920861104570370",
+		"full_text": "Uhh Donald Duck? https://t.co/fdDnWfrjWv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243920854301520000,
+					"id_str": "1243920854301519872",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EUNLbSlXsAAfKaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUNLbSlXsAAfKaJ.jpg",
+					"url": "https://t.co/fdDnWfrjWv",
+					"display_url": "pic.twitter.com/fdDnWfrjWv",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1243920861104570370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243920854301520000,
+					"id_str": "1243920854301519872",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EUNLbSlXsAAfKaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUNLbSlXsAAfKaJ.jpg",
+					"url": "https://t.co/fdDnWfrjWv",
+					"display_url": "pic.twitter.com/fdDnWfrjWv",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1243920861104570370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1242626325514510300,
+		"in_reply_to_status_id_str": "1242626325514510342",
+		"in_reply_to_user_id": 90161583,
+		"in_reply_to_user_id_str": "90161583",
+		"in_reply_to_screen_name": "mikecarlucci",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 735,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 65368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Uhh Donald Duck? https://t.co/fdDnWfrjWv"
+	},
+	{
 		"created_at": "Fri Mar 27 15:34:32 +0000 2020",
 		"id": 1243562052205056000,
 		"id_str": "1243562052205056002",
