@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 01:59:14 +0000 2020",
+		"id": 1244444041661624300,
+		"id_str": "1244444041661624320",
+		"full_text": "@MelindaTaub Return to Oz https://t.co/HXTxYbK3UO",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MelindaTaub",
+					"name": "Melinda Taub",
+					"id": 76097317,
+					"id_str": "76097317",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244444033939845000,
+					"id_str": "1244444033939845123",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUUnQWnWsAMV65E.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUUnQWnWsAMV65E.jpg",
+					"url": "https://t.co/HXTxYbK3UO",
+					"display_url": "pic.twitter.com/HXTxYbK3UO",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1244444041661624320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244444033939845000,
+					"id_str": "1244444033939845123",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUUnQWnWsAMV65E.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUUnQWnWsAMV65E.jpg",
+					"url": "https://t.co/HXTxYbK3UO",
+					"display_url": "pic.twitter.com/HXTxYbK3UO",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1244444041661624320/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUUnQWnWsAMV65E.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1244311549944135700,
+		"in_reply_to_status_id_str": "1244311549944135684",
+		"in_reply_to_user_id": 76097317,
+		"in_reply_to_user_id_str": "76097317",
+		"in_reply_to_screen_name": "MelindaTaub",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 735,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 65420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MelindaTaub Return to Oz https://t.co/HXTxYbK3UO"
+	},
+	{
+		"created_at": "Mon Mar 30 00:42:26 +0000 2020",
+		"id": 1244424713843159000,
+		"id_str": "1244424713843159041",
+		"full_text": "Godzilla’s 11 https://t.co/bD7YKvQhdn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bD7YKvQhdn",
+					"expanded_url": "https://twitter.com/oddnmacabre/status/1243538065198592002",
+					"display_url": "twitter.com/oddnmacabre/st…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 735,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 65420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243538065198592000,
+		"quoted_status_id_str": "1243538065198592002",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bD7YKvQhdn",
+			"expanded": "https://twitter.com/oddnmacabre/status/1243538065198592002",
+			"display": "twitter.com/oddnmacabre/st…"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "Godzilla’s 11 https://t.co/bD7YKvQhdn"
+	},
+	{
+		"created_at": "Sun Mar 29 14:33:15 +0000 2020",
+		"id": 1243036535806713900,
+		"id_str": "1244271404897402883",
+		"full_text": "Notice your @foldingathome installation is idle? So many people have joined in to support our work on #COVID19  that our servers are struggling to keep up. We're continuing to get more online as quickly as we can. We still need your help, so please be patient with us. Please RT.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "foldingathome",
+					"name": "Folding@home",
+					"id": 14640815,
+					"id_str": "14640815",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1267656464,
+			"id_str": "1267656464",
+			"name": "Greg Bowman",
+			"screen_name": "drGregBowman",
+			"location": "St Louis, MO",
+			"description": "Scientist with a passion for protein dynamics and its role in human health and disease. Associate Prof. at @WUSTLmed and Director of @foldingathome",
+			"url": "https://t.co/u5EBPIC9VP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u5EBPIC9VP",
+							"expanded_url": "https://bowmanlab.biochem.wustl.edu/",
+							"display_url": "bowmanlab.biochem.wustl.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3859,
+			"friends_count": 293,
+			"listed_count": 25,
+			"created_at": "Thu Mar 14 18:12:09 +0000 2013",
+			"favourites_count": 859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082713256546856961/b1mjtP0X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082713256546856961/b1mjtP0X_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 645,
+		"favorite_count": 964,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Notice your @foldingathome installation is idle? So many people have joined in to support our work on #COVID19  that our servers are struggling to keep up. We're continuing to get more online as quickly as we can. We still need your help, so please be patient with us. Please RT."
+	},
+	{
 		"created_at": "Sun Mar 29 02:49:27 +0000 2020",
 		"id": 1244094291657588700,
 		"id_str": "1244094291657588736",
@@ -407,7 +831,7 @@ Grailbird.data.tweets_2020_03 =
 			"user": {
 				"id": 373564351,
 				"id_str": "373564351",
-				"name": "Khanoisseur 🐶🤦🏻‍♂️🌎",
+				"name": "Khanoisseur 🐶🤦🏻♂️🌎",
 				"screen_name": "Khanoisseur",
 				"location": "United States",
 				"description": "Nonpartisan fact-checks + “frustratingly accurate” analysis of news (+🐶 pics). *Turn notifications on* Stuff for @Google @Twitter @Uber @Facebook @Tesla @Audi",
