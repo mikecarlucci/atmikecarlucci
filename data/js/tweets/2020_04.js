@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 16:43:33 +0000 2020",
+		"id": 1247928078241759200,
+		"id_str": "1247928078241759232",
+		"full_text": "Moneyball \nAngels in the Outfield\nRookie of the Year https://t.co/CRYS4UMfbJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CRYS4UMfbJ",
+					"expanded_url": "https://twitter.com/cut4/status/1247907223680045068",
+					"display_url": "twitter.com/cut4/status/12…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4507,
+			"friends_count": 736,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 66337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247907223680045000,
+		"quoted_status_id_str": "1247907223680045068",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CRYS4UMfbJ",
+			"expanded": "https://twitter.com/cut4/status/1247907223680045068",
+			"display": "twitter.com/cut4/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 08 15:20:41 +0000 2020",
+			"id": 1247907223680045000,
+			"id_str": "1247907223680045068",
+			"full_text": "You can only pick 3. \n\nWhich classic baseball films are you picking? https://t.co/HkBYPFpmVp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247907094944153600,
+						"id_str": "1247907094944153605",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EVF05CLWAAUqvj_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVF05CLWAAUqvj_.jpg",
+						"url": "https://t.co/HkBYPFpmVp",
+						"display_url": "pic.twitter.com/HkBYPFpmVp",
+						"expanded_url": "https://twitter.com/Cut4/status/1247907223680045068/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 859,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1467,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247907094944153600,
+						"id_str": "1247907094944153605",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EVF05CLWAAUqvj_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVF05CLWAAUqvj_.jpg",
+						"url": "https://t.co/HkBYPFpmVp",
+						"display_url": "pic.twitter.com/HkBYPFpmVp",
+						"expanded_url": "https://twitter.com/Cut4/status/1247907223680045068/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 859,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1467,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241544156,
+				"id_str": "241544156",
+				"name": "Cut4",
+				"screen_name": "Cut4",
+				"location": "",
+				"description": "Wash your hands. Official sweeps rules: https://t.co/w8ICYSM3r7",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/w8ICYSM3r7",
+								"expanded_url": "http://atmlb.com/1F4Eak7",
+								"display_url": "atmlb.com/1F4Eak7",
+								"indices": [
+									40,
+									63
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1015601,
+				"friends_count": 3171,
+				"listed_count": 5367,
+				"created_at": "Sat Jan 22 14:37:38 +0000 2011",
+				"favourites_count": 35891,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 65338,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D1012",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1193008950565732352/6kiVBkFF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193008950565732352/6kiVBkFF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241544156/1579652327",
+				"profile_link_color": "696969",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 280,
+			"favorite_count": 2541,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Moneyball \nAngels in the Outfield\nRookie of the Year https://t.co/CRYS4UMfbJ"
+	},
+	{
+		"created_at": "Tue Apr 07 17:55:53 +0000 2020",
+		"id": 1247583891537477600,
+		"id_str": "1247583891537477632",
+		"full_text": "This gets me https://t.co/L9fGh7YimT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L9fGh7YimT",
+					"expanded_url": "https://twitter.com/SoxNotes/status/1247583410736029699",
+					"display_url": "twitter.com/SoxNotes/statu…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4507,
+			"friends_count": 736,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 66337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247583410736029700,
+		"quoted_status_id_str": "1247583410736029699",
+		"quoted_status_permalink": {
+			"url": "https://t.co/L9fGh7YimT",
+			"expanded": "https://twitter.com/SoxNotes/status/1247583410736029699",
+			"display": "twitter.com/SoxNotes/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 07 17:53:58 +0000 2020",
+			"id": 1247583410736029700,
+			"id_str": "1247583410736029699",
+			"full_text": "Eduardo Rodriguez turns 27 years old today and seems to be hitting his stride. In 2019 he threw at least 7.0 innings nine times, after not doing it once in 2018. The Red Sox won all nine of those games. https://t.co/avnCEHfd4i",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247583404289413000,
+						"id_str": "1247583404289413125",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVBOfwhX0AUYCbn.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVBOfwhX0AUYCbn.jpg",
+						"url": "https://t.co/avnCEHfd4i",
+						"display_url": "pic.twitter.com/avnCEHfd4i",
+						"expanded_url": "https://twitter.com/SoxNotes/status/1247583410736029699/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 498,
+								"h": 210,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 210,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 210,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247583404289413000,
+						"id_str": "1247583404289413125",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVBOfwhX0AUYCbn.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVBOfwhX0AUYCbn.jpg",
+						"url": "https://t.co/avnCEHfd4i",
+						"display_url": "pic.twitter.com/avnCEHfd4i",
+						"expanded_url": "https://twitter.com/SoxNotes/status/1247583410736029699/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 498,
+								"h": 210,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 210,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 210,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								83,
+								35
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EVBOfwhX0AUYCbn.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 715220174706618400,
+				"id_str": "715220174706618368",
+				"name": "Red Sox Notes",
+				"screen_name": "SoxNotes",
+				"location": "Boston, MA",
+				"description": "Run by Justin Long, Red Sox Senior Manager of Media Relations & Baseball Information. Special thanks to Baseball-Reference, STATS, and the Elias Sports Bureau.",
+				"url": "https://t.co/czwA21IvoQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/czwA21IvoQ",
+								"expanded_url": "http://danafarber.jimmyfund.org/goto/JustinLong",
+								"display_url": "danafarber.jimmyfund.org/goto/JustinLong",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28376,
+				"friends_count": 116,
+				"listed_count": 461,
+				"created_at": "Wed Mar 30 16:52:32 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 953,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1065998802966974466/yp95kBE9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065998802966974466/yp95kBE9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/715220174706618368/1459359735",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 92,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This gets me https://t.co/L9fGh7YimT"
+	},
+	{
 		"created_at": "Tue Apr 07 01:40:11 +0000 2020",
 		"id": 1247338347560870000,
 		"id_str": "1247338347560869895",
