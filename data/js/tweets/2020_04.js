@@ -1,6 +1,1154 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 23:33:23 +0000 2020",
+		"id": 1248317963566006300,
+		"id_str": "1248393604487204871",
+		"full_text": "Easily one of the best social distancing ads I’ve seen  https://t.co/9WhhTHmdPc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248243970750046200,
+					"id_str": "1248243970750046208",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248243970750046208/pu/img/3wk0TIdWVn5j991E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248243970750046208/pu/img/3wk0TIdWVn5j991E.jpg",
+					"url": "https://t.co/9WhhTHmdPc",
+					"display_url": "pic.twitter.com/9WhhTHmdPc",
+					"expanded_url": "https://twitter.com/OHdeptofhealth/status/1248249304600449024/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1248249304600449000,
+					"source_status_id_str": "1248249304600449024",
+					"source_user_id": 90422822,
+					"source_user_id_str": "90422822"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248243970750046200,
+					"id_str": "1248243970750046208",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248243970750046208/pu/img/3wk0TIdWVn5j991E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248243970750046208/pu/img/3wk0TIdWVn5j991E.jpg",
+					"url": "https://t.co/9WhhTHmdPc",
+					"display_url": "pic.twitter.com/9WhhTHmdPc",
+					"expanded_url": "https://twitter.com/OHdeptofhealth/status/1248249304600449024/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1248249304600449000,
+					"source_status_id_str": "1248249304600449024",
+					"source_user_id": 90422822,
+					"source_user_id_str": "90422822",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248243970750046208/pu/vid/1280x720/ax5Cwd4Kleh-9DKX.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248243970750046208/pu/vid/480x270/Ph01Cbq8Vb7BvUnc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248243970750046208/pu/pl/jNj0wiKRwSj4rv2h.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248243970750046208/pu/vid/640x360/ajUkANRvMFI7MI8Y.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 90422822,
+							"id_str": "90422822",
+							"name": "Ohio Dept of Health",
+							"screen_name": "OHdeptofhealth",
+							"location": "Ohio",
+							"description": "Protecting and improving the health of all Ohioans. RTs/Follows/Likes do not indicate ODH endorsements.",
+							"url": "https://t.co/avQCazeHTt",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/avQCazeHTt",
+											"expanded_url": "http://coronavirus.ohio.gov",
+											"display_url": "coronavirus.ohio.gov",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 57465,
+							"friends_count": 907,
+							"listed_count": 510,
+							"created_at": "Mon Nov 16 16:07:08 +0000 2009",
+							"favourites_count": 1437,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 5330,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "2E68B1",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1152217062162554880/8VRPH-3B_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152217062162554880/8VRPH-3B_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/90422822/1563544930",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDFFCC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 288575273,
+			"id_str": "288575273",
+			"name": "𝙹𝚘𝚜𝚑 𝙶𝚛𝚞𝚋𝚋𝚜",
+			"screen_name": "JoshuaGrubbsPhD",
+			"location": "Bowling Green, Ohio",
+			"description": "Psychology prof and researcher; I study addiction, personality, and sex.\n\nMost of my twitter is just really bad jokes.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12850,
+			"friends_count": 1556,
+			"listed_count": 138,
+			"created_at": "Wed Apr 27 03:00:23 +0000 2011",
+			"favourites_count": 37725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221605651648077824/_eud-7FY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221605651648077824/_eud-7FY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/288575273/1524534170",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63258,
+		"favorite_count": 123881,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Easily one of the best social distancing ads I’ve seen  https://t.co/9WhhTHmdPc"
+	},
+	{
+		"created_at": "Thu Apr 09 18:28:46 +0000 2020",
+		"id": 1248316943997849600,
+		"id_str": "1248316943997849606",
+		"full_text": "🖖 https://t.co/nEQ5mablGK https://t.co/C0Lh65jvJp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nEQ5mablGK",
+					"expanded_url": "https://twitter.com/time/status/1248234671290437633",
+					"display_url": "twitter.com/time/status/12…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248316936108118000,
+					"id_str": "1248316936108118016",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVLpo7fUEAA4yjX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVLpo7fUEAA4yjX.jpg",
+					"url": "https://t.co/C0Lh65jvJp",
+					"display_url": "pic.twitter.com/C0Lh65jvJp",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1248316943997849606/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248316936108118000,
+					"id_str": "1248316936108118016",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVLpo7fUEAA4yjX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVLpo7fUEAA4yjX.jpg",
+					"url": "https://t.co/C0Lh65jvJp",
+					"display_url": "pic.twitter.com/C0Lh65jvJp",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1248316943997849606/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVLpo7fUEAA4yjX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4506,
+			"friends_count": 735,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 66433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248234671290437600,
+		"quoted_status_id_str": "1248234671290437633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nEQ5mablGK",
+			"expanded": "https://twitter.com/time/status/1248234671290437633",
+			"display": "twitter.com/time/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 09 13:01:51 +0000 2020",
+			"id": 1248234671290437600,
+			"id_str": "1248234671290437633",
+			"full_text": "The coronavirus will be the end of the handshake as we know it, if Dr. Anthony Fauci has his way https://t.co/kiUFlqrhlw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kiUFlqrhlw",
+						"expanded_url": "https://ti.me/2UTH8pX",
+						"display_url": "ti.me/2UTH8pX",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14293310,
+				"id_str": "14293310",
+				"name": "TIME",
+				"screen_name": "TIME",
+				"location": "",
+				"description": "Breaking news and current events from around the globe. Hosted by TIME staff.",
+				"url": "http://t.co/4aYbUuAeSh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4aYbUuAeSh",
+								"expanded_url": "http://www.time.com",
+								"display_url": "time.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16965718,
+				"friends_count": 495,
+				"listed_count": 104076,
+				"created_at": "Thu Apr 03 13:54:30 +0000 2008",
+				"favourites_count": 535,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 344471,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "CC0000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1547650813",
+				"profile_link_color": "DE3333",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D9D9D9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 277,
+			"favorite_count": 923,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🖖 https://t.co/nEQ5mablGK https://t.co/C0Lh65jvJp"
+	},
+	{
+		"created_at": "Thu Apr 09 18:10:39 +0000 2020",
+		"id": 1248309972200554500,
+		"id_str": "1248312382142787584",
+		"full_text": "Like if you could go for a Sea Dogs Biscuit right now?  #MiLBAtHomeOpener https://t.co/nKKIiFitAF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MiLBAtHomeOpener",
+					"indices": [
+						56,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248309930244759600,
+					"id_str": "1248309930244759553",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EVLjRInU4AEJxlV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVLjRInU4AEJxlV.jpg",
+					"url": "https://t.co/nKKIiFitAF",
+					"display_url": "pic.twitter.com/nKKIiFitAF",
+					"expanded_url": "https://twitter.com/PortlandSeaDogs/status/1248309972200554499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 821,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248309930244759600,
+					"id_str": "1248309930244759553",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EVLjRInU4AEJxlV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVLjRInU4AEJxlV.jpg",
+					"url": "https://t.co/nKKIiFitAF",
+					"display_url": "pic.twitter.com/nKKIiFitAF",
+					"expanded_url": "https://twitter.com/PortlandSeaDogs/status/1248309972200554499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 821,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23637985,
+			"id_str": "23637985",
+			"name": "Portland Sea Dogs",
+			"screen_name": "PortlandSeaDogs",
+			"location": "Portland, Maine",
+			"description": "Official Twitter account of the Portland Sea Dogs, the Double-A Affiliate of the Boston Red Sox.",
+			"url": "https://t.co/zriwUqDGTL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zriwUqDGTL",
+							"expanded_url": "http://www.seadogs.com",
+							"display_url": "seadogs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44175,
+			"friends_count": 1372,
+			"listed_count": 627,
+			"created_at": "Tue Mar 10 19:29:27 +0000 2009",
+			"favourites_count": 2483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151173422048784384/V65yvSIF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151173422048784384/V65yvSIF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23637985/1437786561",
+			"profile_link_color": "060245",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 329,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Like if you could go for a Sea Dogs Biscuit right now?  #MiLBAtHomeOpener https://t.co/nKKIiFitAF"
+	},
+	{
+		"created_at": "Thu Apr 09 18:08:30 +0000 2020",
+		"id": 1248311841375256600,
+		"id_str": "1248311841375256578",
+		"full_text": "@TolarianCollege https://t.co/udYE5WcRCn",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TolarianCollege",
+					"name": "Tolarian Community College",
+					"id": 2442432306,
+					"id_str": "2442432306",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248311833917657000,
+					"id_str": "1248311833917657092",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVLk_8WUEAQoDfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVLk_8WUEAQoDfd.jpg",
+					"url": "https://t.co/udYE5WcRCn",
+					"display_url": "pic.twitter.com/udYE5WcRCn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1248311841375256578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248311833917657000,
+					"id_str": "1248311833917657092",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVLk_8WUEAQoDfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVLk_8WUEAQoDfd.jpg",
+					"url": "https://t.co/udYE5WcRCn",
+					"display_url": "pic.twitter.com/udYE5WcRCn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1248311841375256578/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVLk_8WUEAQoDfd.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1248311508833980400,
+		"in_reply_to_status_id_str": "1248311508833980416",
+		"in_reply_to_user_id": 2442432306,
+		"in_reply_to_user_id_str": "2442432306",
+		"in_reply_to_screen_name": "TolarianCollege",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4506,
+			"friends_count": 735,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 66433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TolarianCollege https://t.co/udYE5WcRCn"
+	},
+	{
+		"created_at": "Thu Apr 09 17:38:59 +0000 2020",
+		"id": 1248304412822507500,
+		"id_str": "1248304412822507522",
+		"full_text": "@salemredsox The impossible stolen base! https://t.co/TDV6SAl7Lj",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "salemredsox",
+					"name": "Salem Red Sox",
+					"id": 42500897,
+					"id_str": "42500897",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248304406077902800,
+					"id_str": "1248304406077902848",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVLePlfUEAAj2yT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVLePlfUEAAj2yT.jpg",
+					"url": "https://t.co/TDV6SAl7Lj",
+					"display_url": "pic.twitter.com/TDV6SAl7Lj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1248304412822507522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 134,
+							"h": 134,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248304406077902800,
+					"id_str": "1248304406077902848",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVLePlfUEAAj2yT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVLePlfUEAAj2yT.jpg",
+					"url": "https://t.co/TDV6SAl7Lj",
+					"display_url": "pic.twitter.com/TDV6SAl7Lj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1248304412822507522/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 134,
+							"h": 134,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 134,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							67
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVLePlfUEAAj2yT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1248303251998544000,
+		"in_reply_to_status_id_str": "1248303251998543880",
+		"in_reply_to_user_id": 42500897,
+		"in_reply_to_user_id_str": "42500897",
+		"in_reply_to_screen_name": "salemredsox",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4506,
+			"friends_count": 735,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 66433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@salemredsox The impossible stolen base! https://t.co/TDV6SAl7Lj"
+	},
+	{
 		"created_at": "Wed Apr 08 16:43:33 +0000 2020",
 		"id": 1247928078241759200,
 		"id_str": "1247928078241759232",
