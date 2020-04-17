@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 20:01:57 +0000 2020",
+		"id": 1250877109846900700,
+		"id_str": "1250877109846900737",
+		"full_text": "@90feetfromhome \"young person\" TV designed by old people so it can't be viral? while apparently ripping off ideas https://t.co/q5ZuLQ1y3r",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "90feetfromhome",
+					"name": "Ashley MacLennan",
+					"id": 776786543377645600,
+					"id_str": "776786543377645572",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q5ZuLQ1y3r",
+					"expanded_url": "https://twitter.com/E_I_T/status/1247221678712619008?s=20",
+					"display_url": "twitter.com/E_I_T/status/1…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1250871615535153200,
+		"in_reply_to_status_id_str": "1250871615535153154",
+		"in_reply_to_user_id": 776786543377645600,
+		"in_reply_to_user_id_str": "776786543377645572",
+		"in_reply_to_screen_name": "90feetfromhome",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 735,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 67135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247221678712619000,
+		"quoted_status_id_str": "1247221678712619008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q5ZuLQ1y3r",
+			"expanded": "https://twitter.com/E_I_T/status/1247221678712619008?s=20",
+			"display": "twitter.com/E_I_T/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 17:56:35 +0000 2020",
+			"id": 1247221678712619000,
+			"id_str": "1247221678712619008",
+			"full_text": "Looks like @Quibi made a show that presents crazy found footage clips and called it MEMORY HOLE (of all the things you could have called it... seriously?). It’s also deeply disappointing to see our logo from 10+ years ago completely ripped off as the look for the entire show. https://t.co/fmduCXkb8M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Quibi",
+						"name": "quibi",
+						"id": 1050122704202788900,
+						"id_str": "1050122704202788864",
+						"indices": [
+							11,
+							17
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247221674447011800,
+						"id_str": "1247221674447011840",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EU8FgT2VAAAojyo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU8FgT2VAAAojyo.jpg",
+						"url": "https://t.co/fmduCXkb8M",
+						"display_url": "pic.twitter.com/fmduCXkb8M",
+						"expanded_url": "https://twitter.com/E_I_T/status/1247221678712619008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247221674447011800,
+						"id_str": "1247221674447011840",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EU8FgT2VAAAojyo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU8FgT2VAAAojyo.jpg",
+						"url": "https://t.co/fmduCXkb8M",
+						"display_url": "pic.twitter.com/fmduCXkb8M",
+						"expanded_url": "https://twitter.com/E_I_T/status/1247221678712619008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63196541,
+				"id_str": "63196541",
+				"name": "Everything Is Terrible!",
+				"screen_name": "E_I_T",
+				"location": "Los Angeles",
+				"description": "Psychedelic found footage gods! 12 years of daily video re-edits, live shows, and installations! Feature-length movies and EIT! apparel available in our store!",
+				"url": "https://t.co/Kn8JqP34Ut",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kn8JqP34Ut",
+								"expanded_url": "https://shop.everythingisterrible.com",
+								"display_url": "shop.everythingisterrible.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19405,
+				"friends_count": 505,
+				"listed_count": 277,
+				"created_at": "Wed Aug 05 17:32:02 +0000 2009",
+				"favourites_count": 3585,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6192,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079508342438064129/i7iR8o2M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079508342438064129/i7iR8o2M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63196541/1574014410",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2262,
+			"favorite_count": 7834,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@90feetfromhome \"young person\" TV designed by old people so it can't be viral? while apparently ripping off ideas https://t.co/q5ZuLQ1y3r"
+	},
+	{
 		"created_at": "Thu Apr 16 02:12:07 +0000 2020",
 		"id": 1250607878098075600,
 		"id_str": "1250607878098075648",
