@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 23:51:25 +0000 2020",
+		"id": 1251659630310240300,
+		"id_str": "1251659630310240256",
+		"full_text": "8 https://t.co/oqlnmquBei",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oqlnmquBei",
+					"expanded_url": "https://twitter.com/klngpig/status/1250973607045541888",
+					"display_url": "twitter.com/klngpig/status…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4502,
+			"friends_count": 736,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 67254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250973607045542000,
+		"quoted_status_id_str": "1250973607045541888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oqlnmquBei",
+			"expanded": "https://twitter.com/klngpig/status/1250973607045541888",
+			"display": "twitter.com/klngpig/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 17 02:25:24 +0000 2020",
+			"id": 1250973607045542000,
+			"id_str": "1250973607045541888",
+			"full_text": "i’m curious how do y’all write ur X’s https://t.co/mWWqHg8mNI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1250973603841130500,
+						"id_str": "1250973603841130496",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/EVxZ3WBXQAA3EQ6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVxZ3WBXQAA3EQ6.jpg",
+						"url": "https://t.co/mWWqHg8mNI",
+						"display_url": "pic.twitter.com/mWWqHg8mNI",
+						"expanded_url": "https://twitter.com/KlNGPIG/status/1250973607045541888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 631,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 668,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 668,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250973603841130500,
+						"id_str": "1250973603841130496",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/EVxZ3WBXQAA3EQ6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVxZ3WBXQAA3EQ6.jpg",
+						"url": "https://t.co/mWWqHg8mNI",
+						"display_url": "pic.twitter.com/mWWqHg8mNI",
+						"expanded_url": "https://twitter.com/KlNGPIG/status/1250973607045541888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 631,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 668,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 668,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1028100450032205800,
+				"id_str": "1028100450032205824",
+				"name": "jocelyn¡",
+				"screen_name": "KlNGPIG",
+				"location": "she/her-17/pfp:tecnodad_",
+				"description": "stan the king of spuds!",
+				"url": "https://t.co/JLI1qrk5CV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JLI1qrk5CV",
+								"expanded_url": "https://curiouscat.me/kingpig",
+								"display_url": "curiouscat.me/kingpig",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 779,
+				"friends_count": 387,
+				"listed_count": 27,
+				"created_at": "Sat Aug 11 02:07:03 +0000 2018",
+				"favourites_count": 56260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13596,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1251187657863987204/UXndSWcb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251187657863987204/UXndSWcb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028100450032205824/1587141360",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 345,
+			"favorite_count": 6868,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "8 https://t.co/oqlnmquBei"
+	},
+	{
 		"created_at": "Fri Apr 17 20:21:38 +0000 2020",
 		"id": 1251244449788813300,
 		"id_str": "1251244449788813312",
