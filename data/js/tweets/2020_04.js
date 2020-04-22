@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 00:22:56 +0000 2020",
+		"id": 1252754724761280500,
+		"id_str": "1252754724761280512",
+		"full_text": "“Isn’t there just a button?”\n\nNo. No there isn’t. https://t.co/WZKnl5N6wt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WZKnl5N6wt",
+					"expanded_url": "https://twitter.com/sethrosen/status/1252291581320757249",
+					"display_url": "twitter.com/sethrosen/stat…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4503,
+			"friends_count": 737,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 67455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252291581320757200,
+		"quoted_status_id_str": "1252291581320757249",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WZKnl5N6wt",
+			"expanded": "https://twitter.com/sethrosen/status/1252291581320757249",
+			"display": "twitter.com/sethrosen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 20 17:42:34 +0000 2020",
+			"id": 1252291581320757200,
+			"id_str": "1252291581320757249",
+			"full_text": "Them: Can you just quickly pull this data for me?\n\nMe: Sure, let me just: \n\nSELECT * FROM some_ideal_clean_and_pristine.table_that_you_think_exists",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25859335,
+				"id_str": "25859335",
+				"name": "Seth Rosen",
+				"screen_name": "sethrosen",
+				"location": "Boston, MA",
+				"description": "Product + Analytics | Cofounder at Hashpath | Tweeting about Data, Startups and Dad Jokes.",
+				"url": "https://t.co/4gtQiRaabX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4gtQiRaabX",
+								"expanded_url": "http://www.hashpath.com",
+								"display_url": "hashpath.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1017,
+				"friends_count": 1272,
+				"listed_count": 12,
+				"created_at": "Sun Mar 22 18:54:58 +0000 2009",
+				"favourites_count": 2256,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1245,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250381487175860225/wJD4S8xe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250381487175860225/wJD4S8xe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25859335/1466712800",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 929,
+			"favorite_count": 5821,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Isn’t there just a button?”\n\nNo. No there isn’t. https://t.co/WZKnl5N6wt"
+	},
+	{
+		"created_at": "Wed Apr 22 00:09:11 +0000 2020",
+		"id": 1252751267685949400,
+		"id_str": "1252751267685949442",
+		"full_text": "@rageear Oooo. Maybe I’ll have to get some instant coffee",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rageear",
+					"name": "Micah Abbott",
+					"id": 820460,
+					"id_str": "820460",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1252748255533961200,
+		"in_reply_to_status_id_str": "1252748255533961218",
+		"in_reply_to_user_id": 820460,
+		"in_reply_to_user_id_str": "820460",
+		"in_reply_to_screen_name": "rageear",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4503,
+			"friends_count": 737,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 67455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rageear Oooo. Maybe I’ll have to get some instant coffee"
+	},
+	{
+		"created_at": "Tue Apr 21 21:44:44 +0000 2020",
+		"id": 1252714913279205400,
+		"id_str": "1252714913279205383",
+		"full_text": "@MeghanChayka https://t.co/wtfkgOAYfU",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeghanChayka",
+					"name": "Meghan Chayka",
+					"id": 23163698,
+					"id_str": "23163698",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252714906740285400,
+					"id_str": "1252714906740285442",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWKJkg0XYAIejeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWKJkg0XYAIejeY.jpg",
+					"url": "https://t.co/wtfkgOAYfU",
+					"display_url": "pic.twitter.com/wtfkgOAYfU",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1252714913279205383/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252714906740285400,
+					"id_str": "1252714906740285442",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWKJkg0XYAIejeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWKJkg0XYAIejeY.jpg",
+					"url": "https://t.co/wtfkgOAYfU",
+					"display_url": "pic.twitter.com/wtfkgOAYfU",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1252714913279205383/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							205
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EWKJkg0XYAIejeY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1252701394588622800,
+		"in_reply_to_status_id_str": "1252701394588622848",
+		"in_reply_to_user_id": 23163698,
+		"in_reply_to_user_id_str": "23163698",
+		"in_reply_to_screen_name": "MeghanChayka",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4503,
+			"friends_count": 737,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 67455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@MeghanChayka https://t.co/wtfkgOAYfU"
+	},
+	{
+		"created_at": "Tue Apr 21 15:34:44 +0000 2020",
+		"id": 1252621801307463700,
+		"id_str": "1252621801307463680",
+		"full_text": "https://t.co/3OPBc74mnT https://t.co/zVq11LJfEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3OPBc74mnT",
+					"expanded_url": "https://twitter.com/alexanderrklotz/status/1252389218514427909",
+					"display_url": "twitter.com/alexanderrklot…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252621789471092700,
+					"id_str": "1252621789471092737",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWI04X9WsAERZrG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWI04X9WsAERZrG.jpg",
+					"url": "https://t.co/zVq11LJfEW",
+					"display_url": "pic.twitter.com/zVq11LJfEW",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1252621801307463680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252621789471092700,
+					"id_str": "1252621789471092737",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWI04X9WsAERZrG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWI04X9WsAERZrG.jpg",
+					"url": "https://t.co/zVq11LJfEW",
+					"display_url": "pic.twitter.com/zVq11LJfEW",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1252621801307463680/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							50
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EWI04X9WsAERZrG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4503,
+			"friends_count": 737,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 67455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252389218514428000,
+		"quoted_status_id_str": "1252389218514427909",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3OPBc74mnT",
+			"expanded": "https://twitter.com/alexanderrklotz/status/1252389218514427909",
+			"display": "twitter.com/alexanderrklot…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 21 00:10:32 +0000 2020",
+			"id": 1252389218514428000,
+			"id_str": "1252389218514427909",
+			"full_text": "Google Scholar has parsed this cafeteria lunch menu as an author list, and it's delightful https://t.co/jobE6Z7bpI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1252389190370603000,
+						"id_str": "1252389190370603010",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EWFhVUyUMAIUItI.png",
+						"media_url_https": "https://pbs.twimg.com/media/EWFhVUyUMAIUItI.png",
+						"url": "https://t.co/jobE6Z7bpI",
+						"display_url": "pic.twitter.com/jobE6Z7bpI",
+						"expanded_url": "https://twitter.com/AlexanderRKlotz/status/1252389218514427909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 771,
+								"h": 162,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 771,
+								"h": 162,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 143,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1252389190370603000,
+						"id_str": "1252389190370603010",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EWFhVUyUMAIUItI.png",
+						"media_url_https": "https://pbs.twimg.com/media/EWFhVUyUMAIUItI.png",
+						"url": "https://t.co/jobE6Z7bpI",
+						"display_url": "pic.twitter.com/jobE6Z7bpI",
+						"expanded_url": "https://twitter.com/AlexanderRKlotz/status/1252389218514427909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 771,
+								"h": 162,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 771,
+								"h": 162,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 143,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3107894388,
+				"id_str": "3107894388",
+				"name": "Alex Klotz",
+				"screen_name": "AlexanderRKlotz",
+				"location": "",
+				"description": "New physics professor at California State University, Long Beach. Former postdoc at MIT. Interested in biophysics and squishy things. Learning to Twitter 🇨🇦",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 356,
+				"friends_count": 235,
+				"listed_count": 2,
+				"created_at": "Wed Mar 25 22:41:12 +0000 2015",
+				"favourites_count": 1484,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2085,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1151865630271922178/n2iFn6-z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151865630271922178/n2iFn6-z_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4169,
+			"favorite_count": 17466,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/3OPBc74mnT https://t.co/zVq11LJfEW"
+	},
+	{
 		"created_at": "Tue Apr 21 02:42:59 +0000 2020",
 		"id": 1252427582080815000,
 		"id_str": "1252427582080815111",
@@ -1118,7 +1992,7 @@ Grailbird.data.tweets_2020_04 =
 				"name": "Aloïs 🌻🌈",
 				"screen_name": "_adropofred",
 				"location": "Paris",
-				"description": "Today, you made it here. 🏳️‍🌈 Queer raccoon, disabled cat mummy, polyam doting spouse, writer, crafter, artist. 💘Pacific Rim, Marvel, It✨28 🇬🇧they 🇫🇷iel",
+				"description": "Today, you made it here. 🏳️🌈 Queer raccoon, disabled cat mummy, polyam doting spouse, writer, crafter, artist. 💘Pacific Rim, Marvel, It✨28 🇬🇧they 🇫🇷iel",
 				"url": "https://t.co/KalTnIID1u",
 				"entities": {
 					"url": {
