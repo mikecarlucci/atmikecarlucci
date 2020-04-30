@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 01:46:24 +0000 2020",
+		"id": 1255674833742057500,
+		"id_str": "1255674833742057473",
+		"full_text": "🤣 https://t.co/xAi7d2y5Hd https://t.co/l30OVLNeQK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xAi7d2y5Hd",
+					"expanded_url": "https://twitter.com/mobrienbooks/status/1255668654903119873",
+					"display_url": "twitter.com/mobrienbooks/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255674823704969200,
+					"id_str": "1255674823704969218",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EW0NmWxWAAImYn-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EW0NmWxWAAImYn-.jpg",
+					"url": "https://t.co/l30OVLNeQK",
+					"display_url": "pic.twitter.com/l30OVLNeQK",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1255674833742057473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255674823704969200,
+					"id_str": "1255674823704969218",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EW0NmWxWAAImYn-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EW0NmWxWAAImYn-.jpg",
+					"url": "https://t.co/l30OVLNeQK",
+					"display_url": "pic.twitter.com/l30OVLNeQK",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1255674833742057473/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EW0NmWxWAAImYn-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 740,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 67873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255668654903120000,
+		"quoted_status_id_str": "1255668654903119873",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xAi7d2y5Hd",
+			"expanded": "https://twitter.com/mobrienbooks/status/1255668654903119873",
+			"display": "twitter.com/mobrienbooks/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 30 01:21:51 +0000 2020",
+			"id": 1255668654903120000,
+			"id_str": "1255668654903119873",
+			"full_text": "[mariah voice] 🎶🎵🎶 you’ll always be a part of me\ni’m part of you indefinitely\nboy, don’t you know you can’t escape me\nooh darling, ‘cause you’ll always be my [key change to moira rose] bêbé 🎶🎵🎶",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 503515911,
+				"id_str": "503515911",
+				"name": "Mark O'Brien",
+				"screen_name": "mobrienbooks",
+				"location": "NJ",
+				"description": "Three rainbows in a trench coat. Friend. YA writer. Freelance editor. Meme gremlin. @LGBTQReads assistant. Queer clown. Aspiring child. He/him.",
+				"url": "https://t.co/mLtAGzgZq2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mLtAGzgZq2",
+								"expanded_url": "http://markobrienedits.com",
+								"display_url": "markobrienedits.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2333,
+				"friends_count": 402,
+				"listed_count": 137,
+				"created_at": "Sat Feb 25 20:35:40 +0000 2012",
+				"favourites_count": 5569,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49803,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1161293332758368256/e284QIdc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161293332758368256/e284QIdc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/503515911/1581215370",
+				"profile_link_color": "3B33FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤣 https://t.co/xAi7d2y5Hd https://t.co/l30OVLNeQK"
+	},
+	{
+		"created_at": "Thu Apr 30 01:21:36 +0000 2020",
+		"id": 1255668591992635400,
+		"id_str": "1255668591992635392",
+		"full_text": "https://t.co/bNaYjB1Kns https://t.co/Y4s4yTKxnT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bNaYjB1Kns",
+					"expanded_url": "https://twitter.com/museum_archive/status/1254358546545704960",
+					"display_url": "twitter.com/museum_archive…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255668585671929900,
+					"id_str": "1255668585671929860",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EW0H7QSXsAQViTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EW0H7QSXsAQViTe.jpg",
+					"url": "https://t.co/Y4s4yTKxnT",
+					"display_url": "pic.twitter.com/Y4s4yTKxnT",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1255668591992635392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255668585671929900,
+					"id_str": "1255668585671929860",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EW0H7QSXsAQViTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EW0H7QSXsAQViTe.jpg",
+					"url": "https://t.co/Y4s4yTKxnT",
+					"display_url": "pic.twitter.com/Y4s4yTKxnT",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1255668591992635392/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EW0H7QSXsAQViTe.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 740,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 67873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254358546545705000,
+		"quoted_status_id_str": "1254358546545704960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bNaYjB1Kns",
+			"expanded": "https://twitter.com/museum_archive/status/1254358546545704960",
+			"display": "twitter.com/museum_archive…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 26 10:35:57 +0000 2020",
+			"id": 1254358546545705000,
+			"id_str": "1254358546545704960",
+			"full_text": "More than 20 sealed coffins discovered near Luxor Egypt https://t.co/vqKE4xRPXE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1254358473699016700,
+						"id_str": "1254358473699016710",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/EWhgYs3UwAYcBLe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWhgYs3UwAYcBLe.jpg",
+						"url": "https://t.co/vqKE4xRPXE",
+						"display_url": "pic.twitter.com/vqKE4xRPXE",
+						"expanded_url": "https://twitter.com/Museum_archive/status/1254358546545704960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1254358473699016700,
+						"id_str": "1254358473699016710",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/EWhgYs3UwAYcBLe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWhgYs3UwAYcBLe.jpg",
+						"url": "https://t.co/vqKE4xRPXE",
+						"display_url": "pic.twitter.com/vqKE4xRPXE",
+						"expanded_url": "https://twitter.com/Museum_archive/status/1254358546545704960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1196339698895147000,
+				"id_str": "1196339698895147009",
+				"name": "Museum Archive",
+				"screen_name": "Museum_archive",
+				"location": "",
+				"description": "A collection of artifacts of cultural and historical relevance made available for public viewing. find your place in history.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 165908,
+				"friends_count": 0,
+				"listed_count": 292,
+				"created_at": "Mon Nov 18 08:10:01 +0000 2019",
+				"favourites_count": 27,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 614,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1249220712461733888/3Z1i_y0-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249220712461733888/3Z1i_y0-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1196339698895147009/1586672400",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4857,
+			"favorite_count": 22991,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/bNaYjB1Kns https://t.co/Y4s4yTKxnT"
+	},
+	{
 		"created_at": "Tue Apr 28 20:51:58 +0000 2020",
 		"id": 1255238351625560000,
 		"id_str": "1255238351625560066",
