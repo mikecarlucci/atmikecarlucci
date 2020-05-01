@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 20:57:09 +0000 2020",
+		"id": 1255912656755540000,
+		"id_str": "1255964428362711043",
+		"full_text": "Hi fellow @mlb fans. Here’s a #quarantine challenge. Without Google/@baseball_ref etc, for how many letters of the alphabet can you name past/present players whose first &amp; last names BOTH begin w/ the same letter, ex: Bobby Bonilla for B (👋🏽 @Mets 💸)?\n\nI got 18/26. #mlbnamegame",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quarantine",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"text": "mlbnamegame",
+					"indices": [
+						270,
+						282
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MLB",
+					"name": "MLB",
+					"id": 18479513,
+					"id_str": "18479513",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"screen_name": "baseball_ref",
+					"name": "Baseball Reference",
+					"id": 68449573,
+					"id_str": "68449573",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"screen_name": "Mets",
+					"name": "New York Mets",
+					"id": 39367703,
+					"id_str": "39367703",
+					"indices": [
+						246,
+						251
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110791774,
+			"id_str": "110791774",
+			"name": "Ashley",
+			"screen_name": "ashleytwhite",
+			"location": "Arizona, USA",
+			"description": "i reckon time according to ⚾️ season",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 345,
+			"friends_count": 831,
+			"listed_count": 11,
+			"created_at": "Tue Feb 02 20:01:17 +0000 2010",
+			"favourites_count": 16086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219106405619097600/EO61C90g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219106405619097600/EO61C90g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110791774/1522713107",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hi fellow @mlb fans. Here’s a #quarantine challenge. Without Google/@baseball_ref etc, for how many letters of the alphabet can you name past/present players whose first &amp; last names BOTH begin w/ the same letter, ex: Bobby Bonilla for B (👋🏽 @Mets 💸)?\n\nI got 18/26. #mlbnamegame"
+	},
+	{
+		"created_at": "Thu Apr 30 20:38:32 +0000 2020",
+		"id": 1255959743434195000,
+		"id_str": "1255959743434194947",
+		"full_text": "@ashleytwhite @MLB @baseball_ref @Mets I can hear it! lol",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ashleytwhite",
+					"name": "Ashley",
+					"id": 110791774,
+					"id_str": "110791774",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MLB",
+					"name": "MLB",
+					"id": 18479513,
+					"id_str": "18479513",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"screen_name": "baseball_ref",
+					"name": "Baseball Reference",
+					"id": 68449573,
+					"id_str": "68449573",
+					"indices": [
+						19,
+						32
+					]
+				},
+				{
+					"screen_name": "Mets",
+					"name": "New York Mets",
+					"id": 39367703,
+					"id_str": "39367703",
+					"indices": [
+						33,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1255958387797356500,
+		"in_reply_to_status_id_str": "1255958387797356546",
+		"in_reply_to_user_id": 110791774,
+		"in_reply_to_user_id_str": "110791774",
+		"in_reply_to_screen_name": "ashleytwhite",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 740,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 67919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ashleytwhite @MLB @baseball_ref @Mets I can hear it! lol"
+	},
+	{
 		"created_at": "Thu Apr 30 01:46:24 +0000 2020",
 		"id": 1255674833742057500,
 		"id_str": "1255674833742057473",
