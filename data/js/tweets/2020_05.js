@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 01:40:24 +0000 2020",
+		"id": 1258572426130178000,
+		"id_str": "1258572426130178051",
+		"full_text": "It is pitch black. You are likely to be eaten by a grue. https://t.co/tsayRwpAdS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tsayRwpAdS",
+					"expanded_url": "https://twitter.com/textfiles/status/1258483768010190849",
+					"display_url": "twitter.com/textfiles/stat…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4499,
+			"friends_count": 742,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 68344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258483768010190800,
+		"quoted_status_id_str": "1258483768010190849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tsayRwpAdS",
+			"expanded": "https://twitter.com/textfiles/status/1258483768010190849",
+			"display": "twitter.com/textfiles/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 07 19:48:06 +0000 2020",
+			"id": 1258483768010190800,
+			"id_str": "1258483768010190849",
+			"full_text": "The 1977 source code for ZORK has been recovered from MIT tapes and released on github. I cloned the repository at https://t.co/wcmA27eJvd and the official MIT github set is at https://t.co/JnZsyYDfff https://t.co/E9yEuNuKIC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wcmA27eJvd",
+						"expanded_url": "https://github.com/historicalsource/zork-1977-source",
+						"display_url": "github.com/historicalsour…",
+						"indices": [
+							115,
+							138
+						]
+					},
+					{
+						"url": "https://t.co/JnZsyYDfff",
+						"expanded_url": "https://github.com/MITDDC/zork",
+						"display_url": "github.com/MITDDC/zork",
+						"indices": [
+							177,
+							200
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1258483760754032600,
+						"id_str": "1258483760754032645",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EXcIUAtXgAUuv3b.png",
+						"media_url_https": "https://pbs.twimg.com/media/EXcIUAtXgAUuv3b.png",
+						"url": "https://t.co/E9yEuNuKIC",
+						"display_url": "pic.twitter.com/E9yEuNuKIC",
+						"expanded_url": "https://twitter.com/textfiles/status/1258483768010190849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 525,
+								"h": 270,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 525,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258483760754032600,
+						"id_str": "1258483760754032645",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EXcIUAtXgAUuv3b.png",
+						"media_url_https": "https://pbs.twimg.com/media/EXcIUAtXgAUuv3b.png",
+						"url": "https://t.co/E9yEuNuKIC",
+						"display_url": "pic.twitter.com/E9yEuNuKIC",
+						"expanded_url": "https://twitter.com/textfiles/status/1258483768010190849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 525,
+								"h": 270,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 525,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1465481,
+				"id_str": "1465481",
+				"name": "Jason Scott",
+				"screen_name": "textfiles",
+				"location": "The 1980s",
+				"description": "Proprietor of https://t.co/45hn0aMmeO, historian, filmmaker, archivist, famous cat maintenance staff. Works on/for the Internet Archive. Rank Amateur.",
+				"url": "https://t.co/1f0N0J6W33",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1f0N0J6W33",
+								"expanded_url": "http://ascii.textfiles.com",
+								"display_url": "ascii.textfiles.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/45hn0aMmeO",
+								"expanded_url": "http://TEXTFILES.COM",
+								"display_url": "TEXTFILES.COM",
+								"indices": [
+									14,
+									37
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 35774,
+				"friends_count": 753,
+				"listed_count": 1229,
+				"created_at": "Mon Mar 19 02:55:22 +0000 2007",
+				"favourites_count": 1700,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 97499,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1246993768034811910/Bai3FVYG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246993768034811910/Bai3FVYG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465481/1398239070",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1001,
+			"favorite_count": 2319,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is pitch black. You are likely to be eaten by a grue. https://t.co/tsayRwpAdS"
+	},
+	{
+		"created_at": "Thu May 07 19:57:27 +0000 2020",
+		"id": 1258486122809884700,
+		"id_str": "1258486122809884673",
+		"full_text": "Spared no expense https://t.co/K1Ggfm2fsC https://t.co/3nkeP0c4wB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K1Ggfm2fsC",
+					"expanded_url": "https://twitter.com/mcsweeneys/status/1258377290594922499",
+					"display_url": "twitter.com/mcsweeneys/sta…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258486118565240800,
+					"id_str": "1258486118565240832",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EXcKdQPXYAADAG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXcKdQPXYAADAG9.jpg",
+					"url": "https://t.co/3nkeP0c4wB",
+					"display_url": "pic.twitter.com/3nkeP0c4wB",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1258486122809884673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1668,
+							"h": 538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258486118565240800,
+					"id_str": "1258486118565240832",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EXcKdQPXYAADAG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXcKdQPXYAADAG9.jpg",
+					"url": "https://t.co/3nkeP0c4wB",
+					"display_url": "pic.twitter.com/3nkeP0c4wB",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1258486122809884673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1668,
+							"h": 538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4499,
+			"friends_count": 742,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 68344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258377290594922500,
+		"quoted_status_id_str": "1258377290594922499",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K1Ggfm2fsC",
+			"expanded": "https://twitter.com/mcsweeneys/status/1258377290594922499",
+			"display": "twitter.com/mcsweeneys/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 07 12:45:00 +0000 2020",
+			"id": 1258377290594922500,
+			"id_str": "1258377290594922499",
+			"full_text": "\"Here at Jurassic Park, we've never been ones to listen to the recommendations of scientists, or safety experts, or bioethicists, so why would we start now?\"\nhttps://t.co/FiK719M4rD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FiK719M4rD",
+						"expanded_url": "https://www.mcsweeneys.net/articles/sure-the-velociraptors-are-still-on-the-loose-but-thats-no-reason-not-to-reopen-jurassic-park",
+						"display_url": "mcsweeneys.net/articles/sure-…",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30109507,
+				"id_str": "30109507",
+				"name": "Timothy McSweeney",
+				"screen_name": "mcsweeneys",
+				"location": "San Francisco, CA",
+				"description": "The Twitter feed of McSweeney's Quarterly Concern, McSweeney's Internet Tendency, & McSweeney's Books.",
+				"url": "https://t.co/fSgGKWQSFt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fSgGKWQSFt",
+								"expanded_url": "http://www.mcsweeneys.net",
+								"display_url": "mcsweeneys.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 272548,
+				"friends_count": 1105,
+				"listed_count": 5788,
+				"created_at": "Fri Apr 10 00:33:36 +0000 2009",
+				"favourites_count": 8759,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 59094,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753636910656958465/PZMyIsPO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753636910656958465/PZMyIsPO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30109507/1581622242",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 105,
+			"favorite_count": 144,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spared no expense https://t.co/K1Ggfm2fsC https://t.co/3nkeP0c4wB"
+	},
+	{
 		"created_at": "Thu May 07 02:48:59 +0000 2020",
 		"id": 1258227298874130400,
 		"id_str": "1258227298874130433",
