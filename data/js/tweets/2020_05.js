@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 16:46:08 +0000 2020",
+		"id": 1262061851476725800,
+		"id_str": "1262061851476725760",
+		"full_text": "3 https://t.co/mvuFU6XumZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mvuFU6XumZ",
+					"expanded_url": "https://twitter.com/hankgreen/status/1261829298467467264",
+					"display_url": "twitter.com/hankgreen/stat…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4495,
+			"friends_count": 744,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 68996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261829298467467300,
+		"quoted_status_id_str": "1261829298467467264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mvuFU6XumZ",
+			"expanded": "https://twitter.com/hankgreen/status/1261829298467467264",
+			"display": "twitter.com/hankgreen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 17 01:22:03 +0000 2020",
+			"id": 1261829298467467300,
+			"id_str": "1261829298467467264",
+			"full_text": "My son just had his first roasted marshmallow and I've got to ask...which are you? https://t.co/VcmFVQMqiC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1261829236165230600,
+						"id_str": "1261829236165230592",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EYLrATzUwAAhShZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYLrATzUwAAhShZ.jpg",
+						"url": "https://t.co/VcmFVQMqiC",
+						"display_url": "pic.twitter.com/VcmFVQMqiC",
+						"expanded_url": "https://twitter.com/hankgreen/status/1261829298467467264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1261829236165230600,
+						"id_str": "1261829236165230592",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EYLrATzUwAAhShZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYLrATzUwAAhShZ.jpg",
+						"url": "https://t.co/VcmFVQMqiC",
+						"display_url": "pic.twitter.com/VcmFVQMqiC",
+						"expanded_url": "https://twitter.com/hankgreen/status/1261829298467467264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61592079,
+				"id_str": "61592079",
+				"name": "Hank Green",
+				"screen_name": "hankgreen",
+				"location": "Missoula, MT",
+				"description": "Book Writer, Video Maker, Science Communicator, Small Business Lover. Co-creator of Crash Course, SciShow, Vlogbrothers, VidCon, https://t.co/AxYpeXxCJc, and other stu",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AxYpeXxCJc",
+								"expanded_url": "http://DFTBA.com",
+								"display_url": "DFTBA.com",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 820929,
+				"friends_count": 831,
+				"listed_count": 5199,
+				"created_at": "Thu Jul 30 20:36:34 +0000 2009",
+				"favourites_count": 34803,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36665,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4DB3C8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1223287456092438528/60o8J8Ve_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223287456092438528/60o8J8Ve_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61592079/1576695851",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "858585",
+				"profile_sidebar_fill_color": "C0DDE0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 537,
+			"favorite_count": 15486,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "3 https://t.co/mvuFU6XumZ"
+	},
+	{
 		"created_at": "Sat May 16 19:20:59 +0000 2020",
 		"id": 1261738433107673000,
 		"id_str": "1261738433107673088",
