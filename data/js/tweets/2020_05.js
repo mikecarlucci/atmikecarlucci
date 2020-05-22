@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 22:28:31 +0000 2020",
+		"id": 1263597568396685300,
+		"id_str": "1263597568396685314",
+		"full_text": "This one wins https://t.co/apsfdgH6cA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/apsfdgH6cA",
+					"expanded_url": "https://twitter.com/veggie_delight/status/1263131656145252352",
+					"display_url": "twitter.com/veggie_delight…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4495,
+			"friends_count": 747,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 69068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263131656145252400,
+		"quoted_status_id_str": "1263131656145252352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/apsfdgH6cA",
+			"expanded": "https://twitter.com/veggie_delight/status/1263131656145252352",
+			"display": "twitter.com/veggie_delight…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 20 15:37:09 +0000 2020",
+			"id": 1263131656145252400,
+			"id_str": "1263131656145252352",
+			"full_text": "my plans                        2020 https://t.co/mpZSy3VOOR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1263131651724521500,
+						"id_str": "1263131651724521478",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/EYeLi32XsAYUxmp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYeLi32XsAYUxmp.jpg",
+						"url": "https://t.co/mpZSy3VOOR",
+						"display_url": "pic.twitter.com/mpZSy3VOOR",
+						"expanded_url": "https://twitter.com/veggie_delight/status/1263131656145252352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 343,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 343,
+								"h": 375,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 343,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263131651724521500,
+						"id_str": "1263131651724521478",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/EYeLi32XsAYUxmp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYeLi32XsAYUxmp.jpg",
+						"url": "https://t.co/mpZSy3VOOR",
+						"display_url": "pic.twitter.com/mpZSy3VOOR",
+						"expanded_url": "https://twitter.com/veggie_delight/status/1263131656145252352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 343,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 343,
+								"h": 375,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 343,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1263131651724411000,
+						"id_str": "1263131651724410882",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/EYeLi32WAAIFrW2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYeLi32WAAIFrW2.jpg",
+						"url": "https://t.co/mpZSy3VOOR",
+						"display_url": "pic.twitter.com/mpZSy3VOOR",
+						"expanded_url": "https://twitter.com/veggie_delight/status/1263131656145252352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 374,
+								"h": 374,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 374,
+								"h": 374,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 374,
+								"h": 374,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14662413,
+				"id_str": "14662413",
+				"name": "Quarantweets",
+				"screen_name": "veggie_delight",
+				"location": "new york city babyyy!!!",
+				"description": "Certified audio engineer and community college dropout",
+				"url": "https://t.co/5akmJ4DzDE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5akmJ4DzDE",
+								"expanded_url": "http://soundcloud.com/vampirelegs",
+								"display_url": "soundcloud.com/vampirelegs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1262,
+				"friends_count": 1136,
+				"listed_count": 12,
+				"created_at": "Mon May 05 17:48:46 +0000 2008",
+				"favourites_count": 127821,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27717,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "800000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191207540551491584/mvhPH8ck_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191207540551491584/mvhPH8ck_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14662413/1585936709",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "0000A0",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26207,
+			"favorite_count": 112357,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This one wins https://t.co/apsfdgH6cA"
+	},
+	{
 		"created_at": "Thu May 21 03:09:15 +0000 2020",
 		"id": 1263264926770094000,
 		"id_str": "1263305828855099405",
