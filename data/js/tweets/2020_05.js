@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 22 14:28:03 +0000 2020",
+		"id": 1263839044154404900,
+		"id_str": "1263839044154404864",
+		"full_text": "Solitaire and Reversi... good times https://t.co/EEBEb0JJKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EEBEb0JJKT",
+					"expanded_url": "https://twitter.com/tomwarren/status/1263814955901616128",
+					"display_url": "twitter.com/tomwarren/stat…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4496,
+			"friends_count": 747,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 69097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263814955901616000,
+		"quoted_status_id_str": "1263814955901616128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EEBEb0JJKT",
+			"expanded": "https://twitter.com/tomwarren/status/1263814955901616128",
+			"display": "twitter.com/tomwarren/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 22 12:52:20 +0000 2020",
+			"id": 1263814955901616000,
+			"id_str": "1263814955901616128",
+			"full_text": "remember Windows Solitaire? It's 30 years old today, after originally shipping in Windows 3.0 to teach people how to use a mouse https://t.co/7aPbaXpLKN https://t.co/6awtEBQRrx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7aPbaXpLKN",
+						"expanded_url": "https://www.theverge.com/2020/5/22/21266718/microsoft-solitaire-30-years-old-history-birthday-record-attempt?utm_campaign=tomwarren&utm_content=chorus&utm_medium=social&utm_source=twitter",
+						"display_url": "theverge.com/2020/5/22/2126…",
+						"indices": [
+							129,
+							152
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1263814877124198400,
+						"id_str": "1263814877124198400",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYn470zXgAAzFJG.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYn470zXgAAzFJG.jpg",
+						"url": "https://t.co/6awtEBQRrx",
+						"display_url": "pic.twitter.com/6awtEBQRrx",
+						"expanded_url": "https://twitter.com/tomwarren/status/1263814955901616128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 584,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 584,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 384,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263814877124198400,
+						"id_str": "1263814877124198400",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYn470zXgAAzFJG.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYn470zXgAAzFJG.jpg",
+						"url": "https://t.co/6awtEBQRrx",
+						"display_url": "pic.twitter.com/6awtEBQRrx",
+						"expanded_url": "https://twitter.com/tomwarren/status/1263814955901616128/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 584,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 584,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 384,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								73,
+								48
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EYn470zXgAAzFJG.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12273252,
+				"id_str": "12273252",
+				"name": "Tom Warren",
+				"screen_name": "tomwarren",
+				"location": "DM me tips",
+				"description": "Senior Editor at The Verge. My Twitter DMs are open and I accept tips via Telegram or Signal (DM for both)",
+				"url": "https://t.co/CIp2xTbGYJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CIp2xTbGYJ",
+								"expanded_url": "https://instagram.com/tomwarrenuk",
+								"display_url": "instagram.com/tomwarrenuk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 95429,
+				"friends_count": 1558,
+				"listed_count": 2498,
+				"created_at": "Tue Jan 15 14:42:09 +0000 2008",
+				"favourites_count": 4047,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16398,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1007122170579963904/1hBOxw5H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007122170579963904/1hBOxw5H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12273252/1533745085",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 592,
+			"favorite_count": 1390,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Solitaire and Reversi... good times https://t.co/EEBEb0JJKT"
+	},
+	{
 		"created_at": "Thu May 21 22:28:31 +0000 2020",
 		"id": 1263597568396685300,
 		"id_str": "1263597568396685314",
