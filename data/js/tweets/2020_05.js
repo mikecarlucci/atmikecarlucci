@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 02:50:54 +0000 2020",
+		"id": 1264388373621375000,
+		"id_str": "1264388373621374980",
+		"full_text": "John Olerud https://t.co/DPNPWAAKOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DPNPWAAKOP",
+					"expanded_url": "https://twitter.com/bluejays/status/1264285018073059329",
+					"display_url": "twitter.com/bluejays/statu…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4495,
+			"friends_count": 747,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 69160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1398534968",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264285018073059300,
+		"quoted_status_id_str": "1264285018073059329",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DPNPWAAKOP",
+			"expanded": "https://twitter.com/bluejays/status/1264285018073059329",
+			"display": "twitter.com/bluejays/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 23 20:00:12 +0000 2020",
+			"id": 1264285018073059300,
+			"id_str": "1264285018073059329",
+			"full_text": "Who's the first player you think of when you see this logo? https://t.co/YI0fusRsy8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1264285012763054000,
+						"id_str": "1264285012763054080",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/EYukhUiXkAA_N5J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYukhUiXkAA_N5J.jpg",
+						"url": "https://t.co/YI0fusRsy8",
+						"display_url": "pic.twitter.com/YI0fusRsy8",
+						"expanded_url": "https://twitter.com/BlueJays/status/1264285018073059329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1264285012763054000,
+						"id_str": "1264285012763054080",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/EYukhUiXkAA_N5J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYukhUiXkAA_N5J.jpg",
+						"url": "https://t.co/YI0fusRsy8",
+						"display_url": "pic.twitter.com/YI0fusRsy8",
+						"expanded_url": "https://twitter.com/BlueJays/status/1264285018073059329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41468683,
+				"id_str": "41468683",
+				"name": "Toronto Blue Jays",
+				"screen_name": "BlueJays",
+				"location": "Rogers Centre",
+				"description": "Literally us, the Blue Jays. Follow us on Facebook and Instagram: @BlueJays",
+				"url": "https://t.co/BqfVBIuI3W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BqfVBIuI3W",
+								"expanded_url": "http://atmlb.com/2ywgHOH",
+								"display_url": "atmlb.com/2ywgHOH",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2253762,
+				"friends_count": 710,
+				"listed_count": 7022,
+				"created_at": "Wed May 20 22:38:01 +0000 2009",
+				"favourites_count": 7246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 79582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "134A8E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250058378795200512/f-vXQAkG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250058378795200512/f-vXQAkG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41468683/1589250006",
+				"profile_link_color": "134A8E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 790,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "John Olerud https://t.co/DPNPWAAKOP"
+	},
+	{
 		"created_at": "Fri May 22 14:28:03 +0000 2020",
 		"id": 1263839044154404900,
 		"id_str": "1263839044154404864",
