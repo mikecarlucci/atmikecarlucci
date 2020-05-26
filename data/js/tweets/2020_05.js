@@ -1,6 +1,762 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 03:08:21 +0000 2020",
+		"id": 1264995125731774500,
+		"id_str": "1265117541283872771",
+		"full_text": "in fact the largest of these rats have been driven into the sewers, where they teach gangs of turtles to fetch them pizza https://t.co/udKXfCTvdZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/udKXfCTvdZ",
+					"expanded_url": "https://twitter.com/nytimes/status/1264992959864410113",
+					"display_url": "twitter.com/nytimes/status…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81482674,
+			"id_str": "81482674",
+			"name": "Dave Itzkoff",
+			"screen_name": "ditzkoff",
+			"location": "the holy goddam New York Times",
+			"description": "''As a Jew, I'm very judgmental. As a street Jew, doubly so.'' --Sidney Lumet",
+			"url": "https://t.co/p5CSs496g1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p5CSs496g1",
+							"expanded_url": "https://static.macmillan.com/static/holt/robin/",
+							"display_url": "static.macmillan.com/static/holt/ro…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 232903,
+			"friends_count": 900,
+			"listed_count": 2781,
+			"created_at": "Sun Oct 11 01:11:07 +0000 2009",
+			"favourites_count": 184138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2157386556/Picture_2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2157386556/Picture_2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81482674/1423798967",
+			"profile_link_color": "E37826",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264992959864410000,
+		"quoted_status_id_str": "1264992959864410113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/udKXfCTvdZ",
+			"expanded": "https://twitter.com/nytimes/status/1264992959864410113",
+			"display": "twitter.com/nytimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 25 18:53:18 +0000 2020",
+			"id": 1264992959864410000,
+			"id_str": "1264992959864410113",
+			"full_text": "As restaurants and other businesses close during the coronavirus pandemic, rats may become more aggressive as they hunt for new sources of food, the C.D.C. warned https://t.co/fTAA8WYdon",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fTAA8WYdon",
+						"expanded_url": "https://nyti.ms/2AZOGQJ",
+						"display_url": "nyti.ms/2AZOGQJ",
+						"indices": [
+							163,
+							186
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807095,
+				"id_str": "807095",
+				"name": "The New York Times",
+				"screen_name": "nytimes",
+				"location": "New York City",
+				"description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+				"url": "http://t.co/ahvuWqicF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ahvuWqicF9",
+								"expanded_url": "http://www.nytimes.com/",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ghL9OoYKMM",
+								"expanded_url": "http://nyti.ms/2FVHq9v",
+								"display_url": "nyti.ms/2FVHq9v",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 46600354,
+				"friends_count": 909,
+				"listed_count": 199021,
+				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+				"favourites_count": 18491,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 396860,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+				"profile_link_color": "607696",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 340,
+			"favorite_count": 755,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 82,
+		"favorite_count": 655,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in fact the largest of these rats have been driven into the sewers, where they teach gangs of turtles to fetch them pizza https://t.co/udKXfCTvdZ"
+	},
+	{
+		"created_at": "Mon May 25 20:56:03 +0000 2020",
+		"id": 1265023848392667100,
+		"id_str": "1265023848392667138",
+		"full_text": "@dianagram https://t.co/9zxBkeAriv",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dianagram",
+					"name": "D.B. Firstman",
+					"id": 16273915,
+					"id_str": "16273915",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265023823700791300,
+					"id_str": "1265023823700791296",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EY5EdxwXkAAdcsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EY5EdxwXkAAdcsU.jpg",
+					"url": "https://t.co/9zxBkeAriv",
+					"display_url": "pic.twitter.com/9zxBkeAriv",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1265023848392667138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265023823700791300,
+					"id_str": "1265023823700791296",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EY5EdxwXkAAdcsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EY5EdxwXkAAdcsU.jpg",
+					"url": "https://t.co/9zxBkeAriv",
+					"display_url": "pic.twitter.com/9zxBkeAriv",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1265023848392667138/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EY5EdxwXkAAdcsU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265014994074288000,
+		"in_reply_to_status_id_str": "1265014994074288128",
+		"in_reply_to_user_id": 16273915,
+		"in_reply_to_user_id_str": "16273915",
+		"in_reply_to_screen_name": "dianagram",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4495,
+			"friends_count": 748,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 69249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@dianagram https://t.co/9zxBkeAriv"
+	},
+	{
+		"created_at": "Mon May 25 16:06:38 +0000 2020",
+		"id": 1264951016170160000,
+		"id_str": "1264951016170160130",
+		"full_text": "It’s like Saturdays as a kid again with bowling on TV https://t.co/OiwimI5Rzs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OiwimI5Rzs",
+					"expanded_url": "https://twitter.com/pbatour/status/1263121979009167360",
+					"display_url": "twitter.com/pbatour/status…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4495,
+			"friends_count": 748,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 69249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263121979009167400,
+		"quoted_status_id_str": "1263121979009167360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OiwimI5Rzs",
+			"expanded": "https://twitter.com/pbatour/status/1263121979009167360",
+			"display": "twitter.com/pbatour/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 20 14:58:42 +0000 2020",
+			"id": 1263121979009167400,
+			"id_str": "1263121979009167360",
+			"full_text": "🚨 Bowling is BACK on FOX June 6th with the inaugural PBA Strike Derby! Details at https://t.co/MNkkEjxlWD. #PBA #GoBowling https://t.co/djBseqGQip",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PBA",
+						"indices": [
+							107,
+							111
+						]
+					},
+					{
+						"text": "GoBowling",
+						"indices": [
+							112,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MNkkEjxlWD",
+						"expanded_url": "http://PBA.com",
+						"display_url": "PBA.com",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1263121974353522700,
+						"id_str": "1263121974353522689",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EYeCvk1U8AE8E_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYeCvk1U8AE8E_B.jpg",
+						"url": "https://t.co/djBseqGQip",
+						"display_url": "pic.twitter.com/djBseqGQip",
+						"expanded_url": "https://twitter.com/PBATour/status/1263121979009167360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 937,
+								"h": 545,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 937,
+								"h": 545,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 396,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263121974353522700,
+						"id_str": "1263121974353522689",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EYeCvk1U8AE8E_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYeCvk1U8AE8E_B.jpg",
+						"url": "https://t.co/djBseqGQip",
+						"display_url": "pic.twitter.com/djBseqGQip",
+						"expanded_url": "https://twitter.com/PBATour/status/1263121979009167360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 937,
+								"h": 545,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 937,
+								"h": 545,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 396,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22534835,
+				"id_str": "22534835",
+				"name": "PBA Tour",
+				"screen_name": "PBATour",
+				"location": "",
+				"description": "Official Twitter account of Professional Bowlers. Visit us https://t.co/ybVZ2kbtv0 | IG: @PBATour | https://t.co/zOebEnHn3X | #PBA #GoBowling #Chasing300",
+				"url": "https://t.co/o6zp1yee0f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o6zp1yee0f",
+								"expanded_url": "http://www.PBA.com",
+								"display_url": "PBA.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ybVZ2kbtv0",
+								"expanded_url": "http://PBA.com",
+								"display_url": "PBA.com",
+								"indices": [
+									59,
+									82
+								]
+							},
+							{
+								"url": "https://t.co/zOebEnHn3X",
+								"expanded_url": "http://YouTube.com/PBA",
+								"display_url": "YouTube.com/PBA",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 55231,
+				"friends_count": 348,
+				"listed_count": 348,
+				"created_at": "Mon Mar 02 21:13:58 +0000 2009",
+				"favourites_count": 3897,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 35940,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080141474052763650/o3po9u2__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080141474052763650/o3po9u2__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22534835/1584383121",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 251,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s like Saturdays as a kid again with bowling on TV https://t.co/OiwimI5Rzs"
+	},
+	{
 		"created_at": "Sun May 24 23:57:39 +0000 2020",
 		"id": 1264707162477035500,
 		"id_str": "1264707162477035521",
