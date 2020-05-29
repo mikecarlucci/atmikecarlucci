@@ -1,6 +1,647 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 29 02:12:35 +0000 2020",
+		"id": 1266190673893564400,
+		"id_str": "1266190673893564417",
+		"full_text": "@octonion https://t.co/GgRi77TO2j",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "octonion",
+					"name": "Christopher D. Long",
+					"id": 77810367,
+					"id_str": "77810367",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266190663655272400,
+					"id_str": "1266190663655272450",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZJpszUWsAID3WE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZJpszUWsAID3WE.jpg",
+					"url": "https://t.co/GgRi77TO2j",
+					"display_url": "pic.twitter.com/GgRi77TO2j",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1266190673893564417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 372,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266190663655272400,
+					"id_str": "1266190663655272450",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZJpszUWsAID3WE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZJpszUWsAID3WE.jpg",
+					"url": "https://t.co/GgRi77TO2j",
+					"display_url": "pic.twitter.com/GgRi77TO2j",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1266190673893564417/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 372,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							93,
+							70
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EZJpszUWsAID3WE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1266189670016331800,
+		"in_reply_to_status_id_str": "1266189670016331779",
+		"in_reply_to_user_id": 77810367,
+		"in_reply_to_user_id_str": "77810367",
+		"in_reply_to_screen_name": "octonion",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4493,
+			"friends_count": 732,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 69441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@octonion https://t.co/GgRi77TO2j"
+	},
+	{
+		"created_at": "Thu May 28 22:25:56 +0000 2020",
+		"id": 1266133631778672600,
+		"id_str": "1266133631778672640",
+		"full_text": "@AOC I was told a department I worked in “worked a full 8-hour day” and if we wanted 30 minutes for lunch to come in 30 minutes early or stay 30 minutes late.",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AOC",
+					"name": "Alexandria Ocasio-Cortez",
+					"id": 138203134,
+					"id_str": "138203134",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1266130969674817500,
+		"in_reply_to_status_id_str": "1266130969674817537",
+		"in_reply_to_user_id": 138203134,
+		"in_reply_to_user_id_str": "138203134",
+		"in_reply_to_screen_name": "AOC",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4493,
+			"friends_count": 732,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 69441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AOC I was told a department I worked in “worked a full 8-hour day” and if we wanted 30 minutes for lunch to come in 30 minutes early or stay 30 minutes late."
+	},
+	{
+		"created_at": "Thu May 28 18:41:03 +0000 2020",
+		"id": 1266077040777797600,
+		"id_str": "1266077040777797635",
+		"full_text": "@tesstass @DSzymborski Type R? https://t.co/WnPyW6TsIe",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tesstass",
+					"name": "tess taruskin",
+					"id": 235680756,
+					"id_str": "235680756",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "DSzymborski",
+					"name": "DSzymborski",
+					"id": 44929255,
+					"id_str": "44929255",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WnPyW6TsIe",
+					"expanded_url": "https://youtu.be/nDh5o61P558",
+					"display_url": "youtu.be/nDh5o61P558",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1266073200263381000,
+		"in_reply_to_status_id_str": "1266073200263380993",
+		"in_reply_to_user_id": 235680756,
+		"in_reply_to_user_id_str": "235680756",
+		"in_reply_to_screen_name": "tesstass",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4493,
+			"friends_count": 732,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 69441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tesstass @DSzymborski Type R? https://t.co/WnPyW6TsIe"
+	},
+	{
+		"created_at": "Thu May 28 17:32:25 +0000 2020",
+		"id": 1266054809557188600,
+		"id_str": "1266059767786680321",
+		"full_text": "https://t.co/A4tSfrYg37",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266054778104103000,
+					"id_str": "1266054778104102913",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EZHuHOMUwAES0RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZHuHOMUwAES0RL.jpg",
+					"url": "https://t.co/A4tSfrYg37",
+					"display_url": "pic.twitter.com/A4tSfrYg37",
+					"expanded_url": "https://twitter.com/TolarianCollege/status/1266054809557188613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1196,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1196,
+							"h": 888,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266054778104103000,
+					"id_str": "1266054778104102913",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EZHuHOMUwAES0RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZHuHOMUwAES0RL.jpg",
+					"url": "https://t.co/A4tSfrYg37",
+					"display_url": "pic.twitter.com/A4tSfrYg37",
+					"expanded_url": "https://twitter.com/TolarianCollege/status/1266054809557188613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1196,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1196,
+							"h": 888,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1266054793702731800,
+					"id_str": "1266054793702731776",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EZHuIITU8AAg8kL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZHuIITU8AAg8kL.jpg",
+					"url": "https://t.co/A4tSfrYg37",
+					"display_url": "pic.twitter.com/A4tSfrYg37",
+					"expanded_url": "https://twitter.com/TolarianCollege/status/1266054809557188613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2442432306,
+			"id_str": "2442432306",
+			"name": "Tolarian Community College",
+			"screen_name": "TolarianCollege",
+			"location": "Tolarian Community College",
+			"description": "I review cardboard and cardboard accessories.",
+			"url": "https://t.co/4W1cI30sWu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4W1cI30sWu",
+							"expanded_url": "https://www.youtube.com/tolariancommunity",
+							"display_url": "youtube.com/tolariancommun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89274,
+			"friends_count": 469,
+			"listed_count": 359,
+			"created_at": "Sun Apr 13 19:48:44 +0000 2014",
+			"favourites_count": 44223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/499928986273591297/56msobMz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/499928986273591297/56msobMz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2442432306/1408027391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 496,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/A4tSfrYg37"
+	},
+	{
 		"created_at": "Wed May 27 20:09:14 +0000 2020",
 		"id": 1265734965691588600,
 		"id_str": "1265736844358160385",
