@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 31 19:04:34 +0000 2020",
+		"id": 1267170120360738800,
+		"id_str": "1267170120360738818",
+		"full_text": "https://t.co/9E16yqKCj8 https://t.co/tTImSeGpHm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9E16yqKCj8",
+					"expanded_url": "https://twitter.com/markthenomad/status/1266727162926817283",
+					"display_url": "twitter.com/markthenomad/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1267170114752913400,
+					"id_str": "1267170114752913409",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EZXkgW_WoAEB7wp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZXkgW_WoAEB7wp.jpg",
+					"url": "https://t.co/tTImSeGpHm",
+					"display_url": "pic.twitter.com/tTImSeGpHm",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1267170120360738818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267170114752913400,
+					"id_str": "1267170114752913409",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EZXkgW_WoAEB7wp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZXkgW_WoAEB7wp.jpg",
+					"url": "https://t.co/tTImSeGpHm",
+					"display_url": "pic.twitter.com/tTImSeGpHm",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1267170120360738818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4492,
+			"friends_count": 733,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 69652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266727162926817300,
+		"quoted_status_id_str": "1266727162926817283",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9E16yqKCj8",
+			"expanded": "https://twitter.com/markthenomad/status/1266727162926817283",
+			"display": "twitter.com/markthenomad/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 30 13:44:24 +0000 2020",
+			"id": 1266727162926817300,
+			"id_str": "1266727162926817283",
+			"full_text": "Please make this the new “This is Fine” https://t.co/82GzfG26Dv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1266727159642685400,
+						"id_str": "1266727159642685442",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/EZRRo-nXgAIuGVA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZRRo-nXgAIuGVA.jpg",
+						"url": "https://t.co/82GzfG26Dv",
+						"display_url": "pic.twitter.com/82GzfG26Dv",
+						"expanded_url": "https://twitter.com/MarktheNomad/status/1266727162926817283/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1266727159642685400,
+						"id_str": "1266727159642685442",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/EZRRo-nXgAIuGVA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZRRo-nXgAIuGVA.jpg",
+						"url": "https://t.co/82GzfG26Dv",
+						"display_url": "pic.twitter.com/82GzfG26Dv",
+						"expanded_url": "https://twitter.com/MarktheNomad/status/1266727162926817283/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52876493,
+				"id_str": "52876493",
+				"name": "Mark",
+				"screen_name": "MarktheNomad",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/1N92bmIu0F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1N92bmIu0F",
+								"expanded_url": "https://gph.is/28KoFTz",
+								"display_url": "gph.is/28KoFTz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3737,
+				"friends_count": 244,
+				"listed_count": 100,
+				"created_at": "Wed Jul 01 22:39:04 +0000 2009",
+				"favourites_count": 26161,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1061,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1264878687033479168/kdA2yXv6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264878687033479168/kdA2yXv6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52876493/1579992157",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5488,
+			"favorite_count": 26179,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/9E16yqKCj8 https://t.co/tTImSeGpHm"
+	},
+	{
 		"created_at": "Sat May 30 21:23:30 +0000 2020",
 		"id": 1266842698813751300,
 		"id_str": "1266842698813751299",
