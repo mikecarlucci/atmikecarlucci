@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 22:49:46 +0000 2020",
+		"id": 1270125898323419100,
+		"id_str": "1270125898323419140",
+		"full_text": "https://t.co/DqVOe1Elw4 https://t.co/DW9pmSvDLC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DqVOe1Elw4",
+					"expanded_url": "https://twitter.com/xkcdcomic/status/1270102642404950016",
+					"display_url": "twitter.com/xkcdcomic/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270125887829291000,
+					"id_str": "1270125887829291009",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaBkw_wXsAEhEWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaBkw_wXsAEhEWW.jpg",
+					"url": "https://t.co/DW9pmSvDLC",
+					"display_url": "pic.twitter.com/DW9pmSvDLC",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1270125898323419140/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270125887829291000,
+					"id_str": "1270125887829291009",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaBkw_wXsAEhEWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaBkw_wXsAEhEWW.jpg",
+					"url": "https://t.co/DW9pmSvDLC",
+					"display_url": "pic.twitter.com/DW9pmSvDLC",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1270125898323419140/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							158,
+							119
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EaBkw_wXsAEhEWW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4484,
+			"friends_count": 735,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 70212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270102642404950000,
+		"quoted_status_id_str": "1270102642404950016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DqVOe1Elw4",
+			"expanded": "https://twitter.com/xkcdcomic/status/1270102642404950016",
+			"display": "twitter.com/xkcdcomic/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 08 21:17:21 +0000 2020",
+			"id": 1270102642404950000,
+			"id_str": "1270102642404950016",
+			"full_text": "Pinouts https://t.co/qzLIJeBbPu https://t.co/4HOAOo52q5 https://t.co/quRrSqzWIT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qzLIJeBbPu",
+						"expanded_url": "https://xkcd.com/2317/",
+						"display_url": "xkcd.com/2317/",
+						"indices": [
+							8,
+							31
+						]
+					},
+					{
+						"url": "https://t.co/4HOAOo52q5",
+						"expanded_url": "https://m.xkcd.com/2317/",
+						"display_url": "m.xkcd.com/2317/",
+						"indices": [
+							32,
+							55
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1270102640756547600,
+						"id_str": "1270102640756547585",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/EaBPn1qUYAEY5NM.png",
+						"media_url_https": "https://pbs.twimg.com/media/EaBPn1qUYAEY5NM.png",
+						"url": "https://t.co/quRrSqzWIT",
+						"display_url": "pic.twitter.com/quRrSqzWIT",
+						"expanded_url": "https://twitter.com/xkcdComic/status/1270102642404950016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 389,
+								"h": 894,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 389,
+								"h": 894,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 296,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1270102640756547600,
+						"id_str": "1270102640756547585",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/EaBPn1qUYAEY5NM.png",
+						"media_url_https": "https://pbs.twimg.com/media/EaBPn1qUYAEY5NM.png",
+						"url": "https://t.co/quRrSqzWIT",
+						"display_url": "pic.twitter.com/quRrSqzWIT",
+						"expanded_url": "https://twitter.com/xkcdComic/status/1270102642404950016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 389,
+								"h": 894,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 389,
+								"h": 894,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 296,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2251623492,
+				"id_str": "2251623492",
+				"name": "XKCD Comic",
+				"screen_name": "xkcdComic",
+				"location": "",
+				"description": "XKCD comic feed with images and mobile friendly links. Unofficial, run by @dghubble",
+				"url": "http://t.co/Tca90xyNDW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Tca90xyNDW",
+								"expanded_url": "http://xkcd.com",
+								"display_url": "xkcd.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 291553,
+				"friends_count": 1,
+				"listed_count": 2862,
+				"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1091,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 897,
+			"favorite_count": 5440,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/DqVOe1Elw4 https://t.co/DW9pmSvDLC"
+	},
+	{
+		"created_at": "Mon Jun 08 22:09:56 +0000 2020",
+		"id": 1270115874205307000,
+		"id_str": "1270115874205306880",
+		"full_text": "“We'll all be burning the midnight oil on this one.” https://t.co/cjSzLhNK0e https://t.co/uIRyaxlhK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cjSzLhNK0e",
+					"expanded_url": "https://twitter.com/startrek/status/1270113372411920385",
+					"display_url": "twitter.com/startrek/statu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270115870803726300,
+					"id_str": "1270115870803726336",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EaBbp7bXkAAd2MB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaBbp7bXkAAd2MB.jpg",
+					"url": "https://t.co/uIRyaxlhK5",
+					"display_url": "pic.twitter.com/uIRyaxlhK5",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1270115874205306880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270115870803726300,
+					"id_str": "1270115870803726336",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EaBbp7bXkAAd2MB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaBbp7bXkAAd2MB.jpg",
+					"url": "https://t.co/uIRyaxlhK5",
+					"display_url": "pic.twitter.com/uIRyaxlhK5",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1270115874205306880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4484,
+			"friends_count": 735,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 70212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270113372411920400,
+		"quoted_status_id_str": "1270113372411920385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cjSzLhNK0e",
+			"expanded": "https://twitter.com/startrek/status/1270113372411920385",
+			"display": "twitter.com/startrek/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 08 22:00:00 +0000 2020",
+			"id": 1270113372411920400,
+			"id_str": "1270113372411920385",
+			"full_text": "What are some of your favorite Miles O'Brien moments? ✨ #StarTrek https://t.co/1e0e87kqmc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StarTrek",
+						"indices": [
+							56,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1e0e87kqmc",
+						"expanded_url": "https://www.startrek.com/videos/watch-script-to-screen-tribunal",
+						"display_url": "startrek.com/videos/watch-s…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130491582,
+				"id_str": "130491582",
+				"name": "Star Trek",
+				"screen_name": "StarTrek",
+				"location": "",
+				"description": "Welcome to the OFFICIAL Star Trek Twitter Page!",
+				"url": "https://t.co/bT4AwzfVAN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bT4AwzfVAN",
+								"expanded_url": "http://www.StarTrek.com",
+								"display_url": "StarTrek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 457501,
+				"friends_count": 678,
+				"listed_count": 4019,
+				"created_at": "Wed Apr 07 12:53:57 +0000 2010",
+				"favourites_count": 15361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34529,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130491582/1560781557",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 207,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We'll all be burning the midnight oil on this one.” https://t.co/cjSzLhNK0e https://t.co/uIRyaxlhK5"
+	},
+	{
 		"created_at": "Sun Jun 07 18:28:26 +0000 2020",
 		"id": 1269697741342609400,
 		"id_str": "1269697741342609409",
@@ -1032,7 +1731,7 @@ Grailbird.data.tweets_2020_06 =
 			"created_at": "Sat Jun 06 23:06:33 +0000 2020",
 			"id": 1269405347577503700,
 			"id_str": "1269405347577503745",
-			"full_text": "ANNOUNCING:\n🏳️‍🌈SPECTRAL CHAOS!🏳️‍🌈\nThe 1990s Magic set that was never released...until now!\nSpoilers will continue throughout the summer.\nAn amazing part of hidden Magic History is now yours to enjoy! #SpectralChaos #MTGUnderground #OldSchoolMTG #Premodern\nhttps://t.co/Lf7EQ4Emi7 https://t.co/PllFNrxxPB",
+			"full_text": "ANNOUNCING:\n🏳️🌈SPECTRAL CHAOS!🏳️🌈\nThe 1990s Magic set that was never released...until now!\nSpoilers will continue throughout the summer.\nAn amazing part of hidden Magic History is now yours to enjoy! #SpectralChaos #MTGUnderground #OldSchoolMTG #Premodern\nhttps://t.co/Lf7EQ4Emi7 https://t.co/PllFNrxxPB",
 			"truncated": false,
 			"display_text_range": [
 				0,
