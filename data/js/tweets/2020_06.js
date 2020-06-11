@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 20:17:12 +0000 2020",
+		"id": 1270812280251441200,
+		"id_str": "1270812280251441152",
+		"full_text": "Or Fred 🍩 \nMaybe Big Papi ⚾️ https://t.co/RjhhaLvMDV https://t.co/yXiX5sIahk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RjhhaLvMDV",
+					"expanded_url": "https://twitter.com/ayoedebiri/status/1270790327566102528",
+					"display_url": "twitter.com/ayoedebiri/sta…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270812274576539600,
+					"id_str": "1270812274576539648",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaLVB9pXQAAlEAk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaLVB9pXQAAlEAk.jpg",
+					"url": "https://t.co/yXiX5sIahk",
+					"display_url": "pic.twitter.com/yXiX5sIahk",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1270812280251441152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 216,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 216,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270812274576539600,
+					"id_str": "1270812274576539648",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaLVB9pXQAAlEAk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaLVB9pXQAAlEAk.jpg",
+					"url": "https://t.co/yXiX5sIahk",
+					"display_url": "pic.twitter.com/yXiX5sIahk",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1270812280251441152/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 216,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 216,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							173,
+							108
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EaLVB9pXQAAlEAk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4483,
+			"friends_count": 735,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 70309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270790327566102500,
+		"quoted_status_id_str": "1270790327566102528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RjhhaLvMDV",
+			"expanded": "https://twitter.com/ayoedebiri/status/1270790327566102528",
+			"display": "twitter.com/ayoedebiri/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 10 18:49:58 +0000 2020",
+			"id": 1270790327566102500,
+			"id_str": "1270790327566102528",
+			"full_text": "boston should replace the christopher columbus statue with a statue of the jordan's furniture brother who quit the furniture business to produce musicals on broadway",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 892479848,
+				"id_str": "892479848",
+				"name": "Ayo Edebiri",
+				"screen_name": "ayoedebiri",
+				"location": "",
+				"description": "comic, writer, backpack-wearing adult // RTs = endorsements, friendship, a place to crash if ur in town // 🗣click the link below plz🗣",
+				"url": "https://t.co/PCybss7wdY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PCybss7wdY",
+								"expanded_url": "https://youtu.be/U9ewjUeqlmc",
+								"display_url": "youtu.be/U9ewjUeqlmc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36742,
+				"friends_count": 1328,
+				"listed_count": 72,
+				"created_at": "Sat Oct 20 04:43:58 +0000 2012",
+				"favourites_count": 79988,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11891,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "61616E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744582043623907328/IwEXNX4z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744582043623907328/IwEXNX4z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/892479848/1529540007",
+				"profile_link_color": "996699",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 911,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Or Fred 🍩 \nMaybe Big Papi ⚾️ https://t.co/RjhhaLvMDV https://t.co/yXiX5sIahk"
+	},
+	{
 		"created_at": "Tue Jun 09 17:36:40 +0000 2020",
 		"id": 1270409491830526000,
 		"id_str": "1270409491830525955",
