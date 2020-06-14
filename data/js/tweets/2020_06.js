@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 23:22:12 +0000 2020",
+		"id": 1271946000987545600,
+		"id_str": "1271946000987545600",
+		"full_text": "Franklin Hoyts Cinema 6 https://t.co/Qa0Kw7yYEF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qa0Kw7yYEF",
+					"expanded_url": "https://twitter.com/jurassicworld/status/1271120799777210369",
+					"display_url": "twitter.com/jurassicworld/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4482,
+			"friends_count": 737,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 70432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271120799777210400,
+		"quoted_status_id_str": "1271120799777210369",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qa0Kw7yYEF",
+			"expanded": "https://twitter.com/jurassicworld/status/1271120799777210369",
+			"display": "twitter.com/jurassicworld/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 11 16:43:09 +0000 2020",
+			"id": 1271120799777210400,
+			"id_str": "1271120799777210369",
+			"full_text": "On this day 27 years ago, Jurassic Park premiered in theaters! Where were you when you first watched the film? https://t.co/P2WeqUblSv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1271120761764237300,
+						"id_str": "1271120761764237312",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/EaPtmR-U0AAFVjJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaPtmR-U0AAFVjJ.jpg",
+						"url": "https://t.co/P2WeqUblSv",
+						"display_url": "pic.twitter.com/P2WeqUblSv",
+						"expanded_url": "https://twitter.com/JurassicWorld/status/1271120799777210369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 823,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 466,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1405,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1271120761764237300,
+						"id_str": "1271120761764237312",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/EaPtmR-U0AAFVjJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaPtmR-U0AAFVjJ.jpg",
+						"url": "https://t.co/P2WeqUblSv",
+						"display_url": "pic.twitter.com/P2WeqUblSv",
+						"expanded_url": "https://twitter.com/JurassicWorld/status/1271120799777210369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 823,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 466,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1405,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 525808515,
+				"id_str": "525808515",
+				"name": "Jurassic World",
+				"screen_name": "JurassicWorld",
+				"location": "",
+				"description": "Life finds a way.",
+				"url": "https://t.co/gCtqT2dWCn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gCtqT2dWCn",
+								"expanded_url": "http://jurassicworld.com",
+								"display_url": "jurassicworld.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 291481,
+				"friends_count": 26,
+				"listed_count": 746,
+				"created_at": "Thu Mar 15 22:29:35 +0000 2012",
+				"favourites_count": 3630,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11137,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/943292605911015424/Fi7Y6BTY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/943292605911015424/Fi7Y6BTY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/525808515/1560380645",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5713,
+			"favorite_count": 22230,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Franklin Hoyts Cinema 6 https://t.co/Qa0Kw7yYEF"
+	},
+	{
 		"created_at": "Fri Jun 12 22:02:13 +0000 2020",
 		"id": 1271561926942711800,
 		"id_str": "1271563484208267271",
