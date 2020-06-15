@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 02:45:31 +0000 2020",
+		"id": 1272167559597633500,
+		"id_str": "1272359554869866496",
+		"full_text": "On this day 33 years ago a crucial error by Keith Hernandez led to a five run 9th inning by the Phillies, costing the Mets the game and ruining the day of two fans in the right field stands. https://t.co/8XfWd4feJ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272167551427137500,
+					"id_str": "1272167551427137537",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EaelpdWX0AEu5CX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaelpdWX0AEu5CX.jpg",
+					"url": "https://t.co/8XfWd4feJ9",
+					"display_url": "pic.twitter.com/8XfWd4feJ9",
+					"expanded_url": "https://twitter.com/CogginToboggan/status/1272167559597633536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1417,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272167551427137500,
+					"id_str": "1272167551427137537",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EaelpdWX0AEu5CX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaelpdWX0AEu5CX.jpg",
+					"url": "https://t.co/8XfWd4feJ9",
+					"display_url": "pic.twitter.com/8XfWd4feJ9",
+					"expanded_url": "https://twitter.com/CogginToboggan/status/1272167559597633536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1417,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 259033576,
+			"id_str": "259033576",
+			"name": "CogginToboggan",
+			"screen_name": "CogginToboggan",
+			"location": "",
+			"description": "Founder of Philadelphia's most trusted sports blog, The Coggin Toboggan. Columnist for @CrossingBroad. @thecoggintoboggan on IG",
+			"url": "https://t.co/mICL5dA6H4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mICL5dA6H4",
+							"expanded_url": "http://thecoggintoboggan.com",
+							"display_url": "thecoggintoboggan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4063,
+			"friends_count": 897,
+			"listed_count": 36,
+			"created_at": "Tue Mar 01 01:00:07 +0000 2011",
+			"favourites_count": 98948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/814169758069297153/GMGZ92we_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/814169758069297153/GMGZ92we_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/259033576/1555509587",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 366,
+		"favorite_count": 1729,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day 33 years ago a crucial error by Keith Hernandez led to a five run 9th inning by the Phillies, costing the Mets the game and ruining the day of two fans in the right field stands. https://t.co/8XfWd4feJ9"
+	},
+	{
 		"created_at": "Sat Jun 13 23:22:12 +0000 2020",
 		"id": 1271946000987545600,
 		"id_str": "1271946000987545600",
