@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 01:57:27 +0000 2020",
+		"id": 1273072233121026000,
+		"id_str": "1273072233121026056",
+		"full_text": "#CaptainPicardDay https://t.co/zqMcRo7vav https://t.co/QmeIn2teKN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CaptainPicardDay",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zqMcRo7vav",
+					"expanded_url": "https://twitter.com/startrek/status/1272899229103452160",
+					"display_url": "twitter.com/startrek/statu…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273072227412594700,
+					"id_str": "1273072227412594690",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EarcciBX0AIAuxA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EarcciBX0AIAuxA.jpg",
+					"url": "https://t.co/QmeIn2teKN",
+					"display_url": "pic.twitter.com/QmeIn2teKN",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1273072233121026056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273072227412594700,
+					"id_str": "1273072227412594690",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EarcciBX0AIAuxA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EarcciBX0AIAuxA.jpg",
+					"url": "https://t.co/QmeIn2teKN",
+					"display_url": "pic.twitter.com/QmeIn2teKN",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1273072233121026056/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							94
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EarcciBX0AIAuxA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4483,
+			"friends_count": 735,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 70560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272899229103452200,
+		"quoted_status_id_str": "1272899229103452160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zqMcRo7vav",
+			"expanded": "https://twitter.com/startrek/status/1272899229103452160",
+			"display": "twitter.com/startrek/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 16 14:30:00 +0000 2020",
+			"id": 1272899229103452200,
+			"id_str": "1272899229103452160",
+			"full_text": "Happy #CaptainPicardDay! ✨ #StarTrek https://t.co/QhGJLSkVS2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CaptainPicardDay",
+						"indices": [
+							6,
+							23
+						]
+					},
+					{
+						"text": "StarTrek",
+						"indices": [
+							27,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QhGJLSkVS2",
+						"expanded_url": "https://www.startrek.com/news/10-times-captain-picard-earned-his-own-day",
+						"display_url": "startrek.com/news/10-times-…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130491582,
+				"id_str": "130491582",
+				"name": "Star Trek",
+				"screen_name": "StarTrek",
+				"location": "",
+				"description": "Welcome to the OFFICIAL Star Trek Twitter Page!",
+				"url": "https://t.co/bT4AwzfVAN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bT4AwzfVAN",
+								"expanded_url": "http://www.StarTrek.com",
+								"display_url": "StarTrek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 457657,
+				"friends_count": 687,
+				"listed_count": 4022,
+				"created_at": "Wed Apr 07 12:53:57 +0000 2010",
+				"favourites_count": 15592,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34617,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130491582/1560781557",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 247,
+			"favorite_count": 1164,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#CaptainPicardDay https://t.co/zqMcRo7vav https://t.co/QmeIn2teKN"
+	},
+	{
+		"created_at": "Wed Jun 17 01:43:35 +0000 2020",
+		"id": 1272910268356534300,
+		"id_str": "1273068743443263490",
+		"full_text": "If only there was a notable fable about opening up a hazardous entertainment endeavor before it’s safe to do so. https://t.co/gNpCKBny9h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gNpCKBny9h",
+					"expanded_url": "https://twitter.com/indiewire/status/1272702936867577858",
+					"display_url": "twitter.com/indiewire/stat…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149340809,
+			"id_str": "149340809",
+			"name": "Abe “Dr. Pepperbeans” Goldfarb",
+			"screen_name": "AbeGoldfarb",
+			"location": "Brooklyn",
+			"description": "Burlesque MC, actor, writer, director and humorless leftist scold. @BeetlejuiceBway alumnus. Hussy-band of @XXRosebudz. Pronouns: he/him/your lusciousness.",
+			"url": "https://t.co/vWxCqjDTXY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vWxCqjDTXY",
+							"expanded_url": "http://thehorroratgallerykay.com",
+							"display_url": "thehorroratgallerykay.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10243,
+			"friends_count": 699,
+			"listed_count": 166,
+			"created_at": "Sat May 29 01:46:28 +0000 2010",
+			"favourites_count": 20100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 123676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255634031921836032/75_uUxBc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255634031921836032/75_uUxBc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149340809/1584894680",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272702936867577900,
+		"quoted_status_id_str": "1272702936867577858",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gNpCKBny9h",
+			"expanded": "https://twitter.com/indiewire/status/1272702936867577858",
+			"display": "twitter.com/indiewire/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 16 01:30:00 +0000 2020",
+			"id": 1272702936867577900,
+			"id_str": "1272702936867577858",
+			"full_text": "Universal's plan to resume #JurassicWorld filming includes a $5 million safety plan, 150 hand sanitizer stations, and more. Details here: https://t.co/g6nksH4NQV https://t.co/yUVNsfPl7M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "JurassicWorld",
+						"indices": [
+							27,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/g6nksH4NQV",
+						"expanded_url": "https://bit.ly/30VzOhl",
+						"display_url": "bit.ly/30VzOhl",
+						"indices": [
+							138,
+							161
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1272526995075801000,
+						"id_str": "1272526995075801095",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/Eajsj1SWoAcZkfW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eajsj1SWoAcZkfW.jpg",
+						"url": "https://t.co/yUVNsfPl7M",
+						"display_url": "pic.twitter.com/yUVNsfPl7M",
+						"expanded_url": "https://twitter.com/IndieWire/status/1272702936867577858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1272526995075801000,
+						"id_str": "1272526995075801095",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/Eajsj1SWoAcZkfW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eajsj1SWoAcZkfW.jpg",
+						"url": "https://t.co/yUVNsfPl7M",
+						"display_url": "pic.twitter.com/yUVNsfPl7M",
+						"expanded_url": "https://twitter.com/IndieWire/status/1272702936867577858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13992132,
+				"id_str": "13992132",
+				"name": "IndieWire",
+				"screen_name": "IndieWire",
+				"location": "New York, NY",
+				"description": "The definitive outlet for film and TV news, reviews, and industry analysis.",
+				"url": "https://t.co/W4sS8AhVGz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W4sS8AhVGz",
+								"expanded_url": "http://indiewire.com",
+								"display_url": "indiewire.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 696386,
+				"friends_count": 3274,
+				"listed_count": 7242,
+				"created_at": "Tue Feb 26 08:25:08 +0000 2008",
+				"favourites_count": 2308,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 174349,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/737665298824757248/KD6TzJmQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/737665298824757248/KD6TzJmQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13992132/1588780896",
+				"profile_link_color": "1E70C7",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 533,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12468,
+		"favorite_count": 52382,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If only there was a notable fable about opening up a hazardous entertainment endeavor before it’s safe to do so. https://t.co/gNpCKBny9h"
+	},
+	{
 		"created_at": "Mon Jun 15 22:35:15 +0000 2020",
 		"id": 1272658959330091000,
 		"id_str": "1272658959330091008",
