@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 17:23:12 +0000 2020",
+		"id": 1273419694586781700,
+		"id_str": "1273667592545357824",
+		"full_text": "Adding to my HOF credentials I’m the last pitcher in history to have a 4 hit game 🍹 https://t.co/IlG7p9GriP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IlG7p9GriP",
+					"expanded_url": "https://twitter.com/haudricourt/status/1273392935007064065",
+					"display_url": "twitter.com/haudricourt/st…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2424569809,
+			"id_str": "2424569809",
+			"name": "dan haren",
+			"screen_name": "ithrow88",
+			"location": "OC, Ca",
+			"description": "I threw 88...... Retired",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118529,
+			"friends_count": 335,
+			"listed_count": 932,
+			"created_at": "Thu Apr 03 01:03:08 +0000 2014",
+			"favourites_count": 4660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/686043609406124032/FEX1bsGS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/686043609406124032/FEX1bsGS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2424569809/1486573883",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273392935007064000,
+		"quoted_status_id_str": "1273392935007064065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IlG7p9GriP",
+			"expanded": "https://twitter.com/haudricourt/status/1273392935007064065",
+			"display": "twitter.com/haudricourt/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 17 23:11:48 +0000 2020",
+			"id": 1273392935007064000,
+			"id_str": "1273392935007064065",
+			"full_text": "Pending MLB agreement reportedly includes DH in NL for both 2020 and 2021. Then comes new CBA which almost certainly will include it. So, NL is a DH league now.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37437399,
+				"id_str": "37437399",
+				"name": "Tom",
+				"screen_name": "Haudricourt",
+				"location": "Bayside, WI",
+				"description": "Tom Haudricourt. Reporter for Milwaukee Journal Sentinel. thaudricou@gannett.com",
+				"url": "https://t.co/HeXEwfyy6n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HeXEwfyy6n",
+								"expanded_url": "http://www.jsonline.com",
+								"display_url": "jsonline.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57783,
+				"friends_count": 1272,
+				"listed_count": 2173,
+				"created_at": "Sun May 03 15:38:05 +0000 2009",
+				"favourites_count": 8091,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 130518,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1189388219512770562/-lcPWNy3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189388219512770562/-lcPWNy3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37437399/1563326752",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "b188c3e1756abc80",
+				"url": "https://api.twitter.com/1.1/geo/id/b188c3e1756abc80.json",
+				"place_type": "city",
+				"name": "Bayside",
+				"full_name": "Bayside, WI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-87.924461,
+								43.169377
+							],
+							[
+								-87.880739,
+								43.169377
+							],
+							[
+								-87.880739,
+								43.197712
+							],
+							[
+								-87.924461,
+								43.197712
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1487,
+			"favorite_count": 7139,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 531,
+		"favorite_count": 9073,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adding to my HOF credentials I’m the last pitcher in history to have a 4 hit game 🍹 https://t.co/IlG7p9GriP"
+	},
+	{
 		"created_at": "Thu Jun 18 00:54:45 +0000 2020",
 		"id": 1272705720442597400,
 		"id_str": "1273418840119095300",
