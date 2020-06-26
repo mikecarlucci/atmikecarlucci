@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 02:32:18 +0000 2020",
+		"id": 1276342494494687200,
+		"id_str": "1276342494494687232",
+		"full_text": "Rocco Baldelli https://t.co/ippQVQoOzr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ippQVQoOzr",
+					"expanded_url": "https://twitter.com/dannyvietti/status/1276308132893822976",
+					"display_url": "twitter.com/dannyvietti/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4473,
+			"friends_count": 736,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 71102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276308132893823000,
+		"quoted_status_id_str": "1276308132893822976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ippQVQoOzr",
+			"expanded": "https://twitter.com/dannyvietti/status/1276308132893822976",
+			"display": "twitter.com/dannyvietti/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 26 00:15:46 +0000 2020",
+			"id": 1276308132893823000,
+			"id_str": "1276308132893822976",
+			"full_text": "Name a baseball player who could have been a Hall of Famer had health/injuries never been an issue.\n\nI’ll start: Troy Tulowitzki",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 721054938055331800,
+				"id_str": "721054938055331840",
+				"name": "Danny Vietti",
+				"screen_name": "DannyVietti",
+				"location": "California, USA",
+				"description": "Social Media, Writer @CBSSportsMLB • Washed-up thrower of the baseball (80-poo crew)",
+				"url": "https://t.co/VBZQiDyEM8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VBZQiDyEM8",
+								"expanded_url": "https://www.cbssports.com/writers/danny-vietti/",
+								"display_url": "cbssports.com/writers/danny-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4759,
+				"friends_count": 864,
+				"listed_count": 40,
+				"created_at": "Fri Apr 15 19:17:48 +0000 2016",
+				"favourites_count": 19455,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8994,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268186078076268545/hpt1Id_P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268186078076268545/hpt1Id_P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/721054938055331840/1591194098",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 659,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Rocco Baldelli https://t.co/ippQVQoOzr"
+	},
+	{
+		"created_at": "Fri Jun 26 01:44:31 +0000 2020",
+		"id": 1276330470687604700,
+		"id_str": "1276330470687604737",
+		"full_text": "Do it @RedSox https://t.co/0Vu4m59gCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RedSox",
+					"name": "Red Sox",
+					"id": 40918816,
+					"id_str": "40918816",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Vu4m59gCQ",
+					"expanded_url": "https://twitter.com/pavlovicnbcs/status/1276329837062508546",
+					"display_url": "twitter.com/pavlovicnbcs/s…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4473,
+			"friends_count": 736,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 71102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276329837062508500,
+		"quoted_status_id_str": "1276329837062508546",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0Vu4m59gCQ",
+			"expanded": "https://twitter.com/pavlovicnbcs/status/1276329837062508546",
+			"display": "twitter.com/pavlovicnbcs/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 26 01:42:00 +0000 2020",
+			"id": 1276329837062508500,
+			"id_str": "1276329837062508546",
+			"full_text": "The Giants have told season ticket holders that they won't have fans at games this year. They will have a Fan Cutout Program, allowing them to submit an image to be placed in the stands during home games.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38140624,
+				"id_str": "38140624",
+				"name": "Alex Pavlovic",
+				"screen_name": "PavlovicNBCS",
+				"location": "Anytown, USA.",
+				"description": "Covers Giants for NBC Sports Bay Area || Podcast: https://t.co/UIQJ8rwgX5 || Facebook: https://t.co/AbgFRgeFPT || Instagram: pavlovicnbcs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UIQJ8rwgX5",
+								"expanded_url": "http://apple.co/1pLw0t1",
+								"display_url": "apple.co/1pLw0t1",
+								"indices": [
+									50,
+									73
+								]
+							},
+							{
+								"url": "https://t.co/AbgFRgeFPT",
+								"expanded_url": "https://www.facebook.com/PavlovicNBCS",
+								"display_url": "facebook.com/PavlovicNBCS",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63603,
+				"friends_count": 380,
+				"listed_count": 1701,
+				"created_at": "Wed May 06 08:28:45 +0000 2009",
+				"favourites_count": 1440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 57158,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/518995796658634753/1QJjjVmm_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/518995796658634753/1QJjjVmm_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38140624/1436760975",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 268,
+			"favorite_count": 1006,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do it @RedSox https://t.co/0Vu4m59gCQ"
+	},
+	{
 		"created_at": "Wed Jun 24 23:46:04 +0000 2020",
 		"id": 1275938272775151600,
 		"id_str": "1275938272775151616",
