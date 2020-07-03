@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 19:10:12 +0000 2020",
+		"id": 1278754103859052500,
+		"id_str": "1278767952922390528",
+		"full_text": "WAS HE...UNDER PRESSURE? https://t.co/zP5f6MdBM7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zP5f6MdBM7",
+					"expanded_url": "https://twitter.com/ap/status/1278747749392007176",
+					"display_url": "twitter.com/ap/status/1278…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51781119,
+			"id_str": "51781119",
+			"name": "Jessica Huseman",
+			"screen_name": "JessicaHuseman",
+			"location": "Texas",
+			"description": "ProPublica’s Texan at large, doing @Electionland. Trainer for @IBWellsSociety. Breakin' every jello mold. \"She appears to be an extremely intelligent lady.\"",
+			"url": "https://t.co/U8GoNPWbLl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U8GoNPWbLl",
+							"expanded_url": "https://www.propublica.org/site/author/jessica_huseman",
+							"display_url": "propublica.org/site/author/je…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78761,
+			"friends_count": 4844,
+			"listed_count": 1271,
+			"created_at": "Sun Jun 28 17:12:52 +0000 2009",
+			"favourites_count": 49190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 50654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192789953224286208/EUPbpb5P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192789953224286208/EUPbpb5P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51781119/1573589659",
+			"profile_link_color": "050505",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "292923",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1278747749392007200,
+		"quoted_status_id_str": "1278747749392007176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zP5f6MdBM7",
+			"expanded": "https://twitter.com/ap/status/1278747749392007176",
+			"display": "twitter.com/ap/status/1278…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 02 17:49:56 +0000 2020",
+			"id": 1278747749392007200,
+			"id_str": "1278747749392007176",
+			"full_text": "Vanilla Ice indefinitely postpones a Texas concert that drew fierce criticism due to the coronavirus pandemic. https://t.co/8Cv3QO6h4h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8Cv3QO6h4h",
+						"expanded_url": "http://apne.ws/i2t9keG",
+						"display_url": "apne.ws/i2t9keG",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51241574,
+				"id_str": "51241574",
+				"name": "The Associated Press",
+				"screen_name": "AP",
+				"location": "Global",
+				"description": "News from The Associated Press, and a taste of the great journalism produced by AP members and customers. Managed 24/7 by these editors: https://t.co/D0hLCc7ShX",
+				"url": "https://t.co/48pFaJVRcr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/48pFaJVRcr",
+								"expanded_url": "https://apnews.com/",
+								"display_url": "apnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/D0hLCc7ShX",
+								"expanded_url": "http://apne.ws/APSocial",
+								"display_url": "apne.ws/APSocial",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14319103,
+				"friends_count": 7007,
+				"listed_count": 94108,
+				"created_at": "Fri Jun 26 21:48:52 +0000 2009",
+				"favourites_count": 2955,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 268738,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51241574/1568759398",
+				"profile_link_color": "CC3300",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 528,
+			"favorite_count": 2021,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 691,
+		"favorite_count": 7946,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WAS HE...UNDER PRESSURE? https://t.co/zP5f6MdBM7"
+	},
+	{
 		"created_at": "Thu Jul 02 02:48:21 +0000 2020",
 		"id": 1278520860878540800,
 		"id_str": "1278520860878540802",
@@ -306,7 +534,7 @@ Grailbird.data.tweets_2020_07 =
 			"created_at": "Wed Jul 01 23:30:14 +0000 2020",
 			"id": 1278471001546920000,
 			"id_str": "1278471001546919936",
-			"full_text": "Ice cold: Vanilla Ice will perform for thousands in Texas, where coronavirus cases are surging. \"We didn't have coronavirus\" in 1990s, the rapper said.​ https://t.co/9S4LlZZZgo",
+			"full_text": "Ice cold: Vanilla Ice will perform for thousands in Texas, where coronavirus cases are surging. \"We didn't have coronavirus\" in 1990s, the rapper said. https://t.co/9S4LlZZZgo",
 			"truncated": false,
 			"display_text_range": [
 				0,
