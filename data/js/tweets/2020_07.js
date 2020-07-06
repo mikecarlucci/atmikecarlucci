@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 21:21:33 +0000 2020",
+		"id": 1279888169538896000,
+		"id_str": "1279888169538895872",
+		"full_text": "Starfleet has lawyers and Riker finds an off switch. https://t.co/1UqHOejJIb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1UqHOejJIb",
+					"expanded_url": "https://twitter.com/brandonmutala/status/1279797512526688257",
+					"display_url": "twitter.com/brandonmutala/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4467,
+			"friends_count": 741,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 71842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279797512526688300,
+		"quoted_status_id_str": "1279797512526688257",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1UqHOejJIb",
+			"expanded": "https://twitter.com/brandonmutala/status/1279797512526688257",
+			"display": "twitter.com/brandonmutala/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 05 15:21:19 +0000 2020",
+			"id": 1279797512526688300,
+			"id_str": "1279797512526688257",
+			"full_text": "Describe your favorite @StarTrek episode in as boring a way as possible.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StarTrek",
+						"name": "Star Trek",
+						"id": 130491582,
+						"id_str": "130491582",
+						"indices": [
+							23,
+							32
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 413276763,
+				"id_str": "413276763",
+				"name": "🇨🇦Brandon-Shea Mutala🇨🇦 #LoveYourFandom",
+				"screen_name": "BrandonMutala",
+				"location": "Regina, Saskatchewan",
+				"description": "#TheLine, #MelodicTreks & #WarpFive on @trekfm / @goodeveningpod / #FanchiseFatigue and EP @ufpearth / Music lover / father of 3 girls!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1700,
+				"friends_count": 1943,
+				"listed_count": 40,
+				"created_at": "Tue Nov 15 17:56:12 +0000 2011",
+				"favourites_count": 30505,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26771,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1270786244608286720/wXPocpBC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270786244608286720/wXPocpBC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/413276763/1577967372",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 169,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starfleet has lawyers and Riker finds an off switch. https://t.co/1UqHOejJIb"
+	},
+	{
+		"created_at": "Sun Jul 05 16:40:15 +0000 2020",
+		"id": 1279799878089146400,
+		"id_str": "1279817377186811905",
+		"full_text": "Copyright law should not be triggered when content that appears lawfully on the Internet is embedded (I.e., linked to) elsewhere. Any other rule is both nonsensical and impossible to administer given how the Internet works.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1279744443256619000,
+		"in_reply_to_status_id_str": "1279744443256619009",
+		"in_reply_to_user_id": 1444637977,
+		"in_reply_to_user_id_str": "1444637977",
+		"in_reply_to_screen_name": "AnnemarieBridy",
+		"user": {
+			"id": 1444637977,
+			"id_str": "1444637977",
+			"name": "Annemarie Bridy",
+			"screen_name": "AnnemarieBridy",
+			"location": "Washington, D.C.",
+			"description": "IP & tech lawyer. JD, PhD. Fellow @StanfordCIS & @yaleisp. Erstwhile full prof @UIdahoLaw. Tweeting eclectically (and for myself alone).",
+			"url": "https://t.co/eLsVpztydp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eLsVpztydp",
+							"expanded_url": "https://ssrn.com/author=630766",
+							"display_url": "ssrn.com/author=630766",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5245,
+			"friends_count": 1021,
+			"listed_count": 135,
+			"created_at": "Mon May 20 19:46:22 +0000 2013",
+			"favourites_count": 10680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233622523457069056/eIHhTHzF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233622523457069056/eIHhTHzF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1444637977/1586445267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Copyright law should not be triggered when content that appears lawfully on the Internet is embedded (I.e., linked to) elsewhere. Any other rule is both nonsensical and impossible to administer given how the Internet works."
+	},
+	{
+		"created_at": "Sun Jul 05 16:27:38 +0000 2020",
+		"id": 1279814203029835800,
+		"id_str": "1279814203029835776",
+		"full_text": "Two plumbers take on more than they expected for one job. https://t.co/EIYA0QUYZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EIYA0QUYZI",
+					"expanded_url": "https://twitter.com/pkbanjo/status/1279218936572239872",
+					"display_url": "twitter.com/pkbanjo/status…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4467,
+			"friends_count": 741,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 71842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279218936572240000,
+		"quoted_status_id_str": "1279218936572239872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EIYA0QUYZI",
+			"expanded": "https://twitter.com/pkbanjo/status/1279218936572239872",
+			"display": "twitter.com/pkbanjo/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 04 01:02:15 +0000 2020",
+			"id": 1279218936572240000,
+			"id_str": "1279218936572239872",
+			"full_text": "Can you describe your favorite game as boring as possible",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1034586097123254300,
+				"id_str": "1034586097123254273",
+				"name": "PKBanjo",
+				"screen_name": "PKBanjo",
+				"location": "Meme Hell",
+				"description": "@Lowes",
+				"url": "https://t.co/jghFKa976Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jghFKa976Y",
+								"expanded_url": "http://twitch.tv/pk_banjo",
+								"display_url": "twitch.tv/pk_banjo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2493,
+				"friends_count": 4363,
+				"listed_count": 12,
+				"created_at": "Tue Aug 28 23:38:42 +0000 2018",
+				"favourites_count": 20726,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18603,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278394850631655424/zfKLq_xg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278394850631655424/zfKLq_xg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034586097123254273/1592153835",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 843,
+			"favorite_count": 13533,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two plumbers take on more than they expected for one job. https://t.co/EIYA0QUYZI"
+	},
+	{
 		"created_at": "Sun Jul 05 02:11:46 +0000 2020",
 		"id": 1279598815725727700,
 		"id_str": "1279598815725727744",
