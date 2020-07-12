@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 23:30:43 +0000 2020",
+		"id": 1282095002051584000,
+		"id_str": "1282095002051584002",
+		"full_text": "@PassonJim https://t.co/BIbmdKBOBC",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PassonJim",
+					"name": "Jim Passon 🇵🇷",
+					"id": 3205758300,
+					"id_str": "3205758300",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282094996557111300,
+					"id_str": "1282094996557111299",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ecrqm0YXoAMIjJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ecrqm0YXoAMIjJa.jpg",
+					"url": "https://t.co/BIbmdKBOBC",
+					"display_url": "pic.twitter.com/BIbmdKBOBC",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1282095002051584002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282094996557111300,
+					"id_str": "1282094996557111299",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ecrqm0YXoAMIjJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ecrqm0YXoAMIjJa.jpg",
+					"url": "https://t.co/BIbmdKBOBC",
+					"display_url": "pic.twitter.com/BIbmdKBOBC",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1282095002051584002/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ecrqm0YXoAMIjJa.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1282084303606739000,
+		"in_reply_to_status_id_str": "1282084303606738946",
+		"in_reply_to_user_id": 3205758300,
+		"in_reply_to_user_id_str": "3205758300",
+		"in_reply_to_screen_name": "PassonJim",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 741,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 72226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@PassonJim https://t.co/BIbmdKBOBC"
+	},
+	{
+		"created_at": "Sat Jul 11 18:54:46 +0000 2020",
+		"id": 1281976874814644200,
+		"id_str": "1282025559804063745",
+		"full_text": "This is cake https://t.co/0sPoc1LPNb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281976871396180000,
+					"id_str": "1281976871396179968",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecp_LB3WAAA-Zn5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecp_LB3WAAA-Zn5.jpg",
+					"url": "https://t.co/0sPoc1LPNb",
+					"display_url": "pic.twitter.com/0sPoc1LPNb",
+					"expanded_url": "https://twitter.com/BadAstronomer/status/1281976874814644227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281976871396180000,
+					"id_str": "1281976871396179968",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecp_LB3WAAA-Zn5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecp_LB3WAAA-Zn5.jpg",
+					"url": "https://t.co/0sPoc1LPNb",
+					"display_url": "pic.twitter.com/0sPoc1LPNb",
+					"expanded_url": "https://twitter.com/BadAstronomer/status/1281976874814644227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4620451,
+			"id_str": "4620451",
+			"name": "Phil Plait",
+			"screen_name": "BadAstronomer",
+			"location": "Boulder",
+			"description": "SCIENCE! I love this stuff. My Bad Astronomy blog: https://t.co/vfcaPmrmzG\n\nI use likes for bookmarks; no endorsement implied. He/him.",
+			"url": "https://t.co/FZ6zYdPTeQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FZ6zYdPTeQ",
+							"expanded_url": "http://about.me/philplait",
+							"display_url": "about.me/philplait",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vfcaPmrmzG",
+							"expanded_url": "http://syfy.com/badastronomy",
+							"display_url": "syfy.com/badastronomy",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 615311,
+			"friends_count": 562,
+			"listed_count": 12371,
+			"created_at": "Sat Apr 14 17:18:58 +0000 2007",
+			"favourites_count": 487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "004477",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826524406746714113/Q4pP_stg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826524406746714113/Q4pP_stg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4620451/1398216071",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 527,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is cake https://t.co/0sPoc1LPNb"
+	},
+	{
+		"created_at": "Sat Jul 11 18:47:17 +0000 2020",
+		"id": 1281999909499965400,
+		"id_str": "1282023673533206528",
+		"full_text": "Welcome to the turbofucking of America, brought to you by massive incompetency and American exceptionalism. https://t.co/vrRLA4IY8d https://t.co/d3unF1tXxB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vrRLA4IY8d",
+					"expanded_url": "https://twitter.com/harper/status/1281645813781925889",
+					"display_url": "twitter.com/harper/status/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281999906211680300,
+					"id_str": "1281999906211680261",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EcqUH1PU0AUzORp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcqUH1PU0AUzORp.jpg",
+					"url": "https://t.co/d3unF1tXxB",
+					"display_url": "pic.twitter.com/d3unF1tXxB",
+					"expanded_url": "https://twitter.com/willsmith/status/1281999909499965445/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 955,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281999906211680300,
+					"id_str": "1281999906211680261",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EcqUH1PU0AUzORp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcqUH1PU0AUzORp.jpg",
+					"url": "https://t.co/d3unF1tXxB",
+					"display_url": "pic.twitter.com/d3unF1tXxB",
+					"expanded_url": "https://twitter.com/willsmith/status/1281999909499965445/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 955,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 682463,
+			"id_str": "682463",
+			"name": "Will \"techpod.content.town\" Smith",
+			"screen_name": "willsmith",
+			"location": "San Francisco, CA",
+			"description": "Dad + Husband. CEO @FOO_VR. Co-host Still Untitled and Brad & Will Made a Tech Pod • Email: will@willsmith.ws • notthatwillsmith on Twitch • he/him",
+			"url": "https://t.co/97UHVBrqYg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/97UHVBrqYg",
+							"expanded_url": "http://foovr.com",
+							"display_url": "foovr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116812,
+			"friends_count": 1569,
+			"listed_count": 1757,
+			"created_at": "Mon Jan 22 21:04:20 +0000 2007",
+			"favourites_count": 12353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 92584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214995077228978176/VAha_lPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214995077228978176/VAha_lPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/682463/1438297404",
+			"profile_link_color": "F39243",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281645813781926000,
+		"quoted_status_id_str": "1281645813781925889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vrRLA4IY8d",
+			"expanded": "https://twitter.com/harper/status/1281645813781925889",
+			"display": "twitter.com/harper/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 10 17:45:48 +0000 2020",
+			"id": 1281645813781926000,
+			"id_str": "1281645813781925889",
+			"full_text": "American Passports Are Worthless Now (Map) by @indica https://t.co/hEM9CGP13G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "indica",
+						"name": "indica",
+						"id": 14099477,
+						"id_str": "14099477",
+						"indices": [
+							46,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hEM9CGP13G",
+						"expanded_url": "https://link.medium.com/FtBumOKPZ7",
+						"display_url": "link.medium.com/FtBumOKPZ7",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1497,
+				"id_str": "1497",
+				"name": "harper 🤯",
+				"screen_name": "harper",
+				"location": "harper@modest.com",
+				"description": "A normal person doing normal things. Check out this guide to my tweets: https://t.co/13wugXW4jv // I take photos and operate computers. Books are my friends.",
+				"url": "https://t.co/7Mh4vnZfoQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7Mh4vnZfoQ",
+								"expanded_url": "http://harper.lol",
+								"display_url": "harper.lol",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/13wugXW4jv",
+								"expanded_url": "http://bit.ly/r1GnK",
+								"display_url": "bit.ly/r1GnK",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 37959,
+				"friends_count": 1493,
+				"listed_count": 1730,
+				"created_at": "Sun Jul 16 18:45:58 +0000 2006",
+				"favourites_count": 45658,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 111229,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228702736604180480/RQ1ige7d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228702736604180480/RQ1ige7d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1497/1398220532",
+				"profile_link_color": "3399CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D6DEE1",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 895,
+			"favorite_count": 1392,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26,
+		"favorite_count": 101,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to the turbofucking of America, brought to you by massive incompetency and American exceptionalism. https://t.co/vrRLA4IY8d https://t.co/d3unF1tXxB"
+	},
+	{
 		"created_at": "Fri Jul 10 18:30:52 +0000 2020",
 		"id": 1281651161901207600,
 		"id_str": "1281657154479501313",
