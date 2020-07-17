@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 02:57:18 +0000 2020",
+		"id": 1283958930176192500,
+		"id_str": "1283958930176192513",
+		"full_text": "@GavinVerhey So there’s an antelope running around terraforming...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinVerhey",
+					"name": "Gavin Verhey",
+					"id": 172153520,
+					"id_str": "172153520",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1283948345921175600,
+		"in_reply_to_status_id_str": "1283948345921175552",
+		"in_reply_to_user_id": 172153520,
+		"in_reply_to_user_id_str": "172153520",
+		"in_reply_to_screen_name": "GavinVerhey",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 743,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 72608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GavinVerhey So there’s an antelope running around terraforming..."
+	},
+	{
+		"created_at": "Fri Jul 17 02:46:12 +0000 2020",
+		"id": 1283932701871857700,
+		"id_str": "1283956136543236096",
+		"full_text": "That Cavill video is the most accurate summary of building a PC I've ever seen. Re-seating things 5 times, hopeless 1000yd staring at the manual, sighing deeply trying to wedge stuff into the case, all while the sun sinks away. Finally boot it: heatsink is upside down. 10/10",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992506742,
+			"id_str": "992506742",
+			"name": "Don Adams 🌊⛰️🔥🌪️",
+			"screen_name": "_DonAdams",
+			"location": "Irvine, CA",
+			"description": "Senior Game Designer on #DiabloIV | standard nerd | lover of games, Star Wars, DnD, craft beer, dogs | Personal account, views are my own etc.",
+			"url": "https://t.co/Ww3XF6aoOX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ww3XF6aoOX",
+							"expanded_url": "http://www.blizzard.com",
+							"display_url": "blizzard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7667,
+			"friends_count": 928,
+			"listed_count": 138,
+			"created_at": "Thu Dec 06 06:28:03 +0000 2012",
+			"favourites_count": 28981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191538969256714240/0k1rOnDk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191538969256714240/0k1rOnDk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992506742/1572811792",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 287,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "That Cavill video is the most accurate summary of building a PC I've ever seen. Re-seating things 5 times, hopeless 1000yd staring at the manual, sighing deeply trying to wedge stuff into the case, all while the sun sinks away. Finally boot it: heatsink is upside down. 10/10"
+	},
+	{
+		"created_at": "Thu Jul 16 18:42:01 +0000 2020",
+		"id": 1283834289621282800,
+		"id_str": "1283834289621282816",
+		"full_text": "Welcome Blaze! - Over the Monster https://t.co/aRtVhsJNU4 https://t.co/gALmlYcYkU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aRtVhsJNU4",
+					"expanded_url": "https://bit.ly/2ZzQtWx",
+					"display_url": "bit.ly/2ZzQtWx",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1283834287519916000,
+					"id_str": "1283834287519916032",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EdEYe4IXYAAYWiL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdEYe4IXYAAYWiL.jpg",
+					"url": "https://t.co/gALmlYcYkU",
+					"display_url": "pic.twitter.com/gALmlYcYkU",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1283834289621282816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1252,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283834287519916000,
+					"id_str": "1283834287519916032",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EdEYe4IXYAAYWiL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdEYe4IXYAAYWiL.jpg",
+					"url": "https://t.co/gALmlYcYkU",
+					"display_url": "pic.twitter.com/gALmlYcYkU",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1283834289621282816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1252,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 743,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 72608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome Blaze! - Over the Monster https://t.co/aRtVhsJNU4 https://t.co/gALmlYcYkU"
+	},
+	{
+		"created_at": "Thu Jul 16 17:30:30 +0000 2020",
+		"id": 1282141159574339600,
+		"id_str": "1283816289606172673",
+		"full_text": "We are ready to welcome guests back to Jurassic Park. ✨ https://t.co/kHSqTpkWSB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282141121133641700,
+					"id_str": "1282141121133641728",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282141121133641728/pu/img/xdsEFmRXUFe2u_pb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282141121133641728/pu/img/xdsEFmRXUFe2u_pb.jpg",
+					"url": "https://t.co/kHSqTpkWSB",
+					"display_url": "pic.twitter.com/kHSqTpkWSB",
+					"expanded_url": "https://twitter.com/JurassicPark2go/status/1282141159574339585/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282141121133641700,
+					"id_str": "1282141121133641728",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282141121133641728/pu/img/xdsEFmRXUFe2u_pb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282141121133641728/pu/img/xdsEFmRXUFe2u_pb.jpg",
+					"url": "https://t.co/kHSqTpkWSB",
+					"display_url": "pic.twitter.com/kHSqTpkWSB",
+					"expanded_url": "https://twitter.com/JurassicPark2go/status/1282141159574339585/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27520,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282141121133641728/pu/vid/480x270/9D5xckJ3uGzk-sxK.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282141121133641728/pu/vid/1280x720/h0JKeaTMr9Arz4qz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1282141121133641728/pu/pl/j5_kpQ8zBY3Nh8bS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282141121133641728/pu/vid/640x360/dVM_IrLlC3JWHZEo.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1279950177038741500,
+			"id_str": "1279950177038741505",
+			"name": "Jurassic Park Updates",
+			"screen_name": "JurassicPark2go",
+			"location": "PARODY",
+			"description": "@pjayevans @NotJosephGarcia @rajat_suresh @Colinoscopy @totallymorgan @julieabridged @astonoha @quakerraina @carmchristopher @jayweingarten @dlicj @sarahsquirm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168762,
+			"friends_count": 12,
+			"listed_count": 142,
+			"created_at": "Mon Jul 06 01:28:08 +0000 2020",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279950939923918849/59H_Pw0w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279950939923918849/59H_Pw0w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1279950177038741505/1593999059",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7421,
+		"favorite_count": 27634,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are ready to welcome guests back to Jurassic Park. ✨ https://t.co/kHSqTpkWSB"
+	},
+	{
 		"created_at": "Wed Jul 15 22:41:13 +0000 2020",
 		"id": 1283532099031638000,
 		"id_str": "1283532099031638016",
