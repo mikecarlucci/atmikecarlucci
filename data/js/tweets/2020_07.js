@@ -1,6 +1,908 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 18 19:13:20 +0000 2020",
+		"id": 1284566944948068400,
+		"id_str": "1284566944948068356",
+		"full_text": "@BuffaloBisons reaction https://t.co/zlJJpiz01u https://t.co/EHQ2CBTHhk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BuffaloBisons",
+					"name": "Buffalo Bisons",
+					"id": 20887902,
+					"id_str": "20887902",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zlJJpiz01u",
+					"expanded_url": "https://twitter.com/ap_sports/status/1284560957298159616",
+					"display_url": "twitter.com/ap_sports/stat…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1284566938925006800,
+					"id_str": "1284566938925006853",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EdOy0zTWAAUy2ip.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EdOy0zTWAAUy2ip.jpg",
+					"url": "https://t.co/EHQ2CBTHhk",
+					"display_url": "pic.twitter.com/EHQ2CBTHhk",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1284566944948068356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284566938925006800,
+					"id_str": "1284566938925006853",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EdOy0zTWAAUy2ip.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EdOy0zTWAAUy2ip.jpg",
+					"url": "https://t.co/EHQ2CBTHhk",
+					"display_url": "pic.twitter.com/EHQ2CBTHhk",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1284566944948068356/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EdOy0zTWAAUy2ip.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 20887902,
+		"in_reply_to_user_id_str": "20887902",
+		"in_reply_to_screen_name": "BuffaloBisons",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4469,
+			"friends_count": 742,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 72783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1284560957298159600,
+		"quoted_status_id_str": "1284560957298159616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zlJJpiz01u",
+			"expanded": "https://twitter.com/ap_sports/status/1284560957298159616",
+			"display": "twitter.com/ap_sports/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 18 18:49:32 +0000 2020",
+			"id": 1284560957298159600,
+			"id_str": "1284560957298159616",
+			"full_text": "BREAKING: AP source says the Blue Jays denied Canadian government approval to play games in Toronto during coronavirus pandemic.\n\nby @rgilliescanada #MLB \n https://t.co/Oj1A2socGF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MLB",
+						"indices": [
+							149,
+							153
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rgilliescanada",
+						"name": "Rob Gillies",
+						"id": 29221671,
+						"id_str": "29221671",
+						"indices": [
+							133,
+							148
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Oj1A2socGF",
+						"expanded_url": "http://apne.ws/t3aus7k",
+						"display_url": "apne.ws/t3aus7k",
+						"indices": [
+							156,
+							179
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 590316679,
+				"id_str": "590316679",
+				"name": "AP Sports",
+				"screen_name": "AP_Sports",
+				"location": "",
+				"description": "The top sports stories and insights from the global staff of The @AP, breaking news since 1846.\n\nPlease also follow @AP_Top25, @AP_NFL and @AP_Deportes!",
+				"url": "https://t.co/WbrADmeYIn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WbrADmeYIn",
+								"expanded_url": "https://apnews.com/tag/apf-sports",
+								"display_url": "apnews.com/tag/apf-sports",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 134247,
+				"friends_count": 4062,
+				"listed_count": 2758,
+				"created_at": "Fri May 25 21:00:31 +0000 2012",
+				"favourites_count": 358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 203099,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2249747844/160X160_LOGO_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2249747844/160X160_LOGO_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/590316679/1586889039",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 518,
+			"favorite_count": 800,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BuffaloBisons reaction https://t.co/zlJJpiz01u https://t.co/EHQ2CBTHhk"
+	},
+	{
+		"created_at": "Sat Jul 18 15:03:20 +0000 2020",
+		"id": 1284504030887149600,
+		"id_str": "1284504030887149569",
+		"full_text": "Nope. Just makes privacy another economic issue. https://t.co/Hr70ofD2hN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hr70ofD2hN",
+					"expanded_url": "https://twitter.com/hackylawyer/status/1284501784925556737",
+					"display_url": "twitter.com/hackylawyer/st…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4469,
+			"friends_count": 742,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 72783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1284501784925556700,
+		"quoted_status_id_str": "1284501784925556737",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hr70ofD2hN",
+			"expanded": "https://twitter.com/hackylawyer/status/1284501784925556737",
+			"display": "twitter.com/hackylawyer/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 18 14:54:25 +0000 2020",
+			"id": 1284501784925556700,
+			"id_str": "1284501784925556737",
+			"full_text": "Does \"own and sell your data\" sound like a good idea to you? Thanks to @Slate's @FutureTenseNow for citing our work pushing back against @AndrewYang's #datadividendforall project, cc @RaviNa1k @jonniepenn  https://t.co/zYe15pxguc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "datadividendforall",
+						"indices": [
+							151,
+							170
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Slate",
+						"name": "Slate",
+						"id": 15164565,
+						"id_str": "15164565",
+						"indices": [
+							71,
+							77
+						]
+					},
+					{
+						"screen_name": "FutureTenseNow",
+						"name": "Future Tense",
+						"id": 326184086,
+						"id_str": "326184086",
+						"indices": [
+							80,
+							95
+						]
+					},
+					{
+						"screen_name": "AndrewYang",
+						"name": "Andrew Yang🧢🇺🇸",
+						"id": 2228878592,
+						"id_str": "2228878592",
+						"indices": [
+							137,
+							148
+						]
+					},
+					{
+						"screen_name": "RaviNa1k",
+						"name": "Ravi Naik",
+						"id": 2499398326,
+						"id_str": "2499398326",
+						"indices": [
+							183,
+							192
+						]
+					},
+					{
+						"screen_name": "jonniepenn",
+						"name": "Jonnie Penn",
+						"id": 119469789,
+						"id_str": "119469789",
+						"indices": [
+							193,
+							204
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zYe15pxguc",
+						"expanded_url": "https://slate.com/technology/2020/06/yang-launches-data-dividend-project.html",
+						"display_url": "slate.com/technology/202…",
+						"indices": [
+							206,
+							229
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 944005227300180000,
+				"id_str": "944005227300179968",
+				"name": "Elizabeth M.",
+				"screen_name": "hackylawyER",
+				"location": "",
+				"description": "Founder @hackylawyer / CIPP-E, CIPP-US / Tech + Human Rights @CarrCenter / Fellow @BKCHarvard / policy @HumaneTech_ / board @IDPro / @MIT Comp Law / views mine",
+				"url": "https://t.co/SROQ8LUOcv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SROQ8LUOcv",
+								"expanded_url": "https://hackylawyer.com",
+								"display_url": "hackylawyer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3914,
+				"friends_count": 199,
+				"listed_count": 116,
+				"created_at": "Fri Dec 22 00:42:39 +0000 2017",
+				"favourites_count": 19970,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4260,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171231055673790465/XYmmdvhd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171231055673790465/XYmmdvhd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/944005227300179968/1550332949",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nope. Just makes privacy another economic issue. https://t.co/Hr70ofD2hN"
+	},
+	{
+		"created_at": "Sat Jul 18 13:53:07 +0000 2020",
+		"id": 1284486360468947000,
+		"id_str": "1284486360468946945",
+		"full_text": "Gimli: never thought I'd die fighting side by side with an elf.\n\nLegolas: What about side by side with a friend due to the pandemic? https://t.co/dxVlzlDALD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dxVlzlDALD",
+					"expanded_url": "https://twitter.com/mousterpiece/status/1284216476191211521",
+					"display_url": "twitter.com/mousterpiece/s…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4469,
+			"friends_count": 742,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 72783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1284216476191211500,
+		"quoted_status_id_str": "1284216476191211521",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dxVlzlDALD",
+			"expanded": "https://twitter.com/mousterpiece/status/1284216476191211521",
+			"display": "twitter.com/mousterpiece/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 17 20:00:42 +0000 2020",
+			"id": 1284216476191211500,
+			"id_str": "1284216476191211521",
+			"full_text": "\"I'm afraid I can't do that, Dave. Due to the pandemic.\" https://t.co/mx86M3PxkB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1284216376102535200,
+						"id_str": "1284216376102535168",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/EdJz_XBUwAAzunM.png",
+						"media_url_https": "https://pbs.twimg.com/media/EdJz_XBUwAAzunM.png",
+						"url": "https://t.co/mx86M3PxkB",
+						"display_url": "pic.twitter.com/mx86M3PxkB",
+						"expanded_url": "https://twitter.com/mousterpiece/status/1284216476191211521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 586,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 775,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 775,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1284216376102535200,
+						"id_str": "1284216376102535168",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/EdJz_XBUwAAzunM.png",
+						"media_url_https": "https://pbs.twimg.com/media/EdJz_XBUwAAzunM.png",
+						"url": "https://t.co/mx86M3PxkB",
+						"display_url": "pic.twitter.com/mx86M3PxkB",
+						"expanded_url": "https://twitter.com/mousterpiece/status/1284216476191211521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 586,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 775,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 775,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322309334,
+				"id_str": "322309334",
+				"name": "Josh Spiegel",
+				"screen_name": "mousterpiece",
+				"location": "Phoenix, AZ",
+				"description": "I write about Disney, TV, and film at Slashfilm, ScreenCrush, SyFy Wire, Consequence of Sound, and more. Reach me at mousterpiececinema@gmail.com.",
+				"url": "https://t.co/bxOvMAB7N5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bxOvMAB7N5",
+								"expanded_url": "https://mousterpiece.substack.com/",
+								"display_url": "mousterpiece.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7017,
+				"friends_count": 484,
+				"listed_count": 136,
+				"created_at": "Wed Jun 22 23:52:15 +0000 2011",
+				"favourites_count": 19332,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 137336,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914494253018918913/PPX5pwk8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914494253018918913/PPX5pwk8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322309334/1464303130",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 131,
+			"favorite_count": 922,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gimli: never thought I'd die fighting side by side with an elf.\n\nLegolas: What about side by side with a friend due to the pandemic? https://t.co/dxVlzlDALD"
+	},
+	{
 		"created_at": "Sat Jul 18 02:31:50 +0000 2020",
 		"id": 1284314908998459400,
 		"id_str": "1284314908998459400",
