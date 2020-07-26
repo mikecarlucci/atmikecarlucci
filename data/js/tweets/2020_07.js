@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 25 22:10:27 +0000 2020",
+		"id": 1287148231626039300,
+		"id_str": "1287148231626039299",
+		"full_text": "Yes! https://t.co/VrG3QyEujB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VrG3QyEujB",
+					"expanded_url": "https://twitter.com/darenw/status/1287145508365053955",
+					"display_url": "twitter.com/darenw/status/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 744,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 73307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1287145508365054000,
+		"quoted_status_id_str": "1287145508365053955",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VrG3QyEujB",
+			"expanded": "https://twitter.com/darenw/status/1287145508365053955",
+			"display": "twitter.com/darenw/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 25 21:59:37 +0000 2020",
+			"id": 1287145508365054000,
+			"id_str": "1287145508365053955",
+			"full_text": "Daniel Bard can still pump it... Hitting 96.4 MPH on the first batter he's faced in #MLB since 2013",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MLB",
+						"indices": [
+							84,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14344140,
+				"id_str": "14344140",
+				"name": "Daren Willman",
+				"screen_name": "darenw",
+				"location": "Houston, TX",
+				"description": "Director of ⚾ Research & Development for @MLB.  I created https://t.co/Iy411ah0rc + https://t.co/QEPTX2GX25 + https://t.co/3AqbLOeyz2 + https://t.co/w6vjTobjp1",
+				"url": "https://t.co/Iy411ah0rc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Iy411ah0rc",
+								"expanded_url": "http://baseballsavant.com",
+								"display_url": "baseballsavant.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Iy411ah0rc",
+								"expanded_url": "http://baseballsavant.com",
+								"display_url": "baseballsavant.com",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/QEPTX2GX25",
+								"expanded_url": "https://www.mlb.com/prospects/stats",
+								"display_url": "mlb.com/prospects/stats",
+								"indices": [
+									84,
+									107
+								]
+							},
+							{
+								"url": "https://t.co/3AqbLOeyz2",
+								"expanded_url": "http://nbasavant.com",
+								"display_url": "nbasavant.com",
+								"indices": [
+									110,
+									133
+								]
+							},
+							{
+								"url": "https://t.co/w6vjTobjp1",
+								"expanded_url": "http://nflsavant.com",
+								"display_url": "nflsavant.com",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 79258,
+				"friends_count": 742,
+				"listed_count": 1938,
+				"created_at": "Wed Apr 09 18:34:26 +0000 2008",
+				"favourites_count": 7271,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26538,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481482763304841218/7h4av6_P_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481482763304841218/7h4av6_P_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14344140/1478203192",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yes! https://t.co/VrG3QyEujB"
+	},
+	{
+		"created_at": "Sat Jul 25 20:55:11 +0000 2020",
+		"id": 1287129291658936300,
+		"id_str": "1287129291658936320",
+		"full_text": "His truck is a stormtrooper @StarWarsMinute https://t.co/OxAMZxIB0r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StarWarsMinute",
+					"name": "Star Wars Minute",
+					"id": 1468039387,
+					"id_str": "1468039387",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1287129283727696000,
+					"id_str": "1287129283727695877",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EdzNQ5iXoAUydfE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdzNQ5iXoAUydfE.jpg",
+					"url": "https://t.co/OxAMZxIB0r",
+					"display_url": "pic.twitter.com/OxAMZxIB0r",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1287129291658936320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287129283727696000,
+					"id_str": "1287129283727695877",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EdzNQ5iXoAUydfE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdzNQ5iXoAUydfE.jpg",
+					"url": "https://t.co/OxAMZxIB0r",
+					"display_url": "pic.twitter.com/OxAMZxIB0r",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1287129291658936320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 744,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 73307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "His truck is a stormtrooper @StarWarsMinute https://t.co/OxAMZxIB0r"
+	},
+	{
 		"created_at": "Sat Jul 25 02:01:41 +0000 2020",
 		"id": 1286844039128653800,
 		"id_str": "1286844039128653825",
@@ -1412,7 +1849,7 @@ Grailbird.data.tweets_2020_07 =
 			"user": {
 				"id": 19984919,
 				"id_str": "19984919",
-				"name": "Jeremy Yoder 🌱📈🏳️‍🌈🖖🏻",
+				"name": "Jeremy Yoder 🌱📈🏳️🌈🖖🏻",
 				"screen_name": "JBYoder",
 				"location": "Los Angeles, CA",
 				"description": "#Biologist studying #evolution, writer, runner, #gay. @YoderLab PI, @JTGenome partner, @molecologist editor, #WarrenDemocrat — but this is all me, baby. He/him",
@@ -3512,7 +3949,7 @@ Grailbird.data.tweets_2020_07 =
 		"created_at": "Thu Jul 23 21:50:10 +0000 2020",
 		"id": 1286418353297535000,
 		"id_str": "1286418353297534976",
-		"full_text": "Covered the Dodgers in 60 words for ⁦@BanishedToPen⁩  https://t.co/OWTu2WvTdM",
+		"full_text": "Covered the Dodgers in 60 words for @BanishedToPen  https://t.co/OWTu2WvTdM",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -3623,7 +4060,7 @@ Grailbird.data.tweets_2020_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Covered the Dodgers in 60 words for ⁦@BanishedToPen⁩  https://t.co/OWTu2WvTdM"
+		"text": "Covered the Dodgers in 60 words for @BanishedToPen  https://t.co/OWTu2WvTdM"
 	},
 	{
 		"created_at": "Thu Jul 23 20:45:16 +0000 2020",
