@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 26 18:26:28 +0000 2020",
+		"id": 1287454255700467700,
+		"id_str": "1287454255700467718",
+		"full_text": "https://t.co/gPVLl2DNqn https://t.co/xWzSpvH5QJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gPVLl2DNqn",
+					"expanded_url": "https://twitter.com/jurassicpark2go/status/1287453438645874688",
+					"display_url": "twitter.com/jurassicpark2g…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1287454249769721900,
+					"id_str": "1287454249769721858",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ed300aYXYAIxzhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ed300aYXYAIxzhe.jpg",
+					"url": "https://t.co/xWzSpvH5QJ",
+					"display_url": "pic.twitter.com/xWzSpvH5QJ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1287454255700467718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287454249769721900,
+					"id_str": "1287454249769721858",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ed300aYXYAIxzhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ed300aYXYAIxzhe.jpg",
+					"url": "https://t.co/xWzSpvH5QJ",
+					"display_url": "pic.twitter.com/xWzSpvH5QJ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1287454255700467718/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							65,
+							34
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ed300aYXYAIxzhe.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 745,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 73388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1287453438645874700,
+		"quoted_status_id_str": "1287453438645874688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gPVLl2DNqn",
+			"expanded": "https://twitter.com/jurassicpark2go/status/1287453438645874688",
+			"display": "twitter.com/jurassicpark2g…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 26 18:23:14 +0000 2020",
+			"id": 1287453438645874700,
+			"id_str": "1287453438645874688",
+			"full_text": "nothing bad has ever happened here",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1279950177038741500,
+				"id_str": "1279950177038741505",
+				"name": "Jurassic Park Updates",
+				"screen_name": "JurassicPark2go",
+				"location": "PARODY",
+				"description": "@pjayevans @NotJosephGarcia @rajat_suresh @Colinoscopy @totallymorgan @julieabridged @astonoha @quakerraina @carmchristopher @jayweingarten @dlicj @sarahsquirm",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 184139,
+				"friends_count": 12,
+				"listed_count": 165,
+				"created_at": "Mon Jul 06 01:28:08 +0000 2020",
+				"favourites_count": 28,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 366,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1279950939923918849/59H_Pw0w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279950939923918849/59H_Pw0w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1279950177038741505/1593999059",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 880,
+			"favorite_count": 8124,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/gPVLl2DNqn https://t.co/xWzSpvH5QJ"
+	},
+	{
+		"created_at": "Sun Jul 26 16:04:01 +0000 2020",
+		"id": 1287418403205124000,
+		"id_str": "1287418403205124096",
+		"full_text": "What a journey back to MLB https://t.co/SvSH37jr89 https://t.co/Foxgr4CXjR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SvSH37jr89",
+					"expanded_url": "https://www.overthemonster.com/2020/7/26/21339175/daniel-bard-is-back?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2020/7/26/2133…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1287418400566902800,
+					"id_str": "1287418400566902786",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed3UNtsXgAIS7ao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed3UNtsXgAIS7ao.jpg",
+					"url": "https://t.co/Foxgr4CXjR",
+					"display_url": "pic.twitter.com/Foxgr4CXjR",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1287418403205124096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1310,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287418400566902800,
+					"id_str": "1287418400566902786",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed3UNtsXgAIS7ao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed3UNtsXgAIS7ao.jpg",
+					"url": "https://t.co/Foxgr4CXjR",
+					"display_url": "pic.twitter.com/Foxgr4CXjR",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1287418403205124096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1310,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 745,
+			"listed_count": 44,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 73388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a journey back to MLB https://t.co/SvSH37jr89 https://t.co/Foxgr4CXjR"
+	},
+	{
 		"created_at": "Sat Jul 25 22:10:27 +0000 2020",
 		"id": 1287148231626039300,
 		"id_str": "1287148231626039299",
