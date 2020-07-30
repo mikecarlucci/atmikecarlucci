@@ -1,6 +1,835 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 02:56:42 +0000 2020",
+		"id": 1288669821132058600,
+		"id_str": "1288669821132058630",
+		"full_text": "!!!!! https://t.co/txHHzX5tU0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/txHHzX5tU0",
+					"expanded_url": "https://twitter.com/redsox/status/1288669468105871362",
+					"display_url": "twitter.com/redsox/status/…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4475,
+			"friends_count": 747,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 73702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288669468105871400,
+		"quoted_status_id_str": "1288669468105871362",
+		"quoted_status_permalink": {
+			"url": "https://t.co/txHHzX5tU0",
+			"expanded": "https://twitter.com/redsox/status/1288669468105871362",
+			"display": "twitter.com/redsox/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 30 02:55:18 +0000 2020",
+			"id": 1288669468105871400,
+			"id_str": "1288669468105871362",
+			"full_text": "...And that's a RED SOX WIN! \n\nFINAL: #RedSox 6, Mets 5\n#DirtyWater https://t.co/QhYq1oqa8B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RedSox",
+						"indices": [
+							38,
+							45
+						]
+					},
+					{
+						"text": "DirtyWater",
+						"indices": [
+							56,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1288665057660936200,
+						"id_str": "1288665057660936192",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/EeJCTb9X0AAE6Gf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeJCTb9X0AAE6Gf.jpg",
+						"url": "https://t.co/QhYq1oqa8B",
+						"display_url": "pic.twitter.com/QhYq1oqa8B",
+						"expanded_url": "https://twitter.com/RedSox/status/1288669468105871362/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 656,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 656,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 656,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1288665057660936200,
+						"id_str": "1288665057660936192",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/EeJCTb9X0AAE6Gf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeJCTb9X0AAE6Gf.jpg",
+						"url": "https://t.co/QhYq1oqa8B",
+						"display_url": "pic.twitter.com/QhYq1oqa8B",
+						"expanded_url": "https://twitter.com/RedSox/status/1288669468105871362/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 656,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 656,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 656,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								95,
+								52
+							],
+							"duration_millis": 5133,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1288665057660936192/vid/1314x720/C7oKcWactopu2l1f.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1288665057660936192/vid/492x270/ULd46lIZpCuYmLbL.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1288665057660936192/pl/OpCtwv35i6x16Hzw.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1288665057660936192/vid/656x360/lx-XRITFXxTGjC2q.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40918816,
+				"id_str": "40918816",
+				"name": "Red Sox",
+				"screen_name": "RedSox",
+				"location": "Fenway Park",
+				"description": "We’re baaaaaaack!",
+				"url": "https://t.co/BFi9TDIQkB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BFi9TDIQkB",
+								"expanded_url": "http://redsox.com/",
+								"display_url": "redsox.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2116587,
+				"friends_count": 218,
+				"listed_count": 10403,
+				"created_at": "Mon May 18 17:21:20 +0000 2009",
+				"favourites_count": 9211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 93431,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "213117",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1287051119269740550/bJq2c1Ma_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287051119269740550/bJq2c1Ma_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40918816/1595691875",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 506,
+			"favorite_count": 2303,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "!!!!! https://t.co/txHHzX5tU0"
+	},
+	{
+		"created_at": "Thu Jul 30 00:01:33 +0000 2020",
+		"id": 1288617230301671400,
+		"id_str": "1288625745678471168",
+		"full_text": "How Americans will feel after their elected Congressmembers finish \"fixing\" the Internet https://t.co/c5b53izMHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1288617139369255000,
+					"id_str": "1288617139369254914",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EeIWdfuVoAIQKwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeIWdfuVoAIQKwX.jpg",
+					"url": "https://t.co/c5b53izMHt",
+					"display_url": "pic.twitter.com/c5b53izMHt",
+					"expanded_url": "https://twitter.com/ericgoldman/status/1288617230301671424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288617139369255000,
+					"id_str": "1288617139369254914",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EeIWdfuVoAIQKwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeIWdfuVoAIQKwX.jpg",
+					"url": "https://t.co/c5b53izMHt",
+					"display_url": "pic.twitter.com/c5b53izMHt",
+					"expanded_url": "https://twitter.com/ericgoldman/status/1288617230301671424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14807154,
+			"id_str": "14807154",
+			"name": "Eric Goldman",
+			"screen_name": "ericgoldman",
+			"location": "Mountain View, CA",
+			"description": "Internet Law, Advertising Law & IP Professor, @SantaClaraLaw. Married to @GoldmanLisa. #LungCancer spouse. Vegetarian since 1984. egoldman@gmail.com",
+			"url": "https://t.co/X7oNe3resQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X7oNe3resQ",
+							"expanded_url": "http://www.ericgoldman.org",
+							"display_url": "ericgoldman.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13230,
+			"friends_count": 167,
+			"listed_count": 697,
+			"created_at": "Sat May 17 02:48:37 +0000 2008",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270378485245046784/CGQekwpH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270378485245046784/CGQekwpH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14807154/1565217430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Americans will feel after their elected Congressmembers finish \"fixing\" the Internet https://t.co/c5b53izMHt"
+	},
+	{
+		"created_at": "Wed Jul 29 20:58:33 +0000 2020",
+		"id": 1288575239199371300,
+		"id_str": "1288579691708911616",
+		"full_text": "Satya watching the #BigTechHearing https://t.co/4tCqyXQEM4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BigTechHearing",
+					"indices": [
+						19,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1288575233390256000,
+					"id_str": "1288575233390256129",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeHwWPyXoAE4lxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeHwWPyXoAE4lxv.jpg",
+					"url": "https://t.co/4tCqyXQEM4",
+					"display_url": "pic.twitter.com/4tCqyXQEM4",
+					"expanded_url": "https://twitter.com/SwiftOnSecurity/status/1288575239199371264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288575233390256000,
+					"id_str": "1288575233390256129",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeHwWPyXoAE4lxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeHwWPyXoAE4lxv.jpg",
+					"url": "https://t.co/4tCqyXQEM4",
+					"display_url": "pic.twitter.com/4tCqyXQEM4",
+					"expanded_url": "https://twitter.com/SwiftOnSecurity/status/1288575239199371264/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EeHwWPyXoAE4lxv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2436389418,
+			"id_str": "2436389418",
+			"name": "Swift⬡nSecurity",
+			"screen_name": "SwiftOnSecurity",
+			"location": "Cyber, USA",
+			"description": "Systems security, author https://t.co/LUiVUeE6gN, https://t.co/rzDVLlLn6y, write SciFi, & sysadmin. Microsoft MVP, Client Security 2018. they/them/tay",
+			"url": "https://t.co/8OV6y5BH0K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8OV6y5BH0K",
+							"expanded_url": "https://decentsecurity.com",
+							"display_url": "decentsecurity.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LUiVUeE6gN",
+							"expanded_url": "http://DecentSecurity.com",
+							"display_url": "DecentSecurity.com",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/rzDVLlLn6y",
+							"expanded_url": "http://GotPhish.com",
+							"display_url": "GotPhish.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308764,
+			"friends_count": 8703,
+			"listed_count": 6372,
+			"created_at": "Thu Apr 10 02:54:26 +0000 2014",
+			"favourites_count": 104300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 123540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262238405506805760/JJprMhEG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262238405506805760/JJprMhEG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2436389418/1595480550",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 154,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Satya watching the #BigTechHearing https://t.co/4tCqyXQEM4"
+	},
+	{
+		"created_at": "Wed Jul 29 20:57:29 +0000 2020",
+		"id": 1288579420219940900,
+		"id_str": "1288579420219940877",
+		"full_text": "@GlobeChadFinn Corky Miller was only in 1 game? I feel like it was a few weeks! For apparently no reason at all.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GlobeChadFinn",
+					"name": "Chad Finn",
+					"id": 19968995,
+					"id_str": "19968995",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1288570211537490000,
+		"in_reply_to_status_id_str": "1288570211537489923",
+		"in_reply_to_user_id": 19968995,
+		"in_reply_to_user_id_str": "19968995",
+		"in_reply_to_screen_name": "GlobeChadFinn",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4475,
+			"friends_count": 747,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 73702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GlobeChadFinn Corky Miller was only in 1 game? I feel like it was a few weeks! For apparently no reason at all."
+	},
+	{
 		"created_at": "Tue Jul 28 19:05:43 +0000 2020",
 		"id": 1288188905083351000,
 		"id_str": "1288188905083351046",
