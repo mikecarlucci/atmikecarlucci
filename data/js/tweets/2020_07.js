@@ -1,6 +1,1031 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 15:15:14 +0000 2020",
+		"id": 1289218067243835400,
+		"id_str": "1289218067243835393",
+		"full_text": "dance party https://t.co/3QqDms6q37 https://t.co/LkxPPamXAc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3QqDms6q37",
+					"expanded_url": "https://twitter.com/Slugger_SeaDog/status/1289213555267366912",
+					"display_url": "twitter.com/Slugger_SeaDog…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1289218060746883000,
+					"id_str": "1289218060746883072",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeQ4_uTWAAAarNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeQ4_uTWAAAarNW.jpg",
+					"url": "https://t.co/LkxPPamXAc",
+					"display_url": "pic.twitter.com/LkxPPamXAc",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1289218067243835393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289218060746883000,
+					"id_str": "1289218060746883072",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeQ4_uTWAAAarNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeQ4_uTWAAAarNW.jpg",
+					"url": "https://t.co/LkxPPamXAc",
+					"display_url": "pic.twitter.com/LkxPPamXAc",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1289218067243835393/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							170
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EeQ4_uTWAAAarNW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4475,
+			"friends_count": 745,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 73897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1289213555267367000,
+		"quoted_status_id_str": "1289213555267366912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3QqDms6q37",
+			"expanded": "https://twitter.com/Slugger_SeaDog/status/1289213555267366912",
+			"display": "twitter.com/Slugger_SeaDog…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 31 14:57:18 +0000 2020",
+			"id": 1289213555267367000,
+			"id_str": "1289213555267366912",
+			"full_text": "Dance: to move up and down or about in a quick or lively manner. \nJoin me Aug. 15th ➡️ https://t.co/jsjUxlIwI4 https://t.co/COcyW8KCWI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jsjUxlIwI4",
+						"expanded_url": "http://bit.ly/3fc8H4M",
+						"display_url": "bit.ly/3fc8H4M",
+						"indices": [
+							87,
+							110
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1289212321550803000,
+						"id_str": "1289212321550802944",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289212321550802944/pu/img/exLJKwsT5cwg12NL.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289212321550802944/pu/img/exLJKwsT5cwg12NL.jpg",
+						"url": "https://t.co/COcyW8KCWI",
+						"display_url": "pic.twitter.com/COcyW8KCWI",
+						"expanded_url": "https://twitter.com/Slugger_SeaDog/status/1289213555267366912/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1289212321550803000,
+						"id_str": "1289212321550802944",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289212321550802944/pu/img/exLJKwsT5cwg12NL.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289212321550802944/pu/img/exLJKwsT5cwg12NL.jpg",
+						"url": "https://t.co/COcyW8KCWI",
+						"display_url": "pic.twitter.com/COcyW8KCWI",
+						"expanded_url": "https://twitter.com/Slugger_SeaDog/status/1289213555267366912/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 9476,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1289212321550802944/pu/vid/480x270/fvpTos_PVrrZzwYh.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1289212321550802944/pu/pl/ZicU_SqbsjlhoyzR.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1289212321550802944/pu/vid/1280x720/LdJEaRlHbhXYj_uA.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1289212321550802944/pu/vid/640x360/-V28hLuOBkn0ZHSL.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1074489692,
+				"id_str": "1074489692",
+				"name": "Slugger The Sea Dog",
+				"screen_name": "Slugger_SeaDog",
+				"location": "Portland, Maine",
+				"description": "Official Twitter Page of Slugger the Sea Dog - Mascot and Director of Fun for the Portland Sea Dogs",
+				"url": "https://t.co/z9ZPAflx6z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z9ZPAflx6z",
+								"expanded_url": "https://www.milb.com/portland",
+								"display_url": "milb.com/portland",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3462,
+				"friends_count": 619,
+				"listed_count": 51,
+				"created_at": "Wed Jan 09 18:11:29 +0000 2013",
+				"favourites_count": 1488,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2536,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1071633647642525697/hpXzXNQE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071633647642525697/hpXzXNQE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1074489692/1572969327",
+				"profile_link_color": "154399",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "dance party https://t.co/3QqDms6q37 https://t.co/LkxPPamXAc"
+	},
+	{
+		"created_at": "Fri Jul 31 14:40:19 +0000 2020",
+		"id": 1289206907572375600,
+		"id_str": "1289209282207133698",
+		"full_text": "We’re joining @MassGovernor &amp; @MassDPH to keep Massachusetts safe. It’s time to #MaskUpMA! https://t.co/kzfNBOMxK7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MaskUpMA",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MassGovernor",
+					"name": "Charlie Baker",
+					"id": 18023868,
+					"id_str": "18023868",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "MassDPH",
+					"name": "Mass. Public Health",
+					"id": 23711785,
+					"id_str": "23711785",
+					"indices": [
+						34,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kzfNBOMxK7",
+					"expanded_url": "https://twitter.com/MassGovernor/status/1289197966725722112",
+					"display_url": "twitter.com/MassGovernor/s…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40918816,
+			"id_str": "40918816",
+			"name": "Red Sox",
+			"screen_name": "RedSox",
+			"location": "Fenway Park",
+			"description": "We’re baaaaaaack!",
+			"url": "https://t.co/BFi9TDIQkB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BFi9TDIQkB",
+							"expanded_url": "http://redsox.com/",
+							"display_url": "redsox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2116871,
+			"friends_count": 218,
+			"listed_count": 10404,
+			"created_at": "Mon May 18 17:21:20 +0000 2009",
+			"favourites_count": 9216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 93475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "213117",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287051119269740550/bJq2c1Ma_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287051119269740550/bJq2c1Ma_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40918816/1595691875",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1289197966725722000,
+		"quoted_status_id_str": "1289197966725722112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kzfNBOMxK7",
+			"expanded": "https://twitter.com/MassGovernor/status/1289197966725722112",
+			"display": "twitter.com/MassGovernor/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 31 13:55:22 +0000 2020",
+			"id": 1289197966725722000,
+			"id_str": "1289197966725722112",
+			"full_text": "Wearing a mask is one of the most effective ways we can stop the spread of #COVID19MA and help Massachusetts move in the right direction.\n\nToday we're launching #MaskUpMA, the Commonwealth's effort to continue to remind people to wear masks in public.\n\n➡️ https://t.co/Ltq8hSlzaG https://t.co/QExWPU9aNX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19MA",
+						"indices": [
+							75,
+							85
+						]
+					},
+					{
+						"text": "MaskUpMA",
+						"indices": [
+							161,
+							170
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ltq8hSlzaG",
+						"expanded_url": "http://www.mass.gov/MaskUp",
+						"display_url": "mass.gov/MaskUp",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1289193336516092000,
+						"id_str": "1289193336516091904",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EeQoA65WoAILfz3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeQoA65WoAILfz3.jpg",
+						"url": "https://t.co/QExWPU9aNX",
+						"display_url": "pic.twitter.com/QExWPU9aNX",
+						"expanded_url": "https://twitter.com/MassGovernor/status/1289197966725722112/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1289193336516092000,
+						"id_str": "1289193336516091904",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EeQoA65WoAILfz3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeQoA65WoAILfz3.jpg",
+						"url": "https://t.co/QExWPU9aNX",
+						"display_url": "pic.twitter.com/QExWPU9aNX",
+						"expanded_url": "https://twitter.com/MassGovernor/status/1289197966725722112/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 35035,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1289193336516091904/vid/480x270/wEe-ttTtXBKZ9zvP.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1289193336516091904/pl/0cIAjJSdDNFQ-b3Y.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1289193336516091904/vid/640x360/lLt6B-eZeWNAH0-W.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1289193336516091904/vid/1280x720/ONERWZv16fOuAMJB.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "#MaskUpMA",
+							"description": "As part of the Commonwealth's #MaskUpMA effort, Governor Charlie Baker urges residents to wear a mask or face-covering in public, to help stop the spread of COVID-19.",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.mass.gov/MaskUp"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18023868,
+				"id_str": "18023868",
+				"name": "Charlie Baker",
+				"screen_name": "MassGovernor",
+				"location": "Massachusetts",
+				"description": "Official account of Governor Charlie Baker of Massachusetts.\n\nStay informed about #COVID19MA: visit https://t.co/w6n2kHMu41, call 2-1-1 or text COVIDMA to 888-777.\n\n#MaskUpMA",
+				"url": "https://t.co/76qGNi7zXw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/76qGNi7zXw",
+								"expanded_url": "http://www.mass.gov/MaskUp/",
+								"display_url": "mass.gov/MaskUp/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/w6n2kHMu41",
+								"expanded_url": "http://Mass.Gov",
+								"display_url": "Mass.Gov",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 305222,
+				"friends_count": 695,
+				"listed_count": 3376,
+				"created_at": "Wed Dec 10 17:06:17 +0000 2008",
+				"favourites_count": 672,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13449,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1289197434896351237/deSoQiZ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289197434896351237/deSoQiZ7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18023868/1420736539",
+				"profile_link_color": "192F73",
+				"profile_sidebar_border_color": "7E899D",
+				"profile_sidebar_fill_color": "E2E0D3",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 606,
+			"favorite_count": 1760,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 74,
+		"favorite_count": 428,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re joining @MassGovernor &amp; @MassDPH to keep Massachusetts safe. It’s time to #MaskUpMA! https://t.co/kzfNBOMxK7"
+	},
+	{
+		"created_at": "Fri Jul 31 13:26:05 +0000 2020",
+		"id": 1289190598876885000,
+		"id_str": "1289190598876884995",
+		"full_text": "Fascinating https://t.co/qwcXN6kL3m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qwcXN6kL3m",
+					"expanded_url": "https://twitter.com/atlasobscura/status/1289120988555354112",
+					"display_url": "twitter.com/atlasobscura/s…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4475,
+			"friends_count": 745,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 73897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1289120988555354000,
+		"quoted_status_id_str": "1289120988555354112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qwcXN6kL3m",
+			"expanded": "https://twitter.com/atlasobscura/status/1289120988555354112",
+			"display": "twitter.com/atlasobscura/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 31 08:49:29 +0000 2020",
+			"id": 1289120988555354000,
+			"id_str": "1289120988555354112",
+			"full_text": "Brigham Young, Mark Twain, and Charles Dickens have all decried the perplexing lack of cohesion in English spelling. https://t.co/eO9MUgYZY4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eO9MUgYZY4",
+						"expanded_url": "https://trib.al/uKG4Dfj",
+						"display_url": "trib.al/uKG4Dfj",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57047586,
+				"id_str": "57047586",
+				"name": "Atlas Obscura",
+				"screen_name": "atlasobscura",
+				"location": "Everywhere",
+				"description": "The definitive guide to the world's hidden wonders.",
+				"url": "http://t.co/eRquXCISa8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eRquXCISa8",
+								"expanded_url": "http://atlasobscura.com",
+								"display_url": "atlasobscura.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 443878,
+				"friends_count": 3348,
+				"listed_count": 5091,
+				"created_at": "Wed Jul 15 15:33:08 +0000 2009",
+				"favourites_count": 20325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 67066,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093601394022600704/J6QnZxnP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093601394022600704/J6QnZxnP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57047586/1569941652",
+				"profile_link_color": "CCB48D",
+				"profile_sidebar_border_color": "4F6D85",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating https://t.co/qwcXN6kL3m"
+	},
+	{
 		"created_at": "Thu Jul 30 20:22:12 +0000 2020",
 		"id": 1288932932414058500,
 		"id_str": "1288932932414058497",
