@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 04 18:58:48 +0000 2020",
+		"id": 1290644693525713000,
+		"id_str": "1290723880131268608",
+		"full_text": "Hey! I started a podcast! Each week, we'll talk a little baseball, then interview a different IBWAA member about their life and times. Here's episode 1. Like and subscribe, rate and review, etc etc.\n\nhttps://t.co/alcp0Iulo0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/alcp0Iulo0",
+					"expanded_url": "https://ibwaa.libsyn.com/baseball-writers-the-ibwaa-podcast",
+					"display_url": "ibwaa.libsyn.com/baseball-write…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 254115277,
+			"id_str": "254115277",
+			"name": "Daniel R. Epstein",
+			"screen_name": "depstein1983",
+			"location": "New Jersey, USA",
+			"description": "Teacher, union pres., writer, drummer. Writes @baseballFYI, @baseballpro, @OTB_Baseball. Co-director @IBWAA. Co-host @IBWAApodcast. @sabr award nominee. he/him",
+			"url": "https://t.co/aEwvaMK3de",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aEwvaMK3de",
+							"expanded_url": "http://Baseball.FYI",
+							"display_url": "Baseball.FYI",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1125,
+			"friends_count": 642,
+			"listed_count": 27,
+			"created_at": "Fri Feb 18 16:43:25 +0000 2011",
+			"favourites_count": 18421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169284682518843393/IslmM9KM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169284682518843393/IslmM9KM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/254115277/1509051793",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey! I started a podcast! Each week, we'll talk a little baseball, then interview a different IBWAA member about their life and times. Here's episode 1. Like and subscribe, rate and review, etc etc.\n\nhttps://t.co/alcp0Iulo0"
+	},
+	{
+		"created_at": "Tue Aug 04 18:28:36 +0000 2020",
+		"id": 1290670329296232400,
+		"id_str": "1290716279431729153",
+		"full_text": "So anyway, happy feral hog day. https://t.co/Pdy0l8Mh6g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290670325391294500,
+					"id_str": "1290670325391294470",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Eelh0psWAAYofg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eelh0psWAAYofg3.jpg",
+					"url": "https://t.co/Pdy0l8Mh6g",
+					"display_url": "pic.twitter.com/Pdy0l8Mh6g",
+					"expanded_url": "https://twitter.com/CardboardCut0ut/status/1290670329296232450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290670325391294500,
+					"id_str": "1290670325391294470",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Eelh0psWAAYofg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eelh0psWAAYofg3.jpg",
+					"url": "https://t.co/Pdy0l8Mh6g",
+					"display_url": "pic.twitter.com/Pdy0l8Mh6g",
+					"expanded_url": "https://twitter.com/CardboardCut0ut/status/1290670329296232450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94851493,
+			"id_str": "94851493",
+			"name": "Anna CardboardCutout",
+			"screen_name": "CardboardCut0ut",
+			"location": "Leicester",
+			"description": "Small, angry person. Mostly rambling about films, cats, cheese and dinosaurs. I bless the rains down in Africa.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 410,
+			"friends_count": 306,
+			"listed_count": 3,
+			"created_at": "Sat Dec 05 19:21:49 +0000 2009",
+			"favourites_count": 726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000002155630/2c2e8b2b07205cb79e296fa775ff3490_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000002155630/2c2e8b2b07205cb79e296fa775ff3490_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94851493/1371404235",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "866E39",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3812,
+		"favorite_count": 12548,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So anyway, happy feral hog day. https://t.co/Pdy0l8Mh6g"
+	},
+	{
+		"created_at": "Tue Aug 04 16:01:04 +0000 2020",
+		"id": 1290679151960227800,
+		"id_str": "1290679151960227842",
+		"full_text": "Same https://t.co/1SZ3XMtkRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1SZ3XMtkRs",
+					"expanded_url": "https://twitter.com/drjefflo/status/1290641604836036608",
+					"display_url": "twitter.com/drjefflo/statu…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4475,
+			"friends_count": 743,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 74229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290641604836036600,
+		"quoted_status_id_str": "1290641604836036608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1SZ3XMtkRs",
+			"expanded": "https://twitter.com/drjefflo/status/1290641604836036608",
+			"display": "twitter.com/drjefflo/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 04 13:31:52 +0000 2020",
+			"id": 1290641604836036600,
+			"id_str": "1290641604836036608",
+			"full_text": "Really going to miss @SaberSeminar this year! Looking forward to next summer when we analyze #COVID19 and its effects on baseball. @brooksbaseball @alexspeier @StatsAdam https://t.co/IwzElR2BsB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							93,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SaberSeminar",
+						"name": "Saberseminar",
+						"id": 268351423,
+						"id_str": "268351423",
+						"indices": [
+							21,
+							34
+						]
+					},
+					{
+						"screen_name": "brooksbaseball",
+						"name": "Dan Brooks",
+						"id": 21283675,
+						"id_str": "21283675",
+						"indices": [
+							131,
+							146
+						]
+					},
+					{
+						"screen_name": "alexspeier",
+						"name": "Alex Speier",
+						"id": 45027357,
+						"id_str": "45027357",
+						"indices": [
+							147,
+							158
+						]
+					},
+					{
+						"screen_name": "StatsAdam",
+						"name": "statsadam",
+						"id": 258477229,
+						"id_str": "258477229",
+						"indices": [
+							159,
+							169
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1290641600570327000,
+						"id_str": "1290641600570327040",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/EelHspZWAAAZn1z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EelHspZWAAAZn1z.jpg",
+						"url": "https://t.co/IwzElR2BsB",
+						"display_url": "pic.twitter.com/IwzElR2BsB",
+						"expanded_url": "https://twitter.com/drjefflo/status/1290641604836036608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 995,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 601,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 995,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1290641600570327000,
+						"id_str": "1290641600570327040",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/EelHspZWAAAZn1z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EelHspZWAAAZn1z.jpg",
+						"url": "https://t.co/IwzElR2BsB",
+						"display_url": "pic.twitter.com/IwzElR2BsB",
+						"expanded_url": "https://twitter.com/drjefflo/status/1290641604836036608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 995,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 601,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 995,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15760865,
+				"id_str": "15760865",
+				"name": "Dr. Jeff",
+				"screen_name": "drjefflo",
+				"location": "wellesley",
+				"description": "orthodontist and life long sports fan following the flow of information one tweet at a time",
+				"url": "https://t.co/Ws9wzpyGhN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ws9wzpyGhN",
+								"expanded_url": "http://ljlortho.com",
+								"display_url": "ljlortho.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1123,
+				"friends_count": 1876,
+				"listed_count": 75,
+				"created_at": "Thu Aug 07 07:40:46 +0000 2008",
+				"favourites_count": 13536,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 93998,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE6E2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1313127375/dentist-1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313127375/dentist-1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15760865/1353876987",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "ADAFDB",
+				"profile_sidebar_fill_color": "FFFCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Same https://t.co/1SZ3XMtkRs"
+	},
+	{
 		"created_at": "Mon Aug 03 19:09:33 +0000 2020",
 		"id": 1290364198581612500,
 		"id_str": "1290364198581612552",
