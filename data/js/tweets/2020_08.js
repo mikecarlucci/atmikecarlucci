@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 17:45:19 +0000 2020",
+		"id": 1292879716303634400,
+		"id_str": "1292879716303634434",
+		"full_text": "The hero we need https://t.co/gnCG46L8LE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gnCG46L8LE",
+					"expanded_url": "https://twitter.com/technollama/status/1292811050417631233",
+					"display_url": "twitter.com/technollama/st…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 745,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 74925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1292811050417631200,
+		"quoted_status_id_str": "1292811050417631233",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gnCG46L8LE",
+			"expanded": "https://twitter.com/technollama/status/1292811050417631233",
+			"display": "twitter.com/technollama/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 10 13:12:28 +0000 2020",
+			"id": 1292811050417631200,
+			"id_str": "1292811050417631233",
+			"full_text": "So I was checking a story on covid-19, and this picture showed up. Could it be? It looks like Discracted BF's girlfriend with a mask. It looks like her, but it's so difficult to tell with a mask. I had to find out... https://t.co/Iy0aHpQg10",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1292810238656163800,
+						"id_str": "1292810238656163840",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EfD8D_0WsAAYu4u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfD8D_0WsAAYu4u.jpg",
+						"url": "https://t.co/Iy0aHpQg10",
+						"display_url": "pic.twitter.com/Iy0aHpQg10",
+						"expanded_url": "https://twitter.com/technollama/status/1292811050417631233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1066,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1292810238656163800,
+						"id_str": "1292810238656163840",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EfD8D_0WsAAYu4u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfD8D_0WsAAYu4u.jpg",
+						"url": "https://t.co/Iy0aHpQg10",
+						"display_url": "pic.twitter.com/Iy0aHpQg10",
+						"expanded_url": "https://twitter.com/technollama/status/1292811050417631233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1066,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1292810869068439600,
+						"id_str": "1292810869068439554",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EfD8osSWoAIoDKu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfD8osSWoAIoDKu.jpg",
+						"url": "https://t.co/Iy0aHpQg10",
+						"display_url": "pic.twitter.com/Iy0aHpQg10",
+						"expanded_url": "https://twitter.com/technollama/status/1292811050417631233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 700,
+								"h": 350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15306235,
+				"id_str": "15306235",
+				"name": "Andres Guadamuz",
+				"screen_name": "technollama",
+				"location": "Brighton, UK",
+				"description": "Law and technology academic. I tweet about copyright, AI, smart contracts, internet regulation, llamas, and cats. Lots and lots of cats.",
+				"url": "http://t.co/tI0Tssmoy2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tI0Tssmoy2",
+								"expanded_url": "http://www.technollama.co.uk",
+								"display_url": "technollama.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4947,
+				"friends_count": 1596,
+				"listed_count": 282,
+				"created_at": "Thu Jul 03 08:23:43 +0000 2008",
+				"favourites_count": 10356,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23814,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "020812",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/477868450119831552/PHS8K-oy_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/477868450119831552/PHS8K-oy_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15306235/1446131589",
+				"profile_link_color": "1A4B80",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "020812",
+				"profile_text_color": "1A4B80",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 191,
+			"favorite_count": 408,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The hero we need https://t.co/gnCG46L8LE"
+	},
+	{
+		"created_at": "Mon Aug 10 16:53:17 +0000 2020",
+		"id": 1292866621200126000,
+		"id_str": "1292866621200125952",
+		"full_text": "https://t.co/Si0pYJZy7A https://t.co/P39ixNCk1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Si0pYJZy7A",
+					"expanded_url": "https://twitter.com/datesinmovies/status/1292730545949085696",
+					"display_url": "twitter.com/datesinmovies/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292866615386808300,
+					"id_str": "1292866615386808320",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfEvVjgXoAAaE1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfEvVjgXoAAaE1a.jpg",
+					"url": "https://t.co/P39ixNCk1r",
+					"display_url": "pic.twitter.com/P39ixNCk1r",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1292866621200125952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 462,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 462,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 462,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292866615386808300,
+					"id_str": "1292866615386808320",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfEvVjgXoAAaE1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfEvVjgXoAAaE1a.jpg",
+					"url": "https://t.co/P39ixNCk1r",
+					"display_url": "pic.twitter.com/P39ixNCk1r",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1292866621200125952/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 462,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 462,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 462,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							231,
+							100
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EfEvVjgXoAAaE1a.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 745,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 74925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1292730545949085700,
+		"quoted_status_id_str": "1292730545949085696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Si0pYJZy7A",
+			"expanded": "https://twitter.com/datesinmovies/status/1292730545949085696",
+			"display": "twitter.com/datesinmovies/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 10 07:52:34 +0000 2020",
+			"id": 1292730545949085700,
+			"id_str": "1292730545949085696",
+			"full_text": "Aug 10th 1988 - Zero Cool was in the New York Times for crashing 1,507 computer systems #Hackers #HackThePlanet https://t.co/yBSrcdKFxg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Hackers",
+						"indices": [
+							88,
+							96
+						]
+					},
+					{
+						"text": "HackThePlanet",
+						"indices": [
+							97,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1292730544501989400,
+						"id_str": "1292730544501989376",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/EfCzlL9WoAAc1Tr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfCzlL9WoAAc1Tr.jpg",
+						"url": "https://t.co/yBSrcdKFxg",
+						"display_url": "pic.twitter.com/yBSrcdKFxg",
+						"expanded_url": "https://twitter.com/DatesInMovies/status/1292730545949085696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 921,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 921,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 532,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1292730544501989400,
+						"id_str": "1292730544501989376",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/EfCzlL9WoAAc1Tr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfCzlL9WoAAc1Tr.jpg",
+						"url": "https://t.co/yBSrcdKFxg",
+						"display_url": "pic.twitter.com/yBSrcdKFxg",
+						"expanded_url": "https://twitter.com/DatesInMovies/status/1292730545949085696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 921,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 921,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 532,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1146429722,
+				"id_str": "1146429722",
+				"name": "Dates in Movies",
+				"screen_name": "DatesInMovies",
+				"location": "Not in Kansas anymore",
+				"description": "Tweeting the dates of major events in movie history. Spoilers avoided where possible",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21166,
+				"friends_count": 122,
+				"listed_count": 132,
+				"created_at": "Sun Feb 03 22:41:50 +0000 2013",
+				"favourites_count": 7089,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5761,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146429722/1554069771",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 132,
+			"favorite_count": 319,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Si0pYJZy7A https://t.co/P39ixNCk1r"
+	},
+	{
 		"created_at": "Sun Aug 09 22:44:04 +0000 2020",
 		"id": 1292592510959857700,
 		"id_str": "1292592510959857666",
