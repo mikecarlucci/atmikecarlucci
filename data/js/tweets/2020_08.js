@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 02:27:41 +0000 2020",
+		"id": 1295910277507166200,
+		"id_str": "1295910277507166215",
+		"full_text": "Perfection https://t.co/DzGxFXFN1p https://t.co/b9c3Aa3M7B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DzGxFXFN1p",
+					"expanded_url": "https://twitter.com/alexspeier/status/1295904299868979202",
+					"display_url": "twitter.com/alexspeier/sta…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295910271463108600,
+					"id_str": "1295910271463108608",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Efv_hp9WsAAxRPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Efv_hp9WsAAxRPZ.jpg",
+					"url": "https://t.co/b9c3Aa3M7B",
+					"display_url": "pic.twitter.com/b9c3Aa3M7B",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1295910277507166215/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295910271463108600,
+					"id_str": "1295910271463108608",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Efv_hp9WsAAxRPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Efv_hp9WsAAxRPZ.jpg",
+					"url": "https://t.co/b9c3Aa3M7B",
+					"display_url": "pic.twitter.com/b9c3Aa3M7B",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1295910277507166215/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							35
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Efv_hp9WsAAxRPZ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 747,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 75663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1295904299868979200,
+		"quoted_status_id_str": "1295904299868979202",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DzGxFXFN1p",
+			"expanded": "https://twitter.com/alexspeier/status/1295904299868979202",
+			"display": "twitter.com/alexspeier/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 19 02:03:56 +0000 2020",
+			"id": 1295904299868979200,
+			"id_str": "1295904299868979202",
+			"full_text": "The Red Sox have now allowed 8+ runs nine times (NINE times) this year, most in the majors.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45027357,
+				"id_str": "45027357",
+				"name": "Alex Speier",
+				"screen_name": "alexspeier",
+				"location": "To order “Homegrown”",
+				"description": "Sports Writer, Boston Globe; author of “Homegrown”; moonlights on NESN as Stat Masterson",
+				"url": "https://t.co/n7ljJciqAK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n7ljJciqAK",
+								"expanded_url": "https://www.harpercollins.com/9780062943552/homegrown/",
+								"display_url": "harpercollins.com/9780062943552/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64244,
+				"friends_count": 1012,
+				"listed_count": 2255,
+				"created_at": "Fri Jun 05 23:23:05 +0000 2009",
+				"favourites_count": 2086,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41714,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1A1A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827632389023227905/9C0ClX9K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827632389023227905/9C0ClX9K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45027357/1597327317",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 116,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Perfection https://t.co/DzGxFXFN1p https://t.co/b9c3Aa3M7B"
+	},
+	{
+		"created_at": "Tue Aug 18 18:31:35 +0000 2020",
+		"id": 1295782528582910000,
+		"id_str": "1295790463820193794",
+		"full_text": "We’re just going to leave this promotional giveaway from 2016 right here. Carry on. https://t.co/AzxGSNveWr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295782522698301400,
+					"id_str": "1295782522698301440",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EfuLVsuXgAA7bp3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfuLVsuXgAA7bp3.jpg",
+					"url": "https://t.co/AzxGSNveWr",
+					"display_url": "pic.twitter.com/AzxGSNveWr",
+					"expanded_url": "https://twitter.com/StPaulSaints/status/1295782528582909959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1762,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295782522698301400,
+					"id_str": "1295782522698301440",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EfuLVsuXgAA7bp3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfuLVsuXgAA7bp3.jpg",
+					"url": "https://t.co/AzxGSNveWr",
+					"display_url": "pic.twitter.com/AzxGSNveWr",
+					"expanded_url": "https://twitter.com/StPaulSaints/status/1295782528582909959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1762,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1295782522681516000,
+					"id_str": "1295782522681516036",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EfuLVsqXYAQiqLK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfuLVsqXYAQiqLK.jpg",
+					"url": "https://t.co/AzxGSNveWr",
+					"display_url": "pic.twitter.com/AzxGSNveWr",
+					"expanded_url": "https://twitter.com/StPaulSaints/status/1295782528582909959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 608,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1832,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1073,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18034498,
+			"id_str": "18034498",
+			"name": "St. Paul Saints",
+			"screen_name": "StPaulSaints",
+			"location": "St. Paul, MN",
+			"description": "Member of the American Association of Independent Professional Baseball",
+			"url": "https://t.co/MD6pkZuF6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MD6pkZuF6m",
+							"expanded_url": "http://www.saintsbaseball.com",
+							"display_url": "saintsbaseball.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35281,
+			"friends_count": 3410,
+			"listed_count": 507,
+			"created_at": "Wed Dec 10 23:39:49 +0000 2008",
+			"favourites_count": 4209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271447194315501568/F8YLBABa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271447194315501568/F8YLBABa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18034498/1591971662",
+			"profile_link_color": "0067A6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 784,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re just going to leave this promotional giveaway from 2016 right here. Carry on. https://t.co/AzxGSNveWr"
+	},
+	{
 		"created_at": "Mon Aug 17 17:37:33 +0000 2020",
 		"id": 1295414476385259500,
 		"id_str": "1295414476385259524",
