@@ -1,6 +1,997 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 31 23:19:42 +0000 2020",
+		"id": 1300574012511318000,
+		"id_str": "1300574012511318016",
+		"full_text": "@MichaelBaumann @ringer They traded for All That Is Good",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelBaumann",
+					"name": "Michael Baumann",
+					"id": 89553469,
+					"id_str": "89553469",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ringer",
+					"name": "The Ringer",
+					"id": 4760694445,
+					"id_str": "4760694445",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1300557995231899600,
+		"in_reply_to_status_id_str": "1300557995231899655",
+		"in_reply_to_user_id": 89553469,
+		"in_reply_to_user_id_str": "89553469",
+		"in_reply_to_screen_name": "MichaelBaumann",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4466,
+			"friends_count": 742,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 76916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MichaelBaumann @ringer They traded for All That Is Good"
+	},
+	{
+		"created_at": "Mon Aug 31 23:04:31 +0000 2020",
+		"id": 1299947463013363700,
+		"id_str": "1300570192473452544",
+		"full_text": "Student loans really can be the worst debt in the world - 80,000 at 7% basically means you’re paying $500/month just to cover the interest - you could pay $500/month for 30 years and still owe $80,000 https://t.co/pqpYPmjzfH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pqpYPmjzfH",
+					"expanded_url": "https://twitter.com/ecojameson/status/1299486733239750658",
+					"display_url": "twitter.com/ecojameson/sta…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5845492,
+			"id_str": "5845492",
+			"name": "Tom Gara",
+			"screen_name": "tomgara",
+			"location": "PGP: http://bit.ly/1Nja4jP",
+			"description": "through meditation i program my heart to beat breakbeats and hum basslines upon exhalation. (Formerly @FT, @WSJ, @BuzzFeedNews, you should definitely hire me)",
+			"url": "https://t.co/w81ISXAL0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w81ISXAL0w",
+							"expanded_url": "http://about.me/tomgara",
+							"display_url": "about.me/tomgara",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59337,
+			"friends_count": 1560,
+			"listed_count": 1586,
+			"created_at": "Mon May 07 22:22:59 +0000 2007",
+			"favourites_count": 1897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141087468680286210/1hUKTcwf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141087468680286210/1hUKTcwf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5845492/1402263872",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1299486733239750700,
+		"quoted_status_id_str": "1299486733239750658",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pqpYPmjzfH",
+			"expanded": "https://twitter.com/ecojameson/status/1299486733239750658",
+			"display": "twitter.com/ecojameson/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 28 23:19:15 +0000 2020",
+			"id": 1299486733239750700,
+			"id_str": "1299486733239750658",
+			"full_text": "Damn, this broke my heart into itty bitty pieces. \n\n https://t.co/MihfvGY0O8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1299482850262044700,
+						"id_str": "1299482850262044672",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299482850262044672/pu/img/VxNLJMHPvKhaaBK-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299482850262044672/pu/img/VxNLJMHPvKhaaBK-.jpg",
+						"url": "https://t.co/MihfvGY0O8",
+						"display_url": "pic.twitter.com/MihfvGY0O8",
+						"expanded_url": "https://twitter.com/LinzDeFranco/status/1299482898928513025/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1299482898928513000,
+						"source_status_id_str": "1299482898928513025",
+						"source_user_id": 11223812,
+						"source_user_id_str": "11223812"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1299482850262044700,
+						"id_str": "1299482850262044672",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299482850262044672/pu/img/VxNLJMHPvKhaaBK-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299482850262044672/pu/img/VxNLJMHPvKhaaBK-.jpg",
+						"url": "https://t.co/MihfvGY0O8",
+						"display_url": "pic.twitter.com/MihfvGY0O8",
+						"expanded_url": "https://twitter.com/LinzDeFranco/status/1299482898928513025/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1299482898928513000,
+						"source_status_id_str": "1299482898928513025",
+						"source_user_id": 11223812,
+						"source_user_id_str": "11223812",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 62067,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1299482850262044672/pu/vid/320x568/6-lq-4vqvyqdX22P.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1299482850262044672/pu/vid/360x640/ZeOZzTzFVwftfilF.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1299482850262044672/pu/vid/576x1024/Hh2u95gCjptDGhPE.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1299482850262044672/pu/pl/yAraZ11_pw9vfN41.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 11223812,
+								"id_str": "11223812",
+								"name": "Linz DeFranco",
+								"screen_name": "LinzDeFranco",
+								"location": "Los Angeles",
+								"description": "Co-Founder of @heynotsofast—a campaign that helps students think critically about news and media. Piers Morgan said he finds me annoying.",
+								"url": "https://t.co/cQoWfVliEg",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/cQoWfVliEg",
+												"expanded_url": "http://notsofastcampaign.org",
+												"display_url": "notsofastcampaign.org",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 161442,
+								"friends_count": 675,
+								"listed_count": 876,
+								"created_at": "Sun Dec 16 15:41:52 +0000 2007",
+								"favourites_count": 7585,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 1812,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "EBEBEB",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1294095167612313600/ETGwok1D_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294095167612313600/ETGwok1D_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/11223812/1553723194",
+								"profile_link_color": "990000",
+								"profile_sidebar_border_color": "DFDFDF",
+								"profile_sidebar_fill_color": "F3F3F3",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135360079115558900,
+				"id_str": "1135360079115558912",
+				"name": "James Davin 🏳️‍🌈🌹 ☭",
+				"screen_name": "EcoJameson",
+				"location": "Chicago, IL",
+				"description": "|Prairie State Environmental Policy Eco-Marxist| Abolitionist| |Internationalist| |Anti-Racist| #MeToo |Anti-Capitalist| |Pro-Proletariat|",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6731,
+				"friends_count": 4756,
+				"listed_count": 22,
+				"created_at": "Mon Jun 03 01:38:31 +0000 2019",
+				"favourites_count": 21184,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12483,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1297650839780298753/popJAc2U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297650839780298753/popJAc2U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135360079115558912/1596001728",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1365,
+			"favorite_count": 5232,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 371,
+		"favorite_count": 870,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Student loans really can be the worst debt in the world - 80,000 at 7% basically means you’re paying $500/month just to cover the interest - you could pay $500/month for 30 years and still owe $80,000 https://t.co/pqpYPmjzfH"
+	},
+	{
+		"created_at": "Mon Aug 31 20:30:16 +0000 2020",
+		"id": 1300531372348641300,
+		"id_str": "1300531372348641283",
+		"full_text": "Aka The Packie https://t.co/BcMW0Uf2yS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BcMW0Uf2yS",
+					"expanded_url": "https://twitter.com/angels/status/1300530139185385472",
+					"display_url": "twitter.com/angels/status/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4466,
+			"friends_count": 742,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 76916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1300530139185385500,
+		"quoted_status_id_str": "1300530139185385472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BcMW0Uf2yS",
+			"expanded": "https://twitter.com/angels/status/1300530139185385472",
+			"display": "twitter.com/angels/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 31 20:25:22 +0000 2020",
+			"id": 1300530139185385500,
+			"id_str": "1300530139185385472",
+			"full_text": "The #Angels have acquired LHP Packy Naughton and a PTBNL or cash considerations from the Reds in exchange for OF Brian Goodwin. https://t.co/m0kvldFAo6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Angels",
+						"indices": [
+							4,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1300523857384599600,
+						"id_str": "1300523857384599553",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/Egxjjs1UcAElDOk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Egxjjs1UcAElDOk.jpg",
+						"url": "https://t.co/m0kvldFAo6",
+						"display_url": "pic.twitter.com/m0kvldFAo6",
+						"expanded_url": "https://twitter.com/Angels/status/1300530139185385472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1300523857384599600,
+						"id_str": "1300523857384599553",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/Egxjjs1UcAElDOk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Egxjjs1UcAElDOk.jpg",
+						"url": "https://t.co/m0kvldFAo6",
+						"display_url": "pic.twitter.com/m0kvldFAo6",
+						"expanded_url": "https://twitter.com/Angels/status/1300530139185385472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39392910,
+				"id_str": "39392910",
+				"name": "Los Angeles Angels",
+				"screen_name": "Angels",
+				"location": "Angel Stadium",
+				"description": "The official account of the Los Angeles Angels.",
+				"url": "https://t.co/646IalxTYh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/646IalxTYh",
+								"expanded_url": "http://angels.com",
+								"display_url": "angels.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1111896,
+				"friends_count": 213,
+				"listed_count": 5099,
+				"created_at": "Tue May 12 01:00:24 +0000 2009",
+				"favourites_count": 4702,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42473,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278753760144011264/u172KIQv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278753760144011264/u172KIQv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39392910/1577877870",
+				"profile_link_color": "B30000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 150,
+			"favorite_count": 646,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "Aka The Packie https://t.co/BcMW0Uf2yS"
+	},
+	{
+		"created_at": "Mon Aug 31 16:27:02 +0000 2020",
+		"id": 1300470162269896700,
+		"id_str": "1300470162269896704",
+		"full_text": "@SeanTrende @PMoehringer https://t.co/XGD5xz8QsV",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SeanTrende",
+					"name": "Sean T at RCP",
+					"id": 125375423,
+					"id_str": "125375423",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "PMoehringer",
+					"name": "Paul Moehringer",
+					"id": 809900555141320700,
+					"id_str": "809900555141320704",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1300470151452778500,
+					"id_str": "1300470151452778497",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgwytmpXYAE95M7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgwytmpXYAE95M7.jpg",
+					"url": "https://t.co/XGD5xz8QsV",
+					"display_url": "pic.twitter.com/XGD5xz8QsV",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1300470162269896704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300470151452778500,
+					"id_str": "1300470151452778497",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgwytmpXYAE95M7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgwytmpXYAE95M7.jpg",
+					"url": "https://t.co/XGD5xz8QsV",
+					"display_url": "pic.twitter.com/XGD5xz8QsV",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1300470162269896704/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EgwytmpXYAE95M7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1300440559509700600,
+		"in_reply_to_status_id_str": "1300440559509700609",
+		"in_reply_to_user_id": 125375423,
+		"in_reply_to_user_id_str": "125375423",
+		"in_reply_to_screen_name": "SeanTrende",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4466,
+			"friends_count": 742,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 76916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@SeanTrende @PMoehringer https://t.co/XGD5xz8QsV"
+	},
+	{
 		"created_at": "Mon Aug 31 02:57:17 +0000 2020",
 		"id": 1300266381901017000,
 		"id_str": "1300266381901017088",
