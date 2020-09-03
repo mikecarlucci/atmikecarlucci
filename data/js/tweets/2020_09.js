@@ -1,6 +1,726 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 02 20:31:18 +0000 2020",
+		"id": 1301256407623360500,
+		"id_str": "1301256407623360514",
+		"full_text": "https://t.co/yLX8Bv8eLL https://t.co/UzjkvxqcUG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yLX8Bv8eLL",
+					"expanded_url": "https://twitter.com/schwarzenegger/status/1301252322102710272",
+					"display_url": "twitter.com/schwarzenegger…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301256400467890200,
+					"id_str": "1301256400467890178",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eg79zUeXkAIhcpc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eg79zUeXkAIhcpc.jpg",
+					"url": "https://t.co/UzjkvxqcUG",
+					"display_url": "pic.twitter.com/UzjkvxqcUG",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1301256407623360514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 122,
+							"h": 122,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301256400467890200,
+					"id_str": "1301256400467890178",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eg79zUeXkAIhcpc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eg79zUeXkAIhcpc.jpg",
+					"url": "https://t.co/UzjkvxqcUG",
+					"display_url": "pic.twitter.com/UzjkvxqcUG",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1301256407623360514/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 122,
+							"h": 122,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							61
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eg79zUeXkAIhcpc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4466,
+			"friends_count": 743,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 77194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1301252322102710300,
+		"quoted_status_id_str": "1301252322102710272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yLX8Bv8eLL",
+			"expanded": "https://twitter.com/schwarzenegger/status/1301252322102710272",
+			"display": "twitter.com/schwarzenegger…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 02 20:15:04 +0000 2020",
+			"id": 1301252322102710300,
+			"id_str": "1301252322102710272",
+			"full_text": "I’ve been thinking about this a lot. I’m a fanatic about voting. Most people call closing polls voter suppression. Some say it is “budgetary.” What if I made it easy &amp; solved the budgetary issue? How much would it cost to reopen polling places? https://t.co/8mvy1OWBV2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8mvy1OWBV2",
+						"expanded_url": "https://www.reuters.com/article/us-usa-election-locations-idUSKCN1VV09J",
+						"display_url": "reuters.com/article/us-usa…",
+						"indices": [
+							249,
+							272
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12044602,
+				"id_str": "12044602",
+				"name": "Arnold",
+				"screen_name": "Schwarzenegger",
+				"location": "Los Angeles, California",
+				"description": "Former Mr. Olympia, Conan, Terminator, and Governor of California. I killed the Predator. I told you I'd be back. TikTok & Snapchat: ArnoldSchnitzel",
+				"url": "https://t.co/DpyFq5QUj2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DpyFq5QUj2",
+								"expanded_url": "https://linktr.ee/Schwarzenegger",
+								"display_url": "linktr.ee/Schwarzenegger",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4663695,
+				"friends_count": 387,
+				"listed_count": 30494,
+				"created_at": "Wed Jan 09 21:12:40 +0000 2008",
+				"favourites_count": 1085,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6953,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1251628359668256768/EZOYSIzd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251628359668256768/EZOYSIzd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12044602/1554505308",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1378,
+			"favorite_count": 6336,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/yLX8Bv8eLL https://t.co/UzjkvxqcUG"
+	},
+	{
+		"created_at": "Wed Sep 02 19:57:07 +0000 2020",
+		"id": 1301243195834204200,
+		"id_str": "1301247803788754944",
+		"full_text": "NO BUBBLAHS HEAH https://t.co/t7vAUpl9yb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301243177286938600,
+					"id_str": "1301243177286938624",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg7xxoSWsAA2g7J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg7xxoSWsAA2g7J.jpg",
+					"url": "https://t.co/t7vAUpl9yb",
+					"display_url": "pic.twitter.com/t7vAUpl9yb",
+					"expanded_url": "https://twitter.com/lexlanham/status/1301243195834204160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301243177286938600,
+					"id_str": "1301243177286938624",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg7xxoSWsAA2g7J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg7xxoSWsAA2g7J.jpg",
+					"url": "https://t.co/t7vAUpl9yb",
+					"display_url": "pic.twitter.com/t7vAUpl9yb",
+					"expanded_url": "https://twitter.com/lexlanham/status/1301243195834204160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22581994,
+			"id_str": "22581994",
+			"name": "alexandra j. roberts",
+			"screen_name": "lexlanham",
+			"location": "boston & nh",
+			"description": "law professor teaching & writing on trademarks, entertainment law, false advertising, influencers, pop culture, & law/literature at @unhlaw & @uofnh. she/her.",
+			"url": "https://t.co/rQJzOFCU6Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rQJzOFCU6Y",
+							"expanded_url": "https://law.unh.edu/person/alexandra-j-roberts",
+							"display_url": "law.unh.edu/person/alexand…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9321,
+			"friends_count": 4441,
+			"listed_count": 208,
+			"created_at": "Tue Mar 03 04:05:16 +0000 2009",
+			"favourites_count": 51849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22581994/1398828123",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NO BUBBLAHS HEAH https://t.co/t7vAUpl9yb"
+	},
+	{
+		"created_at": "Wed Sep 02 19:50:03 +0000 2020",
+		"id": 1299746798966173700,
+		"id_str": "1301246027001987072",
+		"full_text": "Bill Gates: \"We need vaccines\"\n\nEveryone: \"Oh hell no, you are going to put microchips to control us\"\n\nElon Musk: \"I'm literally going to implant a computer in your brain\"\n\nEveryone: \"Such innovation, can't wait!\" https://t.co/YsRULVg3Kn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YsRULVg3Kn",
+					"expanded_url": "https://twitter.com/DigitalTrends/status/1299746197847056387",
+					"display_url": "twitter.com/DigitalTrends/…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35414986,
+			"id_str": "35414986",
+			"name": "Mat Velloso",
+			"screen_name": "matvelloso",
+			"location": "Redmond, WA",
+			"description": "Technical Advisor to the CEO at Microsoft and developer advocate at heart. \n\nOpinions here are mine only, don't take them too seriously",
+			"url": "https://t.co/2iqrJJqXXn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2iqrJJqXXn",
+							"expanded_url": "http://www.matvelloso.com",
+							"display_url": "matvelloso.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23807,
+			"friends_count": 2614,
+			"listed_count": 310,
+			"created_at": "Sun Apr 26 05:52:43 +0000 2009",
+			"favourites_count": 44106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225595306236006400/3MAEYaE7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225595306236006400/3MAEYaE7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35414986/1565456092",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1299746197847056400,
+		"quoted_status_id_str": "1299746197847056387",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YsRULVg3Kn",
+			"expanded": "https://twitter.com/DigitalTrends/status/1299746197847056387",
+			"display": "twitter.com/DigitalTrends/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 29 16:30:16 +0000 2020",
+			"id": 1299746197847056400,
+			"id_str": "1299746197847056387",
+			"full_text": ".@elonmusk's new #Neuralink brain implant is basically a fitbit that gets installed in your brain. Curious about what that means? We rounded up everything you need to know! 🧠\nhttps://t.co/2CEl2HFUmK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Neuralink",
+						"indices": [
+							17,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "elonmusk",
+						"name": "Elon Musk",
+						"id": 44196397,
+						"id_str": "44196397",
+						"indices": [
+							1,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2CEl2HFUmK",
+						"expanded_url": "https://www.digitaltrends.com/news/neuralink-progress-update-2020/?utm_source=twitter&utm_medium=social&utm_content=socialorg_",
+						"display_url": "digitaltrends.com/news/neuralink…",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14763734,
+				"id_str": "14763734",
+				"name": "Digital Trends",
+				"screen_name": "DigitalTrends",
+				"location": "Portland, OR && New York, NY",
+				"description": "Tech for the way we live. | Facebook & Instagram: @DigitalTrends",
+				"url": "https://t.co/wxxwesnWkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wxxwesnWkd",
+								"expanded_url": "http://www.digitaltrends.com",
+								"display_url": "digitaltrends.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2139129,
+				"friends_count": 1163388,
+				"listed_count": 13027,
+				"created_at": "Tue May 13 20:01:41 +0000 2008",
+				"favourites_count": 12574,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 189381,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1290668578484649986/RFcAxom2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290668578484649986/RFcAxom2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14763734/1596554695",
+				"profile_link_color": "0095DA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "2D3C4F",
+				"profile_text_color": "878787",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 247,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10999,
+		"favorite_count": 39661,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bill Gates: \"We need vaccines\"\n\nEveryone: \"Oh hell no, you are going to put microchips to control us\"\n\nElon Musk: \"I'm literally going to implant a computer in your brain\"\n\nEveryone: \"Such innovation, can't wait!\" https://t.co/YsRULVg3Kn"
+	},
+	{
 		"created_at": "Wed Sep 02 01:38:05 +0000 2020",
 		"id": 1300971224999354400,
 		"id_str": "1300971224999354368",
