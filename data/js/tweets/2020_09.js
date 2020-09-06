@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 05 15:36:01 +0000 2020",
+		"id": 1302269260421566500,
+		"id_str": "1302269260421566469",
+		"full_text": "https://t.co/rkYgURRoEo https://t.co/xzq5zJSzD1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rkYgURRoEo",
+					"expanded_url": "https://twitter.com/bourgeoisalien/status/1302006265460256770",
+					"display_url": "twitter.com/bourgeoisalien…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302269254406934500,
+					"id_str": "1302269254406934528",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhKW_LbWkAAeiFi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhKW_LbWkAAeiFi.jpg",
+					"url": "https://t.co/xzq5zJSzD1",
+					"display_url": "pic.twitter.com/xzq5zJSzD1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1302269260421566469/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302269254406934500,
+					"id_str": "1302269254406934528",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhKW_LbWkAAeiFi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhKW_LbWkAAeiFi.jpg",
+					"url": "https://t.co/xzq5zJSzD1",
+					"display_url": "pic.twitter.com/xzq5zJSzD1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1302269260421566469/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							45
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EhKW_LbWkAAeiFi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4463,
+			"friends_count": 742,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 77346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302006265460256800,
+		"quoted_status_id_str": "1302006265460256770",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rkYgURRoEo",
+			"expanded": "https://twitter.com/bourgeoisalien/status/1302006265460256770",
+			"display": "twitter.com/bourgeoisalien…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 04 22:10:58 +0000 2020",
+			"id": 1302006265460256800,
+			"id_str": "1302006265460256770",
+			"full_text": "It was the American left who fought for workers to have weekends.\n\nIt was the American left who fought for civil rights.\n\nAnd it was the American left who fought for a woman's right to vote.\n\nThis country would do well to stop incessantly demonizing the American left.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2396910715,
+				"id_str": "2396910715",
+				"name": "beth, uprising enthusiast",
+				"screen_name": "bourgeoisalien",
+				"location": "tied to a rock",
+				"description": "go ahead. call my manager",
+				"url": "https://t.co/vd2FaW2382",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vd2FaW2382",
+								"expanded_url": "http://bethargyropoulos.wordpress.com",
+								"display_url": "bethargyropoulos.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79065,
+				"friends_count": 3882,
+				"listed_count": 1064,
+				"created_at": "Tue Mar 18 23:21:08 +0000 2014",
+				"favourites_count": 431360,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 195109,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4A913C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291742386440282112/HTurgC5Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291742386440282112/HTurgC5Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2396910715/1598277485",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1485,
+			"favorite_count": 6646,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/rkYgURRoEo https://t.co/xzq5zJSzD1"
+	},
+	{
 		"created_at": "Fri Sep 04 23:58:47 +0000 2020",
 		"id": 1302033397305553000,
 		"id_str": "1302033397305552896",
