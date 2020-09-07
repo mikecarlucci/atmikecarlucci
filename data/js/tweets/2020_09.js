@@ -1,6 +1,877 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 01:21:56 +0000 2020",
+		"id": 1302760174545821700,
+		"id_str": "1302779098536738822",
+		"full_text": "I can totally see @ProjectLincoln making this a real thing https://t.co/mfnQpflaUR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProjectLincoln",
+					"name": "The Lincoln Project",
+					"id": 1205226529455632400,
+					"id_str": "1205226529455632385",
+					"indices": [
+						18,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mfnQpflaUR",
+					"expanded_url": "https://twitter.com/marklemley/status/1302700046123761665",
+					"display_url": "twitter.com/marklemley/sta…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1270191,
+			"id_str": "1270191",
+			"name": "Mike Masnick",
+			"screen_name": "mmasnick",
+			"location": "",
+			"description": "I write/edit @techdirt. I survived for 12 years without a bio on Twitter, but now I've added one.",
+			"url": "http://t.co/eY1dwNDtAZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eY1dwNDtAZ",
+							"expanded_url": "http://www.techdirt.com/",
+							"display_url": "techdirt.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20366,
+			"friends_count": 1595,
+			"listed_count": 1106,
+			"created_at": "Fri Mar 16 06:42:05 +0000 2007",
+			"favourites_count": 28498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1769825351/simpsonsbuddy_bigger_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1769825351/simpsonsbuddy_bigger_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1270191/1462516125",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302700046123761700,
+		"quoted_status_id_str": "1302700046123761665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mfnQpflaUR",
+			"expanded": "https://twitter.com/marklemley/status/1302700046123761665",
+			"display": "twitter.com/marklemley/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 06 20:07:48 +0000 2020",
+			"id": 1302700046123761700,
+			"id_str": "1302700046123761665",
+			"full_text": "I wrote a song about 2020. Well, more precisely, I wrote lyrics, since I have no musical talent. I'm thinking an upbeat tempo, along the lines of \"if you're happy and you know it clap your hands.\"  It goes like this:  /1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44470276,
+				"id_str": "44470276",
+				"name": "Mark Lemley",
+				"screen_name": "marklemley",
+				"location": "",
+				"description": "William H Neukom Professor, Stanford Law School. Partner, Durie Tangri. Co-founder, Lex Machina. Cook. Yogi. Fantasy RPG addict (at present, AC: Odyssey).",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10285,
+				"friends_count": 708,
+				"listed_count": 291,
+				"created_at": "Wed Jun 03 22:04:44 +0000 2009",
+				"favourites_count": 11667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8615,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925929600353521664/gEwKw4up_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925929600353521664/gEwKw4up_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44470276/1435618073",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can totally see @ProjectLincoln making this a real thing https://t.co/mfnQpflaUR"
+	},
+	{
+		"created_at": "Sun Sep 06 20:16:04 +0000 2020",
+		"id": 1302673763272667100,
+		"id_str": "1302702124858474496",
+		"full_text": "everything makes so much more sense when you realize the better way to contextualize the US is that we are the country with the most rich people in it as opposed to the richest country on earth https://t.co/u4gXnXGEZZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u4gXnXGEZZ",
+					"expanded_url": "https://twitter.com/daveanthony/status/1302673049230008321",
+					"display_url": "twitter.com/daveanthony/st…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 946551,
+			"id_str": "946551",
+			"name": "kathbarbadoro",
+			"screen_name": "kathbarbadoro",
+			"location": "Brooklyn, NY",
+			"description": "comedian @whatatimepod @LCSpodcast @paidprotest she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33177,
+			"friends_count": 2530,
+			"listed_count": 276,
+			"created_at": "Sun Mar 11 19:16:49 +0000 2007",
+			"favourites_count": 207180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E8A09A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121476283530141698/8faE5EvC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121476283530141698/8faE5EvC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/946551/1573018059",
+			"profile_link_color": "A2D152",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "20181C",
+			"profile_text_color": "E8A09A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302673049230008300,
+		"quoted_status_id_str": "1302673049230008321",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u4gXnXGEZZ",
+			"expanded": "https://twitter.com/daveanthony/status/1302673049230008321",
+			"display": "twitter.com/daveanthony/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 06 18:20:32 +0000 2020",
+			"id": 1302673049230008300,
+			"id_str": "1302673049230008321",
+			"full_text": "Richest country on Earth has to turn off power in locations when it gets too hot.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17452154,
+				"id_str": "17452154",
+				"name": "Dave \"Alive\" Anthony",
+				"screen_name": "daveanthony",
+				"location": "los angeles",
+				"description": "My podcast is The Dollop. Enviro group - @planitchange10",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73918,
+				"friends_count": 918,
+				"listed_count": 841,
+				"created_at": "Mon Nov 17 22:17:17 +0000 2008",
+				"favourites_count": 60869,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5217,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250123385905897472/YD8WCfqy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250123385905897472/YD8WCfqy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17452154/1545359582",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 232,
+			"favorite_count": 2101,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1010,
+		"favorite_count": 4432,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "everything makes so much more sense when you realize the better way to contextualize the US is that we are the country with the most rich people in it as opposed to the richest country on earth https://t.co/u4gXnXGEZZ"
+	},
+	{
+		"created_at": "Sun Sep 06 19:55:26 +0000 2020",
+		"id": 1302696933769830400,
+		"id_str": "1302696933769830400",
+		"full_text": "https://t.co/AHAOUxIrkN https://t.co/dxWW0RAH2n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AHAOUxIrkN",
+					"expanded_url": "https://twitter.com/neilshyminsky/status/1302322781091229700",
+					"display_url": "twitter.com/neilshyminsky/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302696923070169000,
+					"id_str": "1302696923070169091",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhQb8xWXgAMDndS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhQb8xWXgAMDndS.jpg",
+					"url": "https://t.co/dxWW0RAH2n",
+					"display_url": "pic.twitter.com/dxWW0RAH2n",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1302696933769830400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302696923070169000,
+					"id_str": "1302696923070169091",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhQb8xWXgAMDndS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhQb8xWXgAMDndS.jpg",
+					"url": "https://t.co/dxWW0RAH2n",
+					"display_url": "pic.twitter.com/dxWW0RAH2n",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1302696933769830400/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 316,
+							"h": 238,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							158,
+							119
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EhQb8xWXgAMDndS.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4463,
+			"friends_count": 742,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 77412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302322781091229700,
+		"quoted_status_id_str": "1302322781091229700",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AHAOUxIrkN",
+			"expanded": "https://twitter.com/neilshyminsky/status/1302322781091229700",
+			"display": "twitter.com/neilshyminsky/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 05 19:08:41 +0000 2020",
+			"id": 1302322781091229700,
+			"id_str": "1302322781091229700",
+			"full_text": "I’ve commented before that Star Trek’s most prescient prediction was communication via memes in ‘Darmok’. So it was only a matter of time before someone started making these: https://t.co/6wQfRj8wJX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1302322776401903600,
+						"id_str": "1302322776401903616",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EhLHqkZWAAAOELq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhLHqkZWAAAOELq.jpg",
+						"url": "https://t.co/6wQfRj8wJX",
+						"display_url": "pic.twitter.com/6wQfRj8wJX",
+						"expanded_url": "https://twitter.com/neilshyminsky/status/1302322781091229700/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1302322776401903600,
+						"id_str": "1302322776401903616",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EhLHqkZWAAAOELq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhLHqkZWAAAOELq.jpg",
+						"url": "https://t.co/6wQfRj8wJX",
+						"display_url": "pic.twitter.com/6wQfRj8wJX",
+						"expanded_url": "https://twitter.com/neilshyminsky/status/1302322781091229700/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1302322776414531600,
+						"id_str": "1302322776414531584",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EhLHqkcWsAAqoma.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhLHqkcWsAAqoma.jpg",
+						"url": "https://t.co/6wQfRj8wJX",
+						"display_url": "pic.twitter.com/6wQfRj8wJX",
+						"expanded_url": "https://twitter.com/neilshyminsky/status/1302322781091229700/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1302322776414523400,
+						"id_str": "1302322776414523393",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EhLHqkcWkAEyCFV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhLHqkcWkAEyCFV.jpg",
+						"url": "https://t.co/6wQfRj8wJX",
+						"display_url": "pic.twitter.com/6wQfRj8wJX",
+						"expanded_url": "https://twitter.com/neilshyminsky/status/1302322781091229700/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1302322776418775000,
+						"id_str": "1302322776418775042",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EhLHqkdXcAIGBJS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhLHqkdXcAIGBJS.jpg",
+						"url": "https://t.co/6wQfRj8wJX",
+						"display_url": "pic.twitter.com/6wQfRj8wJX",
+						"expanded_url": "https://twitter.com/neilshyminsky/status/1302322781091229700/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 722,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 354645298,
+				"id_str": "354645298",
+				"name": "Neil Shyminsky",
+				"screen_name": "neilshyminsky",
+				"location": "Sudbury/Ojibway territory",
+				"description": "college professor 📖; union guy ✊; co-editor of Spaces & Places of Canadian Popular Culture (2019) 📕; writing a book about the X-Men 🦸‍♂️; dad 👨‍👧; he/him",
+				"url": "https://t.co/tBp4J8bwZw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tBp4J8bwZw",
+								"expanded_url": "http://neilshyminsky.blogspot.com/",
+								"display_url": "neilshyminsky.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 596,
+				"friends_count": 1130,
+				"listed_count": 15,
+				"created_at": "Sun Aug 14 02:21:59 +0000 2011",
+				"favourites_count": 8178,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15623,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1276489507139969024/2AhsQCV7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276489507139969024/2AhsQCV7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/354645298/1574265762",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "001829",
+				"profile_sidebar_fill_color": "013145",
+				"profile_text_color": "C2C1A2",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8113,
+			"favorite_count": 20824,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/AHAOUxIrkN https://t.co/dxWW0RAH2n"
+	},
+	{
 		"created_at": "Sat Sep 05 15:36:01 +0000 2020",
 		"id": 1302269260421566500,
 		"id_str": "1302269260421566469",
