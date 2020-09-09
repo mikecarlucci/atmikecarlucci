@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 19:40:59 +0000 2020",
+		"id": 1303418071747567600,
+		"id_str": "1303418071747567622",
+		"full_text": "It’s a choice https://t.co/npmMqu5Qyw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303418058183184400,
+					"id_str": "1303418058183184392",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehar0W_WkAgHGKB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehar0W_WkAgHGKB.jpg",
+					"url": "https://t.co/npmMqu5Qyw",
+					"display_url": "pic.twitter.com/npmMqu5Qyw",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1303418071747567622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 1190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1190,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303418058183184400,
+					"id_str": "1303418058183184392",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehar0W_WkAgHGKB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehar0W_WkAgHGKB.jpg",
+					"url": "https://t.co/npmMqu5Qyw",
+					"display_url": "pic.twitter.com/npmMqu5Qyw",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1303418071747567622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 1190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1190,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303418058183184400,
+					"id_str": "1303418058183184386",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehar0W_WkAIkWPJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehar0W_WkAIkWPJ.jpg",
+					"url": "https://t.co/npmMqu5Qyw",
+					"display_url": "pic.twitter.com/npmMqu5Qyw",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1303418071747567622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1109,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1109,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4462,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 77515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s a choice https://t.co/npmMqu5Qyw"
+	},
+	{
+		"created_at": "Tue Sep 08 19:14:53 +0000 2020",
+		"id": 1303407933326340000,
+		"id_str": "1303411504209854464",
+		"full_text": "Riker is celebrating #StarTrekDay the best way he knows how. Thank you, Will. (Please play Nightbird) https://t.co/IIbcaGfFkA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StarTrekDay",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303407928557424600,
+					"id_str": "1303407928557424641",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EhaimvMX0AEXk7S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhaimvMX0AEXk7S.jpg",
+					"url": "https://t.co/IIbcaGfFkA",
+					"display_url": "pic.twitter.com/IIbcaGfFkA",
+					"expanded_url": "https://twitter.com/NoContextTrek/status/1303407933326340098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1389,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 833,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303407928557424600,
+					"id_str": "1303407928557424641",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EhaimvMX0AEXk7S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhaimvMX0AEXk7S.jpg",
+					"url": "https://t.co/IIbcaGfFkA",
+					"display_url": "pic.twitter.com/IIbcaGfFkA",
+					"expanded_url": "https://twitter.com/NoContextTrek/status/1303407933326340098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1389,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 833,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839246845914251300,
+			"id_str": "839246845914251264",
+			"name": "Star Trek Minus Context",
+			"screen_name": "NoContextTrek",
+			"location": "that one weird Jefferies tube",
+			"description": "Double dumbass on you, and so forth. (These are all real) Star Trek is owned by CBS and Paramount, I'm just a fan, cataloguing the odd stuff.🖖🏾",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61941,
+			"friends_count": 185,
+			"listed_count": 371,
+			"created_at": "Tue Mar 07 22:50:15 +0000 2017",
+			"favourites_count": 77812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100138473539940352/u5ydepge_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100138473539940352/u5ydepge_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/839246845914251264/1488930275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 635,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Riker is celebrating #StarTrekDay the best way he knows how. Thank you, Will. (Please play Nightbird) https://t.co/IIbcaGfFkA"
+	},
+	{
 		"created_at": "Mon Sep 07 22:24:53 +0000 2020",
 		"id": 1303088424643997700,
 		"id_str": "1303096933595123714",
