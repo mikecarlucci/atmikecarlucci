@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 15:16:22 +0000 2020",
+		"id": 1303713865667141600,
+		"id_str": "1303713865667141633",
+		"full_text": "🎶swing your arms, from side to side 🎶 https://t.co/uunZGpTx2l https://t.co/iuLcfj6E6z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uunZGpTx2l",
+					"expanded_url": "https://twitter.com/alansiegeldc/status/1303696682060832768",
+					"display_url": "twitter.com/alansiegeldc/s…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303713859484737500,
+					"id_str": "1303713859484737536",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ehe42QtXYAAy3LA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ehe42QtXYAAy3LA.jpg",
+					"url": "https://t.co/iuLcfj6E6z",
+					"display_url": "pic.twitter.com/iuLcfj6E6z",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1303713865667141633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 466,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 466,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303713859484737500,
+					"id_str": "1303713859484737536",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ehe42QtXYAAy3LA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ehe42QtXYAAy3LA.jpg",
+					"url": "https://t.co/iuLcfj6E6z",
+					"display_url": "pic.twitter.com/iuLcfj6E6z",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1303713865667141633/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 466,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 466,
+							"h": 354,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							233,
+							177
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ehe42QtXYAAy3LA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4461,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 77562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303696682060832800,
+		"quoted_status_id_str": "1303696682060832768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uunZGpTx2l",
+			"expanded": "https://twitter.com/alansiegeldc/status/1303696682060832768",
+			"display": "twitter.com/alansiegeldc/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 09 14:08:05 +0000 2020",
+			"id": 1303696682060832800,
+			"id_str": "1303696682060832768",
+			"full_text": "Today at the @ringer we’re celebrating the 35th birthday of Super Mario Bros. In hindsight, I’m amazed at how damn trippy its first American TV adaptation was. Here’s my look back. https://t.co/zX4eeZA77x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ringer",
+						"name": "The Ringer",
+						"id": 4760694445,
+						"id_str": "4760694445",
+						"indices": [
+							13,
+							20
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zX4eeZA77x",
+						"expanded_url": "https://www.theringer.com/tv/2020/9/9/21428539/super-mario-bros-super-show",
+						"display_url": "theringer.com/tv/2020/9/9/21…",
+						"indices": [
+							181,
+							204
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76642393,
+				"id_str": "76642393",
+				"name": "Alan Siegel",
+				"screen_name": "AlanSiegelDC",
+				"location": "Washington, D.C.",
+				"description": "Staff writer, @Ringer alan.siegel@theringer.com",
+				"url": "https://t.co/uE7oinPD1u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uE7oinPD1u",
+								"expanded_url": "https://www.theringer.com/authors/alan-siegel",
+								"display_url": "theringer.com/authors/alan-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2891,
+				"friends_count": 1562,
+				"listed_count": 53,
+				"created_at": "Wed Sep 23 13:25:50 +0000 2009",
+				"favourites_count": 7212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11232,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1295110979710267393/1T2oj7gD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295110979710267393/1T2oj7gD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76642393/1589816958",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎶swing your arms, from side to side 🎶 https://t.co/uunZGpTx2l https://t.co/iuLcfj6E6z"
+	},
+	{
 		"created_at": "Tue Sep 08 19:40:59 +0000 2020",
 		"id": 1303418071747567600,
 		"id_str": "1303418071747567622",
