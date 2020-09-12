@@ -1,6 +1,775 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 15:43:29 +0000 2020",
+		"id": 1304445465983955000,
+		"id_str": "1304445465983954945",
+		"full_text": "https://t.co/LB3tWhWiUM https://t.co/1aKXHPlBJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LB3tWhWiUM",
+					"expanded_url": "https://twitter.com/cbr/status/1304417591902064640",
+					"display_url": "twitter.com/cbr/status/130…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304445460292214800,
+					"id_str": "1304445460292214792",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhpSPCGWoAgd9kb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhpSPCGWoAgd9kb.jpg",
+					"url": "https://t.co/1aKXHPlBJy",
+					"display_url": "pic.twitter.com/1aKXHPlBJy",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1304445465983954945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 220,
+							"h": 150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 150,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304445460292214800,
+					"id_str": "1304445460292214792",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhpSPCGWoAgd9kb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhpSPCGWoAgd9kb.jpg",
+					"url": "https://t.co/1aKXHPlBJy",
+					"display_url": "pic.twitter.com/1aKXHPlBJy",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1304445465983954945/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 220,
+							"h": 150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 150,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 150,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							22,
+							15
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EhpSPCGWoAgd9kb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4460,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 77706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304417591902064600,
+		"quoted_status_id_str": "1304417591902064640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LB3tWhWiUM",
+			"expanded": "https://twitter.com/cbr/status/1304417591902064640",
+			"display": "twitter.com/cbr/status/130…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 11 13:52:43 +0000 2020",
+			"id": 1304417591902064600,
+			"id_str": "1304417591902064640",
+			"full_text": "#FastAndFurious9: The Fast Saga Star Confirms the Movie Takes the Team Into Space https://t.co/IR8LRIDjW2 https://t.co/bSl7y5ZgR1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FastAndFurious9",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IR8LRIDjW2",
+						"expanded_url": "https://buff.ly/3hlQHWL",
+						"display_url": "buff.ly/3hlQHWL",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1304417589653835800,
+						"id_str": "1304417589653835777",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Eho44v4WkAEofQE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eho44v4WkAEofQE.jpg",
+						"url": "https://t.co/bSl7y5ZgR1",
+						"display_url": "pic.twitter.com/bSl7y5ZgR1",
+						"expanded_url": "https://twitter.com/CBR/status/1304417591902064640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1400,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1304417589653835800,
+						"id_str": "1304417589653835777",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Eho44v4WkAEofQE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eho44v4WkAEofQE.jpg",
+						"url": "https://t.co/bSl7y5ZgR1",
+						"display_url": "pic.twitter.com/bSl7y5ZgR1",
+						"expanded_url": "https://twitter.com/CBR/status/1304417591902064640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1400,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16031897,
+				"id_str": "16031897",
+				"name": "Comic Book Resources",
+				"screen_name": "CBR",
+				"location": "",
+				"description": "The internet's first stop for nerd culture, news, commentary and community.",
+				"url": "https://t.co/e3dFsdClD3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e3dFsdClD3",
+								"expanded_url": "http://CBR.com",
+								"display_url": "CBR.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 273295,
+				"friends_count": 744,
+				"listed_count": 4948,
+				"created_at": "Thu Aug 28 20:02:31 +0000 2008",
+				"favourites_count": 546,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 171914,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768463136177418240/KhUdBQNH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768463136177418240/KhUdBQNH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16031897/1483570413",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "333399",
+				"profile_sidebar_fill_color": "000099",
+				"profile_text_color": "FF9932",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 117,
+			"favorite_count": 515,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/LB3tWhWiUM https://t.co/1aKXHPlBJy"
+	},
+	{
+		"created_at": "Fri Sep 11 14:59:09 +0000 2020",
+		"id": 1304434310213234700,
+		"id_str": "1304434310213234696",
+		"full_text": "The team at @nesn inspired by the Bicycle of Education? https://t.co/30qW9YPpTt https://t.co/a4nbBOIXMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NESN",
+					"name": "NESN",
+					"id": 17000333,
+					"id_str": "17000333",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/30qW9YPpTt",
+					"expanded_url": "https://twitter.com/research_tim/status/737757291437527040?s=21",
+					"display_url": "twitter.com/research_tim/s…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304434306195038200,
+					"id_str": "1304434306195038208",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EhpIFx2WoAAyrtN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhpIFx2WoAAyrtN.jpg",
+					"url": "https://t.co/a4nbBOIXMO",
+					"display_url": "pic.twitter.com/a4nbBOIXMO",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1304434310213234696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304434306195038200,
+					"id_str": "1304434306195038208",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EhpIFx2WoAAyrtN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhpIFx2WoAAyrtN.jpg",
+					"url": "https://t.co/a4nbBOIXMO",
+					"display_url": "pic.twitter.com/a4nbBOIXMO",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1304434310213234696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4460,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 77706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 737757291437527000,
+		"quoted_status_id_str": "737757291437527040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/30qW9YPpTt",
+			"expanded": "https://twitter.com/research_tim/status/737757291437527040?s=21",
+			"display": "twitter.com/research_tim/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 31 21:26:59 +0000 2016",
+			"id": 737757291437527000,
+			"id_str": "737757291437527040",
+			"full_text": "There are bad visualizations, and then there's the 'bicycle of education'. https://t.co/seigDh715h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 737757290372038700,
+						"id_str": "737757290372038657",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/Cj0KWMcUgAEx4uP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cj0KWMcUgAEx4uP.jpg",
+						"url": "https://t.co/seigDh715h",
+						"display_url": "pic.twitter.com/seigDh715h",
+						"expanded_url": "https://twitter.com/Research_Tim/status/737757291437527040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 540,
+								"h": 366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 737757290372038700,
+						"id_str": "737757290372038657",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/Cj0KWMcUgAEx4uP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cj0KWMcUgAEx4uP.jpg",
+						"url": "https://t.co/seigDh715h",
+						"display_url": "pic.twitter.com/seigDh715h",
+						"expanded_url": "https://twitter.com/Research_Tim/status/737757291437527040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 540,
+								"h": 366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 996020192,
+				"id_str": "996020192",
+				"name": "Tim van der Zee",
+				"screen_name": "Research_Tim",
+				"location": "Eindhoven, Nederland",
+				"description": "Burned-out Educational/Cognitive Psychologist. Sometimes I say stuff about things.",
+				"url": "https://t.co/p8fF5NZUZH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p8fF5NZUZH",
+								"expanded_url": "http://timvanderzee.com",
+								"display_url": "timvanderzee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8022,
+				"friends_count": 3292,
+				"listed_count": 150,
+				"created_at": "Fri Dec 07 22:47:50 +0000 2012",
+				"favourites_count": 27441,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21830,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1277658070668251137/dc08kmVK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277658070668251137/dc08kmVK_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5417,
+			"favorite_count": 6600,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The team at @nesn inspired by the Bicycle of Education? https://t.co/30qW9YPpTt https://t.co/a4nbBOIXMO"
+	},
+	{
 		"created_at": "Thu Sep 10 19:10:17 +0000 2020",
 		"id": 1304135121428271000,
 		"id_str": "1304135121428271106",
@@ -530,7 +1299,7 @@ Grailbird.data.tweets_2020_09 =
 				"name": "Meg Elison",
 				"screen_name": "megelison",
 				"location": "Oakland, CA",
-				"description": "Author. Philip K. Dick Award Winner, Tiptree Honors. Producer @cliterarysalon. Active member @SFWA. https://t.co/4JnHyBEG1b she/they/sir 🏳️‍🌈",
+				"description": "Author. Philip K. Dick Award Winner, Tiptree Honors. Producer @cliterarysalon. Active member @SFWA. https://t.co/4JnHyBEG1b she/they/sir 🏳️🌈",
 				"url": "https://t.co/J91KGXYIDU",
 				"entities": {
 					"url": {
