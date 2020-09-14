@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 02:46:44 +0000 2020",
+		"id": 1305337153333977000,
+		"id_str": "1305337153333977090",
+		"full_text": "Do the Mario! https://t.co/N5VrKLbJyo https://t.co/COVlYhGjIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N5VrKLbJyo",
+					"expanded_url": "https://twitter.com/gifmario/status/1305152597926518788",
+					"display_url": "twitter.com/gifmario/statu…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305337147487072300,
+					"id_str": "1305337147487072256",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eh19ODwWsAADqgP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eh19ODwWsAADqgP.jpg",
+					"url": "https://t.co/COVlYhGjIq",
+					"display_url": "pic.twitter.com/COVlYhGjIq",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1305337153333977090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305337147487072300,
+					"id_str": "1305337147487072256",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eh19ODwWsAADqgP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eh19ODwWsAADqgP.jpg",
+					"url": "https://t.co/COVlYhGjIq",
+					"display_url": "pic.twitter.com/COVlYhGjIq",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1305337153333977090/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							109,
+							81
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eh19ODwWsAADqgP.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4460,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 77837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305152597926518800,
+		"quoted_status_id_str": "1305152597926518788",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N5VrKLbJyo",
+			"expanded": "https://twitter.com/gifmario/status/1305152597926518788",
+			"display": "twitter.com/gifmario/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 13 14:33:22 +0000 2020",
+			"id": 1305152597926518800,
+			"id_str": "1305152597926518788",
+			"full_text": "Today is the day that started it all!\n\nHappy 35th anniversary to the most iconic game ever released, Super Mario Bros. 🍄 This game came out on this day on September 13th, 1985! 🎉🎉 https://t.co/984Sfzzy1M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1305152589261136000,
+						"id_str": "1305152589261135874",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhzVXWyXYAI8y0J.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhzVXWyXYAI8y0J.jpg",
+						"url": "https://t.co/984Sfzzy1M",
+						"display_url": "pic.twitter.com/984Sfzzy1M",
+						"expanded_url": "https://twitter.com/GifMario/status/1305152597926518788/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1305152589261136000,
+						"id_str": "1305152589261135874",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhzVXWyXYAI8y0J.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhzVXWyXYAI8y0J.jpg",
+						"url": "https://t.co/984Sfzzy1M",
+						"display_url": "pic.twitter.com/984Sfzzy1M",
+						"expanded_url": "https://twitter.com/GifMario/status/1305152597926518788/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EhzVXWyXYAI8y0J.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1029031597767581700,
+				"id_str": "1029031597767581696",
+				"name": "Mario Gif World",
+				"screen_name": "GifMario",
+				"location": "",
+				"description": "Exploring the World of Mario, in gif form 🍄",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6226,
+				"friends_count": 7,
+				"listed_count": 33,
+				"created_at": "Mon Aug 13 15:47:06 +0000 2018",
+				"favourites_count": 259,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 507,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029034568542773248/ipJXpW0k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029034568542773248/ipJXpW0k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1029031597767581696/1534175969",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1093,
+			"favorite_count": 3722,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do the Mario! https://t.co/N5VrKLbJyo https://t.co/COVlYhGjIq"
+	},
+	{
 		"created_at": "Sun Sep 13 01:28:32 +0000 2020",
 		"id": 1304955085869453300,
 		"id_str": "1304955085869453314",
