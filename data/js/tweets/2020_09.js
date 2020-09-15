@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 18:44:19 +0000 2020",
+		"id": 1305568470575149000,
+		"id_str": "1305578139180060675",
+		"full_text": "That “passage of time” thing is pretty  crazy, huh?  I recorded this song live on the Dr. Demento Show exactly 40 YEARS AGO. https://t.co/MdHcHoVfs6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305568467198771200,
+					"id_str": "1305568467198771200",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh5Pmo1VgAA0r_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh5Pmo1VgAA0r_U.jpg",
+					"url": "https://t.co/MdHcHoVfs6",
+					"display_url": "pic.twitter.com/MdHcHoVfs6",
+					"expanded_url": "https://twitter.com/alyankovic/status/1305568470575149056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 962,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305568467198771200,
+					"id_str": "1305568467198771200",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh5Pmo1VgAA0r_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh5Pmo1VgAA0r_U.jpg",
+					"url": "https://t.co/MdHcHoVfs6",
+					"display_url": "pic.twitter.com/MdHcHoVfs6",
+					"expanded_url": "https://twitter.com/alyankovic/status/1305568470575149056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 962,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22461427,
+			"id_str": "22461427",
+			"name": "Al Yankovic",
+			"screen_name": "alyankovic",
+			"location": "Los Angeles",
+			"description": "You know... the weird one.",
+			"url": "https://t.co/AQRv276mUy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQRv276mUy",
+							"expanded_url": "http://weirdal.com",
+							"display_url": "weirdal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5088886,
+			"friends_count": 618,
+			"listed_count": 29049,
+			"created_at": "Mon Mar 02 07:00:29 +0000 2009",
+			"favourites_count": 4358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22461427/1398828117",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 789,
+		"favorite_count": 6962,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That “passage of time” thing is pretty  crazy, huh?  I recorded this song live on the Dr. Demento Show exactly 40 YEARS AGO. https://t.co/MdHcHoVfs6"
+	},
+	{
+		"created_at": "Mon Sep 14 16:22:58 +0000 2020",
+		"id": 1305536988741861400,
+		"id_str": "1305542567434616832",
+		"full_text": "I, for one, am looking forward to the Venus cloud-habitat airships https://t.co/iqX0TdVDfg (thx @jsnell for the reminder that this NASA concept exists) https://t.co/ILMHMSp9Wa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsnell",
+					"name": "Jason Snell",
+					"id": 784912,
+					"id_str": "784912",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iqX0TdVDfg",
+					"expanded_url": "https://sacd.larc.nasa.gov/smab/havoc/",
+					"display_url": "sacd.larc.nasa.gov/smab/havoc/",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305536555176652800,
+					"id_str": "1305536555176652800",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh4ylHSXcAAiwbL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh4ylHSXcAAiwbL.jpg",
+					"url": "https://t.co/ILMHMSp9Wa",
+					"display_url": "pic.twitter.com/ILMHMSp9Wa",
+					"expanded_url": "https://twitter.com/AstroKatie/status/1305536988741861378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 399,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 271,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305536555176652800,
+					"id_str": "1305536555176652800",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh4ylHSXcAAiwbL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh4ylHSXcAAiwbL.jpg",
+					"url": "https://t.co/ILMHMSp9Wa",
+					"display_url": "pic.twitter.com/ILMHMSp9Wa",
+					"expanded_url": "https://twitter.com/AstroKatie/status/1305536988741861378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 399,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 271,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1305532668877168600,
+		"in_reply_to_status_id_str": "1305532668877168643",
+		"in_reply_to_user_id": 33773592,
+		"in_reply_to_user_id_str": "33773592",
+		"in_reply_to_screen_name": "AstroKatie",
+		"user": {
+			"id": 33773592,
+			"id_str": "33773592",
+			"name": "Katie Mack",
+			"screen_name": "AstroKatie",
+			"location": "Amherst, MA",
+			"description": "Cosmologist, writer, connoisseur of cosmic catastrophes. @TEDFellow. Author: \"The End of Everything (Astrophysically Speaking)\". Personal account. She/her. Dr.",
+			"url": "https://t.co/vS0Cm5nKgg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vS0Cm5nKgg",
+							"expanded_url": "http://www.astrokatie.com/book",
+							"display_url": "astrokatie.com/book",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375098,
+			"friends_count": 3247,
+			"listed_count": 4091,
+			"created_at": "Tue Apr 21 02:22:18 +0000 2009",
+			"favourites_count": 136744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2818477708/0ef050189a11bb7f9cf56306f5d171bf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2818477708/0ef050189a11bb7f9cf56306f5d171bf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33773592/1595441302",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 1452,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I, for one, am looking forward to the Venus cloud-habitat airships https://t.co/iqX0TdVDfg (thx @jsnell for the reminder that this NASA concept exists) https://t.co/ILMHMSp9Wa"
+	},
+	{
+		"created_at": "Mon Sep 14 14:38:23 +0000 2020",
+		"id": 1305516247275237400,
+		"id_str": "1305516247275237376",
+		"full_text": "Lol https://t.co/PYxoXcWZgR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PYxoXcWZgR",
+					"expanded_url": "https://twitter.com/embersnail/status/1305239424117039105",
+					"display_url": "twitter.com/embersnail/sta…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4461,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 77933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305239424117039000,
+		"quoted_status_id_str": "1305239424117039105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PYxoXcWZgR",
+			"expanded": "https://twitter.com/embersnail/status/1305239424117039105",
+			"display": "twitter.com/embersnail/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 13 20:18:23 +0000 2020",
+			"id": 1305239424117039000,
+			"id_str": "1305239424117039105",
+			"full_text": "just came across this and laughed out loud https://t.co/DA1yZWGcRy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				42
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1305239421290078200,
+						"id_str": "1305239421290078208",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/Eh0kVpTU4AAN-UY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eh0kVpTU4AAN-UY.jpg",
+						"url": "https://t.co/DA1yZWGcRy",
+						"display_url": "pic.twitter.com/DA1yZWGcRy",
+						"expanded_url": "https://twitter.com/embersnail/status/1305239424117039105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 540,
+								"h": 373,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 373,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 373,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1305239421290078200,
+						"id_str": "1305239421290078208",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/Eh0kVpTU4AAN-UY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eh0kVpTU4AAN-UY.jpg",
+						"url": "https://t.co/DA1yZWGcRy",
+						"display_url": "pic.twitter.com/DA1yZWGcRy",
+						"expanded_url": "https://twitter.com/embersnail/status/1305239424117039105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 540,
+								"h": 373,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 373,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 373,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1085630561459138600,
+				"id_str": "1085630561459138565",
+				"name": "ember 🖖🏻🛸",
+				"screen_name": "embersnail",
+				"location": "they/them",
+				"description": "17 // 🇨🇦🏳️‍🌈 // bi // #blacktranslivesmatter ACAB // art, music, Star Trek, mcyt, and random garbage. interests are subject to change",
+				"url": "https://t.co/h4I6w5Jf9D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h4I6w5Jf9D",
+								"expanded_url": "https://emberwhale.carrd.co/",
+								"display_url": "emberwhale.carrd.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 268,
+				"friends_count": 537,
+				"listed_count": 6,
+				"created_at": "Wed Jan 16 20:11:10 +0000 2019",
+				"favourites_count": 17120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4451,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1297639221012791296/of7PA_lN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297639221012791296/of7PA_lN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085630561459138565/1591737809",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 342,
+			"favorite_count": 2081,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Lol https://t.co/PYxoXcWZgR"
+	},
+	{
 		"created_at": "Mon Sep 14 02:46:44 +0000 2020",
 		"id": 1305337153333977000,
 		"id_str": "1305337153333977090",
