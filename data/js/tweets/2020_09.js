@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 12:13:06 +0000 2020",
+		"id": 1306204463624065000,
+		"id_str": "1306204463624065024",
+		"full_text": "https://t.co/IBrQzmQpkC https://t.co/Tul3pbTxNP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IBrQzmQpkC",
+					"expanded_url": "https://twitter.com/oldhossradbourn/status/1306193975670439937",
+					"display_url": "twitter.com/oldhossradbour…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306204457320026000,
+					"id_str": "1306204457320026113",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EiCSCIqXkAE7oES.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EiCSCIqXkAE7oES.jpg",
+					"url": "https://t.co/Tul3pbTxNP",
+					"display_url": "pic.twitter.com/Tul3pbTxNP",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1306204463624065024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306204457320026000,
+					"id_str": "1306204457320026113",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EiCSCIqXkAE7oES.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EiCSCIqXkAE7oES.jpg",
+					"url": "https://t.co/Tul3pbTxNP",
+					"display_url": "pic.twitter.com/Tul3pbTxNP",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1306204463624065024/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EiCSCIqXkAE7oES.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4458,
+			"friends_count": 742,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 78050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306193975670440000,
+		"quoted_status_id_str": "1306193975670439937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IBrQzmQpkC",
+			"expanded": "https://twitter.com/oldhossradbourn/status/1306193975670439937",
+			"display": "twitter.com/oldhossradbour…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 16 11:31:26 +0000 2020",
+			"id": 1306193975670440000,
+			"id_str": "1306193975670439937",
+			"full_text": "What if we had one giant playoff consisting of 162 exciting games and the team with the most wins at the end was the victor",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48849046,
+				"id_str": "48849046",
+				"name": "Old Hoss Homebound",
+				"screen_name": "OldHossRadbourn",
+				"location": "",
+				"description": "Pitching deity; dapper gent.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 76366,
+				"friends_count": 1082,
+				"listed_count": 2566,
+				"created_at": "Fri Jun 19 22:22:06 +0000 2009",
+				"favourites_count": 7288,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20334,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247137066451943428/6DlUXX9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247137066451943428/6DlUXX9e_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 88,
+			"favorite_count": 700,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/IBrQzmQpkC https://t.co/Tul3pbTxNP"
+	},
+	{
+		"created_at": "Wed Sep 16 12:02:16 +0000 2020",
+		"id": 1306192053571858400,
+		"id_str": "1306201735413862400",
+		"full_text": "what The MERL café has:\n• teas, locally made hot chocolate, bespoke filter coffee\n• assorted cold drinks\n• biscuits, snacks, cakes\n\nwhat The MERL café doesn't have:\n• terrible velociraptors https://t.co/gHRgWrHG3J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306191113041125400,
+					"id_str": "1306191113041125377",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EiCF5ZWWoAEB5sh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiCF5ZWWoAEB5sh.jpg",
+					"url": "https://t.co/gHRgWrHG3J",
+					"display_url": "pic.twitter.com/gHRgWrHG3J",
+					"expanded_url": "https://twitter.com/TheMERL/status/1306192053571858438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306191113041125400,
+					"id_str": "1306191113041125377",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EiCF5ZWWoAEB5sh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiCF5ZWWoAEB5sh.jpg",
+					"url": "https://t.co/gHRgWrHG3J",
+					"display_url": "pic.twitter.com/gHRgWrHG3J",
+					"expanded_url": "https://twitter.com/TheMERL/status/1306192053571858438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306191132934709200,
+					"id_str": "1306191132934709249",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EiCF6jdWoAE7Lg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiCF6jdWoAE7Lg3.jpg",
+					"url": "https://t.co/gHRgWrHG3J",
+					"display_url": "pic.twitter.com/gHRgWrHG3J",
+					"expanded_url": "https://twitter.com/TheMERL/status/1306192053571858438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306191148806013000,
+					"id_str": "1306191148806012930",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EiCF7elXgAInfZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiCF7elXgAInfZE.jpg",
+					"url": "https://t.co/gHRgWrHG3J",
+					"display_url": "pic.twitter.com/gHRgWrHG3J",
+					"expanded_url": "https://twitter.com/TheMERL/status/1306192053571858438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19907840,
+			"id_str": "19907840",
+			"name": "The Museum of English Rural Life",
+			"screen_name": "TheMERL",
+			"location": "Reading, Berkshire, UK",
+			"description": "The MERL, @UniofReading. We explore the English countryside, its history and its people. Chaotic Good.\n\nReopened 8th Sept. Book your free visit on our website.",
+			"url": "https://t.co/I9v2bFDB1U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I9v2bFDB1U",
+							"expanded_url": "https://merl.reading.ac.uk/",
+							"display_url": "merl.reading.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154807,
+			"friends_count": 4413,
+			"listed_count": 1118,
+			"created_at": "Mon Feb 02 14:07:07 +0000 2009",
+			"favourites_count": 19137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119304829904523267/AAoMAoWj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119304829904523267/AAoMAoWj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19907840/1597673878",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 1467,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "what The MERL café has:\n• teas, locally made hot chocolate, bespoke filter coffee\n• assorted cold drinks\n• biscuits, snacks, cakes\n\nwhat The MERL café doesn't have:\n• terrible velociraptors https://t.co/gHRgWrHG3J"
+	},
+	{
 		"created_at": "Tue Sep 15 23:11:20 +0000 2020",
 		"id": 1306007723054690300,
 		"id_str": "1306007723054690304",
