@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 22:56:16 +0000 2020",
+		"id": 1308539022554198000,
+		"id_str": "1308540646760894464",
+		"full_text": "It's been a week since Charlie Kirk was busted for overseeing a troll farm that Facebook and Twitter said violated their policies. No actions against him yet from either platform. https://t.co/HbjPGgx44L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HbjPGgx44L",
+					"expanded_url": "https://twitter.com/kevinroose/status/1306000228437245953",
+					"display_url": "twitter.com/kevinroose/sta…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18816166,
+			"id_str": "18816166",
+			"name": "Kevin Roose",
+			"screen_name": "kevinroose",
+			"location": "Bay Area",
+			"description": "Tech columnist for the New York Times. Reporter of Rabbit Hole podcast, author of Futureproof and other books. Former Geocities webmaster.",
+			"url": "https://t.co/OvZsx2kR2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OvZsx2kR2Z",
+							"expanded_url": "http://www.kevinroose.com",
+							"display_url": "kevinroose.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118415,
+			"friends_count": 2460,
+			"listed_count": 3014,
+			"created_at": "Fri Jan 09 21:28:15 +0000 2009",
+			"favourites_count": 13738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+			"profile_link_color": "2E449C",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306000228437246000,
+		"quoted_status_id_str": "1306000228437245953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HbjPGgx44L",
+			"expanded": "https://twitter.com/kevinroose/status/1306000228437245953",
+			"display": "twitter.com/kevinroose/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 15 22:41:33 +0000 2020",
+			"id": 1306000228437246000,
+			"id_str": "1306000228437245953",
+			"full_text": "Twitter and Facebook banned everyone associated with the Russian troll farms in 2016. Will be interesting to see if they take action against Charlie Kirk for this. https://t.co/jpZjVcei9O",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jpZjVcei9O",
+						"expanded_url": "https://twitter.com/isaacstanbecker/status/1305992812840837126",
+						"display_url": "twitter.com/isaacstanbecke…",
+						"indices": [
+							164,
+							187
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18816166,
+				"id_str": "18816166",
+				"name": "Kevin Roose",
+				"screen_name": "kevinroose",
+				"location": "Bay Area",
+				"description": "Tech columnist for the New York Times. Reporter of Rabbit Hole podcast, author of Futureproof and other books. Former Geocities webmaster.",
+				"url": "https://t.co/OvZsx2kR2Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OvZsx2kR2Z",
+								"expanded_url": "http://www.kevinroose.com",
+								"display_url": "kevinroose.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 118415,
+				"friends_count": 2460,
+				"listed_count": 3014,
+				"created_at": "Fri Jan 09 21:28:15 +0000 2009",
+				"favourites_count": 13738,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 603,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+				"profile_link_color": "2E449C",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1305992812840837000,
+			"quoted_status_id_str": "1305992812840837126",
+			"quoted_status_permalink": {
+				"url": "https://t.co/jpZjVcei9O",
+				"expanded": "https://twitter.com/isaacstanbecker/status/1305992812840837126",
+				"display": "twitter.com/isaacstanbecke…"
+			},
+			"retweet_count": 288,
+			"favorite_count": 794,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1102,
+		"favorite_count": 2528,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's been a week since Charlie Kirk was busted for overseeing a troll farm that Facebook and Twitter said violated their policies. No actions against him yet from either platform. https://t.co/HbjPGgx44L"
+	},
+	{
+		"created_at": "Tue Sep 22 17:35:39 +0000 2020",
+		"id": 1308459962587328500,
+		"id_str": "1308459962587328512",
+		"full_text": "@arstechnica https://t.co/6CJxQP20zp",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arstechnica",
+					"name": "Ars Technica",
+					"id": 717313,
+					"id_str": "717313",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308459950461591600,
+					"id_str": "1308459950461591557",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EiiVZHYWoAUjG5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EiiVZHYWoAUjG5c.jpg",
+					"url": "https://t.co/6CJxQP20zp",
+					"display_url": "pic.twitter.com/6CJxQP20zp",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1308459962587328512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 674,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308459950461591600,
+					"id_str": "1308459950461591557",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EiiVZHYWoAUjG5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EiiVZHYWoAUjG5c.jpg",
+					"url": "https://t.co/6CJxQP20zp",
+					"display_url": "pic.twitter.com/6CJxQP20zp",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1308459962587328512/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 674,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							337,
+							197
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EiiVZHYWoAUjG5c.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308456441670447000,
+		"in_reply_to_status_id_str": "1308456441670447105",
+		"in_reply_to_user_id": 717313,
+		"in_reply_to_user_id_str": "717313",
+		"in_reply_to_screen_name": "arstechnica",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4456,
+			"friends_count": 742,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 78528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@arstechnica https://t.co/6CJxQP20zp"
+	},
+	{
+		"created_at": "Tue Sep 22 14:24:00 +0000 2020",
+		"id": 1308410119953277000,
+		"id_str": "1308411732822458368",
+		"full_text": "Happy #NationalVoterRegistrationDay!  \nhttps://t.co/oVX90xqW1p https://t.co/nJYdIZoKJq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NationalVoterRegistrationDay",
+					"indices": [
+						6,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oVX90xqW1p",
+					"expanded_url": "http://bit.ly/alrtv",
+					"display_url": "bit.ly/alrtv",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308409879376388000,
+					"id_str": "1308409879376388096",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/Eihn2mDXYAAdr7q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eihn2mDXYAAdr7q.jpg",
+					"url": "https://t.co/nJYdIZoKJq",
+					"display_url": "pic.twitter.com/nJYdIZoKJq",
+					"expanded_url": "https://twitter.com/alyankovic/status/1308410119953276928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308409879376388000,
+					"id_str": "1308409879376388096",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/Eihn2mDXYAAdr7q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eihn2mDXYAAdr7q.jpg",
+					"url": "https://t.co/nJYdIZoKJq",
+					"display_url": "pic.twitter.com/nJYdIZoKJq",
+					"expanded_url": "https://twitter.com/alyankovic/status/1308410119953276928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22461427,
+			"id_str": "22461427",
+			"name": "Al Yankovic",
+			"screen_name": "alyankovic",
+			"location": "Los Angeles",
+			"description": "You know... the weird one.",
+			"url": "https://t.co/AQRv276mUy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQRv276mUy",
+							"expanded_url": "http://weirdal.com",
+							"display_url": "weirdal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5085738,
+			"friends_count": 617,
+			"listed_count": 29025,
+			"created_at": "Mon Mar 02 07:00:29 +0000 2009",
+			"favourites_count": 4358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22461427/1398828117",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1081,
+		"favorite_count": 6326,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #NationalVoterRegistrationDay!  \nhttps://t.co/oVX90xqW1p https://t.co/nJYdIZoKJq"
+	},
+	{
 		"created_at": "Mon Sep 21 20:03:45 +0000 2020",
 		"id": 1308134844552097800,
 		"id_str": "1308134844552097794",
