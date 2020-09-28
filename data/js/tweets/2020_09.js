@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 15:18:55 +0000 2020",
+		"id": 1310046562853228500,
+		"id_str": "1310237489089699842",
+		"full_text": "FANS: you're alienating the people who actually like your product\nMLB: playoffs are now florps\nFans: what\nMLB: seeding goes sideways",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 312273838,
+			"id_str": "312273838",
+			"name": "Cronk is good.",
+			"screen_name": "cdgoldstein",
+			"location": "",
+			"description": "Editor-in-Chief, Baseball Prospectus | calibrated by top members of the state *and* federal Department of Weights and Measures to be dead on balls accurate",
+			"url": "https://t.co/tzSpqbvVzS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tzSpqbvVzS",
+							"expanded_url": "https://www.patreon.com/fiveanddive",
+							"display_url": "patreon.com/fiveanddive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16212,
+			"friends_count": 292,
+			"listed_count": 608,
+			"created_at": "Mon Jun 06 21:19:53 +0000 2011",
+			"favourites_count": 74754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 198356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875552691967193088/FPID8xOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875552691967193088/FPID8xOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/312273838/1596046367",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 208,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "FANS: you're alienating the people who actually like your product\nMLB: playoffs are now florps\nFans: what\nMLB: seeding goes sideways"
+	},
+	{
 		"created_at": "Sat Sep 26 22:49:05 +0000 2020",
 		"id": 1309988392806080500,
 		"id_str": "1309988392806080515",
