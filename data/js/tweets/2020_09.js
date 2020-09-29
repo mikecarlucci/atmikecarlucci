@@ -1,6 +1,1004 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 29 01:59:45 +0000 2020",
+		"id": 1310761150087344000,
+		"id_str": "1310761150087344128",
+		"full_text": "@wizardbumpin “20 black lotuses and 20 plague rats, that’s real magic”",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wizardbumpin",
+					"name": "Travis Allen",
+					"id": 34518419,
+					"id_str": "34518419",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1310679464553197600,
+		"in_reply_to_status_id_str": "1310679464553197569",
+		"in_reply_to_user_id": 34518419,
+		"in_reply_to_user_id_str": "34518419",
+		"in_reply_to_screen_name": "wizardbumpin",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4455,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 79016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wizardbumpin “20 black lotuses and 20 plague rats, that’s real magic”"
+	},
+	{
+		"created_at": "Tue Sep 29 00:52:12 +0000 2020",
+		"id": 1310744151965732900,
+		"id_str": "1310744151965732865",
+		"full_text": "@StarTrek https://t.co/tvH53uJART",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StarTrek",
+					"name": "Star Trek",
+					"id": 130491582,
+					"id_str": "130491582",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310744145443655700,
+					"id_str": "1310744145443655681",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjCy2wyXkAEptUP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjCy2wyXkAEptUP.jpg",
+					"url": "https://t.co/tvH53uJART",
+					"display_url": "pic.twitter.com/tvH53uJART",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1310744151965732865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310744145443655700,
+					"id_str": "1310744145443655681",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjCy2wyXkAEptUP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjCy2wyXkAEptUP.jpg",
+					"url": "https://t.co/tvH53uJART",
+					"display_url": "pic.twitter.com/tvH53uJART",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1310744151965732865/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 152,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							38
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EjCy2wyXkAEptUP.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1310740352035242000,
+		"in_reply_to_status_id_str": "1310740352035241985",
+		"in_reply_to_user_id": 130491582,
+		"in_reply_to_user_id_str": "130491582",
+		"in_reply_to_screen_name": "StarTrek",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4455,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 79016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@StarTrek https://t.co/tvH53uJART"
+	},
+	{
+		"created_at": "Mon Sep 28 16:36:32 +0000 2020",
+		"id": 1310619411296981000,
+		"id_str": "1310619411296980993",
+		"full_text": "Sigh https://t.co/BcHBNb0w8T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BcHBNb0w8T",
+					"expanded_url": "https://twitter.com/nxthompson/status/1310591077003464714",
+					"display_url": "twitter.com/nxthompson/sta…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4455,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 79016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1310591077003464700,
+		"quoted_status_id_str": "1310591077003464714",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BcHBNb0w8T",
+			"expanded": "https://twitter.com/nxthompson/status/1310591077003464714",
+			"display": "twitter.com/nxthompson/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 28 14:43:57 +0000 2020",
+			"id": 1310591077003464700,
+			"id_str": "1310591077003464714",
+			"full_text": "a refresher video explaining America's tax code. https://t.co/nmJXN4RySf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1310591022955745300,
+						"id_str": "1310591022955745280",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310591022955745280/pu/img/JTdcDxMfIct9qizz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310591022955745280/pu/img/JTdcDxMfIct9qizz.jpg",
+						"url": "https://t.co/nmJXN4RySf",
+						"display_url": "pic.twitter.com/nmJXN4RySf",
+						"expanded_url": "https://twitter.com/nxthompson/status/1310591077003464714/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1310591022955745300,
+						"id_str": "1310591022955745280",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310591022955745280/pu/img/JTdcDxMfIct9qizz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310591022955745280/pu/img/JTdcDxMfIct9qizz.jpg",
+						"url": "https://t.co/nmJXN4RySf",
+						"display_url": "pic.twitter.com/nmJXN4RySf",
+						"expanded_url": "https://twitter.com/nxthompson/status/1310591077003464714/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 16467,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1310591022955745280/pu/pl/U8TlOmfWETTmOEd_.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1310591022955745280/pu/vid/320x568/TBdpypWzLiYItRAe.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1310591022955745280/pu/vid/360x640/jcf2nO8MXAfUNVIg.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16892481,
+				"id_str": "16892481",
+				"name": "nxthompson",
+				"screen_name": "nxthompson",
+				"location": "New York",
+				"description": "Editor in Chief of @wired. Previously @newyorker and cofounder Atavist. Please subscribe to Wired: https://t.co/KVPacjiS0m. Story tips to nxthompson@protonmail",
+				"url": "https://t.co/W3XiTv7Ecq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W3XiTv7Ecq",
+								"expanded_url": "http://www.nickthompson.com",
+								"display_url": "nickthompson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KVPacjiS0m",
+								"expanded_url": "http://wired.com/subscribe",
+								"display_url": "wired.com/subscribe",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 121567,
+				"friends_count": 2040,
+				"listed_count": 3075,
+				"created_at": "Tue Oct 21 19:50:15 +0000 2008",
+				"favourites_count": 28408,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27796,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1258009714111078402/qs9cbOXO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258009714111078402/qs9cbOXO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16892481/1599678987",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64127,
+			"favorite_count": 256665,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sigh https://t.co/BcHBNb0w8T"
+	},
+	{
+		"created_at": "Mon Sep 28 15:11:59 +0000 2020",
+		"id": 1310598135891333000,
+		"id_str": "1310598135891333121",
+		"full_text": "@ajacksonevans https://t.co/MP1RUmfjJF",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ajacksonevans",
+					"name": "Aidan Jackson-Evans",
+					"id": 735620016,
+					"id_str": "735620016",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310598129452974000,
+					"id_str": "1310598129452974084",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjAuDg1WAAQcPX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjAuDg1WAAQcPX0.jpg",
+					"url": "https://t.co/MP1RUmfjJF",
+					"display_url": "pic.twitter.com/MP1RUmfjJF",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1310598135891333121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310598129452974000,
+					"id_str": "1310598129452974084",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjAuDg1WAAQcPX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjAuDg1WAAQcPX0.jpg",
+					"url": "https://t.co/MP1RUmfjJF",
+					"display_url": "pic.twitter.com/MP1RUmfjJF",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1310598135891333121/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EjAuDg1WAAQcPX0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1310597632356745200,
+		"in_reply_to_status_id_str": "1310597632356745216",
+		"in_reply_to_user_id": 735620016,
+		"in_reply_to_user_id_str": "735620016",
+		"in_reply_to_screen_name": "ajacksonevans",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4455,
+			"friends_count": 741,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 79016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@ajacksonevans https://t.co/MP1RUmfjJF"
+	},
+	{
+		"created_at": "Mon Sep 28 12:14:49 +0000 2020",
+		"id": 1310328509156520000,
+		"id_str": "1310553546983723015",
+		"full_text": "RT if you pay more than $750 a year in taxes. https://t.co/vRpv9FvLEj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310328492131790800,
+					"id_str": "1310328492131790849",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei840jiWsAEQPNQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ei840jiWsAEQPNQ.png",
+					"url": "https://t.co/vRpv9FvLEj",
+					"display_url": "pic.twitter.com/vRpv9FvLEj",
+					"expanded_url": "https://twitter.com/MarkHarrisNYC/status/1310328509156519936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1266,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 219,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310328492131790800,
+					"id_str": "1310328492131790849",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei840jiWsAEQPNQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ei840jiWsAEQPNQ.png",
+					"url": "https://t.co/vRpv9FvLEj",
+					"display_url": "pic.twitter.com/vRpv9FvLEj",
+					"expanded_url": "https://twitter.com/MarkHarrisNYC/status/1310328509156519936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1266,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 219,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1310327186847608800,
+		"in_reply_to_status_id_str": "1310327186847608834",
+		"in_reply_to_user_id": 372483103,
+		"in_reply_to_user_id_str": "372483103",
+		"in_reply_to_screen_name": "MarkHarrisNYC",
+		"user": {
+			"id": 372483103,
+			"id_str": "372483103",
+			"name": "Mark Harris",
+			"screen_name": "MarkHarrisNYC",
+			"location": "New York City",
+			"description": "Books: Pictures at a Revolution (08), Five Came Back (14, Netflix 17), Mike Nichols (21). Writer/columnist, @nymag/@vulture. Tweets, politics, errors my own.",
+			"url": "https://t.co/hj3cLa5Iy8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hj3cLa5Iy8",
+							"expanded_url": "https://www.amazon.com/Mark-Harris/e/B001JP8L92/ref=sr_ntt_srch_lnk_1?qid=1521680629&sr=8-1",
+							"display_url": "amazon.com/Mark-Harris/e/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116018,
+			"friends_count": 1874,
+			"listed_count": 1897,
+			"created_at": "Mon Sep 12 21:17:08 +0000 2011",
+			"favourites_count": 37681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113089252642914304/_uB2htgc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113089252642914304/_uB2htgc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372483103/1570581693",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3342,
+		"favorite_count": 3216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RT if you pay more than $750 a year in taxes. https://t.co/vRpv9FvLEj"
+	},
+	{
 		"created_at": "Sun Sep 27 15:18:55 +0000 2020",
 		"id": 1310046562853228500,
 		"id_str": "1310237489089699842",
