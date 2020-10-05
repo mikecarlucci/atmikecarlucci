@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 00:40:26 +0000 2020",
+		"id": 1312915515866837000,
+		"id_str": "1312915515866836992",
+		"full_text": "Yes yes https://t.co/dmYG3GBRn6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dmYG3GBRn6",
+					"expanded_url": "https://twitter.com/horsedivorce/status/1312574582319087623",
+					"display_url": "twitter.com/horsedivorce/s…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4455,
+			"friends_count": 747,
+			"listed_count": 45,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 79659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1312574582319087600,
+		"quoted_status_id_str": "1312574582319087623",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dmYG3GBRn6",
+			"expanded": "https://twitter.com/horsedivorce/status/1312574582319087623",
+			"display": "twitter.com/horsedivorce/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 04 02:05:41 +0000 2020",
+			"id": 1312574582319087600,
+			"id_str": "1312574582319087623",
+			"full_text": "INVENTOR OF THE AIR CONDITIONER: it’s super heavy\nME: Put in once and that’s it?\nIOTAC: no u take it out every season\nME: so there’s handles?\nIOTAC: no.\nME: oh.\nIOTAC: the back is covered in a thousand exposed razor blades",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36359192,
+				"id_str": "36359192",
+				"name": "Ebert, but spooky",
+				"screen_name": "horsedivorce",
+				"location": "NYC",
+				"description": "actor. writer. director. “Ross” from “Friends”",
+				"url": "https://t.co/EB5MGveN3z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EB5MGveN3z",
+								"expanded_url": "http://davidcharlesebert.com",
+								"display_url": "davidcharlesebert.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7977,
+				"friends_count": 1016,
+				"listed_count": 34,
+				"created_at": "Wed Apr 29 13:41:58 +0000 2009",
+				"favourites_count": 11016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8605,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155894140766478336/1NouYVZf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155894140766478336/1NouYVZf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36359192/1579367728",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2238,
+			"favorite_count": 23949,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes yes https://t.co/dmYG3GBRn6"
+	},
+	{
+		"created_at": "Sun Oct 04 01:25:12 +0000 2020",
+		"id": 1312443424444838000,
+		"id_str": "1312564395172671489",
+		"full_text": "Retweet if you haven’t stopped “hunkering down” since fucking March https://t.co/0Rx8AB1qU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Rx8AB1qU6",
+					"expanded_url": "https://twitter.com/cnbc/status/1312161501382279171",
+					"display_url": "twitter.com/cnbc/status/13…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23877481,
+			"id_str": "23877481",
+			"name": "Jenna WEAR A MASK Quigley",
+			"screen_name": "JBomb11",
+			"location": "Los Angeles, CA",
+			"description": "writer I guess, long suffering #colts fan, gamer girl and cliche cat lady ~keep it sleazy~",
+			"url": "https://t.co/c95fT2djVO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c95fT2djVO",
+							"expanded_url": "http://instagram.com/jbomb11",
+							"display_url": "instagram.com/jbomb11",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10213,
+			"friends_count": 2607,
+			"listed_count": 261,
+			"created_at": "Thu Mar 12 02:24:22 +0000 2009",
+			"favourites_count": 22758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "452A60",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856612348383055872/KZnjFHzF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856612348383055872/KZnjFHzF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23877481/1597866632",
+			"profile_link_color": "49796B",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1312161501382279200,
+		"quoted_status_id_str": "1312161501382279171",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0Rx8AB1qU6",
+			"expanded": "https://twitter.com/cnbc/status/1312161501382279171",
+			"display": "twitter.com/cnbc/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 02 22:44:15 +0000 2020",
+			"id": 1312161501382279200,
+			"id_str": "1312161501382279171",
+			"full_text": "Dr. Fauci says we should prepare to \"hunker down\" again — here's how to mentally get through fall and winter. (via @CNBCMakeIt) https://t.co/w04278jRIa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CNBCMakeIt",
+						"name": "CNBC Make It",
+						"id": 514513113,
+						"id_str": "514513113",
+						"indices": [
+							115,
+							126
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/w04278jRIa",
+						"expanded_url": "https://cnb.cx/3cQiD4B",
+						"display_url": "cnb.cx/3cQiD4B",
+						"indices": [
+							128,
+							151
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20402945,
+				"id_str": "20402945",
+				"name": "CNBC",
+				"screen_name": "CNBC",
+				"location": "Englewood Cliffs, NJ",
+				"description": "First in business worldwide. Don't miss our new nightly newscast, The News with Shepard Smith weeknights at 7 p.m. ET. Follow @thenewsoncnbc for more.",
+				"url": "https://t.co/fdcFKDtOzb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fdcFKDtOzb",
+								"expanded_url": "https://www.cnbc.com/",
+								"display_url": "cnbc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3776924,
+				"friends_count": 828,
+				"listed_count": 31395,
+				"created_at": "Mon Feb 09 00:03:41 +0000 2009",
+				"favourites_count": 613,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 382556,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D181F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20402945/1601472397",
+				"profile_link_color": "2D648A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EAEBEA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1242,
+			"favorite_count": 2760,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 53604,
+		"favorite_count": 155478,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retweet if you haven’t stopped “hunkering down” since fucking March https://t.co/0Rx8AB1qU6"
+	},
+	{
 		"created_at": "Fri Oct 02 19:47:12 +0000 2020",
 		"id": 1312116946997923800,
 		"id_str": "1312116946997923840",
