@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 31 03:08:35 +0000 2020",
+		"id": 1322369590077329400,
+		"id_str": "1322374885918859265",
+		"full_text": "“remember to like and subscribe and sound off in the comments, fam” https://t.co/iSGWronLeU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322369586927489000,
+					"id_str": "1322369586927489030",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EloAIhKX0AYjJ2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EloAIhKX0AYjJ2M.jpg",
+					"url": "https://t.co/iSGWronLeU",
+					"display_url": "pic.twitter.com/iSGWronLeU",
+					"expanded_url": "https://twitter.com/ditzkoff/status/1322369590077329408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1560,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322369586927489000,
+					"id_str": "1322369586927489030",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EloAIhKX0AYjJ2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EloAIhKX0AYjJ2M.jpg",
+					"url": "https://t.co/iSGWronLeU",
+					"display_url": "pic.twitter.com/iSGWronLeU",
+					"expanded_url": "https://twitter.com/ditzkoff/status/1322369590077329408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1560,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1322369222253707300,
+		"in_reply_to_status_id_str": "1322369222253707265",
+		"in_reply_to_user_id": 81482674,
+		"in_reply_to_user_id_str": "81482674",
+		"in_reply_to_screen_name": "ditzkoff",
+		"user": {
+			"id": 81482674,
+			"id_str": "81482674",
+			"name": "Dave Itzkoff",
+			"screen_name": "ditzkoff",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/p5CSs3Rvot",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p5CSs3Rvot",
+							"expanded_url": "https://static.macmillan.com/static/holt/robin/",
+							"display_url": "static.macmillan.com/static/holt/ro…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238572,
+			"friends_count": 900,
+			"listed_count": 2816,
+			"created_at": "Sun Oct 11 01:11:07 +0000 2009",
+			"favourites_count": 215965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268281557321687040/KXhU3D88_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268281557321687040/KXhU3D88_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81482674/1600039849",
+			"profile_link_color": "E37826",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 239,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“remember to like and subscribe and sound off in the comments, fam” https://t.co/iSGWronLeU"
+	},
+	{
 		"created_at": "Thu Oct 29 22:33:20 +0000 2020",
 		"id": 1321943228757778400,
 		"id_str": "1321943228757778432",
