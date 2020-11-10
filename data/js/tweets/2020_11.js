@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 16:23:59 +0000 2020",
+		"id": 1325836542762492000,
+		"id_str": "1325836542762491905",
+		"full_text": "https://t.co/2LAroVeDBe https://t.co/98clUsuvKn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2LAroVeDBe",
+					"expanded_url": "https://twitter.com/realpunknews/status/1325664729621258241",
+					"display_url": "twitter.com/realpunknews/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325836536886202400,
+					"id_str": "1325836536886202370",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmZRTkNWEAI7oRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmZRTkNWEAI7oRm.jpg",
+					"url": "https://t.co/98clUsuvKn",
+					"display_url": "pic.twitter.com/98clUsuvKn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1325836542762491905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325836536886202400,
+					"id_str": "1325836536886202370",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmZRTkNWEAI7oRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmZRTkNWEAI7oRm.jpg",
+					"url": "https://t.co/98clUsuvKn",
+					"display_url": "pic.twitter.com/98clUsuvKn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1325836542762491905/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							36
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EmZRTkNWEAI7oRm.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4449,
+			"friends_count": 758,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 84043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325664729621258200,
+		"quoted_status_id_str": "1325664729621258241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2LAroVeDBe",
+			"expanded": "https://twitter.com/realpunknews/status/1325664729621258241",
+			"display": "twitter.com/realpunknews/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 09 05:01:15 +0000 2020",
+			"id": 1325664729621258200,
+			"id_str": "1325664729621258241",
+			"full_text": "Poser Used Book Dealer Doesn’t Even Have Old Sumerian Texts That Open Gate to Hell https://t.co/RfV2PgiDZ3 https://t.co/oVns4Leeeq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RfV2PgiDZ3",
+						"expanded_url": "https://l8r.it/gtkv",
+						"display_url": "l8r.it/gtkv",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1325664560909590500,
+						"id_str": "1325664560909590528",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/EmW05PxXIAAXvmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmW05PxXIAAXvmV.jpg",
+						"url": "https://t.co/oVns4Leeeq",
+						"display_url": "pic.twitter.com/oVns4Leeeq",
+						"expanded_url": "https://twitter.com/REALpunknews/status/1325664729621258241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1652,
+								"h": 880,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1325664560909590500,
+						"id_str": "1325664560909590528",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/EmW05PxXIAAXvmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmW05PxXIAAXvmV.jpg",
+						"url": "https://t.co/oVns4Leeeq",
+						"display_url": "pic.twitter.com/oVns4Leeeq",
+						"expanded_url": "https://twitter.com/REALpunknews/status/1325664729621258241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1652,
+								"h": 880,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2925441313,
+				"id_str": "2925441313",
+				"name": "The Hard Times",
+				"screen_name": "REALpunknews",
+				"location": "",
+				"description": "Real punk news, comin’ your way!",
+				"url": "https://t.co/V40FHMSyhm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V40FHMSyhm",
+								"expanded_url": "https://coil.com/comedy?ref=TheHardTimes",
+								"display_url": "coil.com/comedy?ref=The…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 100126,
+				"friends_count": 641,
+				"listed_count": 375,
+				"created_at": "Wed Dec 10 08:58:50 +0000 2014",
+				"favourites_count": 53238,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155255609127657472/JtCuxwpz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155255609127657472/JtCuxwpz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2925441313/1494280628",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 261,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/2LAroVeDBe https://t.co/98clUsuvKn"
+	},
+	{
 		"created_at": "Sun Nov 08 17:58:18 +0000 2020",
 		"id": 1325496661259513900,
 		"id_str": "1325497890467360768",
