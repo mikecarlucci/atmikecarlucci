@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 00:58:54 +0000 2020",
+		"id": 1326306918449766400,
+		"id_str": "1326328514954530816",
+		"full_text": "Congratulations to Don Mattingly for becoming the second member of the Springfield Nuclear Power Plant softball team to win Manager of the Year. Mike Scioscia won the AL award in 2002. https://t.co/BbRb4wJuHm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326306915111067600,
+					"id_str": "1326306915111067648",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Emf9HLpW4AAbCIx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emf9HLpW4AAbCIx.jpg",
+					"url": "https://t.co/BbRb4wJuHm",
+					"display_url": "pic.twitter.com/BbRb4wJuHm",
+					"expanded_url": "https://twitter.com/JMcGuireMLB/status/1326306918449766405/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 527,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 527,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326306915111067600,
+					"id_str": "1326306915111067648",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Emf9HLpW4AAbCIx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emf9HLpW4AAbCIx.jpg",
+					"url": "https://t.co/BbRb4wJuHm",
+					"display_url": "pic.twitter.com/BbRb4wJuHm",
+					"expanded_url": "https://twitter.com/JMcGuireMLB/status/1326306918449766405/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 527,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 527,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47104766,
+			"id_str": "47104766",
+			"name": "Justin McGuire",
+			"screen_name": "JMcGuireMLB",
+			"location": "Hendersonville, NC",
+			"description": "Host, @baseballbookpod / Ex-MLB Editor for Sporting News / https://t.co/rjT3nPh8Tf",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rjT3nPh8Tf",
+							"expanded_url": "https://www.patreon.com/baseballbythebook?fan_landing=true",
+							"display_url": "patreon.com/baseballbytheb…",
+							"indices": [
+								59,
+								82
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4105,
+			"friends_count": 3361,
+			"listed_count": 190,
+			"created_at": "Sun Jun 14 14:55:29 +0000 2009",
+			"favourites_count": 11320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324174417447014401/hhk_Aa-T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324174417447014401/hhk_Aa-T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47104766/1448476696",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 1159,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to Don Mattingly for becoming the second member of the Springfield Nuclear Power Plant softball team to win Manager of the Year. Mike Scioscia won the AL award in 2002. https://t.co/BbRb4wJuHm"
+	},
+	{
+		"created_at": "Tue Nov 10 16:31:28 +0000 2020",
+		"id": 1326200814159999000,
+		"id_str": "1326200814159998981",
+		"full_text": "@Cardboard_Crack Gerrard fighting Urza.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cardboard_Crack",
+					"name": "Cardboard Crack",
+					"id": 1341236856,
+					"id_str": "1341236856",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1326199438537191400,
+		"in_reply_to_status_id_str": "1326199438537191426",
+		"in_reply_to_user_id": 1341236856,
+		"in_reply_to_user_id_str": "1341236856",
+		"in_reply_to_screen_name": "Cardboard_Crack",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4449,
+			"friends_count": 758,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 84198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Cardboard_Crack Gerrard fighting Urza."
+	},
+	{
 		"created_at": "Mon Nov 09 16:23:59 +0000 2020",
 		"id": 1325836542762492000,
 		"id_str": "1325836542762491905",
