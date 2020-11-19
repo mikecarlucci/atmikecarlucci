@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 16:33:48 +0000 2020",
+		"id": 1329098469496090600,
+		"id_str": "1329100504304070661",
+		"full_text": "Oh no, not my calculator too!!! https://t.co/z7peo2tCpk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1329098100602880000,
+					"id_str": "1329098100602880000",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EnHnrj4UwAAd5kT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnHnrj4UwAAd5kT.jpg",
+					"url": "https://t.co/z7peo2tCpk",
+					"display_url": "pic.twitter.com/z7peo2tCpk",
+					"expanded_url": "https://twitter.com/djbaskin/status/1329098469496090624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329098100602880000,
+					"id_str": "1329098100602880000",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EnHnrj4UwAAd5kT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnHnrj4UwAAd5kT.jpg",
+					"url": "https://t.co/z7peo2tCpk",
+					"display_url": "pic.twitter.com/z7peo2tCpk",
+					"expanded_url": "https://twitter.com/djbaskin/status/1329098469496090624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55662470,
+			"id_str": "55662470",
+			"name": "Danielle Baskin",
+			"screen_name": "djbaskin",
+			"location": "San Francisco, CA",
+			"description": "Co-creator of @dialup. Prints faces on masks @selfiemasks. Phone operator. Painter. Tarot reader. URL undertaker. Join our voice-chat app ✨💾➡️ https://t.co/PhVOrkzZ98",
+			"url": "https://t.co/Gq1wzsEtwd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Gq1wzsEtwd",
+							"expanded_url": "https://www.daniellebaskin.com",
+							"display_url": "daniellebaskin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PhVOrkzZ98",
+							"expanded_url": "http://dialup.com",
+							"display_url": "dialup.com",
+							"indices": [
+								143,
+								166
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12461,
+			"friends_count": 788,
+			"listed_count": 168,
+			"created_at": "Fri Jul 10 21:00:48 +0000 2009",
+			"favourites_count": 7503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "292929",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292039027705577472/BiIMhH84_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292039027705577472/BiIMhH84_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55662470/1594111595",
+			"profile_link_color": "DEB100",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "00C414",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2683,
+		"favorite_count": 18796,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh no, not my calculator too!!! https://t.co/z7peo2tCpk"
+	},
+	{
 		"created_at": "Tue Nov 17 20:06:20 +0000 2020",
 		"id": 1328791603037827000,
 		"id_str": "1328791603037827073",
