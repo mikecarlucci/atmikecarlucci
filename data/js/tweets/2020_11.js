@@ -1,6 +1,913 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 22:47:40 +0000 2020",
+		"id": 1331731308595327000,
+		"id_str": "1331731308595326981",
+		"full_text": "And @MissouriMTG did it again with the grab bag goodies 😀 https://t.co/izd0ogTBzP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MissouriMTG",
+					"name": "Jeremy",
+					"id": 912802064,
+					"id_str": "912802064",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331731302471577600,
+					"id_str": "1331731302471577602",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EntCkFQWMAIyHUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EntCkFQWMAIyHUe.jpg",
+					"url": "https://t.co/izd0ogTBzP",
+					"display_url": "pic.twitter.com/izd0ogTBzP",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1331731308595326981/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331731302471577600,
+					"id_str": "1331731302471577602",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EntCkFQWMAIyHUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EntCkFQWMAIyHUe.jpg",
+					"url": "https://t.co/izd0ogTBzP",
+					"display_url": "pic.twitter.com/izd0ogTBzP",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1331731308595326981/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4445,
+			"friends_count": 757,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 85655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And @MissouriMTG did it again with the grab bag goodies 😀 https://t.co/izd0ogTBzP"
+	},
+	{
+		"created_at": "Wed Nov 25 13:13:09 +0000 2020",
+		"id": 1331586723227299800,
+		"id_str": "1331586723227299841",
+		"full_text": "@alex_segura @starwars https://t.co/5Ti6adIjJj",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_segura",
+					"name": "Alex Segura",
+					"id": 18087961,
+					"id_str": "18087961",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "starwars",
+					"name": "Star Wars",
+					"id": 20106852,
+					"id_str": "20106852",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331586716596117500,
+					"id_str": "1331586716596117504",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Enq_EE5XIAA3C2_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Enq_EE5XIAA3C2_.jpg",
+					"url": "https://t.co/5Ti6adIjJj",
+					"display_url": "pic.twitter.com/5Ti6adIjJj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1331586723227299841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 212,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331586716596117500,
+					"id_str": "1331586716596117504",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Enq_EE5XIAA3C2_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Enq_EE5XIAA3C2_.jpg",
+					"url": "https://t.co/5Ti6adIjJj",
+					"display_url": "pic.twitter.com/5Ti6adIjJj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1331586723227299841/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 212,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							53
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Enq_EE5XIAA3C2_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1331313010951008300,
+		"in_reply_to_status_id_str": "1331313010951008258",
+		"in_reply_to_user_id": 18087961,
+		"in_reply_to_user_id_str": "18087961",
+		"in_reply_to_screen_name": "alex_segura",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4445,
+			"friends_count": 757,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 85655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@alex_segura @starwars https://t.co/5Ti6adIjJj"
+	},
+	{
+		"created_at": "Wed Nov 25 13:10:52 +0000 2020",
+		"id": 1331516741969703000,
+		"id_str": "1331586151866650627",
+		"full_text": "In the @OxLanguages Words of an Unprecedented Year report, we capture how English in different regions has adapted to reflect global circumstances https://t.co/KUvIvfDOMA\n\n#WOTY #WOTY2020 https://t.co/OG7HmqnNjs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOTY",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "WOTY2020",
+					"indices": [
+						178,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OxLanguages",
+					"name": "Oxford Languages",
+					"id": 249150179,
+					"id_str": "249150179",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KUvIvfDOMA",
+					"expanded_url": "http://ow.ly/81nV50CttCZ",
+					"display_url": "ow.ly/81nV50CttCZ",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331516740698841000,
+					"id_str": "1331516740698841090",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Enp_a8XXIAIcHZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Enp_a8XXIAIcHZ1.jpg",
+					"url": "https://t.co/OG7HmqnNjs",
+					"display_url": "pic.twitter.com/OG7HmqnNjs",
+					"expanded_url": "https://twitter.com/OxUniPress/status/1331516741969702912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 765,
+							"h": 275,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 765,
+							"h": 275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331516740698841000,
+					"id_str": "1331516740698841090",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Enp_a8XXIAIcHZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Enp_a8XXIAIcHZ1.jpg",
+					"url": "https://t.co/OG7HmqnNjs",
+					"display_url": "pic.twitter.com/OG7HmqnNjs",
+					"expanded_url": "https://twitter.com/OxUniPress/status/1331516741969702912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 765,
+							"h": 275,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 765,
+							"h": 275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4156957588,
+			"id_str": "4156957588",
+			"name": "Oxford Uni Press",
+			"screen_name": "OxUniPress",
+			"location": "Oxford, England",
+			"description": "Global account for Oxford University Press, the largest University Press in the world. We employ more than 6,000 people & sell resources in over 200 countries.",
+			"url": "https://t.co/LgfgDICK2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LgfgDICK2O",
+							"expanded_url": "http://www.oup.com",
+							"display_url": "oup.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16199,
+			"friends_count": 1192,
+			"listed_count": 255,
+			"created_at": "Tue Nov 10 14:05:59 +0000 2015",
+			"favourites_count": 2757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885170896612315136/-pSQJaKg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885170896612315136/-pSQJaKg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4156957588/1500371806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 61,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the @OxLanguages Words of an Unprecedented Year report, we capture how English in different regions has adapted to reflect global circumstances https://t.co/KUvIvfDOMA\n\n#WOTY #WOTY2020 https://t.co/OG7HmqnNjs"
+	},
+	{
+		"created_at": "Wed Nov 25 13:09:08 +0000 2020",
+		"id": 1331585712270028800,
+		"id_str": "1331585712270028810",
+		"full_text": "@OED With greeters! https://t.co/MbExz6HdiY",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OED",
+					"name": "The OED",
+					"id": 126002546,
+					"id_str": "126002546",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331585701947830300,
+					"id_str": "1331585701947830273",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Enq-JBCW8AEA1hJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Enq-JBCW8AEA1hJ.jpg",
+					"url": "https://t.co/MbExz6HdiY",
+					"display_url": "pic.twitter.com/MbExz6HdiY",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1331585712270028810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331585701947830300,
+					"id_str": "1331585701947830273",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Enq-JBCW8AEA1hJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Enq-JBCW8AEA1hJ.jpg",
+					"url": "https://t.co/MbExz6HdiY",
+					"display_url": "pic.twitter.com/MbExz6HdiY",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1331585712270028810/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Enq-JBCW8AEA1hJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1331553229314826200,
+		"in_reply_to_status_id_str": "1331553229314826240",
+		"in_reply_to_user_id": 126002546,
+		"in_reply_to_user_id_str": "126002546",
+		"in_reply_to_screen_name": "OED",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4445,
+			"friends_count": 757,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 85655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OED With greeters! https://t.co/MbExz6HdiY"
+	},
+	{
+		"created_at": "Wed Nov 25 04:04:50 +0000 2020",
+		"id": 1331448737114296300,
+		"id_str": "1331448737114296321",
+		"full_text": "@DannyVietti Craig Hansen",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DannyVietti",
+					"name": "Danny Vietti",
+					"id": 721054938055331800,
+					"id_str": "721054938055331840",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1331438898417782800,
+		"in_reply_to_status_id_str": "1331438898417782786",
+		"in_reply_to_user_id": 721054938055331800,
+		"in_reply_to_user_id_str": "721054938055331840",
+		"in_reply_to_screen_name": "DannyVietti",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4445,
+			"friends_count": 757,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 85655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DannyVietti Craig Hansen"
+	},
+	{
 		"created_at": "Tue Nov 24 23:36:47 +0000 2020",
 		"id": 1331381277354832000,
 		"id_str": "1331381277354831879",
