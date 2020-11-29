@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 28 20:07:43 +0000 2020",
+		"id": 1332778218420580400,
+		"id_str": "1332778218420580357",
+		"full_text": "@TolarianCollege I feel like no matter how casual a game is lands that enter tapped just end up being a bad time. Which is too bad.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TolarianCollege",
+					"name": "Tolarian Community College",
+					"id": 2442432306,
+					"id_str": "2442432306",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1332775283707953200,
+		"in_reply_to_status_id_str": "1332775283707953152",
+		"in_reply_to_user_id": 2442432306,
+		"in_reply_to_user_id_str": "2442432306",
+		"in_reply_to_screen_name": "TolarianCollege",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4442,
+			"friends_count": 757,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 85796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TolarianCollege I feel like no matter how casual a game is lands that enter tapped just end up being a bad time. Which is too bad."
+	},
+	{
+		"created_at": "Sat Nov 28 18:20:20 +0000 2020",
+		"id": 1331805170678648800,
+		"id_str": "1332751193941159941",
+		"full_text": "I have no idea who this is, but it made me lol a little. Literally. Worth your 8 seconds. https://t.co/LQmg5rrKK1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LQmg5rrKK1",
+					"expanded_url": "https://twitter.com/wblau/status/1331356602851614726",
+					"display_url": "twitter.com/wblau/status/1…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16688474,
+			"id_str": "16688474",
+			"name": "Stacey Pensgen",
+			"screen_name": "WHEC_SPensgen",
+			"location": "Rochester, NY",
+			"description": "Meteorologist (CBM), Rochester, NY. Weather nerd. Former figure skater. Animal lover. WNY sports fan. Born & raised in Fairport.",
+			"url": "https://t.co/mpP984QJNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mpP984QJNB",
+							"expanded_url": "http://www.whec.com",
+							"display_url": "whec.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13829,
+			"friends_count": 1033,
+			"listed_count": 212,
+			"created_at": "Fri Oct 10 20:14:23 +0000 2008",
+			"favourites_count": 11449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0963AD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159146426548596736/tFRbbHOc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159146426548596736/tFRbbHOc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16688474/1596072389",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1331356602851614700,
+		"quoted_status_id_str": "1331356602851614726",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LQmg5rrKK1",
+			"expanded": "https://twitter.com/wblau/status/1331356602851614726",
+			"display": "twitter.com/wblau/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 24 21:58:44 +0000 2020",
+			"id": 1331356602851614700,
+			"id_str": "1331356602851614726",
+			"full_text": "https://t.co/J5guOWQ9lF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1331309594837217300,
+						"id_str": "1331309594837217281",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1331309594837217281/pu/img/FvSWBHdraIGiBrAL.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1331309594837217281/pu/img/FvSWBHdraIGiBrAL.jpg",
+						"url": "https://t.co/J5guOWQ9lF",
+						"display_url": "pic.twitter.com/J5guOWQ9lF",
+						"expanded_url": "https://twitter.com/BestVideosBest/status/1331309639405875203/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 576,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 576,
+								"h": 506,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1331309639405875200,
+						"source_status_id_str": "1331309639405875203",
+						"source_user_id": 888828003224039400,
+						"source_user_id_str": "888828003224039424"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1331309594837217300,
+						"id_str": "1331309594837217281",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1331309594837217281/pu/img/FvSWBHdraIGiBrAL.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1331309594837217281/pu/img/FvSWBHdraIGiBrAL.jpg",
+						"url": "https://t.co/J5guOWQ9lF",
+						"display_url": "pic.twitter.com/J5guOWQ9lF",
+						"expanded_url": "https://twitter.com/BestVideosBest/status/1331309639405875203/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 576,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 576,
+								"h": 506,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1331309639405875200,
+						"source_status_id_str": "1331309639405875203",
+						"source_user_id": 888828003224039400,
+						"source_user_id_str": "888828003224039424",
+						"video_info": {
+							"aspect_ratio": [
+								288,
+								253
+							],
+							"duration_millis": 7900,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1331309594837217281/pu/pl/dYurxs2O2SZB8B1m.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1331309594837217281/pu/vid/306x270/7ylBsKCHJbXikY4E.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1331309594837217281/pu/vid/408x360/_7wxGcJCynjfz9ZZ.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1331309594837217281/pu/vid/576x506/1Xzg-dWmW9WCLL4y.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 888828003224039400,
+								"id_str": "888828003224039424",
+								"name": "The Best",
+								"screen_name": "BestVideosBest",
+								"location": "",
+								"description": "Female, Teacher. Follow me for the best videos old and new... I love animals, books, coffee, cookies.         #TheFigen",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 55416,
+								"friends_count": 0,
+								"listed_count": 299,
+								"created_at": "Sat Jul 22 18:28:04 +0000 2017",
+								"favourites_count": 56,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 582,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1293988829205061634/hYJyjpxo_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293988829205061634/hYJyjpxo_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/888828003224039424/1596591667",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15129265,
+				"id_str": "15129265",
+				"name": "Wolfgang Blau",
+				"screen_name": "wblau",
+				"location": "London / New York",
+				"description": "Researching climate journalism. \nAffiliations: Ellen MacArthur Foundation, Trustee Director / Reuters Institute at Oxford University, Advisory Board.",
+				"url": "https://t.co/TEeyHLBMB7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TEeyHLBMB7",
+								"expanded_url": "https://www.linkedin.com/in/wolfgang-blau-68726244/",
+								"display_url": "linkedin.com/in/wolfgang-bl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51771,
+				"friends_count": 5079,
+				"listed_count": 1671,
+				"created_at": "Mon Jun 16 00:30:56 +0000 2008",
+				"favourites_count": 36283,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25943,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "391BC8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1195501384482852865/0HviCWNm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195501384482852865/0HviCWNm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15129265/1573910576",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3781,
+			"favorite_count": 20403,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 51,
+		"favorite_count": 494,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have no idea who this is, but it made me lol a little. Literally. Worth your 8 seconds. https://t.co/LQmg5rrKK1"
+	},
+	{
 		"created_at": "Fri Nov 27 22:22:48 +0000 2020",
 		"id": 1332449824164163600,
 		"id_str": "1332449824164163585",
@@ -143,7 +622,7 @@ Grailbird.data.tweets_2020_11 =
 				"name": "Nicole",
 				"screen_name": "NicoleEvelyn",
 				"location": "New Hampshire, USA",
-				"description": "🏳️‍🌈I like things and sometimes I make things too. Coffee drinker, law student. she/her || all opinions are my own",
+				"description": "🏳️🌈I like things and sometimes I make things too. Coffee drinker, law student. she/her || all opinions are my own",
 				"url": null,
 				"entities": {
 					"description": {
