@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 00:37:34 +0000 2020",
+		"id": 1336832392850501600,
+		"id_str": "1336832392850501638",
+		"full_text": "@AltersAlk @keab42 @TolarianCollege Still good for second best Argyle though https://t.co/XjCzZNYvpJ",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AltersAlk",
+					"name": "ALK Alters",
+					"id": 1101889322620473300,
+					"id_str": "1101889322620473344",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "keab42",
+					"name": "May-ry Christmas 🏳️‍🌈🏳‍⚧",
+					"id": 91564823,
+					"id_str": "91564823",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "TolarianCollege",
+					"name": "Tolarian Community College",
+					"id": 2442432306,
+					"id_str": "2442432306",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336832378770231300,
+					"id_str": "1336832378770231300",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eo1h9zTXEAQsZPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eo1h9zTXEAQsZPY.jpg",
+					"url": "https://t.co/XjCzZNYvpJ",
+					"display_url": "pic.twitter.com/XjCzZNYvpJ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1336832392850501638/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 528,
+							"h": 298,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 528,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336832378770231300,
+					"id_str": "1336832378770231300",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eo1h9zTXEAQsZPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eo1h9zTXEAQsZPY.jpg",
+					"url": "https://t.co/XjCzZNYvpJ",
+					"display_url": "pic.twitter.com/XjCzZNYvpJ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1336832392850501638/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 528,
+							"h": 298,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 528,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							264,
+							149
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eo1h9zTXEAQsZPY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1336787580592025600,
+		"in_reply_to_status_id_str": "1336787580592025605",
+		"in_reply_to_user_id": 1101889322620473300,
+		"in_reply_to_user_id_str": "1101889322620473344",
+		"in_reply_to_screen_name": "AltersAlk",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4441,
+			"friends_count": 754,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 86351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AltersAlk @keab42 @TolarianCollege Still good for second best Argyle though https://t.co/XjCzZNYvpJ"
+	},
+	{
+		"created_at": "Wed Dec 09 19:32:15 +0000 2020",
+		"id": 1336755557773009000,
+		"id_str": "1336755557773008896",
+		"full_text": "Marley and Marley...ooooooo https://t.co/1qNoFfHcjj https://t.co/osUhD9NLu5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1qNoFfHcjj",
+					"expanded_url": "https://twitter.com/jimmfelton/status/1208359591127527425",
+					"display_url": "twitter.com/jimmfelton/sta…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336755552131698700,
+					"id_str": "1336755552131698690",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eo0cF5xXUAItNqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eo0cF5xXUAItNqu.jpg",
+					"url": "https://t.co/osUhD9NLu5",
+					"display_url": "pic.twitter.com/osUhD9NLu5",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1336755557773008896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336755552131698700,
+					"id_str": "1336755552131698690",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eo0cF5xXUAItNqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eo0cF5xXUAItNqu.jpg",
+					"url": "https://t.co/osUhD9NLu5",
+					"display_url": "pic.twitter.com/osUhD9NLu5",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1336755557773008896/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							134
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eo0cF5xXUAItNqu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4441,
+			"friends_count": 754,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 86351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208359591127527400,
+		"quoted_status_id_str": "1208359591127527425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1qNoFfHcjj",
+			"expanded": "https://twitter.com/jimmfelton/status/1208359591127527425",
+			"display": "twitter.com/jimmfelton/sta…"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marley and Marley...ooooooo https://t.co/1qNoFfHcjj https://t.co/osUhD9NLu5"
+	},
+	{
+		"created_at": "Wed Dec 09 15:54:14 +0000 2020",
+		"id": 1336700692745121800,
+		"id_str": "1336700692745121793",
+		"full_text": "That sweater is 💯 https://t.co/7OrJCtULVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7OrJCtULVN",
+					"expanded_url": "https://twitter.com/portlandseadogs/status/1336700366768001024",
+					"display_url": "twitter.com/portlandseadog…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org\n📷mikegcarlucci",
+			"url": "https://t.co/AvA6PiVYL1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AvA6PiVYL1",
+							"expanded_url": "https://www.sbnation.com/users/mikecarlucci/",
+							"display_url": "sbnation.com/users/mikecarl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4441,
+			"friends_count": 754,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 86351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336700366768001000,
+		"quoted_status_id_str": "1336700366768001024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7OrJCtULVN",
+			"expanded": "https://twitter.com/portlandseadogs/status/1336700366768001024",
+			"display": "twitter.com/portlandseadog…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 09 15:52:56 +0000 2020",
+			"id": 1336700366768001000,
+			"id_str": "1336700366768001024",
+			"full_text": "A special #wallpaperwednesday for the holiday season from @Slugger_SeaDog https://t.co/VgibILdvuC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wallpaperwednesday",
+						"indices": [
+							10,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Slugger_SeaDog",
+						"name": "Slugger The Sea Dog",
+						"id": 1074489692,
+						"id_str": "1074489692",
+						"indices": [
+							58,
+							73
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1336696230596972500,
+						"id_str": "1336696230596972545",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/EozmI71WEAEETwh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EozmI71WEAEETwh.jpg",
+						"url": "https://t.co/VgibILdvuC",
+						"display_url": "pic.twitter.com/VgibILdvuC",
+						"expanded_url": "https://twitter.com/PortlandSeaDogs/status/1336700366768001024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1336696230596972500,
+						"id_str": "1336696230596972545",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/EozmI71WEAEETwh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EozmI71WEAEETwh.jpg",
+						"url": "https://t.co/VgibILdvuC",
+						"display_url": "pic.twitter.com/VgibILdvuC",
+						"expanded_url": "https://twitter.com/PortlandSeaDogs/status/1336700366768001024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1336696473254289400,
+						"id_str": "1336696473254289408",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/EozmXDzW4AAM60h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EozmXDzW4AAM60h.jpg",
+						"url": "https://t.co/VgibILdvuC",
+						"display_url": "pic.twitter.com/VgibILdvuC",
+						"expanded_url": "https://twitter.com/PortlandSeaDogs/status/1336700366768001024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1336696473350795300,
+						"id_str": "1336696473350795270",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/EozmXEKXcAYO1St.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EozmXEKXcAYO1St.jpg",
+						"url": "https://t.co/VgibILdvuC",
+						"display_url": "pic.twitter.com/VgibILdvuC",
+						"expanded_url": "https://twitter.com/PortlandSeaDogs/status/1336700366768001024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1336696473413673000,
+						"id_str": "1336696473413672962",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/EozmXEZW4AIuWt6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EozmXEZW4AIuWt6.jpg",
+						"url": "https://t.co/VgibILdvuC",
+						"display_url": "pic.twitter.com/VgibILdvuC",
+						"expanded_url": "https://twitter.com/PortlandSeaDogs/status/1336700366768001024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23637985,
+				"id_str": "23637985",
+				"name": "Portland Sea Dogs",
+				"screen_name": "PortlandSeaDogs",
+				"location": "Portland, Maine",
+				"description": "Official Twitter account of the Portland Sea Dogs, the Double-A Affiliate of the Boston Red Sox.",
+				"url": "https://t.co/zriwUqDGTL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zriwUqDGTL",
+								"expanded_url": "http://www.seadogs.com",
+								"display_url": "seadogs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43768,
+				"friends_count": 1374,
+				"listed_count": 616,
+				"created_at": "Tue Mar 10 19:29:27 +0000 2009",
+				"favourites_count": 2779,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30675,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323276517028352001/UMqzDMxI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323276517028352001/UMqzDMxI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23637985/1437786561",
+				"profile_link_color": "060245",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That sweater is 💯 https://t.co/7OrJCtULVN"
+	},
+	{
 		"created_at": "Tue Dec 08 19:20:28 +0000 2020",
 		"id": 1336390204974899200,
 		"id_str": "1336390204974899202",
