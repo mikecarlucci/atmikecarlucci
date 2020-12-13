@@ -1,6 +1,842 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 23:22:32 +0000 2020",
+		"id": 1337895352817635300,
+		"id_str": "1337900676358266880",
+		"full_text": "New Mets GM Jared Porter once signed a future big leaguer (Daniel Nava) for $1.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41120758,
+			"id_str": "41120758",
+			"name": "JJ Cooper",
+			"screen_name": "jjcoop36",
+			"location": "Durham, NC",
+			"description": "Executive Editor for Baseball America. Lots and lots of baseball. RTs are not necessarily endorsements. Radio/TV: Contact me at jjcooper(at) https://t.co/Sl2kj9FxRX",
+			"url": "https://t.co/RXl3a57klg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RXl3a57klg",
+							"expanded_url": "http://www.baseballamerica.com",
+							"display_url": "baseballamerica.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Sl2kj9FxRX",
+							"expanded_url": "http://baseballamerica.com",
+							"display_url": "baseballamerica.com",
+							"indices": [
+								141,
+								164
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44576,
+			"friends_count": 3352,
+			"listed_count": 1251,
+			"created_at": "Tue May 19 14:01:48 +0000 2009",
+			"favourites_count": 1423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 50066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/806967728426930176/EYtxEQ5-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/806967728426930176/EYtxEQ5-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41120758/1445965356",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 50,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "New Mets GM Jared Porter once signed a future big leaguer (Daniel Nava) for $1."
+	},
+	{
+		"created_at": "Sat Dec 12 21:17:32 +0000 2020",
+		"id": 1337864944662892500,
+		"id_str": "1337869218734350336",
+		"full_text": "Merriam-Webster truly defines the genre of subtweeting. https://t.co/QhbclCFKhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QhbclCFKhy",
+					"expanded_url": "https://twitter.com/merriamwebster/status/1337841415116763138",
+					"display_url": "twitter.com/merriamwebster…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23117374,
+			"id_str": "23117374",
+			"name": "Ryan Calo",
+			"screen_name": "rcalo",
+			"location": "Seattle",
+			"description": "Prof. @UWSchoolofLaw @UW_iSchool @UWCSE | Co-Founder @TechPolicyLab @UWCIP | Affiliated @StanfordCIS @YaleISP @RSI @AINowInstitute @CenDemTech @EFF @EPICprivacy",
+			"url": "https://t.co/n3ilQhVk4I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n3ilQhVk4I",
+							"expanded_url": "http://ssrn.com/author=1042410",
+							"display_url": "ssrn.com/author=1042410",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19723,
+			"friends_count": 432,
+			"listed_count": 1107,
+			"created_at": "Fri Mar 06 20:55:33 +0000 2009",
+			"favourites_count": 29176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308123492915707904/p2nSZQnu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308123492915707904/p2nSZQnu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23117374/1554742966",
+			"profile_link_color": "6F00FF",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "D6DFE6",
+			"profile_text_color": "2911C5",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337841415116763100,
+		"quoted_status_id_str": "1337841415116763138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QhbclCFKhy",
+			"expanded": "https://twitter.com/merriamwebster/status/1337841415116763138",
+			"display": "twitter.com/merriamwebster…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 12 19:27:03 +0000 2020",
+			"id": 1337841415116763100,
+			"id_str": "1337841415116763138",
+			"full_text": "The word 'doctor' comes from the Latin word for \"teacher.\" https://t.co/wUihrn6Hyq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wUihrn6Hyq",
+						"expanded_url": "https://www.merriam-webster.com/words-at-play/the-history-of-doctor",
+						"display_url": "merriam-webster.com/words-at-play/…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97040343,
+				"id_str": "97040343",
+				"name": "Merriam-Webster",
+				"screen_name": "MerriamWebster",
+				"location": "Springfield, MA",
+				"description": "Word of the Day, facts and observations on language, lookup trends, and wordplay from the editors at Merriam-Webster Dictionary.",
+				"url": "https://t.co/vQxcT3e4Iq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vQxcT3e4Iq",
+								"expanded_url": "http://Merriam-Webster.com",
+								"display_url": "Merriam-Webster.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 923662,
+				"friends_count": 692,
+				"listed_count": 6097,
+				"created_at": "Tue Dec 15 19:07:56 +0000 2009",
+				"favourites_count": 11123,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25324,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "355185",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97040343/1535382063",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9587,
+			"favorite_count": 43064,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 184,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Merriam-Webster truly defines the genre of subtweeting. https://t.co/QhbclCFKhy"
+	},
+	{
+		"created_at": "Sat Dec 12 21:12:46 +0000 2020",
+		"id": 1337868018941128700,
+		"id_str": "1337868018941128712",
+		"full_text": "Time for Bubba Ho-Tep 2: Electric Boogaloo https://t.co/yJ4wa8soJj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yJ4wa8soJj",
+					"expanded_url": "https://twitter.com/willsommer/status/1337776424283992065",
+					"display_url": "twitter.com/willsommer/sta…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4442,
+			"friends_count": 754,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 86605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337776424283992000,
+		"quoted_status_id_str": "1337776424283992065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yJ4wa8soJj",
+			"expanded": "https://twitter.com/willsommer/status/1337776424283992065",
+			"display": "twitter.com/willsommer/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 12 15:08:48 +0000 2020",
+			"id": 1337776424283992000,
+			"id_str": "1337776424283992065",
+			"full_text": "Vincent Fusca — the man many QAnon believers claim is JFK Jr in disguise — is here. People are shouting “JFK” at him and asking for selfies. https://t.co/ryCD4gU8OY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1337776408723067000,
+						"id_str": "1337776408723066882",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/EpC8jk7WEAIef0S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpC8jk7WEAIef0S.jpg",
+						"url": "https://t.co/ryCD4gU8OY",
+						"display_url": "pic.twitter.com/ryCD4gU8OY",
+						"expanded_url": "https://twitter.com/willsommer/status/1337776424283992065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1337776408723067000,
+						"id_str": "1337776408723066882",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/EpC8jk7WEAIef0S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpC8jk7WEAIef0S.jpg",
+						"url": "https://t.co/ryCD4gU8OY",
+						"display_url": "pic.twitter.com/ryCD4gU8OY",
+						"expanded_url": "https://twitter.com/willsommer/status/1337776424283992065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 1337771366095974400,
+			"in_reply_to_status_id_str": "1337771366095974402",
+			"in_reply_to_user_id": 274294204,
+			"in_reply_to_user_id_str": "274294204",
+			"in_reply_to_screen_name": "willsommer",
+			"user": {
+				"id": 274294204,
+				"id_str": "274294204",
+				"name": "Will Sommer",
+				"screen_name": "willsommer",
+				"location": "Washington, DC",
+				"description": "Politics reporter @thedailybeast—I write a newsletter about conservative media  https://t.co/6i93Qj5e2n—email will.sommer at https://t.co/68iIwjpBjB",
+				"url": "https://t.co/trocYNv7Ye",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/trocYNv7Ye",
+								"expanded_url": "http://www.rightrichter.com",
+								"display_url": "rightrichter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6i93Qj5e2n",
+								"expanded_url": "http://rightrichter.com",
+								"display_url": "rightrichter.com",
+								"indices": [
+									80,
+									103
+								]
+							},
+							{
+								"url": "https://t.co/68iIwjpBjB",
+								"expanded_url": "http://thedailybeast.com",
+								"display_url": "thedailybeast.com",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 120429,
+				"friends_count": 3816,
+				"listed_count": 1842,
+				"created_at": "Wed Mar 30 02:47:48 +0000 2011",
+				"favourites_count": 33353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16322,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1276583650994290688/7go0_hyD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276583650994290688/7go0_hyD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/274294204/1447958158",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1088,
+			"favorite_count": 5017,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Time for Bubba Ho-Tep 2: Electric Boogaloo https://t.co/yJ4wa8soJj"
+	},
+	{
+		"created_at": "Sat Dec 12 14:57:36 +0000 2020",
+		"id": 1337773605543944200,
+		"id_str": "1337773605543944193",
+		"full_text": "@RedSox @KayemBrand https://t.co/LKMVcnceCt",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RedSox",
+					"name": "Red Sox",
+					"id": 40918816,
+					"id_str": "40918816",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "KayemBrand",
+					"name": "Kayem",
+					"id": 59244509,
+					"id_str": "59244509",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337773595582492700,
+					"id_str": "1337773595582492674",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpC5_1KXcAI3Fhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpC5_1KXcAI3Fhi.jpg",
+					"url": "https://t.co/LKMVcnceCt",
+					"display_url": "pic.twitter.com/LKMVcnceCt",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1337773605543944193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337773595582492700,
+					"id_str": "1337773595582492674",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpC5_1KXcAI3Fhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpC5_1KXcAI3Fhi.jpg",
+					"url": "https://t.co/LKMVcnceCt",
+					"display_url": "pic.twitter.com/LKMVcnceCt",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1337773605543944193/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EpC5_1KXcAI3Fhi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1337764113007734800,
+		"in_reply_to_status_id_str": "1337764113007734784",
+		"in_reply_to_user_id": 40918816,
+		"in_reply_to_user_id_str": "40918816",
+		"in_reply_to_screen_name": "RedSox",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4442,
+			"friends_count": 754,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 86605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@RedSox @KayemBrand https://t.co/LKMVcnceCt"
+	},
+	{
 		"created_at": "Sat Dec 12 01:40:06 +0000 2020",
 		"id": 1337572907820732400,
 		"id_str": "1337572907820732420",
