@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 02:57:33 +0000 2020",
+		"id": 1338317172515500000,
+		"id_str": "1338317172515500033",
+		"full_text": "https://t.co/d78mxAhiWn https://t.co/LVT9I81rDP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d78mxAhiWn",
+					"expanded_url": "https://twitter.com/nytmike/status/1338291508659761153",
+					"display_url": "twitter.com/nytmike/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338317166710583300,
+					"id_str": "1338317166710583297",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpKoX1aXcAEqhQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpKoX1aXcAEqhQf.jpg",
+					"url": "https://t.co/LVT9I81rDP",
+					"display_url": "pic.twitter.com/LVT9I81rDP",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1338317172515500033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338317166710583300,
+					"id_str": "1338317166710583297",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpKoX1aXcAEqhQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpKoX1aXcAEqhQf.jpg",
+					"url": "https://t.co/LVT9I81rDP",
+					"display_url": "pic.twitter.com/LVT9I81rDP",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1338317172515500033/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EpKoX1aXcAEqhQf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 754,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 86684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338291508659761200,
+		"quoted_status_id_str": "1338291508659761153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d78mxAhiWn",
+			"expanded": "https://twitter.com/nytmike/status/1338291508659761153",
+			"display": "twitter.com/nytmike/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 14 01:15:34 +0000 2020",
+			"id": 1338291508659761200,
+			"id_str": "1338291508659761153",
+			"full_text": "EXCLUSIVE: For the past 105 years, the team was called the Indians. That will be no more as Cleveland has decided to change its name. Announcement from team could come as early as this week. w/@DavidWaldstein https://t.co/Nnw2nAoKcJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				232
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DavidWaldstein",
+						"name": "David Waldstein",
+						"id": 69892375,
+						"id_str": "69892375",
+						"indices": [
+							193,
+							208
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Nnw2nAoKcJ",
+						"expanded_url": "https://www.nytimes.com/2020/12/13/sports/baseball/cleveland-indians-baseball-name-change.html",
+						"display_url": "nytimes.com/2020/12/13/spo…",
+						"indices": [
+							209,
+							232
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17436250,
+				"id_str": "17436250",
+				"name": "Michael S. Schmidt",
+				"screen_name": "nytmike",
+				"location": "Washington D.C.",
+				"description": "reporter @nytimes book: “Donald Trump v the United States” https://t.co/ykoncguXGV",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ykoncguXGV",
+								"expanded_url": "https://www.amazon.com/Donald-Trump-United-States-President/dp/1984854666",
+								"display_url": "amazon.com/Donald-Trump-U…",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 232960,
+				"friends_count": 1717,
+				"listed_count": 2860,
+				"created_at": "Mon Nov 17 06:25:03 +0000 2008",
+				"favourites_count": 1817,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3545,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1320935020589158400/gFovyRlj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320935020589158400/gFovyRlj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17436250/1607122918",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4876,
+			"favorite_count": 14124,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/d78mxAhiWn https://t.co/LVT9I81rDP"
+	},
+	{
+		"created_at": "Mon Dec 14 00:38:31 +0000 2020",
+		"id": 1338282185648967700,
+		"id_str": "1338282185648967688",
+		"full_text": "Stah Wars https://t.co/xFukuZvMW0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xFukuZvMW0",
+					"expanded_url": "https://twitter.com/johnmoe/status/1338277459989581829",
+					"display_url": "twitter.com/johnmoe/status…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 754,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 86684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338277459989581800,
+		"quoted_status_id_str": "1338277459989581829",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xFukuZvMW0",
+			"expanded": "https://twitter.com/johnmoe/status/1338277459989581829",
+			"display": "twitter.com/johnmoe/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 14 00:19:45 +0000 2020",
+			"id": 1338277459989581800,
+			"id_str": "1338277459989581829",
+			"full_text": "Bill Burr’s character on the Mandalorian sounds like he must be from... Space Boston?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2317921,
+				"id_str": "2317921",
+				"name": "John Moe",
+				"screen_name": "johnmoe",
+				"location": "St Paul, MN",
+				"description": "Author-The Hilarious World of Depression, other books. Podcaster, public speaker. Ex-APM, KUOW, Amazon. Writing: NYT Mag, McSweeneys\nSpeeches-@collectivespkrs",
+				"url": "https://t.co/gW7MeJaggF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gW7MeJaggF",
+								"expanded_url": "http://johnmoe.website",
+								"display_url": "johnmoe.website",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42206,
+				"friends_count": 947,
+				"listed_count": 1243,
+				"created_at": "Mon Mar 26 16:11:51 +0000 2007",
+				"favourites_count": 31125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 95405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228790559231348736/6UqUZ4XA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228790559231348736/6UqUZ4XA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2317921/1567266650",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 86,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stah Wars https://t.co/xFukuZvMW0"
+	},
+	{
 		"created_at": "Sat Dec 12 23:22:32 +0000 2020",
 		"id": 1337895352817635300,
 		"id_str": "1337900676358266880",
