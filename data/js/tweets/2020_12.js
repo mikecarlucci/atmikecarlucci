@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 22:06:48 +0000 2020",
+		"id": 1339331166822928400,
+		"id_str": "1339331166822928385",
+		"full_text": "https://t.co/IyfYBBC7wA https://t.co/SO637juZ6M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IyfYBBC7wA",
+					"expanded_url": "https://twitter.com/samstod/status/1339320095303028736",
+					"display_url": "twitter.com/samstod/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339331161080950800,
+					"id_str": "1339331161080950785",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpZCmEzXcAEZYCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpZCmEzXcAEZYCO.jpg",
+					"url": "https://t.co/SO637juZ6M",
+					"display_url": "pic.twitter.com/SO637juZ6M",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1339331166822928385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 260,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 260,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 260,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339331161080950800,
+					"id_str": "1339331161080950785",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpZCmEzXcAEZYCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpZCmEzXcAEZYCO.jpg",
+					"url": "https://t.co/SO637juZ6M",
+					"display_url": "pic.twitter.com/SO637juZ6M",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1339331166822928385/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 260,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 260,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 260,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							130
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EpZCmEzXcAEZYCO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writing about the Red Sox @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4439,
+			"friends_count": 753,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 86909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1339320095303028700,
+		"quoted_status_id_str": "1339320095303028736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IyfYBBC7wA",
+			"expanded": "https://twitter.com/samstod/status/1339320095303028736",
+			"display": "twitter.com/samstod/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 16 21:22:48 +0000 2020",
+			"id": 1339320095303028700,
+			"id_str": "1339320095303028736",
+			"full_text": "Whenever you feel like you blew it in the past, just remember that some dude spent 208,500,000 in Bitcoin on two Papa Johns Pizza in 2010.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8682502,
+				"id_str": "8682502",
+				"name": "samstod",
+				"screen_name": "samstod",
+				"location": "Seattle, WA",
+				"description": "Senior Game Designer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6896,
+				"friends_count": 578,
+				"listed_count": 234,
+				"created_at": "Wed Sep 05 15:21:55 +0000 2007",
+				"favourites_count": 1306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1418,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245760619699040257/aZKkV9l-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245760619699040257/aZKkV9l-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8682502/1552683099",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 174,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/IyfYBBC7wA https://t.co/SO637juZ6M"
+	},
+	{
+		"created_at": "Wed Dec 16 19:55:06 +0000 2020",
+		"id": 1339235346014490600,
+		"id_str": "1339298022589607939",
+		"full_text": "Some news to report: MLB is officially, finally recognizing the 1920-1948 Negro Leagues as the major leagues they always were. I wrote @ringer about the too-long path to this point, the significance of the news, and the ramifications for the record books.\nhttps://t.co/kJT16xzm3v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ringer",
+					"name": "The Ringer",
+					"id": 4760694445,
+					"id_str": "4760694445",
+					"indices": [
+						135,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kJT16xzm3v",
+					"expanded_url": "https://www.theringer.com/mlb/2020/12/16/22178257/mlb-acknowledge-negro-leagues-officially",
+					"display_url": "theringer.com/mlb/2020/12/16…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47209624,
+			"id_str": "47209624",
+			"name": "Ben Lindbergh",
+			"screen_name": "BenLindbergh",
+			"location": "New York, NY",
+			"description": "Writer/podcaster @ringer. @EWPod co-host and co-author of The MVP Machine and The Only Rule Is It Has to Work. Ex-@Grantland33, @FiveThirtyEight, @baseballpro.",
+			"url": "https://t.co/BWdokjGzfC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BWdokjGzfC",
+							"expanded_url": "https://www.basicbooks.com/titles/ben-lindbergh/the-mvp-machine/9781541698956/",
+							"display_url": "basicbooks.com/titles/ben-lin…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42516,
+			"friends_count": 601,
+			"listed_count": 1602,
+			"created_at": "Mon Jun 15 00:02:58 +0000 2009",
+			"favourites_count": 10974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102672268168216576/cOTFMKV-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102672268168216576/cOTFMKV-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47209624/1585943903",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 513,
+		"favorite_count": 1671,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some news to report: MLB is officially, finally recognizing the 1920-1948 Negro Leagues as the major leagues they always were. I wrote @ringer about the too-long path to this point, the significance of the news, and the ramifications for the record books.\nhttps://t.co/kJT16xzm3v"
+	},
+	{
 		"created_at": "Tue Dec 15 20:03:26 +0000 2020",
 		"id": 1338937734723989500,
 		"id_str": "1338937734723989504",
