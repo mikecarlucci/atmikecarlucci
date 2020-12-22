@@ -1,6 +1,1667 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 20:13:23 +0000 2020",
+		"id": 1341107326258962400,
+		"id_str": "1341114565933867008",
+		"full_text": "Just got a letter in the mail asking me to go paperless",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22665816,
+			"id_str": "22665816",
+			"name": "mark normand",
+			"screen_name": "marknorm",
+			"location": "NYC",
+			"description": "New York Comedienne. New hour special \"Out To Lunch\" on the Youtubes now!! Preorder the album too. My pod \"Tuesdays with Stories.\" Link 👇👇 Praise Allah!",
+			"url": "https://t.co/2Wkybp8zta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Wkybp8zta",
+							"expanded_url": "https://bit.ly/2zkLQVP",
+							"display_url": "bit.ly/2zkLQVP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171376,
+			"friends_count": 407,
+			"listed_count": 884,
+			"created_at": "Tue Mar 03 19:41:34 +0000 2009",
+			"favourites_count": 193591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903769803768217600/EKtan_aM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903769803768217600/EKtan_aM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22665816/1588866257",
+			"profile_link_color": "28BD9F",
+			"profile_sidebar_border_color": "FFB908",
+			"profile_sidebar_fill_color": "FFB908",
+			"profile_text_color": "4D3E3E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 494,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Just got a letter in the mail asking me to go paperless"
+	},
+	{
+		"created_at": "Mon Dec 21 18:53:48 +0000 2020",
+		"id": 1341094395152633900,
+		"id_str": "1341094538413297671",
+		"full_text": "Trump EO reignites debate over brutalist architecture https://t.co/2KNpfCvr1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341094393621717000,
+					"id_str": "1341094393621716998",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EpyGPt4XIAY6PH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpyGPt4XIAY6PH2.jpg",
+					"url": "https://t.co/2KNpfCvr1Z",
+					"display_url": "pic.twitter.com/2KNpfCvr1Z",
+					"expanded_url": "https://twitter.com/superwuster/status/1341094395152633857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 238,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 432,
+							"h": 1234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341094393621717000,
+					"id_str": "1341094393621716998",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EpyGPt4XIAY6PH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpyGPt4XIAY6PH2.jpg",
+					"url": "https://t.co/2KNpfCvr1Z",
+					"display_url": "pic.twitter.com/2KNpfCvr1Z",
+					"expanded_url": "https://twitter.com/superwuster/status/1341094395152633857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 238,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 432,
+							"h": 1234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14636374,
+			"id_str": "14636374",
+			"name": "Tim Wu",
+			"screen_name": "superwuster",
+			"location": "Manhattan, NY",
+			"description": "Author, The Curse of Bigness --  https://t.co/mkKfPIXdq9   Professor, @Columbia. Contributing opinion writer, @NYtimes. RTs ≠ endorsements. Favorite word: stet",
+			"url": "http://t.co/JkMVjpnSbx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JkMVjpnSbx",
+							"expanded_url": "http://timwu.org",
+							"display_url": "timwu.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mkKfPIXdq9",
+							"expanded_url": "http://bit.ly/2wQ5YNC",
+							"display_url": "bit.ly/2wQ5YNC",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 49307,
+			"friends_count": 1847,
+			"listed_count": 1390,
+			"created_at": "Sat May 03 09:08:38 +0000 2008",
+			"favourites_count": 1160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991415746226991105/8UqRTeXJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991415746226991105/8UqRTeXJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14636374/1572622927",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 54,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump EO reignites debate over brutalist architecture https://t.co/2KNpfCvr1Z"
+	},
+	{
+		"created_at": "Mon Dec 21 18:26:17 +0000 2020",
+		"id": 1341087612342300700,
+		"id_str": "1341087612342300672",
+		"full_text": "@IBWAA Looking at \"betting the farm\"\nhttps://t.co/zKdjkLzi1C",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IBWAA",
+					"name": "IBWAA",
+					"id": 2273808601,
+					"id_str": "2273808601",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zKdjkLzi1C",
+					"expanded_url": "https://www.overthemonster.com/2020/2/3/21119614/boston-red-sox-mookie-betts-trade-rumors-buster-olney-an-investigation",
+					"display_url": "overthemonster.com/2020/2/3/21119…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341057614784979000,
+		"in_reply_to_status_id_str": "1341057614784978944",
+		"in_reply_to_user_id": 2273808601,
+		"in_reply_to_user_id_str": "2273808601",
+		"in_reply_to_screen_name": "IBWAA",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4434,
+			"friends_count": 753,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@IBWAA Looking at \"betting the farm\"\nhttps://t.co/zKdjkLzi1C"
+	},
+	{
+		"created_at": "Mon Dec 21 18:21:30 +0000 2020",
+		"id": 1341086406232387600,
+		"id_str": "1341086406232387585",
+		"full_text": "What will the Brutalist Party say?? https://t.co/zjK5hRgKCt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zjK5hRgKCt",
+					"expanded_url": "https://twitter.com/evanmcmurry/status/1341060164078727169",
+					"display_url": "twitter.com/evanmcmurry/st…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4434,
+			"friends_count": 753,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341060164078727200,
+		"quoted_status_id_str": "1341060164078727169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zjK5hRgKCt",
+			"expanded": "https://twitter.com/evanmcmurry/status/1341060164078727169",
+			"display": "twitter.com/evanmcmurry/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 21 16:37:13 +0000 2020",
+			"id": 1341060164078727200,
+			"id_str": "1341060164078727169",
+			"full_text": "Pres. Trump has signed an executive order promoting \"beautiful federal civic architecture,\" which appears to mostly mean classicist.\n\n\"The Federal Government has largely stopped building beautiful buildings,\" the text claims. https://t.co/4ig64BbHDU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1341060036131512300,
+						"id_str": "1341060036131512322",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/Epxm_2QXYAI3aq0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epxm_2QXYAI3aq0.jpg",
+						"url": "https://t.co/4ig64BbHDU",
+						"display_url": "pic.twitter.com/4ig64BbHDU",
+						"expanded_url": "https://twitter.com/evanmcmurry/status/1341060164078727169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1228,
+								"h": 1174,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1147,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1341060036131512300,
+						"id_str": "1341060036131512322",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/Epxm_2QXYAI3aq0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epxm_2QXYAI3aq0.jpg",
+						"url": "https://t.co/4ig64BbHDU",
+						"display_url": "pic.twitter.com/4ig64BbHDU",
+						"expanded_url": "https://twitter.com/evanmcmurry/status/1341060164078727169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1228,
+								"h": 1174,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1147,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1341060036114714600,
+						"id_str": "1341060036114714624",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/Epxm_2MXEAALWcA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epxm_2MXEAALWcA.jpg",
+						"url": "https://t.co/4ig64BbHDU",
+						"display_url": "pic.twitter.com/4ig64BbHDU",
+						"expanded_url": "https://twitter.com/evanmcmurry/status/1341060164078727169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1268,
+								"h": 1052,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 564,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 996,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1341060036349603800,
+						"id_str": "1341060036349603841",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/Epxm_3EXMAE5hy6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epxm_3EXMAE5hy6.jpg",
+						"url": "https://t.co/4ig64BbHDU",
+						"display_url": "pic.twitter.com/4ig64BbHDU",
+						"expanded_url": "https://twitter.com/evanmcmurry/status/1341060164078727169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1322,
+								"h": 1226,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1113,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 631,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20017835,
+				"id_str": "20017835",
+				"name": "Evan McMurry",
+				"screen_name": "evanmcmurry",
+				"location": "Brooklyn, NY",
+				"description": "Senior Manager of Social Media @ABC. Short fiction writer @NewMillWritings @ExpoReviewLit and elsewhere. Honey, we're the big door prize.",
+				"url": "https://t.co/zfuyRPjfZZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zfuyRPjfZZ",
+								"expanded_url": "http://evanmcmurry.com",
+								"display_url": "evanmcmurry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19321,
+				"friends_count": 4734,
+				"listed_count": 527,
+				"created_at": "Wed Feb 04 00:50:15 +0000 2009",
+				"favourites_count": 25849,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 66621,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1316874860291903488/VLJ4FMp8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1316874860291903488/VLJ4FMp8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20017835/1441388870",
+				"profile_link_color": "2F3FED",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 114,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What will the Brutalist Party say?? https://t.co/zjK5hRgKCt"
+	},
+	{
+		"created_at": "Mon Dec 21 17:36:49 +0000 2020",
+		"id": 1341075161718681600,
+		"id_str": "1341075161718681603",
+		"full_text": "https://t.co/N3Dp50DUav https://t.co/XnutxO3LrS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N3Dp50DUav",
+					"expanded_url": "https://twitter.com/microsoft/status/1341069672381378560",
+					"display_url": "twitter.com/microsoft/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341075155028684800,
+					"id_str": "1341075155028684800",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Epx0v4iWMAAbGbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Epx0v4iWMAAbGbE.jpg",
+					"url": "https://t.co/XnutxO3LrS",
+					"display_url": "pic.twitter.com/XnutxO3LrS",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1341075161718681603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 220,
+							"h": 206,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 206,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 206,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341075155028684800,
+					"id_str": "1341075155028684800",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Epx0v4iWMAAbGbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Epx0v4iWMAAbGbE.jpg",
+					"url": "https://t.co/XnutxO3LrS",
+					"display_url": "pic.twitter.com/XnutxO3LrS",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1341075161718681603/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 220,
+							"h": 206,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 206,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 206,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							103
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Epx0v4iWMAAbGbE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4434,
+			"friends_count": 753,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341069672381378600,
+		"quoted_status_id_str": "1341069672381378560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N3Dp50DUav",
+			"expanded": "https://twitter.com/microsoft/status/1341069672381378560",
+			"display": "twitter.com/microsoft/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 21 17:15:00 +0000 2020",
+			"id": 1341069672381378600,
+			"id_str": "1341069672381378560",
+			"full_text": "The year is 1997.\n\nYou: *struggling to write a letter*\n\nClippy: Would you like some assistance with that?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74286565,
+				"id_str": "74286565",
+				"name": "Microsoft",
+				"screen_name": "Microsoft",
+				"location": "Redmond, WA",
+				"description": "We’re on a mission to empower every person and every organization on the planet to achieve more. Support: @MicrosoftHelps",
+				"url": "https://t.co/bKBtZeAFrh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bKBtZeAFrh",
+								"expanded_url": "https://news.microsoft.com/",
+								"display_url": "news.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9170655,
+				"friends_count": 2547,
+				"listed_count": 24097,
+				"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+				"favourites_count": 5461,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19892,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00AEEF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1334505837147029504/dg_Twuy0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334505837147029504/dg_Twuy0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1607005961",
+				"profile_link_color": "1570A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 148,
+			"favorite_count": 2233,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/N3Dp50DUav https://t.co/XnutxO3LrS"
+	},
+	{
+		"created_at": "Mon Dec 21 13:53:08 +0000 2020",
+		"id": 1341018870442844200,
+		"id_str": "1341018870442844160",
+		"full_text": "@OverTheMonster https://t.co/FtekOKv7Gw",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OverTheMonster",
+					"name": "OverTheMonster",
+					"id": 21119272,
+					"id_str": "21119272",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341018864214290400,
+					"id_str": "1341018864214290432",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpxBjU6XMAAZkHG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpxBjU6XMAAZkHG.jpg",
+					"url": "https://t.co/FtekOKv7Gw",
+					"display_url": "pic.twitter.com/FtekOKv7Gw",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1341018870442844160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341018864214290400,
+					"id_str": "1341018864214290432",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpxBjU6XMAAZkHG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpxBjU6XMAAZkHG.jpg",
+					"url": "https://t.co/FtekOKv7Gw",
+					"display_url": "pic.twitter.com/FtekOKv7Gw",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1341018870442844160/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EpxBjU6XMAAZkHG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341004225971712000,
+		"in_reply_to_status_id_str": "1341004225971712000",
+		"in_reply_to_user_id": 21119272,
+		"in_reply_to_user_id_str": "21119272",
+		"in_reply_to_screen_name": "OverTheMonster",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4434,
+			"friends_count": 753,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@OverTheMonster https://t.co/FtekOKv7Gw"
+	},
+	{
+		"created_at": "Mon Dec 21 13:40:19 +0000 2020",
+		"id": 1341015644825936000,
+		"id_str": "1341015644825935872",
+		"full_text": "Within #TheMandalorian but we still get Mando Season 3, right?!? Crossover potential! https://t.co/hiE0cFQ8qU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheMandalorian",
+					"indices": [
+						7,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hiE0cFQ8qU",
+					"expanded_url": "https://twitter.com/themandalorian/status/1341013863110762496",
+					"display_url": "twitter.com/themandalorian…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4434,
+			"friends_count": 753,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341013863110762500,
+		"quoted_status_id_str": "1341013863110762496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hiE0cFQ8qU",
+			"expanded": "https://twitter.com/themandalorian/status/1341013863110762496",
+			"display": "twitter.com/themandalorian…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 21 13:33:14 +0000 2020",
+			"id": 1341013863110762500,
+			"id_str": "1341013863110762496",
+			"full_text": "The Book of Boba Fett, a new Original Series, starring Temuera Morrison and Ming-Na Wen and executive produced by Jon Favreau, Dave Filoni and Robert Rodriguez, set within the timeline of The Mandalorian, is coming to @DisneyPlus Dec. 2021. https://t.co/JP54yEe9WF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "disneyplus",
+						"name": "Disney+",
+						"id": 985916593065476100,
+						"id_str": "985916593065476096",
+						"indices": [
+							218,
+							229
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1340994747998089200,
+						"id_str": "1340994747998089216",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/EpwrnlAXMAA7BUf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpwrnlAXMAA7BUf.jpg",
+						"url": "https://t.co/JP54yEe9WF",
+						"display_url": "pic.twitter.com/JP54yEe9WF",
+						"expanded_url": "https://twitter.com/themandalorian/status/1341013863110762496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1340994747998089200,
+						"id_str": "1340994747998089216",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/EpwrnlAXMAA7BUf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpwrnlAXMAA7BUf.jpg",
+						"url": "https://t.co/JP54yEe9WF",
+						"display_url": "pic.twitter.com/JP54yEe9WF",
+						"expanded_url": "https://twitter.com/themandalorian/status/1341013863110762496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1060978099146260500,
+				"id_str": "1060978099146260480",
+				"name": "The Mandalorian",
+				"screen_name": "themandalorian",
+				"location": "",
+				"description": "New Season Now Streaming on #DisneyPlus",
+				"url": "https://t.co/NiWI6AhCZf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NiWI6AhCZf",
+								"expanded_url": "http://di.sn/600316eJc",
+								"display_url": "di.sn/600316eJc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 530824,
+				"friends_count": 25,
+				"listed_count": 1021,
+				"created_at": "Fri Nov 09 19:31:05 +0000 2018",
+				"favourites_count": 127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 322,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1305872547985063936/r9fpKGn5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305872547985063936/r9fpKGn5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1060978099146260480/1604062589",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7421,
+			"favorite_count": 56512,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Within #TheMandalorian but we still get Mando Season 3, right?!? Crossover potential! https://t.co/hiE0cFQ8qU"
+	},
+	{
+		"created_at": "Mon Dec 21 13:08:59 +0000 2020",
+		"id": 1341007761514098700,
+		"id_str": "1341007761514098688",
+		"full_text": "@octonion I *think* the historian dies in the TNG gangster episode, but that wasn’t intending the safeties to be off. Otherwise I’d assume someone tries Worf’s workout and says “how hard could it really be?”",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "octonion",
+					"name": "Christopher D. Long (Кристофер Октонион Лонг)",
+					"id": 77810367,
+					"id_str": "77810367",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1340937402450403300,
+		"in_reply_to_status_id_str": "1340937402450403334",
+		"in_reply_to_user_id": 77810367,
+		"in_reply_to_user_id_str": "77810367",
+		"in_reply_to_screen_name": "octonion",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4434,
+			"friends_count": 753,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@octonion I *think* the historian dies in the TNG gangster episode, but that wasn’t intending the safeties to be off. Otherwise I’d assume someone tries Worf’s workout and says “how hard could it really be?”"
+	},
+	{
 		"created_at": "Mon Dec 21 00:04:39 +0000 2020",
 		"id": 1340810378712920000,
 		"id_str": "1340810378712920065",
