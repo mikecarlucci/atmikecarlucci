@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 23 01:08:23 +0000 2020",
+		"id": 1341491616922521600,
+		"id_str": "1341551191080247305",
+		"full_text": "Millennials own less than 5% of all US wealth.\n\nIn 1989, when baby boomers were the same age, they owned 21% of all US wealth.\n\nYoung people aren’t going broke because they’re buying avocado toast. They’re going broke because the economy is rigged against them.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148529707,
+			"id_str": "148529707",
+			"name": "Robert Reich",
+			"screen_name": "RBReich",
+			"location": "Berkeley, CA",
+			"description": "Berkeley prof, frmr Sec of Labor. Cofounder, Inequality Media. New book: The System: Who Rigged It, How We Fix It. Order a copy: https://t.co/AK8n1T713G",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AK8n1T713G",
+							"expanded_url": "http://tinyurl.com/thesystemrbreich",
+							"display_url": "tinyurl.com/thesystemrbrei…",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1161216,
+			"friends_count": 487,
+			"listed_count": 11902,
+			"created_at": "Wed May 26 23:17:10 +0000 2010",
+			"favourites_count": 4108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232464654099570689/FmeL-VEG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232464654099570689/FmeL-VEG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148529707/1590002272",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "E87F7F",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4878,
+		"favorite_count": 17413,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Millennials own less than 5% of all US wealth.\n\nIn 1989, when baby boomers were the same age, they owned 21% of all US wealth.\n\nYoung people aren’t going broke because they’re buying avocado toast. They’re going broke because the economy is rigged against them."
+	},
+	{
+		"created_at": "Tue Dec 22 20:40:34 +0000 2020",
+		"id": 1341482368385896400,
+		"id_str": "1341483794067501057",
+		"full_text": "Waffles should be more popular. Pancakes should be less popular.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138141495,
+			"id_str": "138141495",
+			"name": "(((Harry Enten)))",
+			"screen_name": "ForecasterEnten",
+			"location": "I trust no living human, but I do trust the polls.",
+			"description": "Son of a man who was far from perfect, but I loved him anyway.\r\n\r\nParty ID does not equal Party Registration. #RenegadeJew",
+			"url": "https://t.co/97jmqtyeYE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/97jmqtyeYE",
+							"expanded_url": "https://www.cnn.com/profiles/harry-enten",
+							"display_url": "cnn.com/profiles/harry…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204980,
+			"friends_count": 149,
+			"listed_count": 5765,
+			"created_at": "Wed Apr 28 18:52:15 +0000 2010",
+			"favourites_count": 1392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 90471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050970409666007048/fJHrz7yx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050970409666007048/fJHrz7yx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138141495/1539373877",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 4134,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Waffles should be more popular. Pancakes should be less popular."
+	},
+	{
+		"created_at": "Tue Dec 22 19:13:39 +0000 2020",
+		"id": 1341461919480377300,
+		"id_str": "1341461919480377345",
+		"full_text": "@ParkerMolloy Animal Crossing default theme!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParkerMolloy",
+					"name": "Parker Molloy",
+					"id": 634734888,
+					"id_str": "634734888",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341458496055853000,
+		"in_reply_to_status_id_str": "1341458496055853063",
+		"in_reply_to_user_id": 634734888,
+		"in_reply_to_user_id_str": "634734888",
+		"in_reply_to_screen_name": "ParkerMolloy",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4435,
+			"friends_count": 753,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ParkerMolloy Animal Crossing default theme!"
+	},
+	{
 		"created_at": "Mon Dec 21 20:13:23 +0000 2020",
 		"id": 1341107326258962400,
 		"id_str": "1341114565933867008",
