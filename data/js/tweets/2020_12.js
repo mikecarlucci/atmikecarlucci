@@ -1,6 +1,928 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 19:08:24 +0000 2020",
+		"id": 1342151634688770000,
+		"id_str": "1342185375238914050",
+		"full_text": "https://t.co/IZdh9Xzvmy https://t.co/CAlYXR295a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IZdh9Xzvmy",
+					"expanded_url": "https://twitter.com/letterboxd/status/1341477103703715840?s=20",
+					"display_url": "twitter.com/letterboxd/sta…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342151626291695600,
+					"id_str": "1342151626291695621",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EqBHywfUUAUXBMw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqBHywfUUAUXBMw.jpg",
+					"url": "https://t.co/CAlYXR295a",
+					"display_url": "pic.twitter.com/CAlYXR295a",
+					"expanded_url": "https://twitter.com/aklingus/status/1342151634688770055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 658,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342151626291695600,
+					"id_str": "1342151626291695621",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EqBHywfUUAUXBMw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqBHywfUUAUXBMw.jpg",
+					"url": "https://t.co/CAlYXR295a",
+					"display_url": "pic.twitter.com/CAlYXR295a",
+					"expanded_url": "https://twitter.com/aklingus/status/1342151634688770055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 658,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42041929,
+			"id_str": "42041929",
+			"name": "AK Lingus In Cartoon Form",
+			"screen_name": "aklingus",
+			"location": "somewhere in California",
+			"description": "Call me Icy Clive, King of the Sky. Shouts to @Classical. Opinions are mine alone. My poetry's deep, I never fail. He/him. Avatar by @Lubchansky.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4177,
+			"friends_count": 1186,
+			"listed_count": 80,
+			"created_at": "Sat May 23 15:17:12 +0000 2009",
+			"favourites_count": 232690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322880865815285760/kahTKwF7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322880865815285760/kahTKwF7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42041929/1357179915",
+			"profile_link_color": "1F3EDB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341477103703715800,
+		"quoted_status_id_str": "1341477103703715840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IZdh9Xzvmy",
+			"expanded": "https://twitter.com/letterboxd/status/1341477103703715840?s=20",
+			"display": "twitter.com/letterboxd/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 22 20:13:59 +0000 2020",
+			"id": 1341477103703715800,
+			"id_str": "1341477103703715840",
+			"full_text": "favorite letterboxd review of the year?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26981455,
+				"id_str": "26981455",
+				"name": "Letterboxd",
+				"screen_name": "letterboxd",
+				"location": "",
+				"description": "🎁🎄 A global community of film lovers. Share your taste in movies via our free apps for iOS, Android, Apple TV, and on the web. It/its.",
+				"url": "https://t.co/OTQv8wfM9A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OTQv8wfM9A",
+								"expanded_url": "https://letterboxd.com",
+								"display_url": "letterboxd.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 98495,
+				"friends_count": 949,
+				"listed_count": 776,
+				"created_at": "Fri Mar 27 10:31:41 +0000 2009",
+				"favourites_count": 25606,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37317,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "14181C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323395835325902848/Ybbehq5V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323395835325902848/Ybbehq5V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26981455/1608603183",
+				"profile_link_color": "FF8000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "445566",
+				"profile_text_color": "778899",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 124,
+			"favorite_count": 1906,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 73,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/IZdh9Xzvmy https://t.co/CAlYXR295a"
+	},
+	{
+		"created_at": "Thu Dec 24 16:34:05 +0000 2020",
+		"id": 1341902738943332400,
+		"id_str": "1342146539377086466",
+		"full_text": "director: okay so it’s a Christmas Carol, but with muppets so. You know. Feel free to have fun with it. Be a little silly\n\nMichael Caine: I am going to play this entire thing as serious as a car accident https://t.co/B3ALxVV2H0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341902736774877200,
+					"id_str": "1341902736774877184",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep9lbeyXUAAdxEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep9lbeyXUAAdxEB.jpg",
+					"url": "https://t.co/B3ALxVV2H0",
+					"display_url": "pic.twitter.com/B3ALxVV2H0",
+					"expanded_url": "https://twitter.com/yourpalchauncey/status/1341902738943332355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 693,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 693,
+							"h": 461,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341902736774877200,
+					"id_str": "1341902736774877184",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep9lbeyXUAAdxEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep9lbeyXUAAdxEB.jpg",
+					"url": "https://t.co/B3ALxVV2H0",
+					"display_url": "pic.twitter.com/B3ALxVV2H0",
+					"expanded_url": "https://twitter.com/yourpalchauncey/status/1341902738943332355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 693,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 693,
+							"h": 461,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3103269701,
+			"id_str": "3103269701",
+			"name": "CHAUNCEY SUGARSWEETS",
+			"screen_name": "yourpalchauncey",
+			"location": "Hawaii, USA",
+			"description": "K-Mart employee 1999-1999",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105,
+			"friends_count": 860,
+			"listed_count": 0,
+			"created_at": "Sun Mar 22 00:56:46 +0000 2015",
+			"favourites_count": 7731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340096976424210432/tcMUu6FE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340096976424210432/tcMUu6FE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3103269701/1607900988",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11950,
+		"favorite_count": 101955,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "director: okay so it’s a Christmas Carol, but with muppets so. You know. Feel free to have fun with it. Be a little silly\n\nMichael Caine: I am going to play this entire thing as serious as a car accident https://t.co/B3ALxVV2H0"
+	},
+	{
+		"created_at": "Thu Dec 24 14:47:21 +0000 2020",
+		"id": 1342119680274784300,
+		"id_str": "1342119680274784259",
+		"full_text": "@90feetfromhome I’m proud of becoming the farm bet investigator 🤣 https://t.co/zKdjkLzi1C",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "90feetfromhome",
+					"name": "Ashley MacLennan",
+					"id": 776786543377645600,
+					"id_str": "776786543377645572",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zKdjkLzi1C",
+					"expanded_url": "https://www.overthemonster.com/2020/2/3/21119614/boston-red-sox-mookie-betts-trade-rumors-buster-olney-an-investigation",
+					"display_url": "overthemonster.com/2020/2/3/21119…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1342118150167474200,
+		"in_reply_to_status_id_str": "1342118150167474177",
+		"in_reply_to_user_id": 776786543377645600,
+		"in_reply_to_user_id_str": "776786543377645572",
+		"in_reply_to_screen_name": "90feetfromhome",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4436,
+			"friends_count": 754,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@90feetfromhome I’m proud of becoming the farm bet investigator 🤣 https://t.co/zKdjkLzi1C"
+	},
+	{
+		"created_at": "Thu Dec 24 14:30:17 +0000 2020",
+		"id": 1342115383629770800,
+		"id_str": "1342115383629770753",
+		"full_text": "https://t.co/egm6yLu0gA https://t.co/vxZsxo5xb1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/egm6yLu0gA",
+					"expanded_url": "https://twitter.com/datesinmovies/status/1342110792943071237",
+					"display_url": "twitter.com/datesinmovies/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342115373483761700,
+					"id_str": "1342115373483761664",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EqAm0kQXIAA75OV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EqAm0kQXIAA75OV.jpg",
+					"url": "https://t.co/vxZsxo5xb1",
+					"display_url": "pic.twitter.com/vxZsxo5xb1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1342115383629770753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342115373483761700,
+					"id_str": "1342115373483761664",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EqAm0kQXIAA75OV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EqAm0kQXIAA75OV.jpg",
+					"url": "https://t.co/vxZsxo5xb1",
+					"display_url": "pic.twitter.com/vxZsxo5xb1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1342115383629770753/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EqAm0kQXIAA75OV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4436,
+			"friends_count": 754,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1342110792943071200,
+		"quoted_status_id_str": "1342110792943071237",
+		"quoted_status_permalink": {
+			"url": "https://t.co/egm6yLu0gA",
+			"expanded": "https://twitter.com/datesinmovies/status/1342110792943071237",
+			"display": "twitter.com/datesinmovies/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 24 14:12:02 +0000 2020",
+			"id": 1342110792943071200,
+			"id_str": "1342110792943071237",
+			"full_text": "Dec 24th 1988 - John McClane ruined Hans Gruber's Christmas Eve party #DieHard https://t.co/3IZZFIdX8z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DieHard",
+						"indices": [
+							70,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1342110791407968300,
+						"id_str": "1342110791407968256",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/EqAip2sXIAAHhbp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqAip2sXIAAHhbp.jpg",
+						"url": "https://t.co/3IZZFIdX8z",
+						"display_url": "pic.twitter.com/3IZZFIdX8z",
+						"expanded_url": "https://twitter.com/DatesInMovies/status/1342110792943071237/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 706,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1224,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1342110791407968300,
+						"id_str": "1342110791407968256",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/EqAip2sXIAAHhbp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqAip2sXIAAHhbp.jpg",
+						"url": "https://t.co/3IZZFIdX8z",
+						"display_url": "pic.twitter.com/3IZZFIdX8z",
+						"expanded_url": "https://twitter.com/DatesInMovies/status/1342110792943071237/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 706,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1224,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1146429722,
+				"id_str": "1146429722",
+				"name": "Dates in Movies",
+				"screen_name": "DatesInMovies",
+				"location": "Not in Kansas anymore",
+				"description": "When you absolutely, positively got to know every #OnThisDay in movie history, accept no substitutes.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24915,
+				"friends_count": 131,
+				"listed_count": 161,
+				"created_at": "Sun Feb 03 22:41:50 +0000 2013",
+				"favourites_count": 8181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6709,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146429722/1554069771",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 181,
+			"favorite_count": 451,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/egm6yLu0gA https://t.co/vxZsxo5xb1"
+	},
+	{
 		"created_at": "Wed Dec 23 23:13:25 +0000 2020",
 		"id": 1341884647299539000,
 		"id_str": "1341884647299538945",
