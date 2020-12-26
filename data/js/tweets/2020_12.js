@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 14:40:31 +0000 2020",
+		"id": 1342455858014392300,
+		"id_str": "1342480345128726528",
+		"full_text": "For Christmas, I rounded up the best work of my baseball Twitter friends from the past year.  https://t.co/t4ROYMkBA6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t4ROYMkBA6",
+					"expanded_url": "https://www.bleedcubbieblue.com/2020/12/25/22199586/outside-the-confines-merry-christmas-to-all?utm_campaign=90feetfromhome&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "bleedcubbieblue.com/2020/12/25/221…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776786543377645600,
+			"id_str": "776786543377645572",
+			"name": "Ashley MacLennan",
+			"screen_name": "90feetfromhome",
+			"location": "Winnipeg, Manitoba",
+			"description": "YouTube host. Many hats at @blessyouboys, @draysbay, @bleedcubbieblue. Bylines: @fangraphs, @Hardball_Times, @ShortReliefBP. Questionably witty. she/her",
+			"url": "https://t.co/Ws4QTE4VUz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ws4QTE4VUz",
+							"expanded_url": "https://www.youtube.com/c/AshleyMacLennan90feetfromhome",
+							"display_url": "youtube.com/c/AshleyMacLen…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2651,
+			"friends_count": 1241,
+			"listed_count": 75,
+			"created_at": "Fri Sep 16 14:15:18 +0000 2016",
+			"favourites_count": 36133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303720063892180993/M5jIDHia_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303720063892180993/M5jIDHia_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776786543377645572/1561735442",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For Christmas, I rounded up the best work of my baseball Twitter friends from the past year.  https://t.co/t4ROYMkBA6"
+	},
+	{
+		"created_at": "Fri Dec 25 14:29:26 +0000 2020",
+		"id": 1342477557749444600,
+		"id_str": "1342477557749444609",
+		"full_text": "Xmas beignets tradition continues 🎅🎄🎁 https://t.co/RGY8Y1iUcd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342477549050486800,
+					"id_str": "1342477549050486784",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFwN9YXYAA2lFY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFwN9YXYAA2lFY.jpg",
+					"url": "https://t.co/RGY8Y1iUcd",
+					"display_url": "pic.twitter.com/RGY8Y1iUcd",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1342477557749444609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342477549050486800,
+					"id_str": "1342477549050486784",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFwN9YXYAA2lFY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFwN9YXYAA2lFY.jpg",
+					"url": "https://t.co/RGY8Y1iUcd",
+					"display_url": "pic.twitter.com/RGY8Y1iUcd",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1342477557749444609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1342477549050454000,
+					"id_str": "1342477549050454016",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFwN9YW4AA_tW4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFwN9YW4AA_tW4.jpg",
+					"url": "https://t.co/RGY8Y1iUcd",
+					"display_url": "pic.twitter.com/RGY8Y1iUcd",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1342477557749444609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. Co-host @ozminute mike@mikecarlucci.org 📷mikegcarlucci",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4435,
+			"friends_count": 753,
+			"listed_count": 46,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Xmas beignets tradition continues 🎅🎄🎁 https://t.co/RGY8Y1iUcd"
+	},
+	{
 		"created_at": "Thu Dec 24 19:08:24 +0000 2020",
 		"id": 1342151634688770000,
 		"id_str": "1342185375238914050",
