@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 18:56:02 +0000 2020",
+		"id": 1343984310743810000,
+		"id_str": "1343994201147633666",
+		"full_text": "Reminder: if America were truly great, we would have both a $2k stimulus &amp; a useful Internet. It's terrible if any Congressmember thinks that the Internet we love is just another political bargaining chip #Section230",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Section230",
+					"indices": [
+						209,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14807154,
+			"id_str": "14807154",
+			"name": "Eric Goldman",
+			"screen_name": "ericgoldman",
+			"location": "Mountain View, CA",
+			"description": "Internet Law, Advertising Law & IP Professor, @SantaClaraLaw. Married to @GoldmanLisa. #LungCancer spouse. Vegetarian since 1984. egoldman@gmail.com",
+			"url": "https://t.co/X7oNe3resQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X7oNe3resQ",
+							"expanded_url": "http://www.ericgoldman.org",
+							"display_url": "ericgoldman.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13642,
+			"friends_count": 183,
+			"listed_count": 702,
+			"created_at": "Sat May 17 02:48:37 +0000 2008",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270378485245046784/CGQekwpH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270378485245046784/CGQekwpH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14807154/1565217430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 47,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Reminder: if America were truly great, we would have both a $2k stimulus &amp; a useful Internet. It's terrible if any Congressmember thinks that the Internet we love is just another political bargaining chip #Section230"
+	},
+	{
+		"created_at": "Tue Dec 29 18:43:34 +0000 2020",
+		"id": 1343909967133335600,
+		"id_str": "1343991065972518915",
+		"full_text": "When Huey Lewis said you \"don't need no credit card to ride this train,\" he was envisioning a society with free, widely available public transportation. Only the \"power of love\" can defeat capitalistic greed.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 415062114,
+			"id_str": "415062114",
+			"name": "Mark Lang Syne",
+			"screen_name": "Mark_Dubs",
+			"location": "The Gem of the Susquehanna",
+			"description": "Extremely Calm & Very Kind. 5'8'' Leftist. I'm a consumer protection lawyer, so here's a disclaimer: Opinions are mine & aren't advice.\n💀🚫/⛵🍹",
+			"url": "https://t.co/sAMpDLOUH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sAMpDLOUH3",
+							"expanded_url": "https://www.twitter.com/RLLoverJoe",
+							"display_url": "twitter.com/RLLoverJoe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3990,
+			"friends_count": 1094,
+			"listed_count": 12,
+			"created_at": "Thu Nov 17 21:16:53 +0000 2011",
+			"favourites_count": 218217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BCBDA4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323885546721153024/CA7mFhT5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323885546721153024/CA7mFhT5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/415062114/1572479183",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "541057",
+			"profile_text_color": "136D7F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 789,
+		"favorite_count": 5140,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "When Huey Lewis said you \"don't need no credit card to ride this train,\" he was envisioning a society with free, widely available public transportation. Only the \"power of love\" can defeat capitalistic greed."
+	},
+	{
 		"created_at": "Mon Dec 28 19:19:07 +0000 2020",
 		"id": 1343637624632782800,
 		"id_str": "1343637624632782849",
