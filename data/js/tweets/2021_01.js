@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 03 20:43:04 +0000 2021",
+		"id": 1345525119951769600,
+		"id_str": "1345833078158200833",
+		"full_text": "me at 35                  me at 4\n                    🤝    \nselect the picture with a bus in it",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48569578,
+			"id_str": "48569578",
+			"name": "PJ Vogt",
+			"screen_name": "PJVogt",
+			"location": "",
+			"description": "@replyall",
+			"url": "https://t.co/kTvNqZSKUb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kTvNqZSKUb",
+							"expanded_url": "http://replyall.limo",
+							"display_url": "replyall.limo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138845,
+			"friends_count": 1261,
+			"listed_count": 1016,
+			"created_at": "Fri Jun 19 01:46:37 +0000 2009",
+			"favourites_count": 32608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136333489152749574/SRrgUZF-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136333489152749574/SRrgUZF-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48569578/1569345596",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3675,
+		"favorite_count": 65453,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "me at 35                  me at 4\n                    🤝    \nselect the picture with a bus in it"
+	},
+	{
+		"created_at": "Sun Jan 03 15:55:02 +0000 2021",
+		"id": 1345760592108384300,
+		"id_str": "1345760592108384256",
+		"full_text": "https://t.co/ifkrLWtTTj https://t.co/YCDb5OJpeB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ifkrLWtTTj",
+					"expanded_url": "https://twitter.com/thestevensharp/status/1345724950682939393",
+					"display_url": "twitter.com/thestevensharp…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1345760583845556200,
+					"id_str": "1345760583845556225",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eq0aHvDWMAEkmx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eq0aHvDWMAEkmx6.jpg",
+					"url": "https://t.co/YCDb5OJpeB",
+					"display_url": "pic.twitter.com/YCDb5OJpeB",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1345760592108384256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345760583845556200,
+					"id_str": "1345760583845556225",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eq0aHvDWMAEkmx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eq0aHvDWMAEkmx6.jpg",
+					"url": "https://t.co/YCDb5OJpeB",
+					"display_url": "pic.twitter.com/YCDb5OJpeB",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1345760592108384256/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eq0aHvDWMAEkmx6.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4439,
+			"friends_count": 754,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 87971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1345724950682939400,
+		"quoted_status_id_str": "1345724950682939393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ifkrLWtTTj",
+			"expanded": "https://twitter.com/thestevensharp/status/1345724950682939393",
+			"display": "twitter.com/thestevensharp…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 03 13:33:25 +0000 2021",
+			"id": 1345724950682939400,
+			"id_str": "1345724950682939393",
+			"full_text": "On this date (January 3) in 1983, the daytime television game show weekday series \"The Price Is Right\" episode in which the popular contestant game PLINKO was introduced, first aired, on CBS.  \n\nhttps://t.co/RSaJa5D827\n\n@PriceIsRight\n#PriceIsRight\n#ThePriceIsRight",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PriceIsRight",
+						"indices": [
+							234,
+							247
+						]
+					},
+					{
+						"text": "ThePriceIsRight",
+						"indices": [
+							248,
+							264
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PriceIsRight",
+						"name": "The Price Is Right",
+						"id": 259348680,
+						"id_str": "259348680",
+						"indices": [
+							220,
+							233
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RSaJa5D827",
+						"expanded_url": "https://www.youtube.com/watch?v=xw5ErADiuec",
+						"display_url": "youtube.com/watch?v=xw5ErA…",
+						"indices": [
+							195,
+							218
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 382349687,
+				"id_str": "382349687",
+				"name": "Steven Sharp",
+				"screen_name": "TheStevenSharp",
+				"location": "Falmouth, KY",
+				"description": "Falmouth, KY native; University of Kentucky graduate; Fan of several sports and sports trivia; Fan of TV shows (past and present), movies, and music.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 551,
+				"friends_count": 348,
+				"listed_count": 59,
+				"created_at": "Thu Sep 29 22:37:24 +0000 2011",
+				"favourites_count": 2411,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 97673,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794279786952671232/zz7U17qL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794279786952671232/zz7U17qL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/382349687/1361539822",
+				"profile_link_color": "0645AD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ifkrLWtTTj https://t.co/YCDb5OJpeB"
+	},
+	{
 		"created_at": "Sun Jan 03 02:30:57 +0000 2021",
 		"id": 1103366295830085600,
 		"id_str": "1345558236779454464",
