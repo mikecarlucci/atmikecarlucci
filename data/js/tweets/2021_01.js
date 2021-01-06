@@ -1,6 +1,852 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 03:08:26 +0000 2021",
+		"id": 1324546349874950100,
+		"id_str": "1346654833500188681",
+		"full_text": "Now I’m falling asleep and she’s calling DeKalb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1039902417666670600,
+			"id_str": "1039902417666670592",
+			"name": "(500) Days of Bummer",
+			"screen_name": "Yukongold1898",
+			"location": "He/Him/His",
+			"description": "one bloated rotten putrid scum forever",
+			"url": "https://t.co/I9R5bNFdkz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I9R5bNFdkz",
+							"expanded_url": "https://www.jetpunk.com/user-quizzes/173997",
+							"display_url": "jetpunk.com/user-quizzes/1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1673,
+			"friends_count": 574,
+			"listed_count": 19,
+			"created_at": "Wed Sep 12 15:43:51 +0000 2018",
+			"favourites_count": 199935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341831251641196544/TxkkIWyf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341831251641196544/TxkkIWyf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1039902417666670592/1574633667",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5130,
+		"favorite_count": 29146,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Now I’m falling asleep and she’s calling DeKalb"
+	},
+	{
+		"created_at": "Wed Jan 06 01:36:13 +0000 2021",
+		"id": 1346631625967341600,
+		"id_str": "1346631625967341571",
+		"full_text": "🤣🤣🤣 https://t.co/3hB6870bVQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3hB6870bVQ",
+					"expanded_url": "https://twitter.com/franklinleonard/status/1346629834517176320",
+					"display_url": "twitter.com/franklinleonar…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4438,
+			"friends_count": 753,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 88031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346629834517176300,
+		"quoted_status_id_str": "1346629834517176320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3hB6870bVQ",
+			"expanded": "https://twitter.com/franklinleonard/status/1346629834517176320",
+			"display": "twitter.com/franklinleonar…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 06 01:29:06 +0000 2021",
+			"id": 1346629834517176300,
+			"id_str": "1346629834517176320",
+			"full_text": "So he's really not going to launch the Kornacki's Khakis kapsule kollection tonight, huh? Feels like a missed opportunity.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25387735,
+				"id_str": "25387735",
+				"name": "Franklin Leonard",
+				"screen_name": "franklinleonard",
+				"location": "Los Angeles, CA; London, UK",
+				"description": ".@theblcklst founder; Film & TV producer; Politics and football (soccer) person. @vanityfair contributing editor. IG: @franklinjleonard Speaking: @freshspeakers",
+				"url": "https://t.co/VLBaypAeN1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VLBaypAeN1",
+								"expanded_url": "http://www.franklinleonard.com",
+								"display_url": "franklinleonard.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 149887,
+				"friends_count": 8773,
+				"listed_count": 1425,
+				"created_at": "Thu Mar 19 21:19:06 +0000 2009",
+				"favourites_count": 40814,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 91984,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098628316943138816/5FKx3xCI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098628316943138816/5FKx3xCI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25387735/1460234412",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 241,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤣🤣🤣 https://t.co/3hB6870bVQ"
+	},
+	{
+		"created_at": "Wed Jan 06 00:06:53 +0000 2021",
+		"id": 1346609143503876000,
+		"id_str": "1346609143503876096",
+		"full_text": "Call in @thetimeteam! https://t.co/RE9arFZASY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thetimeteam",
+					"name": "Time Team",
+					"id": 223443269,
+					"id_str": "223443269",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RE9arFZASY",
+					"expanded_url": "https://twitter.com/hallierubenhold/status/1346606294858420226",
+					"display_url": "twitter.com/hallierubenhol…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4438,
+			"friends_count": 753,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 88031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346606294858420200,
+		"quoted_status_id_str": "1346606294858420226",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RE9arFZASY",
+			"expanded": "https://twitter.com/hallierubenhold/status/1346606294858420226",
+			"display": "twitter.com/hallierubenhol…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 05 23:55:34 +0000 2021",
+			"id": 1346606294858420200,
+			"id_str": "1346606294858420226",
+			"full_text": "I suspect this mystery could be solved by looking into who owned the property in the 18th &amp; 19th centuries and if the land was part of a nearby estate. There were very few collectors of Greek marbles prior to Elgin. The object may turn up in an inventory.\n\nhttps://t.co/4IQ4Loliyu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4IQ4Loliyu",
+						"expanded_url": "https://edition.cnn.com/style/article/roman-slab-mystery-gbr-scli-intl-scn/index.html",
+						"display_url": "edition.cnn.com/style/article/…",
+						"indices": [
+							261,
+							284
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87246229,
+				"id_str": "87246229",
+				"name": "Hallie Rubenhold",
+				"screen_name": "HallieRubenhold",
+				"location": "London",
+				"description": "Bestselling author of THE FIVE/historian/TV. Winner 2019 Baillie Gifford Prize. Also wrote Scandalous Lady W (BBC), Covent Garden Ladies aka #Harlots  BBC /Hulu",
+				"url": "https://t.co/sCfzGf876T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCfzGf876T",
+								"expanded_url": "http://www.hallierubenhold.com",
+								"display_url": "hallierubenhold.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30279,
+				"friends_count": 1123,
+				"listed_count": 257,
+				"created_at": "Tue Nov 03 18:05:43 +0000 2009",
+				"favourites_count": 25821,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20191,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1064251730744012801/ofiv50Q7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064251730744012801/ofiv50Q7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87246229/1540200303",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Call in @thetimeteam! https://t.co/RE9arFZASY"
+	},
+	{
+		"created_at": "Wed Jan 06 00:02:32 +0000 2021",
+		"id": 1346608048958296000,
+		"id_str": "1346608048958296072",
+		"full_text": "☕️ 🍩 🍊 💧 https://t.co/9te5nnopo4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9te5nnopo4",
+					"expanded_url": "https://twitter.com/gideonresnick/status/1346492886079197184",
+					"display_url": "twitter.com/gideonresnick/…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4438,
+			"friends_count": 753,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 88031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346492886079197200,
+		"quoted_status_id_str": "1346492886079197184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9te5nnopo4",
+			"expanded": "https://twitter.com/gideonresnick/status/1346492886079197184",
+			"display": "twitter.com/gideonresnick/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 05 16:24:55 +0000 2021",
+			"id": 1346492886079197200,
+			"id_str": "1346492886079197184",
+			"full_text": "Also many people asked so here is @EdMarkey talking about his Dunkin order https://t.co/Sto6bmFmY3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EdMarkey",
+						"name": "Ed Markey",
+						"id": 1129029661,
+						"id_str": "1129029661",
+						"indices": [
+							34,
+							43
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1346492771763445800,
+						"id_str": "1346492771763445761",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346492771763445761/pu/img/RQa6_0_fP6ubYIgz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346492771763445761/pu/img/RQa6_0_fP6ubYIgz.jpg",
+						"url": "https://t.co/Sto6bmFmY3",
+						"display_url": "pic.twitter.com/Sto6bmFmY3",
+						"expanded_url": "https://twitter.com/GideonResnick/status/1346492886079197184/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1346492771763445800,
+						"id_str": "1346492771763445761",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346492771763445761/pu/img/RQa6_0_fP6ubYIgz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346492771763445761/pu/img/RQa6_0_fP6ubYIgz.jpg",
+						"url": "https://t.co/Sto6bmFmY3",
+						"display_url": "pic.twitter.com/Sto6bmFmY3",
+						"expanded_url": "https://twitter.com/GideonResnick/status/1346492886079197184/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 55578,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1346492771763445761/pu/vid/1280x720/kjbv0-psC6U-BvOZ.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1346492771763445761/pu/vid/640x360/4TM-3DFrpFMo0r6O.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1346492771763445761/pu/vid/480x270/woQOhSND27PESYxy.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1346492771763445761/pu/pl/GSVoi_XiBnTBA6vZ.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1346475113982558200,
+			"in_reply_to_status_id_str": "1346475113982558212",
+			"in_reply_to_user_id": 377778216,
+			"in_reply_to_user_id_str": "377778216",
+			"in_reply_to_screen_name": "GideonResnick",
+			"user": {
+				"id": 377778216,
+				"id_str": "377778216",
+				"name": "Gideon Resnick",
+				"screen_name": "GideonResnick",
+				"location": "",
+				"description": "Host of What A Day @crookedmedia | formerly @thedailybeast | Send tips/story ideas to gideon@crooked.com, DM for Signal",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55601,
+				"friends_count": 1476,
+				"listed_count": 1125,
+				"created_at": "Thu Sep 22 02:57:50 +0000 2011",
+				"favourites_count": 6665,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 68091,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260232649039323136/rZYo7n5k_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260232649039323136/rZYo7n5k_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/377778216/1601697590",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 463,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "☕️ 🍩 🍊 💧 https://t.co/9te5nnopo4"
+	},
+	{
 		"created_at": "Mon Jan 04 19:29:03 +0000 2021",
 		"id": 1346176839107162000,
 		"id_str": "1346176839107162115",
