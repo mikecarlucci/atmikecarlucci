@@ -1,6 +1,595 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 23:11:53 +0000 2021",
+		"id": 1346948338504130600,
+		"id_str": "1346957690552119298",
+		"full_text": "I’ve covered a lot of security failures. This is a security failure of terrifying proportions. Armed insurgents breached and occupied the Capitol. They’re still there. The failure hasn’t ended.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58504135,
+			"id_str": "58504135",
+			"name": "Shane Harris",
+			"screen_name": "shaneharris",
+			"location": "Washington, DC",
+			"description": "I cover intelligence and national security for the @washingtonpost. Host @ratlsecurity Contact me securely: https://t.co/sjdPC938uH",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sjdPC938uH",
+							"expanded_url": "http://shaneharris.com/secure-contact/",
+							"display_url": "shaneharris.com/secure-contact/",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 101715,
+			"friends_count": 4692,
+			"listed_count": 2065,
+			"created_at": "Mon Jul 20 15:40:29 +0000 2009",
+			"favourites_count": 5224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180242317237784578/gP31nf6X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180242317237784578/gP31nf6X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58504135/1539366203",
+			"profile_link_color": "21665D",
+			"profile_sidebar_border_color": "2F665B",
+			"profile_sidebar_fill_color": "99ABBD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7965,
+		"favorite_count": 40529,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’ve covered a lot of security failures. This is a security failure of terrifying proportions. Armed insurgents breached and occupied the Capitol. They’re still there. The failure hasn’t ended."
+	},
+	{
+		"created_at": "Wed Jan 06 21:27:39 +0000 2021",
+		"id": 1346924927660691500,
+		"id_str": "1346931459106467841",
+		"full_text": "Portland 2020             D.C. 2021 https://t.co/10rAjb2mia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346924920870035500,
+					"id_str": "1346924920870035456",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ErE9FEeUYAAoBV7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErE9FEeUYAAoBV7.jpg",
+					"url": "https://t.co/10rAjb2mia",
+					"display_url": "pic.twitter.com/10rAjb2mia",
+					"expanded_url": "https://twitter.com/megreyes_/status/1346924927660691460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346924920870035500,
+					"id_str": "1346924920870035456",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ErE9FEeUYAAoBV7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErE9FEeUYAAoBV7.jpg",
+					"url": "https://t.co/10rAjb2mia",
+					"display_url": "pic.twitter.com/10rAjb2mia",
+					"expanded_url": "https://twitter.com/megreyes_/status/1346924927660691460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346924920870105000,
+					"id_str": "1346924920870105090",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ErE9FEeVcAIFNR-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErE9FEeVcAIFNR-.jpg",
+					"url": "https://t.co/10rAjb2mia",
+					"display_url": "pic.twitter.com/10rAjb2mia",
+					"expanded_url": "https://twitter.com/megreyes_/status/1346924927660691460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1004,
+							"h": 452,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1004,
+							"h": 452,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68721634,
+			"id_str": "68721634",
+			"name": "Megan Reyes",
+			"screen_name": "megreyes_",
+			"location": "Bay Area, California ",
+			"description": "Social Media Manager @TheAthletic. Past: @2K @warriors @GoDucks. Small person, big personality. Forever heartbroken Saints fan. Advocate for #WomenInSports.",
+			"url": "https://t.co/OXaEuqo5l8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OXaEuqo5l8",
+							"expanded_url": "https://linktr.ee/megreyes_",
+							"display_url": "linktr.ee/megreyes_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11687,
+			"friends_count": 2173,
+			"listed_count": 92,
+			"created_at": "Tue Aug 25 15:30:18 +0000 2009",
+			"favourites_count": 15229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324528509184692224/2lyoT7hg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324528509184692224/2lyoT7hg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68721634/1609456774",
+			"profile_link_color": "008080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4311,
+		"favorite_count": 9093,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Portland 2020             D.C. 2021 https://t.co/10rAjb2mia"
+	},
+	{
+		"created_at": "Wed Jan 06 21:15:44 +0000 2021",
+		"id": 1346928462066372600,
+		"id_str": "1346928462066372609",
+		"full_text": "Not now Peacock https://t.co/aDwc7gz8qk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346928456156774400,
+					"id_str": "1346928456156774401",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/ErFAS2cXAAEhyBx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErFAS2cXAAEhyBx.jpg",
+					"url": "https://t.co/aDwc7gz8qk",
+					"display_url": "pic.twitter.com/aDwc7gz8qk",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1346928462066372609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 999,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 566,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346928456156774400,
+					"id_str": "1346928456156774401",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/ErFAS2cXAAEhyBx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErFAS2cXAAEhyBx.jpg",
+					"url": "https://t.co/aDwc7gz8qk",
+					"display_url": "pic.twitter.com/aDwc7gz8qk",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1346928462066372609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 999,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 566,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4439,
+			"friends_count": 753,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 88407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not now Peacock https://t.co/aDwc7gz8qk"
+	},
+	{
+		"created_at": "Wed Jan 06 20:46:48 +0000 2021",
+		"id": 1346921179190358000,
+		"id_str": "1346921179190358017",
+		"full_text": "Every day since they stopped the count in 2000 https://t.co/zXsAohWpUV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zXsAohWpUV",
+					"expanded_url": "https://twitter.com/csuram88/status/1346920614414540802",
+					"display_url": "twitter.com/csuram88/statu…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4439,
+			"friends_count": 753,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 88407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346920614414540800,
+		"quoted_status_id_str": "1346920614414540802",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zXsAohWpUV",
+			"expanded": "https://twitter.com/csuram88/status/1346920614414540802",
+			"display": "twitter.com/csuram88/statu…"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every day since they stopped the count in 2000 https://t.co/zXsAohWpUV"
+	},
+	{
 		"created_at": "Wed Jan 06 03:08:26 +0000 2021",
 		"id": 1324546349874950100,
 		"id_str": "1346654833500188681",
