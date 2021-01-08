@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 16:52:35 +0000 2021",
+		"id": 1347214123944337400,
+		"id_str": "1347224623625203712",
+		"full_text": "i'm not mad because of impeachment specifically, i'm angry because adjourning tells those white supremacist terrorists that they have the power to shut down the government during the most tenuous transfer of power in 150 years. it tells them they can do it again.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1347211797862953000,
+		"in_reply_to_status_id_str": "1347211797862952965",
+		"in_reply_to_user_id": 36261242,
+		"in_reply_to_user_id_str": "36261242",
+		"in_reply_to_screen_name": "jduffyrice",
+		"user": {
+			"id": 36261242,
+			"id_str": "36261242",
+			"name": "josie duffy rice",
+			"screen_name": "jduffyrice",
+			"location": "Atlanta, GA",
+			"description": "president @theappeal. host @justice_podcast. fellow @typemediacenter. writer, lawyer, black. pitches@theappeal.org",
+			"url": "https://t.co/vAFZZ9dKph",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vAFZZ9dKph",
+							"expanded_url": "http://josieduffyrice.com",
+							"display_url": "josieduffyrice.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109305,
+			"friends_count": 1998,
+			"listed_count": 911,
+			"created_at": "Wed Apr 29 02:34:59 +0000 2009",
+			"favourites_count": 69742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292833093091459073/-fyoDboq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292833093091459073/-fyoDboq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36261242/1605601401",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCAC64",
+			"profile_text_color": "F6604A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 455,
+		"favorite_count": 2391,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "i'm not mad because of impeachment specifically, i'm angry because adjourning tells those white supremacist terrorists that they have the power to shut down the government during the most tenuous transfer of power in 150 years. it tells them they can do it again."
+	},
+	{
 		"created_at": "Wed Jan 06 23:11:53 +0000 2021",
 		"id": 1346948338504130600,
 		"id_str": "1346957690552119298",
