@@ -1,6 +1,631 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 01:56:28 +0000 2021",
+		"id": 1348086272884166700,
+		"id_str": "1348086272884166656",
+		"full_text": "@SwiftOnSecurity No regrets https://t.co/Y4rGxXmw10",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwiftOnSecurity",
+					"name": "SwiftOnSecurity",
+					"id": 2436389418,
+					"id_str": "2436389418",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348086269050581000,
+					"id_str": "1348086269050580993",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/ErVdUblXcAEUOGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErVdUblXcAEUOGu.jpg",
+					"url": "https://t.co/Y4rGxXmw10",
+					"display_url": "pic.twitter.com/Y4rGxXmw10",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1348086272884166656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348086269050581000,
+					"id_str": "1348086269050580993",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/ErVdUblXcAEUOGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErVdUblXcAEUOGu.jpg",
+					"url": "https://t.co/Y4rGxXmw10",
+					"display_url": "pic.twitter.com/Y4rGxXmw10",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1348086272884166656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1348080879273390000,
+		"in_reply_to_status_id_str": "1348080879273390088",
+		"in_reply_to_user_id": 2436389418,
+		"in_reply_to_user_id_str": "2436389418",
+		"in_reply_to_screen_name": "SwiftOnSecurity",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4438,
+			"friends_count": 755,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 89100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SwiftOnSecurity No regrets https://t.co/Y4rGxXmw10"
+	},
+	{
+		"created_at": "Sat Jan 09 17:01:59 +0000 2021",
+		"id": 1347192998996676600,
+		"id_str": "1347951765380096002",
+		"full_text": "reminder that \"we can disagree and still be friends\" applies to stuff like enjoying different games or characters. not human rights violations.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1272185557456760800,
+			"id_str": "1272185557456760834",
+			"name": "ivy 🧊 comms open",
+			"screen_name": "IvyEmblem",
+			"location": "The Dreaming City",
+			"description": "(she/they) warlock main. i draw video game. commissions are open. please don't repost my art.",
+			"url": "https://t.co/fCqYly8mY5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fCqYly8mY5",
+							"expanded_url": "http://ivyemblem.carrd.co",
+							"display_url": "ivyemblem.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 80,
+			"listed_count": 0,
+			"created_at": "Sun Jun 14 15:14:16 +0000 2020",
+			"favourites_count": 2155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344402189092073472/9VoC2dzO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344402189092073472/9VoC2dzO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1272185557456760834/1607122468",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60893,
+		"favorite_count": 203631,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "reminder that \"we can disagree and still be friends\" applies to stuff like enjoying different games or characters. not human rights violations."
+	},
+	{
+		"created_at": "Sat Jan 09 16:07:27 +0000 2021",
+		"id": 1347910962200899600,
+		"id_str": "1347938043060252676",
+		"full_text": "yall are going to get this 1L constitutional law down https://t.co/ThvxjBu4Ix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347910959424278500,
+					"id_str": "1347910959424278528",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ErS94EVXEAAmf5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErS94EVXEAAmf5t.jpg",
+					"url": "https://t.co/ThvxjBu4Ix",
+					"display_url": "pic.twitter.com/ThvxjBu4Ix",
+					"expanded_url": "https://twitter.com/AmeriKraut/status/1347910962200899587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 911,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 911,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347910959424278500,
+					"id_str": "1347910959424278528",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ErS94EVXEAAmf5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErS94EVXEAAmf5t.jpg",
+					"url": "https://t.co/ThvxjBu4Ix",
+					"display_url": "pic.twitter.com/ThvxjBu4Ix",
+					"expanded_url": "https://twitter.com/AmeriKraut/status/1347910962200899587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 911,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 911,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172150690,
+			"id_str": "172150690",
+			"name": "in charge of the girls",
+			"screen_name": "AmeriKraut",
+			"location": "hollywood for nerds",
+			"description": "i don't tweet. i minister.\n#AFirm4Creatives",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12209,
+			"friends_count": 627,
+			"listed_count": 115,
+			"created_at": "Thu Jul 29 01:07:44 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 299106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1338228368593080322/IwbCFOuU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338228368593080322/IwbCFOuU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172150690/1442461341",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1151,
+		"favorite_count": 2274,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "yall are going to get this 1L constitutional law down https://t.co/ThvxjBu4Ix"
+	},
+	{
+		"created_at": "Sat Jan 09 13:30:04 +0000 2021",
+		"id": 1347898435387732000,
+		"id_str": "1347898435387731968",
+		"full_text": "OTM Open Thread 1/9...a Penny for your thoughts https://t.co/MzKb2Gkbq7 https://t.co/VeR7p7Ejhf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MzKb2Gkbq7",
+					"expanded_url": "https://www.overthemonster.com/2021/1/9/22221805/otm-open-thread-1-9-it-is-saturday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2021/1/9/22221…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347898433022140400,
+					"id_str": "1347898433022140419",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/ErSye72XIAMLvIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErSye72XIAMLvIY.jpg",
+					"url": "https://t.co/VeR7p7Ejhf",
+					"display_url": "pic.twitter.com/VeR7p7Ejhf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1347898435387731968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 635,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1084,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347898433022140400,
+					"id_str": "1347898433022140419",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/ErSye72XIAMLvIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErSye72XIAMLvIY.jpg",
+					"url": "https://t.co/VeR7p7Ejhf",
+					"display_url": "pic.twitter.com/VeR7p7Ejhf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1347898435387731968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 635,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1084,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4438,
+			"friends_count": 755,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 89100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 1/9...a Penny for your thoughts https://t.co/MzKb2Gkbq7 https://t.co/VeR7p7Ejhf"
+	},
+	{
 		"created_at": "Sat Jan 09 00:56:40 +0000 2021",
 		"id": 1347698349605052400,
 		"id_str": "1347708837743222786",
