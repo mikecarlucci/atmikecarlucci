@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 14 02:01:54 +0000 2021",
+		"id": 1349537191232499700,
+		"id_str": "1349537191232499712",
+		"full_text": "@DSzymborski Jason Bourne with the laser embedded in his arm",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DSzymborski",
+					"name": "Dan Szymborski",
+					"id": 44929255,
+					"id_str": "44929255",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1349534417820246000,
+		"in_reply_to_status_id_str": "1349534417820246017",
+		"in_reply_to_user_id": 44929255,
+		"in_reply_to_user_id_str": "44929255",
+		"in_reply_to_screen_name": "DSzymborski",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 756,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 89671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DSzymborski Jason Bourne with the laser embedded in his arm"
+	},
+	{
+		"created_at": "Wed Jan 13 22:26:00 +0000 2021",
+		"id": 1349481179163091000,
+		"id_str": "1349482859749380102",
+		"full_text": "When you get impeached twice in the same term https://t.co/F9P6bUNAag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349481139216523300,
+					"id_str": "1349481139216523264",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ErpR8j4XIAAPGpl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErpR8j4XIAAPGpl.jpg",
+					"url": "https://t.co/F9P6bUNAag",
+					"display_url": "pic.twitter.com/F9P6bUNAag",
+					"expanded_url": "https://twitter.com/chrismcshane/status/1349481179163090944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 490,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 490,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349481139216523300,
+					"id_str": "1349481139216523264",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ErpR8j4XIAAPGpl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErpR8j4XIAAPGpl.jpg",
+					"url": "https://t.co/F9P6bUNAag",
+					"display_url": "pic.twitter.com/F9P6bUNAag",
+					"expanded_url": "https://twitter.com/chrismcshane/status/1349481179163090944/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 490,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 490,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							65,
+							49
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ErpR8j4XIAAPGpl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 156311512,
+			"id_str": "156311512",
+			"name": "Chris McShane",
+			"screen_name": "chrismcshane",
+			"location": "The Bronx",
+			"description": "Bass in @theloshotquesos, guitar in @lightningcrabs. #LoveTheMets, for better or worse, on @AmazinAvenue.",
+			"url": "https://t.co/5MzEpUYDoA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5MzEpUYDoA",
+							"expanded_url": "http://www.instagram.com/chrismcshane",
+							"display_url": "instagram.com/chrismcshane",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1610,
+			"friends_count": 338,
+			"listed_count": 79,
+			"created_at": "Wed Jun 16 16:05:04 +0000 2010",
+			"favourites_count": 2809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320861381290242048/9SYrFqSi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320861381290242048/9SYrFqSi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/156311512/1603752869",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 1789,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you get impeached twice in the same term https://t.co/F9P6bUNAag"
+	},
+	{
+		"created_at": "Wed Jan 13 21:42:06 +0000 2021",
+		"id": 1349470929752043500,
+		"id_str": "1349471813303205893",
+		"full_text": "Donald Trump made history today - first President whose impeachment requires a disambiguation page. https://t.co/drIVZNcP93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/drIVZNcP93",
+					"expanded_url": "https://twitter.com/LawyerCat_/status/1349469616490246144",
+					"display_url": "twitter.com/LawyerCat_/sta…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16262924,
+			"id_str": "16262924",
+			"name": "Mike Dunford",
+			"screen_name": "questauthority",
+			"location": "Not your lawyer/legal advice.",
+			"description": "Father, Army husband, lawyer, international copyright geek, PhD student, on a quest to become the world's most popular powerpoint streamer. He/Him.",
+			"url": "https://t.co/8XszuYUNyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8XszuYUNyE",
+							"expanded_url": "https://twitch.tv/questauthority",
+							"display_url": "twitch.tv/questauthority",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24160,
+			"friends_count": 1047,
+			"listed_count": 401,
+			"created_at": "Fri Sep 12 20:19:01 +0000 2008",
+			"favourites_count": 102248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259926213583388672/FQCaAwNg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259926213583388672/FQCaAwNg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16262924/1589219533",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1349469616490246100,
+		"quoted_status_id_str": "1349469616490246144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/drIVZNcP93",
+			"expanded": "https://twitter.com/LawyerCat_/status/1349469616490246144",
+			"display": "twitter.com/LawyerCat_/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 13 21:33:23 +0000 2021",
+			"id": 1349469616490246100,
+			"id_str": "1349469616490246144",
+			"full_text": "Googles “Trump impeach wiki”\n\nWiki: Which Trump impeachment did you mean? https://t.co/S9xRvcrUwE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1349469613839421400,
+						"id_str": "1349469613839421440",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/ErpHdsgVEAAkN17.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErpHdsgVEAAkN17.jpg",
+						"url": "https://t.co/S9xRvcrUwE",
+						"display_url": "pic.twitter.com/S9xRvcrUwE",
+						"expanded_url": "https://twitter.com/LawyerCat_/status/1349469616490246144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 732,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 415,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1842,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1349469613839421400,
+						"id_str": "1349469613839421440",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/ErpHdsgVEAAkN17.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErpHdsgVEAAkN17.jpg",
+						"url": "https://t.co/S9xRvcrUwE",
+						"display_url": "pic.twitter.com/S9xRvcrUwE",
+						"expanded_url": "https://twitter.com/LawyerCat_/status/1349469616490246144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 732,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 415,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1842,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2787648859,
+				"id_str": "2787648859",
+				"name": "Lawyer Cat*",
+				"screen_name": "LawyerCat_",
+				"location": "*Not a real cat",
+				"description": "Litigation partner. BigLaw escapee. Divorced dad. RTs = the unanimous view of lawyers everywhere.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14209,
+				"friends_count": 491,
+				"listed_count": 108,
+				"created_at": "Wed Sep 03 09:36:41 +0000 2014",
+				"favourites_count": 59974,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44759,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1346152076858933248/gKofPfRx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346152076858933248/gKofPfRx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2787648859/1545821542",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 91,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 92,
+		"favorite_count": 373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Donald Trump made history today - first President whose impeachment requires a disambiguation page. https://t.co/drIVZNcP93"
+	},
+	{
 		"created_at": "Wed Jan 13 02:58:08 +0000 2021",
 		"id": 1349187178883145700,
 		"id_str": "1349188956835950592",
