@@ -1,6 +1,845 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 17 02:02:30 +0000 2021",
+		"id": 1350624507287974000,
+		"id_str": "1350624507287973895",
+		"full_text": "Star Wars a TV Series with one word\n\nMurder, Sheev Wrote https://t.co/6NPrbDCCax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6NPrbDCCax",
+					"expanded_url": "https://twitter.com/starwarsminute/status/1350618639049789443",
+					"display_url": "twitter.com/starwarsminute…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 760,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 89906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350618639049789400,
+		"quoted_status_id_str": "1350618639049789443",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6NPrbDCCax",
+			"expanded": "https://twitter.com/starwarsminute/status/1350618639049789443",
+			"display": "twitter.com/starwarsminute…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 17 01:39:11 +0000 2021",
+			"id": 1350618639049789400,
+			"id_str": "1350618639049789443",
+			"full_text": "Star Wars a TV Series with one word\n\nBoshek Horseman https://t.co/feDOTkq2xi https://t.co/fO07OKV9ss",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/feDOTkq2xi",
+						"expanded_url": "https://twitter.com/nerdist/status/1350617754320007168",
+						"display_url": "twitter.com/nerdist/status…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1350618636675764200,
+						"id_str": "1350618636675764227",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Er5cfoIU0AMSkkG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Er5cfoIU0AMSkkG.jpg",
+						"url": "https://t.co/fO07OKV9ss",
+						"display_url": "pic.twitter.com/fO07OKV9ss",
+						"expanded_url": "https://twitter.com/StarWarsMinute/status/1350618639049789443/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 803,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 803,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1350618636675764200,
+						"id_str": "1350618636675764227",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Er5cfoIU0AMSkkG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Er5cfoIU0AMSkkG.jpg",
+						"url": "https://t.co/fO07OKV9ss",
+						"display_url": "pic.twitter.com/fO07OKV9ss",
+						"expanded_url": "https://twitter.com/StarWarsMinute/status/1350618639049789443/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 803,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 803,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1468039387,
+				"id_str": "1468039387",
+				"name": "Star Wars Minute",
+				"screen_name": "StarWarsMinute",
+				"location": "New York, USA",
+				"description": "We're a podcast analyzing, scrutinizing and celebrating ROGUE ONE one minute at a time! With your hardcore casual hosts @PeteTheRetailer and @Arobtwit",
+				"url": "https://t.co/78stLaJ88E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/78stLaJ88E",
+								"expanded_url": "http://www.starwarsminute.com",
+								"display_url": "starwarsminute.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6938,
+				"friends_count": 953,
+				"listed_count": 114,
+				"created_at": "Wed May 29 19:03:07 +0000 2013",
+				"favourites_count": 10165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11721,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245476456081141760/22cEM5aJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245476456081141760/22cEM5aJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1468039387/1586966138",
+				"profile_link_color": "FFBE00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1350617754320007200,
+			"quoted_status_id_str": "1350617754320007168",
+			"quoted_status_permalink": {
+				"url": "https://t.co/feDOTkq2xi",
+				"expanded": "https://twitter.com/nerdist/status/1350617754320007168",
+				"display": "twitter.com/nerdist/status…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Star Wars a TV Series with one word\n\nMurder, Sheev Wrote https://t.co/6NPrbDCCax"
+	},
+	{
+		"created_at": "Sat Jan 16 19:13:02 +0000 2021",
+		"id": 1350521463078613000,
+		"id_str": "1350521463078612994",
+		"full_text": "@StarTrek @TheKateMulgrew @robertbeltran74 @RobertPicardo @roxdaws @GarrettRWang @timruss2 @robertdmcneill https://t.co/tBsLlaAoyT",
+		"truncated": false,
+		"display_text_range": [
+			106,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StarTrek",
+					"name": "Star Trek",
+					"id": 130491582,
+					"id_str": "130491582",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TheKateMulgrew",
+					"name": "Kate Mulgrew",
+					"id": 2693837167,
+					"id_str": "2693837167",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "robertbeltran74",
+					"name": "Robert Beltran",
+					"id": 2361558554,
+					"id_str": "2361558554",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "RobertPicardo",
+					"name": "Robert Picardo",
+					"id": 579006169,
+					"id_str": "579006169",
+					"indices": [
+						43,
+						57
+					]
+				},
+				{
+					"screen_name": "roxdaws",
+					"name": "Roxann Dawson",
+					"id": 53525113,
+					"id_str": "53525113",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"screen_name": "GarrettRWang",
+					"name": "Garrett Wang",
+					"id": 196516385,
+					"id_str": "196516385",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "timruss2",
+					"name": "tim russ",
+					"id": 438125534,
+					"id_str": "438125534",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "robertdmcneill",
+					"name": "robert duncan mcneill",
+					"id": 1248242107959128000,
+					"id_str": "1248242107959128064",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350521456510251000,
+					"id_str": "1350521456510251010",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Er4EG_zWMAIOqWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Er4EG_zWMAIOqWl.jpg",
+					"url": "https://t.co/tBsLlaAoyT",
+					"display_url": "pic.twitter.com/tBsLlaAoyT",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1350521463078612994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350521456510251000,
+					"id_str": "1350521456510251010",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Er4EG_zWMAIOqWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Er4EG_zWMAIOqWl.jpg",
+					"url": "https://t.co/tBsLlaAoyT",
+					"display_url": "pic.twitter.com/tBsLlaAoyT",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1350521463078612994/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Er4EG_zWMAIOqWl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350518263428485000,
+		"in_reply_to_status_id_str": "1350518263428485122",
+		"in_reply_to_user_id": 130491582,
+		"in_reply_to_user_id_str": "130491582",
+		"in_reply_to_screen_name": "StarTrek",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 760,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 89906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@StarTrek @TheKateMulgrew @robertbeltran74 @RobertPicardo @roxdaws @GarrettRWang @timruss2 @robertdmcneill https://t.co/tBsLlaAoyT"
+	},
+	{
+		"created_at": "Sat Jan 16 19:12:18 +0000 2021",
+		"id": 1350521275811299300,
+		"id_str": "1350521275811299330",
+		"full_text": "@StarTrek @TheKateMulgrew @robertbeltran74 @RobertPicardo @roxdaws @GarrettRWang @timruss2 @robertdmcneill https://t.co/3YhKcpWH97",
+		"truncated": false,
+		"display_text_range": [
+			106,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StarTrek",
+					"name": "Star Trek",
+					"id": 130491582,
+					"id_str": "130491582",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TheKateMulgrew",
+					"name": "Kate Mulgrew",
+					"id": 2693837167,
+					"id_str": "2693837167",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "robertbeltran74",
+					"name": "Robert Beltran",
+					"id": 2361558554,
+					"id_str": "2361558554",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "RobertPicardo",
+					"name": "Robert Picardo",
+					"id": 579006169,
+					"id_str": "579006169",
+					"indices": [
+						43,
+						57
+					]
+				},
+				{
+					"screen_name": "roxdaws",
+					"name": "Roxann Dawson",
+					"id": 53525113,
+					"id_str": "53525113",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"screen_name": "GarrettRWang",
+					"name": "Garrett Wang",
+					"id": 196516385,
+					"id_str": "196516385",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "timruss2",
+					"name": "tim russ",
+					"id": 438125534,
+					"id_str": "438125534",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "robertdmcneill",
+					"name": "robert duncan mcneill",
+					"id": 1248242107959128000,
+					"id_str": "1248242107959128064",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350521269708599300,
+					"id_str": "1350521269708599297",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Er4D8H6XMAE2ykZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Er4D8H6XMAE2ykZ.jpg",
+					"url": "https://t.co/3YhKcpWH97",
+					"display_url": "pic.twitter.com/3YhKcpWH97",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1350521275811299330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350521269708599300,
+					"id_str": "1350521269708599297",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Er4D8H6XMAE2ykZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Er4D8H6XMAE2ykZ.jpg",
+					"url": "https://t.co/3YhKcpWH97",
+					"display_url": "pic.twitter.com/3YhKcpWH97",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1350521275811299330/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							173,
+							129
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Er4D8H6XMAE2ykZ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350518263428485000,
+		"in_reply_to_status_id_str": "1350518263428485122",
+		"in_reply_to_user_id": 130491582,
+		"in_reply_to_user_id_str": "130491582",
+		"in_reply_to_screen_name": "StarTrek",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 760,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 89906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@StarTrek @TheKateMulgrew @robertbeltran74 @RobertPicardo @roxdaws @GarrettRWang @timruss2 @robertdmcneill https://t.co/3YhKcpWH97"
+	},
+	{
 		"created_at": "Sat Jan 16 02:13:21 +0000 2021",
 		"id": 1350264847892701200,
 		"id_str": "1350264847892701184",
