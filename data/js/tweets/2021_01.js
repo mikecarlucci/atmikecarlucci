@@ -1,6 +1,1105 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 02:55:22 +0000 2021",
+		"id": 1351724976479592400,
+		"id_str": "1351724976479592450",
+		"full_text": "Excellent https://t.co/yHyrv46jct",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yHyrv46jct",
+					"expanded_url": "https://twitter.com/ameliafrappolli/status/1351723165165252608",
+					"display_url": "twitter.com/ameliafrappoll…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 760,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 90187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351723165165252600,
+		"quoted_status_id_str": "1351723165165252608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yHyrv46jct",
+			"expanded": "https://twitter.com/ameliafrappolli/status/1351723165165252608",
+			"display": "twitter.com/ameliafrappoll…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 02:48:11 +0000 2021",
+			"id": 1351723165165252600,
+			"id_str": "1351723165165252608",
+			"full_text": "Nick Altrock, coach of the Washington Senators, entertaining a crowd at a baseball game with props\n\n(please note the tiny hat)\n\n(May 19, 1924) https://t.co/l6n3TZYsgu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1351722861078188000,
+						"id_str": "1351722861078188032",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EsJIx8lXEAAcYgQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EsJIx8lXEAAcYgQ.png",
+						"url": "https://t.co/l6n3TZYsgu",
+						"display_url": "pic.twitter.com/l6n3TZYsgu",
+						"expanded_url": "https://twitter.com/AmeliaFrappolli/status/1351723165165252608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 549,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 826,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 826,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1351722861078188000,
+						"id_str": "1351722861078188032",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EsJIx8lXEAAcYgQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EsJIx8lXEAAcYgQ.png",
+						"url": "https://t.co/l6n3TZYsgu",
+						"display_url": "pic.twitter.com/l6n3TZYsgu",
+						"expanded_url": "https://twitter.com/AmeliaFrappolli/status/1351723165165252608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 549,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 826,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 826,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1351723127873667000,
+						"id_str": "1351723127873667074",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EsJJBeeXAAITFiR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsJJBeeXAAITFiR.jpg",
+						"url": "https://t.co/l6n3TZYsgu",
+						"display_url": "pic.twitter.com/l6n3TZYsgu",
+						"expanded_url": "https://twitter.com/AmeliaFrappolli/status/1351723165165252608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 150,
+								"h": 150,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 150,
+								"h": 150,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 150,
+								"h": 150,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1351721947021906000,
+			"in_reply_to_status_id_str": "1351721947021905920",
+			"in_reply_to_user_id": 3319089207,
+			"in_reply_to_user_id_str": "3319089207",
+			"in_reply_to_screen_name": "AmeliaFrappolli",
+			"user": {
+				"id": 3319089207,
+				"id_str": "3319089207",
+				"name": "Amelia Frappolli",
+				"screen_name": "AmeliaFrappolli",
+				"location": "Washington, DC",
+				"description": "Mostly old photos, newspaper clippings & occasional retro gelatin recipes.\n\nPreviously covered the House & Senate floors for CQ. Still somewhere in the Capitol",
+				"url": "https://t.co/rI1ykSj3HR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rI1ykSj3HR",
+								"expanded_url": "http://frappolli.com",
+								"display_url": "frappolli.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5329,
+				"friends_count": 562,
+				"listed_count": 171,
+				"created_at": "Thu Jun 11 15:38:44 +0000 2015",
+				"favourites_count": 17397,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9693,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105839570753650690/Sys_yBeR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105839570753650690/Sys_yBeR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3319089207/1552571557",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Excellent https://t.co/yHyrv46jct"
+	},
+	{
+		"created_at": "Tue Jan 19 18:14:47 +0000 2021",
+		"id": 1351593966991532000,
+		"id_str": "1351593966991532033",
+		"full_text": "@ParkerMolloy OMG stupid Gene and Finny and the Ski Force.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParkerMolloy",
+					"name": "Parker Molloy",
+					"id": 634734888,
+					"id_str": "634734888",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1351593553550577700,
+		"in_reply_to_status_id_str": "1351593553550577668",
+		"in_reply_to_user_id": 634734888,
+		"in_reply_to_user_id_str": "634734888",
+		"in_reply_to_screen_name": "ParkerMolloy",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 760,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 90187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ParkerMolloy OMG stupid Gene and Finny and the Ski Force."
+	},
+	{
+		"created_at": "Tue Jan 19 16:28:17 +0000 2021",
+		"id": 1351567163660894200,
+		"id_str": "1351567163660894210",
+		"full_text": "https://t.co/icPLZ2pCOt https://t.co/OjxHOQCqzR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/icPLZ2pCOt",
+					"expanded_url": "https://twitter.com/bostondotcom/status/1351566199986024452",
+					"display_url": "twitter.com/bostondotcom/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351567157994414000,
+					"id_str": "1351567157994414085",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsG7K1ZXYAU9JGe.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsG7K1ZXYAU9JGe.jpg",
+					"url": "https://t.co/OjxHOQCqzR",
+					"display_url": "pic.twitter.com/OjxHOQCqzR",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1351567163660894210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351567157994414000,
+					"id_str": "1351567157994414085",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsG7K1ZXYAU9JGe.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsG7K1ZXYAU9JGe.jpg",
+					"url": "https://t.co/OjxHOQCqzR",
+					"display_url": "pic.twitter.com/OjxHOQCqzR",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1351567163660894210/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EsG7K1ZXYAU9JGe.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 760,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 90187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351566199986024400,
+		"quoted_status_id_str": "1351566199986024452",
+		"quoted_status_permalink": {
+			"url": "https://t.co/icPLZ2pCOt",
+			"expanded": "https://twitter.com/bostondotcom/status/1351566199986024452",
+			"display": "twitter.com/bostondotcom/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 19 16:24:27 +0000 2021",
+			"id": 1351566199986024400,
+			"id_str": "1351566199986024452",
+			"full_text": "2021 Boston St. Patrick’s Day Parade canceled due to COVID-19 https://t.co/e0jzIiUOJH https://t.co/3kIualU6ir",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/e0jzIiUOJH",
+						"expanded_url": "https://trib.al/6qYOF0D",
+						"display_url": "trib.al/6qYOF0D",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1351566196437639200,
+						"id_str": "1351566196437639172",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/EsG6S3UXYAQuK1t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsG6S3UXYAQuK1t.jpg",
+						"url": "https://t.co/3kIualU6ir",
+						"display_url": "pic.twitter.com/3kIualU6ir",
+						"expanded_url": "https://twitter.com/BostonDotCom/status/1351566199986024452/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1294,
+								"h": 728,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1351566196437639200,
+						"id_str": "1351566196437639172",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/EsG6S3UXYAQuK1t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsG6S3UXYAQuK1t.jpg",
+						"url": "https://t.co/3kIualU6ir",
+						"display_url": "pic.twitter.com/3kIualU6ir",
+						"expanded_url": "https://twitter.com/BostonDotCom/status/1351566199986024452/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1294,
+								"h": 728,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14602259,
+				"id_str": "14602259",
+				"name": "Boston.com",
+				"screen_name": "BostonDotCom",
+				"location": "Boston, MA",
+				"description": "What Boston really cares about right now.",
+				"url": "https://t.co/RPe2oVfaYR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RPe2oVfaYR",
+								"expanded_url": "http://www.boston.com",
+								"display_url": "boston.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 458729,
+				"friends_count": 2452,
+				"listed_count": 5273,
+				"created_at": "Wed Apr 30 16:28:20 +0000 2008",
+				"favourites_count": 373,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 234508,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/549628214826389504/FkyI1Uva_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/549628214826389504/FkyI1Uva_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14602259/1610904416",
+				"profile_link_color": "9B1C20",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E9E9E9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/icPLZ2pCOt https://t.co/OjxHOQCqzR"
+	},
+	{
+		"created_at": "Tue Jan 19 14:29:36 +0000 2021",
+		"id": 1351529847856754700,
+		"id_str": "1351537297192329216",
+		"full_text": "Play the music! Light the lights! ALL FIVE SEASONS of The Muppet Show are coming exclusively to @DisneyPlus! Why don't we get things started on February 19? https://t.co/mGgWRBa9Yp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "disneyplus",
+					"name": "Disney+",
+					"id": 985916593065476100,
+					"id_str": "985916593065476096",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350230549009363000,
+					"id_str": "1350230549009362944",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Erz74fxVEAECWC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erz74fxVEAECWC7.jpg",
+					"url": "https://t.co/mGgWRBa9Yp",
+					"display_url": "pic.twitter.com/mGgWRBa9Yp",
+					"expanded_url": "https://twitter.com/TheMuppets/status/1351529847856754690/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 985916593065476100,
+					"source_user_id_str": "985916593065476096"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350230549009363000,
+					"id_str": "1350230549009362944",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Erz74fxVEAECWC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erz74fxVEAECWC7.jpg",
+					"url": "https://t.co/mGgWRBa9Yp",
+					"display_url": "pic.twitter.com/mGgWRBa9Yp",
+					"expanded_url": "https://twitter.com/TheMuppets/status/1351529847856754690/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 985916593065476100,
+					"source_user_id_str": "985916593065476096",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57475,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1350230549009362944/vid/480x270/aO83aA_MKwdJyYry.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1350230549009362944/vid/1280x720/d3xVrNex_npg0-_A.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1350230549009362944/pl/E5RmOL8f6GesuIzy.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1350230549009362944/vid/640x360/8UiaOaAsUdlAydsg.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Original Theme Song | The Muppet Show | Disney+",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 985916593065476100,
+							"id_str": "985916593065476096",
+							"name": "Disney+",
+							"screen_name": "disneyplus",
+							"location": "",
+							"description": "📍Westview, we think... #WandaVision",
+							"url": "https://t.co/V4haG0mCB5",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/V4haG0mCB5",
+											"expanded_url": "http://di.sn/6005EfmR7",
+											"display_url": "di.sn/6005EfmR7",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1937019,
+							"friends_count": 168,
+							"listed_count": 2997,
+							"created_at": "Mon Apr 16 16:23:28 +0000 2018",
+							"favourites_count": 1232,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 15240,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1299466541021327362/0h66D1Zg_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299466541021327362/0h66D1Zg_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/985916593065476096/1610734420",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78767466,
+			"id_str": "78767466",
+			"name": "The Muppets",
+			"screen_name": "TheMuppets",
+			"location": "",
+			"description": "Welcome to the official home of The Muppets on Twitter!",
+			"url": "https://t.co/b31M4AGZuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b31M4AGZuk",
+							"expanded_url": "http://disney.com/Muppets",
+							"display_url": "disney.com/Muppets",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375568,
+			"friends_count": 183,
+			"listed_count": 3701,
+			"created_at": "Thu Oct 01 01:38:59 +0000 2009",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A913C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289576618382385153/P0rhFsym_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289576618382385153/P0rhFsym_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78767466/1532543146",
+			"profile_link_color": "2E8A07",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5106,
+		"favorite_count": 23985,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Play the music! Light the lights! ALL FIVE SEASONS of The Muppet Show are coming exclusively to @DisneyPlus! Why don't we get things started on February 19? https://t.co/mGgWRBa9Yp"
+	},
+	{
 		"created_at": "Mon Jan 18 22:22:18 +0000 2021",
 		"id": 1351293868680089600,
 		"id_str": "1351293868680089603",
