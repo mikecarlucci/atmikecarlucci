@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 23:55:44 +0000 2021",
+		"id": 1352766930499887000,
+		"id_str": "1352766930499887104",
+		"full_text": "@90feetfromhome https://t.co/QGOZBXxYi3",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "90feetfromhome",
+					"name": "Ashley MacLennan",
+					"id": 776786543377645600,
+					"id_str": "776786543377645572",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352766922648137700,
+					"id_str": "1352766922648137732",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsX-WVBXMAQESxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsX-WVBXMAQESxl.jpg",
+					"url": "https://t.co/QGOZBXxYi3",
+					"display_url": "pic.twitter.com/QGOZBXxYi3",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1352766930499887104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 388,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352766922648137700,
+					"id_str": "1352766922648137732",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsX-WVBXMAQESxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsX-WVBXMAQESxl.jpg",
+					"url": "https://t.co/QGOZBXxYi3",
+					"display_url": "pic.twitter.com/QGOZBXxYi3",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1352766930499887104/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 388,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							97,
+							75
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EsX-WVBXMAQESxl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1352765495326470100,
+		"in_reply_to_status_id_str": "1352765495326470144",
+		"in_reply_to_user_id": 776786543377645600,
+		"in_reply_to_user_id_str": "776786543377645572",
+		"in_reply_to_screen_name": "90feetfromhome",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4439,
+			"friends_count": 760,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 90568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@90feetfromhome https://t.co/QGOZBXxYi3"
+	},
+	{
+		"created_at": "Fri Jan 22 23:01:22 +0000 2021",
+		"id": 1352748933303455700,
+		"id_str": "1352753252278931457",
+		"full_text": "I just discovered this image exists and I can't stop laughing https://t.co/vPePcQ0Qpx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352748925715947500,
+					"id_str": "1352748925715947521",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EsXt-xOXIAECPor.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsXt-xOXIAECPor.jpg",
+					"url": "https://t.co/vPePcQ0Qpx",
+					"display_url": "pic.twitter.com/vPePcQ0Qpx",
+					"expanded_url": "https://twitter.com/Marc_Normandin/status/1352748933303455747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352748925715947500,
+					"id_str": "1352748925715947521",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EsXt-xOXIAECPor.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsXt-xOXIAECPor.jpg",
+					"url": "https://t.co/vPePcQ0Qpx",
+					"display_url": "pic.twitter.com/vPePcQ0Qpx",
+					"expanded_url": "https://twitter.com/Marc_Normandin/status/1352748933303455747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37712997,
+			"id_str": "37712997",
+			"name": "Marc Normandin",
+			"screen_name": "Marc_Normandin",
+			"location": "Maine",
+			"description": "Patreon-ing and freelancing on sports labor, especially baseball, and writing about retro video games, too. He/him",
+			"url": "https://t.co/0Lcws8ObxO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Lcws8ObxO",
+							"expanded_url": "https://www.patreon.com/marcnormandin",
+							"display_url": "patreon.com/marcnormandin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9028,
+			"friends_count": 2023,
+			"listed_count": 550,
+			"created_at": "Mon May 04 17:52:34 +0000 2009",
+			"favourites_count": 28442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192434352317247489/WFCZmI83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192434352317247489/WFCZmI83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37712997/1528746616",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I just discovered this image exists and I can't stop laughing https://t.co/vPePcQ0Qpx"
+	},
+	{
+		"created_at": "Fri Jan 22 21:14:52 +0000 2021",
+		"id": 1352726448289816600,
+		"id_str": "1352726448289816581",
+		"full_text": "Something something Antiquities Act https://t.co/ThdYoxRG14",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ThdYoxRG14",
+					"expanded_url": "https://twitter.com/SeanTwoNames/status/1352313963715780608",
+					"display_url": "twitter.com/SeanTwoNames/s…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4439,
+			"friends_count": 760,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 90568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352313963715780600,
+		"quoted_status_id_str": "1352313963715780608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ThdYoxRG14",
+			"expanded": "https://twitter.com/SeanTwoNames/status/1352313963715780608",
+			"display": "twitter.com/SeanTwoNames/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 21 17:55:48 +0000 2021",
+			"id": 1352313963715780600,
+			"id_str": "1352313963715780608",
+			"full_text": "He’s signing an executive order that weirdly benefits you and only you.\n\nWhat is it? 🤔 https://t.co/yKaQsFmnkA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1352313960955998200,
+						"id_str": "1352313960955998208",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/EsRiYfOVcAAFZ46.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsRiYfOVcAAFZ46.jpg",
+						"url": "https://t.co/yKaQsFmnkA",
+						"display_url": "pic.twitter.com/yKaQsFmnkA",
+						"expanded_url": "https://twitter.com/SeanTwoNames/status/1352313963715780608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 776,
+								"h": 478,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 419,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 776,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1352313960955998200,
+						"id_str": "1352313960955998208",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/EsRiYfOVcAAFZ46.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsRiYfOVcAAFZ46.jpg",
+						"url": "https://t.co/yKaQsFmnkA",
+						"display_url": "pic.twitter.com/yKaQsFmnkA",
+						"expanded_url": "https://twitter.com/SeanTwoNames/status/1352313963715780608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 776,
+								"h": 478,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 419,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 776,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110734811,
+				"id_str": "110734811",
+				"name": "Sean Collins-Smith",
+				"screen_name": "SeanTwoNames",
+				"location": "Sherman Oaks, CA",
+				"description": "Repped @ 3Arts // Austin Film Fest Winner // ISA Fast Track Winner // Gameshow Winner? // ABC-Disney Finalist // Award-Winning Journalist // Gimme Springsteen",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1932,
+				"friends_count": 522,
+				"listed_count": 18,
+				"created_at": "Tue Feb 02 15:56:49 +0000 2010",
+				"favourites_count": 17280,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4621,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "870404",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326216684181614593/k-fE3_X1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326216684181614593/k-fE3_X1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110734811/1599110586",
+				"profile_link_color": "D40020",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "870404",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 263,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Something something Antiquities Act https://t.co/ThdYoxRG14"
+	},
+	{
+		"created_at": "Fri Jan 22 16:00:58 +0000 2021",
+		"id": 1352640426847719400,
+		"id_str": "1352647451556065287",
+		"full_text": "Hank Aaron was an All-Star in *every* season from 1955-1975.\n\nFrom Eisenhower to Ford.\n\nHis 21 All-Star seasons are a record, one ahead of Willie Mays and Stan Musial in second.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390772870,
+			"id_str": "1390772870",
+			"name": "Sam Dykstra",
+			"screen_name": "SamDykstraMiLB",
+			"location": "New York, NY",
+			"description": "Reporter with @MiLB. Email: Sam.Dykstra[at]MLB[dot]com. He/him.",
+			"url": "https://t.co/Ie82CxnpKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ie82CxnpKo",
+							"expanded_url": "http://MiLB.com",
+							"display_url": "MiLB.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5253,
+			"friends_count": 742,
+			"listed_count": 182,
+			"created_at": "Tue Apr 30 00:17:32 +0000 2013",
+			"favourites_count": 2602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348864882070986752/fe7X_BKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348864882070986752/fe7X_BKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390772870/1367281766",
+			"profile_link_color": "3B7536",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 306,
+		"favorite_count": 914,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hank Aaron was an All-Star in *every* season from 1955-1975.\n\nFrom Eisenhower to Ford.\n\nHis 21 All-Star seasons are a record, one ahead of Willie Mays and Stan Musial in second."
+	},
+	{
 		"created_at": "Thu Jan 21 21:08:46 +0000 2021",
 		"id": 1352362525132812300,
 		"id_str": "1352362525132812293",
