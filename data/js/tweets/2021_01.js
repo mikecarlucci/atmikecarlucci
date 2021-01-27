@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 17:57:55 +0000 2021",
+		"id": 1354126434395107300,
+		"id_str": "1354126434395107329",
+		"full_text": "I just... https://t.co/axenf398fW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/axenf398fW",
+					"expanded_url": "https://twitter.com/abc7ny/status/1354104443848044545",
+					"display_url": "twitter.com/abc7ny/status/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4436,
+			"friends_count": 756,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 90817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1354104443848044500,
+		"quoted_status_id_str": "1354104443848044545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/axenf398fW",
+			"expanded": "https://twitter.com/abc7ny/status/1354104443848044545",
+			"display": "twitter.com/abc7ny/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 26 16:30:32 +0000 2021",
+			"id": 1354104443848044500,
+			"id_str": "1354104443848044545",
+			"full_text": "Target joins Costco in dropping coconut milk brand over forced monkey labor allegations https://t.co/4nHM0pHxZo https://t.co/0hcQg8j5ms",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4nHM0pHxZo",
+						"expanded_url": "http://7ny.tv/2YjEg6E",
+						"display_url": "7ny.tv/2YjEg6E",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1354104439871856600,
+						"id_str": "1354104439871856645",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/Esq-0E9XYAUePlV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Esq-0E9XYAUePlV.jpg",
+						"url": "https://t.co/0hcQg8j5ms",
+						"display_url": "pic.twitter.com/0hcQg8j5ms",
+						"expanded_url": "https://twitter.com/ABC7NY/status/1354104443848044545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1354104439871856600,
+						"id_str": "1354104439871856645",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/Esq-0E9XYAUePlV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Esq-0E9XYAUePlV.jpg",
+						"url": "https://t.co/0hcQg8j5ms",
+						"display_url": "pic.twitter.com/0hcQg8j5ms",
+						"expanded_url": "https://twitter.com/ABC7NY/status/1354104443848044545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16715398,
+				"id_str": "16715398",
+				"name": "Eyewitness News",
+				"screen_name": "ABC7NY",
+				"location": "New York City",
+				"description": "New York's #1 news, Channel 7 Eyewitness News. WABC-TV. Comments & photos shared here or using #abc7NY could be used on any ABC platforms.",
+				"url": "https://t.co/jfhEMrUXM9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jfhEMrUXM9",
+								"expanded_url": "http://abc7ny.com",
+								"display_url": "abc7ny.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 704586,
+				"friends_count": 30049,
+				"listed_count": 3862,
+				"created_at": "Mon Oct 13 02:33:46 +0000 2008",
+				"favourites_count": 7930,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 331866,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910523413705510913/8qZNWUOQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910523413705510913/8qZNWUOQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16715398/1502890618",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 772,
+			"favorite_count": 2576,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I just... https://t.co/axenf398fW"
+	},
+	{
+		"created_at": "Tue Jan 26 17:57:26 +0000 2021",
+		"id": 1354126316648472600,
+		"id_str": "1354126316648472576",
+		"full_text": "@GlobeChadFinn https://t.co/xWw02G0IxU",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GlobeChadFinn",
+					"name": "Chad Finn",
+					"id": 19968995,
+					"id_str": "19968995",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354126310357012500,
+					"id_str": "1354126310357012481",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsrStG3XEAEn7tG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsrStG3XEAEn7tG.jpg",
+					"url": "https://t.co/xWw02G0IxU",
+					"display_url": "pic.twitter.com/xWw02G0IxU",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1354126316648472576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354126310357012500,
+					"id_str": "1354126310357012481",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsrStG3XEAEn7tG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsrStG3XEAEn7tG.jpg",
+					"url": "https://t.co/xWw02G0IxU",
+					"display_url": "pic.twitter.com/xWw02G0IxU",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1354126316648472576/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 246,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EsrStG3XEAEn7tG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1354120600177045500,
+		"in_reply_to_status_id_str": "1354120600177045506",
+		"in_reply_to_user_id": 19968995,
+		"in_reply_to_user_id_str": "19968995",
+		"in_reply_to_screen_name": "GlobeChadFinn",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4436,
+			"friends_count": 756,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 90817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@GlobeChadFinn https://t.co/xWw02G0IxU"
+	},
+	{
 		"created_at": "Tue Jan 26 00:48:52 +0000 2021",
 		"id": 1353867467098099700,
 		"id_str": "1353867467098099712",
