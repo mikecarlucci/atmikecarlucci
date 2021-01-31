@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 30 22:32:54 +0000 2021",
+		"id": 1355645190502047700,
+		"id_str": "1355645190502047747",
+		"full_text": "Darth Revan reveal https://t.co/BAZ24bZ7dF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BAZ24bZ7dF",
+					"expanded_url": "https://twitter.com/brianpshea/status/1355569281954701312",
+					"display_url": "twitter.com/brianpshea/sta…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4435,
+			"friends_count": 757,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 91034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1355569281954701300,
+		"quoted_status_id_str": "1355569281954701312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BAZ24bZ7dF",
+			"expanded": "https://twitter.com/brianpshea/status/1355569281954701312",
+			"display": "twitter.com/brianpshea/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 30 17:31:16 +0000 2021",
+			"id": 1355569281954701300,
+			"id_str": "1355569281954701312",
+			"full_text": "What moment in a video game will stick with you for the rest of your life?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29994187,
+				"id_str": "29994187",
+				"name": "Brian Shea",
+				"screen_name": "BrianPShea",
+				"location": "Minneapolis, MN",
+				"description": "Digital Editor of Game Informer Magazine. @brianpshea on Instagram. Video Games. MMA. Music. Fitness. 33 https://t.co/vWX2PSFFOl",
+				"url": "https://t.co/gJH563ehQf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gJH563ehQf",
+								"expanded_url": "http://gameinformer.com",
+								"display_url": "gameinformer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vWX2PSFFOl",
+								"expanded_url": "http://www.instagram.com/brianpshea",
+								"display_url": "instagram.com/brianpshea",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8698,
+				"friends_count": 1202,
+				"listed_count": 212,
+				"created_at": "Thu Apr 09 14:31:10 +0000 2009",
+				"favourites_count": 61537,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 69537,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1352118382666133509/sBuw4u6E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352118382666133509/sBuw4u6E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29994187/1551656819",
+				"profile_link_color": "000D99",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 299,
+			"favorite_count": 5850,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Darth Revan reveal https://t.co/BAZ24bZ7dF"
+	},
+	{
+		"created_at": "Sat Jan 30 17:57:58 +0000 2021",
+		"id": 1355576001787531300,
+		"id_str": "1355576001787531272",
+		"full_text": "https://t.co/oJZbr4M3rp https://t.co/e4x0mRUV6X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oJZbr4M3rp",
+					"expanded_url": "https://twitter.com/BaseballAmerica/status/1355568981130809348",
+					"display_url": "twitter.com/BaseballAmeric…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1355575996259426300,
+					"id_str": "1355575996259426305",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Es_5L7sW4AE-N0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Es_5L7sW4AE-N0y.jpg",
+					"url": "https://t.co/e4x0mRUV6X",
+					"display_url": "pic.twitter.com/e4x0mRUV6X",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1355576001787531272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1355575996259426300,
+					"id_str": "1355575996259426305",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Es_5L7sW4AE-N0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Es_5L7sW4AE-N0y.jpg",
+					"url": "https://t.co/e4x0mRUV6X",
+					"display_url": "pic.twitter.com/e4x0mRUV6X",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1355576001787531272/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Es_5L7sW4AE-N0y.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4435,
+			"friends_count": 757,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 91034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1355568981130809300,
+		"quoted_status_id_str": "1355568981130809348",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oJZbr4M3rp",
+			"expanded": "https://twitter.com/BaseballAmerica/status/1355568981130809348",
+			"display": "twitter.com/BaseballAmeric…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 30 17:30:05 +0000 2021",
+			"id": 1355568981130809300,
+			"id_str": "1355568981130809348",
+			"full_text": "STOCK WATCH 📈\n\nHow baseball's Top 30 draft prospects can get even better in 2021: \n\nhttps://t.co/jQr2Nu28SU https://t.co/A8eIM2q5WE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jQr2Nu28SU",
+						"expanded_url": "https://buff.ly/3okjpuL",
+						"display_url": "buff.ly/3okjpuL",
+						"indices": [
+							84,
+							107
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1355568979578937300,
+						"id_str": "1355568979578937353",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/Es_yzghXYAkodDD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Es_yzghXYAkodDD.jpg",
+						"url": "https://t.co/A8eIM2q5WE",
+						"display_url": "pic.twitter.com/A8eIM2q5WE",
+						"expanded_url": "https://twitter.com/BaseballAmerica/status/1355568981130809348/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 665,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 665,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1355568979578937300,
+						"id_str": "1355568979578937353",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/Es_yzghXYAkodDD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Es_yzghXYAkodDD.jpg",
+						"url": "https://t.co/A8eIM2q5WE",
+						"display_url": "pic.twitter.com/A8eIM2q5WE",
+						"expanded_url": "https://twitter.com/BaseballAmerica/status/1355568981130809348/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 665,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 665,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21410529,
+				"id_str": "21410529",
+				"name": "Baseball America",
+				"screen_name": "BaseballAmerica",
+				"location": "Durham, N.C.",
+				"description": "Unparalleled coverage and authority for nearly 40 years. Get in the game👇",
+				"url": "https://t.co/bkHpdMr2mk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bkHpdMr2mk",
+								"expanded_url": "https://www.baseballamerica.com/sign-up/",
+								"display_url": "baseballamerica.com/sign-up/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 272119,
+				"friends_count": 1040,
+				"listed_count": 4695,
+				"created_at": "Fri Feb 20 16:33:00 +0000 2009",
+				"favourites_count": 1577,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 114151,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1095443676413808640/tGwquyUa_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095443676413808640/tGwquyUa_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21410529/1556369903",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/oJZbr4M3rp https://t.co/e4x0mRUV6X"
+	},
+	{
 		"created_at": "Fri Jan 29 03:47:17 +0000 2021",
 		"id": 1354999530253652000,
 		"id_str": "1354999530253651968",
