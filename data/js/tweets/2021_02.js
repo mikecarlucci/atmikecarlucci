@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 03 01:27:57 +0000 2021",
+		"id": 1356776404357120000,
+		"id_str": "1356776404357120001",
+		"full_text": "I’m...not convinced there is anyone on par. But it’ll still be exciting https://t.co/XySI1fs3Oq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XySI1fs3Oq",
+					"expanded_url": "https://twitter.com/getfandom/status/1356738576055037952",
+					"display_url": "twitter.com/getfandom/stat…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4434,
+			"friends_count": 756,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 91119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1356738576055038000,
+		"quoted_status_id_str": "1356738576055037952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XySI1fs3Oq",
+			"expanded": "https://twitter.com/getfandom/status/1356738576055037952",
+			"display": "twitter.com/getfandom/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 02 22:57:38 +0000 2021",
+			"id": 1356738576055038000,
+			"id_str": "1356738576055037952",
+			"full_text": "Elizabeth Olsen is 'really excited' for fans to see a major #WandaVision cameo that's on par with Luke Skywalker in 'The Mandalorian' 🤐\n\n(via @TVLine | https://t.co/q3sPNyDKmC) https://t.co/2cQt4YbM1Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WandaVision",
+						"indices": [
+							60,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TVLine",
+						"name": "TVLine.com",
+						"id": 227347152,
+						"id_str": "227347152",
+						"indices": [
+							142,
+							149
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/q3sPNyDKmC",
+						"expanded_url": "http://bit.ly/3tl0x2r",
+						"display_url": "bit.ly/3tl0x2r",
+						"indices": [
+							152,
+							175
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1356738324279353300,
+						"id_str": "1356738324279353346",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/EtQaUU_UYAIUvMn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtQaUU_UYAIUvMn.jpg",
+						"url": "https://t.co/2cQt4YbM1Q",
+						"display_url": "pic.twitter.com/2cQt4YbM1Q",
+						"expanded_url": "https://twitter.com/getFANDOM/status/1356738576055037952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1356738324279353300,
+						"id_str": "1356738324279353346",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/EtQaUU_UYAIUvMn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtQaUU_UYAIUvMn.jpg",
+						"url": "https://t.co/2cQt4YbM1Q",
+						"display_url": "pic.twitter.com/2cQt4YbM1Q",
+						"expanded_url": "https://twitter.com/getFANDOM/status/1356738576055037952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1356738389068771300,
+						"id_str": "1356738389068771329",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/EtQaYGWUcAEgg6O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtQaYGWUcAEgg6O.jpg",
+						"url": "https://t.co/2cQt4YbM1Q",
+						"display_url": "pic.twitter.com/2cQt4YbM1Q",
+						"expanded_url": "https://twitter.com/getFANDOM/status/1356738576055037952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 507,
+								"h": 507,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 507,
+								"h": 507,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 507,
+								"h": 507,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1332121,
+				"id_str": "1332121",
+				"name": "Fandom",
+				"screen_name": "getFANDOM",
+				"location": "San Francisco, CA",
+				"description": "🎥 🎮 The latest news in Movies, TV, and Video Games. IG: getfandom 📷\n\n🏠: @screenjunkies, @dndbeyond, @muthead, @FandomTableTop, @CortexRPG, @futhead",
+				"url": "https://t.co/wVFp54Da1X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wVFp54Da1X",
+								"expanded_url": "https://www.fandom.com",
+								"display_url": "fandom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 368516,
+				"friends_count": 45249,
+				"listed_count": 1574,
+				"created_at": "Sat Mar 17 03:28:55 +0000 2007",
+				"favourites_count": 11600,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48347,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D5DADF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1214705554544721920/LiVtsvCY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214705554544721920/LiVtsvCY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1332121/1609876832",
+				"profile_link_color": "00D6D6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E7E7E7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 894,
+			"favorite_count": 9512,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m...not convinced there is anyone on par. But it’ll still be exciting https://t.co/XySI1fs3Oq"
+	},
+	{
+		"created_at": "Wed Feb 03 01:07:20 +0000 2021",
+		"id": 1356763981751480300,
+		"id_str": "1356771217638834178",
+		"full_text": "It’s true. The Space Force has a long and noble history that must be respected. From Mutara to Khitomer, from Setlik to Wolf 359, from Bajor to Cardassia Prime—the Space Force has always defended our values. https://t.co/m3Qdfnq3Bm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m3Qdfnq3Bm",
+					"expanded_url": "https://twitter.com/actbrigitte/status/1356729705349709824",
+					"display_url": "twitter.com/actbrigitte/st…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14207809,
+			"id_str": "14207809",
+			"name": "Benjamin Freed",
+			"screen_name": "brfreed",
+			"location": "Washington, D.C.",
+			"description": "Tech Editor, @State_Scoop. | Cybersecurity, election security, and other fun stuff for state IT. | benjamin.freed@statescoop.com | DM for Signal",
+			"url": "https://t.co/ZrucW00i69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZrucW00i69",
+							"expanded_url": "http://statescoop.com",
+							"display_url": "statescoop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8662,
+			"friends_count": 2823,
+			"listed_count": 347,
+			"created_at": "Mon Mar 24 14:49:27 +0000 2008",
+			"favourites_count": 5338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182307078276370432/eRmZ9Eoo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182307078276370432/eRmZ9Eoo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14207809/1610202518",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1356729705349709800,
+		"quoted_status_id_str": "1356729705349709824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m3Qdfnq3Bm",
+			"expanded": "https://twitter.com/actbrigitte/status/1356729705349709824",
+			"display": "twitter.com/actbrigitte/st…"
+		},
+		"retweet_count": 93,
+		"favorite_count": 485,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s true. The Space Force has a long and noble history that must be respected. From Mutara to Khitomer, from Setlik to Wolf 359, from Bajor to Cardassia Prime—the Space Force has always defended our values. https://t.co/m3Qdfnq3Bm"
+	},
+	{
 		"created_at": "Mon Feb 01 23:53:06 +0000 2021",
 		"id": 1356369285736620000,
 		"id_str": "1356390147072393216",
