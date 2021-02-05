@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 01:08:48 +0000 2021",
+		"id": 1340582196466184200,
+		"id_str": "1357496361449619463",
+		"full_text": "Absolutely 100% the song of the year. When the clubs re-open, this should be the banger which welcomes us all back to the dance floor... https://t.co/0h2VLo4nl9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340025246443827200,
+					"id_str": "1340025246443827203",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1340025246443827203/img/jURSTvxAsRQi2LQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1340025246443827203/img/jURSTvxAsRQi2LQz.jpg",
+					"url": "https://t.co/0h2VLo4nl9",
+					"display_url": "pic.twitter.com/0h2VLo4nl9",
+					"expanded_url": "https://twitter.com/icimizdekipic/status/1340025691874729987/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1340025691874730000,
+					"source_status_id_str": "1340025691874729987",
+					"source_user_id": 1200493022,
+					"source_user_id_str": "1200493022"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340025246443827200,
+					"id_str": "1340025246443827203",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1340025246443827203/img/jURSTvxAsRQi2LQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1340025246443827203/img/jURSTvxAsRQi2LQz.jpg",
+					"url": "https://t.co/0h2VLo4nl9",
+					"display_url": "pic.twitter.com/0h2VLo4nl9",
+					"expanded_url": "https://twitter.com/icimizdekipic/status/1340025691874729987/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1340025691874730000,
+					"source_status_id_str": "1340025691874729987",
+					"source_user_id": 1200493022,
+					"source_user_id_str": "1200493022",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 201634,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1340025246443827203/vid/1280x720/oeIA0WiREMvYgLKo.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1340025246443827203/pl/7QfbiUl5K_cvdQGa.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1340025246443827203/vid/640x360/YPLoePqOC75f5iEl.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1340025246443827203/vid/480x270/etIKEevNw-rkiKwu.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1200493022,
+							"id_str": "1200493022",
+							"name": "icimizdekipic",
+							"screen_name": "icimizdekipic",
+							"location": "İzmir, Türkiye",
+							"description": "Burası benim istediğimi yazarım.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 408760,
+							"friends_count": 515,
+							"listed_count": 203,
+							"created_at": "Wed Feb 20 10:53:53 +0000 2013",
+							"favourites_count": 12379,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 3119,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "DD2E44",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/771327848623771648/U2BjXzYU_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/771327848623771648/U2BjXzYU_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1200493022/1507714439",
+							"profile_link_color": "DD2E44",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 222825239,
+			"id_str": "222825239",
+			"name": "Can Okar",
+			"screen_name": "canokar",
+			"location": "",
+			"description": "Mostly Turkish politics and economy, with a healthy side order of Brexit/Beşiktaş/Arsenal angst",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23644,
+			"friends_count": 712,
+			"listed_count": 236,
+			"created_at": "Sat Dec 04 15:30:21 +0000 2010",
+			"favourites_count": 21000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335933913852768257/p1-8ZBy3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335933913852768257/p1-8ZBy3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/222825239/1558102975",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1480,
+		"favorite_count": 5180,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolutely 100% the song of the year. When the clubs re-open, this should be the banger which welcomes us all back to the dance floor... https://t.co/0h2VLo4nl9"
+	},
+	{
+		"created_at": "Thu Feb 04 13:56:48 +0000 2021",
+		"id": 1357316469974065200,
+		"id_str": "1357327247917604866",
+		"full_text": "Old enough to remember when conservatives tried to cancel French fries.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19374372,
+			"id_str": "19374372",
+			"name": "Brian Murphy",
+			"screen_name": "Burrite",
+			"location": "1 E 161st St, Bronx, NY",
+			"description": "Historian @Rutgers_Newark. Got a scar at Action Park. Author of “Building the Empire State.” New work: political ecology & state formation in NJ. Grant me grace",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7540,
+			"friends_count": 1213,
+			"listed_count": 186,
+			"created_at": "Fri Jan 23 01:23:44 +0000 2009",
+			"favourites_count": 2815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2B8C33",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086097620232224768/ZiVHp86h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086097620232224768/ZiVHp86h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19374372/1577678183",
+			"profile_link_color": "660001",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D9DEDA",
+			"profile_text_color": "45280D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10310,
+		"favorite_count": 83902,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Old enough to remember when conservatives tried to cancel French fries."
+	},
+	{
 		"created_at": "Wed Feb 03 04:20:27 +0000 2021",
 		"id": 1356819816238248000,
 		"id_str": "1356819816238247938",
