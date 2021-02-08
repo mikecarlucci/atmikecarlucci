@@ -1,6 +1,577 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 07 19:49:06 +0000 2021",
+		"id": 1358503070104174600,
+		"id_str": "1358503070104174592",
+		"full_text": "https://t.co/nEgsaGmBku https://t.co/F5CYwrWPBG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nEgsaGmBku",
+					"expanded_url": "https://twitter.com/juanny_depp/status/1358214104058458112",
+					"display_url": "twitter.com/juanny_depp/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358503065553432600,
+					"id_str": "1358503065553432580",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EtpfVyiXcAQ-2MY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtpfVyiXcAQ-2MY.jpg",
+					"url": "https://t.co/F5CYwrWPBG",
+					"display_url": "pic.twitter.com/F5CYwrWPBG",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1358503070104174592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 662,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 662,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 662,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358503065553432600,
+					"id_str": "1358503065553432580",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EtpfVyiXcAQ-2MY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtpfVyiXcAQ-2MY.jpg",
+					"url": "https://t.co/F5CYwrWPBG",
+					"display_url": "pic.twitter.com/F5CYwrWPBG",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1358503070104174592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 662,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 662,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 662,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4433,
+			"friends_count": 758,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 91437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1358214104058458000,
+		"quoted_status_id_str": "1358214104058458112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nEgsaGmBku",
+			"expanded": "https://twitter.com/juanny_depp/status/1358214104058458112",
+			"display": "twitter.com/juanny_depp/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 07 00:40:51 +0000 2021",
+			"id": 1358214104058458000,
+			"id_str": "1358214104058458112",
+			"full_text": "what are you listening to on this? https://t.co/NPUiDh6XFO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1358214101478957000,
+						"id_str": "1358214101478957056",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/EtlYh3eUYAAS5xX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtlYh3eUYAAS5xX.jpg",
+						"url": "https://t.co/NPUiDh6XFO",
+						"display_url": "pic.twitter.com/NPUiDh6XFO",
+						"expanded_url": "https://twitter.com/juanny_depp/status/1358214104058458112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1358214101478957000,
+						"id_str": "1358214101478957056",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/EtlYh3eUYAAS5xX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtlYh3eUYAAS5xX.jpg",
+						"url": "https://t.co/NPUiDh6XFO",
+						"display_url": "pic.twitter.com/NPUiDh6XFO",
+						"expanded_url": "https://twitter.com/juanny_depp/status/1358214104058458112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135987565,
+				"id_str": "135987565",
+				"name": "JUANNY DEPP",
+				"screen_name": "juanny_depp",
+				"location": "San Francisco, CA",
+				"description": "dislikable honduran boy | @amordigital415",
+				"url": "https://t.co/0ZqRuAXdQN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0ZqRuAXdQN",
+								"expanded_url": "http://juannydepp.bandcamp.com",
+								"display_url": "juannydepp.bandcamp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 964,
+				"friends_count": 631,
+				"listed_count": 6,
+				"created_at": "Thu Apr 22 18:40:13 +0000 2010",
+				"favourites_count": 23616,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 45227,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1324301290466234368/eznSuMQI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324301290466234368/eznSuMQI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135987565/1599720122",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 587,
+			"favorite_count": 10074,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/nEgsaGmBku https://t.co/F5CYwrWPBG"
+	},
+	{
+		"created_at": "Sun Feb 07 16:19:58 +0000 2021",
+		"id": 1358450442305437700,
+		"id_str": "1358450442305437698",
+		"full_text": "This 👇 https://t.co/khoKO9lnkY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/khoKO9lnkY",
+					"expanded_url": "https://twitter.com/saffronolive/status/1358432091340476416",
+					"display_url": "twitter.com/saffronolive/s…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4433,
+			"friends_count": 758,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 91437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1358432091340476400,
+		"quoted_status_id_str": "1358432091340476416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/khoKO9lnkY",
+			"expanded": "https://twitter.com/saffronolive/status/1358432091340476416",
+			"display": "twitter.com/saffronolive/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 07 15:07:03 +0000 2021",
+			"id": 1358432091340476400,
+			"id_str": "1358432091340476416",
+			"full_text": "Technically you don't \"need\" any cards to play Commander, but I believe a big appeal of the format is you get to play with nostalgic and powerful old cards. Commander is a better format when cards like Wheel of Fortune are accessible.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1358431718227771400,
+			"in_reply_to_status_id_str": "1358431718227771393",
+			"in_reply_to_user_id": 1306129981,
+			"in_reply_to_user_id_str": "1306129981",
+			"in_reply_to_screen_name": "SaffronOlive",
+			"user": {
+				"id": 1306129981,
+				"id_str": "1306129981",
+				"name": "Saffron Olive",
+				"screen_name": "SaffronOlive",
+				"location": "New York, USA.",
+				"description": "Jank brewer, language rebel, podcaster, youtuber and content manager at @mtggoldfish.com. Contact: SaffronOlive@MTGGoldfish.com.",
+				"url": "http://t.co/wSLtsoUwch",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wSLtsoUwch",
+								"expanded_url": "http://mtggoldfish.com",
+								"display_url": "mtggoldfish.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59036,
+				"friends_count": 421,
+				"listed_count": 440,
+				"created_at": "Wed Mar 27 01:06:24 +0000 2013",
+				"favourites_count": 20020,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52583,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191112322779090944/6HE5q2JG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191112322779090944/6HE5q2JG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1306129981/1515685685",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 228,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This 👇 https://t.co/khoKO9lnkY"
+	},
+	{
 		"created_at": "Sat Feb 06 23:01:35 +0000 2021",
 		"id": 1358172215146078200,
 		"id_str": "1358189124507684865",
