@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 17:48:53 +0000 2021",
+		"id": 1359559979481657300,
+		"id_str": "1359559979481657345",
+		"full_text": "https://t.co/XixzChACBi https://t.co/kFtFzgL0jz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XixzChACBi",
+					"expanded_url": "https://twitter.com/tvline/status/1359540141178691592",
+					"display_url": "twitter.com/tvline/status/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359559973928337400,
+					"id_str": "1359559973928337409",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Et4gl9DWgAEgVf4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Et4gl9DWgAEgVf4.jpg",
+					"url": "https://t.co/kFtFzgL0jz",
+					"display_url": "pic.twitter.com/kFtFzgL0jz",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1359559979481657345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359559973928337400,
+					"id_str": "1359559973928337409",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Et4gl9DWgAEgVf4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Et4gl9DWgAEgVf4.jpg",
+					"url": "https://t.co/kFtFzgL0jz",
+					"display_url": "pic.twitter.com/kFtFzgL0jz",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1359559979481657345/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Et4gl9DWgAEgVf4.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4433,
+			"friends_count": 758,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 91590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359540141178691600,
+		"quoted_status_id_str": "1359540141178691592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XixzChACBi",
+			"expanded": "https://twitter.com/tvline/status/1359540141178691592",
+			"display": "twitter.com/tvline/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 10 16:30:03 +0000 2021",
+			"id": 1359540141178691600,
+			"id_str": "1359540141178691592",
+			"full_text": "#CloneHigh Reboot, From @VDOOZER, @chrizmillr and @philiplord, Snags 2-Season Order at HBO Max https://t.co/bCF3HG4lBM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CloneHigh",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VDOOZER",
+						"name": "Bill Lawrence",
+						"id": 18512102,
+						"id_str": "18512102",
+						"indices": [
+							24,
+							32
+						]
+					},
+					{
+						"screen_name": "chrizmillr",
+						"name": "Christopher Miller",
+						"id": 42982250,
+						"id_str": "42982250",
+						"indices": [
+							34,
+							45
+						]
+					},
+					{
+						"screen_name": "philiplord",
+						"name": "Phil Lord #BlackLivesMatter #WearAMask",
+						"id": 42825374,
+						"id_str": "42825374",
+						"indices": [
+							50,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bCF3HG4lBM",
+						"expanded_url": "https://tvline.com/2021/02/10/clone-high-reboot-hbo-max-new-episodes/",
+						"display_url": "tvline.com/2021/02/10/clo…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 227347152,
+				"id_str": "227347152",
+				"name": "TVLine.com",
+				"screen_name": "TVLine",
+				"location": "New York City / Los Angeles",
+				"description": "All TV. No Interference.",
+				"url": "http://t.co/D2vfCVcMZi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/D2vfCVcMZi",
+								"expanded_url": "http://www.TVLine.com",
+								"display_url": "TVLine.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 154652,
+				"friends_count": 121,
+				"listed_count": 2227,
+				"created_at": "Thu Dec 16 16:09:15 +0000 2010",
+				"favourites_count": 1360,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 86294,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/471294056828399617/nINwN6KH_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/471294056828399617/nINwN6KH_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/227347152/1592518311",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/XixzChACBi https://t.co/kFtFzgL0jz"
+	},
+	{
 		"created_at": "Wed Feb 10 02:21:25 +0000 2021",
 		"id": 1359326577310519300,
 		"id_str": "1359326577310519298",
