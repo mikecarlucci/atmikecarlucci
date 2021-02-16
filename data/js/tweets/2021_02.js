@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 23:01:28 +0000 2021",
+		"id": 1361450583421558800,
+		"id_str": "1361450583421558785",
+		"full_text": "You’ll break down and call AAA https://t.co/BQMFx7KyBF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BQMFx7KyBF",
+					"expanded_url": "https://twitter.com/thelaceylondon/status/1361410296703836168",
+					"display_url": "twitter.com/thelaceylondon…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4432,
+			"friends_count": 758,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 91856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361410296703836200,
+		"quoted_status_id_str": "1361410296703836168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BQMFx7KyBF",
+			"expanded": "https://twitter.com/thelaceylondon/status/1361410296703836168",
+			"display": "twitter.com/thelaceylondon…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 15 20:21:23 +0000 2021",
+			"id": 1361410296703836200,
+			"id_str": "1361410296703836168",
+			"full_text": "In six words or fewer, write a short story about this photo...\n\n#amwriting #sixwordstory https://t.co/w4QWXjKzvX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "amwriting",
+						"indices": [
+							64,
+							74
+						]
+					},
+					{
+						"text": "sixwordstory",
+						"indices": [
+							75,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1361410284867453000,
+						"id_str": "1361410284867452929",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/EuSzcOcWgAEOqqT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuSzcOcWgAEOqqT.jpg",
+						"url": "https://t.co/w4QWXjKzvX",
+						"display_url": "pic.twitter.com/w4QWXjKzvX",
+						"expanded_url": "https://twitter.com/thelaceylondon/status/1361410296703836168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 634,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 634,
+								"h": 395,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 634,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1361410284867453000,
+						"id_str": "1361410284867452929",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/EuSzcOcWgAEOqqT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuSzcOcWgAEOqqT.jpg",
+						"url": "https://t.co/w4QWXjKzvX",
+						"display_url": "pic.twitter.com/w4QWXjKzvX",
+						"expanded_url": "https://twitter.com/thelaceylondon/status/1361410296703836168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 634,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 634,
+								"h": 395,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 634,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2869103344,
+				"id_str": "2869103344",
+				"name": "Lacey London",
+				"screen_name": "thelaceylondon",
+				"location": "Alderley Edge",
+				"description": "Best-selling author. Creator of Clara Andrews, Anxiety Girl and Mollie McQueen. #KindleUnlimited\nFREE KINDLE BOOK ...\nhttps://t.co/6OAqqkcU11",
+				"url": "https://t.co/c37UAkNXa3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c37UAkNXa3",
+								"expanded_url": "http://laceylondon.co.uk",
+								"display_url": "laceylondon.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6OAqqkcU11",
+								"expanded_url": "http://amazon.co.uk/dp/B00PETE7AQ",
+								"display_url": "amazon.co.uk/dp/B00PETE7AQ",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 104858,
+				"friends_count": 3275,
+				"listed_count": 1453,
+				"created_at": "Sun Nov 09 15:17:33 +0000 2014",
+				"favourites_count": 16268,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20355,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092806611134017536/xV2LYmSW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092806611134017536/xV2LYmSW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2869103344/1570840613",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 150,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You’ll break down and call AAA https://t.co/BQMFx7KyBF"
+	},
+	{
+		"created_at": "Mon Feb 15 04:39:57 +0000 2021",
+		"id": 1360984423999627300,
+		"id_str": "1361173376656699393",
+		"full_text": "EVERYONE: I can’t believe New Zealand would shut down its biggest city because of just three COVID cases!\n\nNEW ZEALAND: https://t.co/H1dE4UmxF4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360984193686270000,
+					"id_str": "1360984193686269953",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EuMv6dGXcAEvdvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuMv6dGXcAEvdvq.jpg",
+					"url": "https://t.co/H1dE4UmxF4",
+					"display_url": "pic.twitter.com/H1dE4UmxF4",
+					"expanded_url": "https://twitter.com/BradyHaran/status/1360984423999627268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 310,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360984193686270000,
+					"id_str": "1360984193686269953",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EuMv6dGXcAEvdvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuMv6dGXcAEvdvq.jpg",
+					"url": "https://t.co/H1dE4UmxF4",
+					"display_url": "pic.twitter.com/H1dE4UmxF4",
+					"expanded_url": "https://twitter.com/BradyHaran/status/1360984423999627268/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 310,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 310,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							155
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EuMv6dGXcAEvdvq.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1536459457,
+			"id_str": "1536459457",
+			"name": "Brady Haran",
+			"screen_name": "BradyHaran",
+			"location": "",
+			"description": "Video and Podcast person —  @numberphile @periodicvideos @sixtysymbols @Objectivity_Vid plus @HelloInternetFM @Unmade_FM & other stuff",
+			"url": "https://t.co/UrLkRTYgtO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UrLkRTYgtO",
+							"expanded_url": "http://www.bradyharanblog.com",
+							"display_url": "bradyharanblog.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97842,
+			"friends_count": 210,
+			"listed_count": 699,
+			"created_at": "Fri Jun 21 12:41:40 +0000 2013",
+			"favourites_count": 1873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494927670212583424/uHY6SXxQ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494927670212583424/uHY6SXxQ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1536459457/1480419357",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2828,
+		"favorite_count": 14491,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EVERYONE: I can’t believe New Zealand would shut down its biggest city because of just three COVID cases!\n\nNEW ZEALAND: https://t.co/H1dE4UmxF4"
+	},
+	{
 		"created_at": "Sun Feb 14 21:30:38 +0000 2021",
 		"id": 1360925802779603000,
 		"id_str": "1361065335642857492",
