@@ -1,6 +1,1546 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 21 01:49:54 +0000 2021",
+		"id": 1363304911400755200,
+		"id_str": "1363304911400755203",
+		"full_text": "Pedro https://t.co/zhgi2szEWH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zhgi2szEWH",
+					"expanded_url": "https://twitter.com/jmcguiremlb/status/1363301307575136256",
+					"display_url": "twitter.com/jmcguiremlb/st…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 762,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363301307575136300,
+		"quoted_status_id_str": "1363301307575136256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zhgi2szEWH",
+			"expanded": "https://twitter.com/jmcguiremlb/status/1363301307575136256",
+			"display": "twitter.com/jmcguiremlb/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 21 01:35:35 +0000 2021",
+			"id": 1363301307575136300,
+			"id_str": "1363301307575136256",
+			"full_text": "First player who comes to mind? https://t.co/eZT1w5SVPW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1363301305452757000,
+						"id_str": "1363301305452756994",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EutrUHFWgAIvpv7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EutrUHFWgAIvpv7.jpg",
+						"url": "https://t.co/eZT1w5SVPW",
+						"display_url": "pic.twitter.com/eZT1w5SVPW",
+						"expanded_url": "https://twitter.com/JMcGuireMLB/status/1363301307575136256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 651,
+								"h": 439,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 651,
+								"h": 439,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 651,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363301305452757000,
+						"id_str": "1363301305452756994",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EutrUHFWgAIvpv7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EutrUHFWgAIvpv7.jpg",
+						"url": "https://t.co/eZT1w5SVPW",
+						"display_url": "pic.twitter.com/eZT1w5SVPW",
+						"expanded_url": "https://twitter.com/JMcGuireMLB/status/1363301307575136256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 651,
+								"h": 439,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 651,
+								"h": 439,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 651,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1363298702513889300,
+			"in_reply_to_status_id_str": "1363298702513889281",
+			"in_reply_to_user_id": 47104766,
+			"in_reply_to_user_id_str": "47104766",
+			"in_reply_to_screen_name": "JMcGuireMLB",
+			"user": {
+				"id": 47104766,
+				"id_str": "47104766",
+				"name": "Justin McGuire",
+				"screen_name": "JMcGuireMLB",
+				"location": "Hendersonville, NC",
+				"description": "Host, @baseballbookpod / Ex-MLB Editor for Sporting News / https://t.co/rjT3nPh8Tf",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rjT3nPh8Tf",
+								"expanded_url": "https://www.patreon.com/baseballbythebook?fan_landing=true",
+								"display_url": "patreon.com/baseballbytheb…",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4237,
+				"friends_count": 3435,
+				"listed_count": 195,
+				"created_at": "Sun Jun 14 14:55:29 +0000 2009",
+				"favourites_count": 13105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34021,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1324174417447014401/hhk_Aa-T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324174417447014401/hhk_Aa-T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47104766/1448476696",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Pedro https://t.co/zhgi2szEWH"
+	},
+	{
+		"created_at": "Sun Feb 21 01:49:21 +0000 2021",
+		"id": 1363304774284771300,
+		"id_str": "1363304774284771332",
+		"full_text": "Uhhh Nolan Ryan https://t.co/Nlaf9CYXlo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nlaf9CYXlo",
+					"expanded_url": "https://twitter.com/jmcguiremlb/status/1363301651248001025",
+					"display_url": "twitter.com/jmcguiremlb/st…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 762,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363301651248001000,
+		"quoted_status_id_str": "1363301651248001025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Nlaf9CYXlo",
+			"expanded": "https://twitter.com/jmcguiremlb/status/1363301651248001025",
+			"display": "twitter.com/jmcguiremlb/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 21 01:36:57 +0000 2021",
+			"id": 1363301651248001000,
+			"id_str": "1363301651248001025",
+			"full_text": "First player who comes to mind? https://t.co/k5SQVisYuK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1363301648760795100,
+						"id_str": "1363301648760795137",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EutroGAXcAE9L1F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EutroGAXcAE9L1F.jpg",
+						"url": "https://t.co/k5SQVisYuK",
+						"display_url": "pic.twitter.com/k5SQVisYuK",
+						"expanded_url": "https://twitter.com/JMcGuireMLB/status/1363301651248001025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 760,
+								"h": 760,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 760,
+								"h": 760,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363301648760795100,
+						"id_str": "1363301648760795137",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EutroGAXcAE9L1F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EutroGAXcAE9L1F.jpg",
+						"url": "https://t.co/k5SQVisYuK",
+						"display_url": "pic.twitter.com/k5SQVisYuK",
+						"expanded_url": "https://twitter.com/JMcGuireMLB/status/1363301651248001025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 760,
+								"h": 760,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 760,
+								"h": 760,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1363301530212958200,
+			"in_reply_to_status_id_str": "1363301530212958208",
+			"in_reply_to_user_id": 47104766,
+			"in_reply_to_user_id_str": "47104766",
+			"in_reply_to_screen_name": "JMcGuireMLB",
+			"user": {
+				"id": 47104766,
+				"id_str": "47104766",
+				"name": "Justin McGuire",
+				"screen_name": "JMcGuireMLB",
+				"location": "Hendersonville, NC",
+				"description": "Host, @baseballbookpod / Ex-MLB Editor for Sporting News / https://t.co/rjT3nPh8Tf",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rjT3nPh8Tf",
+								"expanded_url": "https://www.patreon.com/baseballbythebook?fan_landing=true",
+								"display_url": "patreon.com/baseballbytheb…",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4237,
+				"friends_count": 3435,
+				"listed_count": 195,
+				"created_at": "Sun Jun 14 14:55:29 +0000 2009",
+				"favourites_count": 13105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34021,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1324174417447014401/hhk_Aa-T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324174417447014401/hhk_Aa-T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47104766/1448476696",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Uhhh Nolan Ryan https://t.co/Nlaf9CYXlo"
+	},
+	{
+		"created_at": "Sun Feb 21 01:49:06 +0000 2021",
+		"id": 1363304710694965200,
+		"id_str": "1363304710694965249",
+		"full_text": "Nolan Ryan https://t.co/Nj9Y7tlw2M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nj9Y7tlw2M",
+					"expanded_url": "https://twitter.com/jmcguiremlb/status/1363296529692393476",
+					"display_url": "twitter.com/jmcguiremlb/st…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 762,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363296529692393500,
+		"quoted_status_id_str": "1363296529692393476",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Nj9Y7tlw2M",
+			"expanded": "https://twitter.com/jmcguiremlb/status/1363296529692393476",
+			"display": "twitter.com/jmcguiremlb/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 21 01:16:36 +0000 2021",
+			"id": 1363296529692393500,
+			"id_str": "1363296529692393476",
+			"full_text": "First player who comes to mind? https://t.co/XLetWM8sKm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1363296526777385000,
+						"id_str": "1363296526777384960",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/Eutm99IXAAAAxEz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eutm99IXAAAAxEz.jpg",
+						"url": "https://t.co/XLetWM8sKm",
+						"display_url": "pic.twitter.com/XLetWM8sKm",
+						"expanded_url": "https://twitter.com/JMcGuireMLB/status/1363296529692393476/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 890,
+								"h": 905,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 890,
+								"h": 905,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 669,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363296526777385000,
+						"id_str": "1363296526777384960",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/Eutm99IXAAAAxEz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eutm99IXAAAAxEz.jpg",
+						"url": "https://t.co/XLetWM8sKm",
+						"display_url": "pic.twitter.com/XLetWM8sKm",
+						"expanded_url": "https://twitter.com/JMcGuireMLB/status/1363296529692393476/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 890,
+								"h": 905,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 890,
+								"h": 905,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 669,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1363296177584812000,
+			"in_reply_to_status_id_str": "1363296177584812033",
+			"in_reply_to_user_id": 47104766,
+			"in_reply_to_user_id_str": "47104766",
+			"in_reply_to_screen_name": "JMcGuireMLB",
+			"user": {
+				"id": 47104766,
+				"id_str": "47104766",
+				"name": "Justin McGuire",
+				"screen_name": "JMcGuireMLB",
+				"location": "Hendersonville, NC",
+				"description": "Host, @baseballbookpod / Ex-MLB Editor for Sporting News / https://t.co/rjT3nPh8Tf",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rjT3nPh8Tf",
+								"expanded_url": "https://www.patreon.com/baseballbythebook?fan_landing=true",
+								"display_url": "patreon.com/baseballbytheb…",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4237,
+				"friends_count": 3435,
+				"listed_count": 195,
+				"created_at": "Sun Jun 14 14:55:29 +0000 2009",
+				"favourites_count": 13105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34021,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1324174417447014401/hhk_Aa-T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324174417447014401/hhk_Aa-T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47104766/1448476696",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Nolan Ryan https://t.co/Nj9Y7tlw2M"
+	},
+	{
+		"created_at": "Sun Feb 21 00:53:05 +0000 2021",
+		"id": 1363290614738124800,
+		"id_str": "1363290614738124802",
+		"full_text": "https://t.co/junfxlWwXB https://t.co/vQ6kwdTxpe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/junfxlWwXB",
+					"expanded_url": "https://twitter.com/moviemtrushmore/status/1363125097112944642",
+					"display_url": "twitter.com/moviemtrushmor…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1363290604734668800,
+					"id_str": "1363290604734668808",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EuthlPzWYAg3qGk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuthlPzWYAg3qGk.jpg",
+					"url": "https://t.co/vQ6kwdTxpe",
+					"display_url": "pic.twitter.com/vQ6kwdTxpe",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1363290614738124802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 206,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 206,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363290604734668800,
+					"id_str": "1363290604734668808",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EuthlPzWYAg3qGk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuthlPzWYAg3qGk.jpg",
+					"url": "https://t.co/vQ6kwdTxpe",
+					"display_url": "pic.twitter.com/vQ6kwdTxpe",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1363290614738124802/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 206,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 206,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							103
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EuthlPzWYAg3qGk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 762,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363125097112944600,
+		"quoted_status_id_str": "1363125097112944642",
+		"quoted_status_permalink": {
+			"url": "https://t.co/junfxlWwXB",
+			"expanded": "https://twitter.com/moviemtrushmore/status/1363125097112944642",
+			"display": "twitter.com/moviemtrushmor…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 20 13:55:23 +0000 2021",
+			"id": 1363125097112944600,
+			"id_str": "1363125097112944642",
+			"full_text": "What’s the best restaurant scene in a movie ever?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1211357819389137000,
+				"id_str": "1211357819389136901",
+				"name": "Movie Mount Rushmore Podcast",
+				"screen_name": "MovieMtRushmore",
+				"location": "London, United Kingdom",
+				"description": "London’s favourite movie podcast. New TOP 10 show every week. you decide the overall winner #edutainment",
+				"url": "https://t.co/W0lIGnoljx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W0lIGnoljx",
+								"expanded_url": "https://www.silverscreendudes.com/movie-mount-rushmore-podcast",
+								"display_url": "silverscreendudes.com/movie-mount-ru…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 916,
+				"friends_count": 1067,
+				"listed_count": 4,
+				"created_at": "Sun Dec 29 18:46:36 +0000 2019",
+				"favourites_count": 1401,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1284,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213761537573302273/HOY6qy5x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213761537573302273/HOY6qy5x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1211357819389136901/1580331680",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/junfxlWwXB https://t.co/vQ6kwdTxpe"
+	},
+	{
+		"created_at": "Sat Feb 20 21:23:38 +0000 2021",
+		"id": 1363237901644009500,
+		"id_str": "1363237901644009473",
+		"full_text": "@DSzymborski Don’t see any Bussard hydrogen collectors though",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DSzymborski",
+					"name": "Dan Szymborski",
+					"id": 44929255,
+					"id_str": "44929255",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1363237414207189000,
+		"in_reply_to_status_id_str": "1363237414207188993",
+		"in_reply_to_user_id": 44929255,
+		"in_reply_to_user_id_str": "44929255",
+		"in_reply_to_screen_name": "DSzymborski",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 762,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DSzymborski Don’t see any Bussard hydrogen collectors though"
+	},
+	{
+		"created_at": "Sat Feb 20 21:01:12 +0000 2021",
+		"id": 1363230709478011000,
+		"id_str": "1363232256945500167",
+		"full_text": "On this day in 1992, \"Homer at the Bat\", the baseball-themed episode of The Simpsons that featured a number of contemporary baseball stars as guest voices, aired on FOX https://t.co/GGwUAzmDuH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363230706437132300,
+					"id_str": "1363230706437132289",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EusrGtQXEAE6CHB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EusrGtQXEAE6CHB.jpg",
+					"url": "https://t.co/GGwUAzmDuH",
+					"display_url": "pic.twitter.com/GGwUAzmDuH",
+					"expanded_url": "https://twitter.com/baseball_ref/status/1363230709478010882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 982,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363230706437132300,
+					"id_str": "1363230706437132289",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EusrGtQXEAE6CHB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EusrGtQXEAE6CHB.jpg",
+					"url": "https://t.co/GGwUAzmDuH",
+					"display_url": "pic.twitter.com/GGwUAzmDuH",
+					"expanded_url": "https://twitter.com/baseball_ref/status/1363230709478010882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 982,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68449573,
+			"id_str": "68449573",
+			"name": "Baseball Reference",
+			"screen_name": "baseball_ref",
+			"location": "Philly PA",
+			"description": "I'm a website devoted to baseball stats & history. Founded in 2000. Part of the @sports_ref family of sites. Up your research game with a @Stathead subscription",
+			"url": "http://t.co/HtW1YLgb1m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HtW1YLgb1m",
+							"expanded_url": "http://www.baseball-reference.com",
+							"display_url": "baseball-reference.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225522,
+			"friends_count": 692,
+			"listed_count": 4825,
+			"created_at": "Mon Aug 24 16:45:51 +0000 2009",
+			"favourites_count": 15929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 81721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CC5A62",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849301979994234880/V9SybF8H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849301979994234880/V9SybF8H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68449573/1572727183",
+			"profile_link_color": "04428A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "69BAF4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 600,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1992, \"Homer at the Bat\", the baseball-themed episode of The Simpsons that featured a number of contemporary baseball stars as guest voices, aired on FOX https://t.co/GGwUAzmDuH"
+	},
+	{
+		"created_at": "Sat Feb 20 19:56:12 +0000 2021",
+		"id": 1363187836699091000,
+		"id_str": "1363215901856833537",
+		"full_text": "I see the hashtag #InsteadOfGoingToMars and I think, huh, the budget of NASA is 1/200th of the federal budget, 3% of the military budget, a third of what we spend on just cigarettes... and for that we get the entire Universe. Seems like a damn good deal to me.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InsteadOfGoingToMars",
+					"indices": [
+						18,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4620451,
+			"id_str": "4620451",
+			"name": "Phil Plait",
+			"screen_name": "BadAstronomer",
+			"location": "Boulder",
+			"description": "SCIENCE! I love this stuff. My Bad Astronomy blog: https://t.co/vfcaPmrmzG\n\nI use likes for bookmarks; no endorsement implied. He/him.",
+			"url": "https://t.co/FZ6zYdPTeQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FZ6zYdPTeQ",
+							"expanded_url": "http://about.me/philplait",
+							"display_url": "about.me/philplait",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vfcaPmrmzG",
+							"expanded_url": "http://syfy.com/badastronomy",
+							"display_url": "syfy.com/badastronomy",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 619877,
+			"friends_count": 556,
+			"listed_count": 12267,
+			"created_at": "Sat Apr 14 17:18:58 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "004477",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826524406746714113/Q4pP_stg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826524406746714113/Q4pP_stg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4620451/1398216071",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2506,
+		"favorite_count": 12972,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I see the hashtag #InsteadOfGoingToMars and I think, huh, the budget of NASA is 1/200th of the federal budget, 3% of the military budget, a third of what we spend on just cigarettes... and for that we get the entire Universe. Seems like a damn good deal to me."
+	},
+	{
 		"created_at": "Fri Feb 19 19:19:55 +0000 2021",
 		"id": 1362844379745054700,
 		"id_str": "1362844379745054722",
