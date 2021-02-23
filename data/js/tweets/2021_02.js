@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 21:12:08 +0000 2021",
+		"id": 1363959785016729600,
+		"id_str": "1363959785016729600",
+		"full_text": "https://t.co/QXLQOdos1U https://t.co/oXdVPbhJXK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QXLQOdos1U",
+					"expanded_url": "https://twitter.com/jcmccaffrey/status/1363956442072506368",
+					"display_url": "twitter.com/jcmccaffrey/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1363959778817544200,
+					"id_str": "1363959778817544192",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu3CMThXEAAnDiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu3CMThXEAAnDiJ.jpg",
+					"url": "https://t.co/oXdVPbhJXK",
+					"display_url": "pic.twitter.com/oXdVPbhJXK",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1363959785016729600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363959778817544200,
+					"id_str": "1363959778817544192",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu3CMThXEAAnDiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu3CMThXEAAnDiJ.jpg",
+					"url": "https://t.co/oXdVPbhJXK",
+					"display_url": "pic.twitter.com/oXdVPbhJXK",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1363959785016729600/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							50
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eu3CMThXEAAnDiJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 761,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363956442072506400,
+		"quoted_status_id_str": "1363956442072506368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QXLQOdos1U",
+			"expanded": "https://twitter.com/jcmccaffrey/status/1363956442072506368",
+			"display": "twitter.com/jcmccaffrey/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 22 20:58:51 +0000 2021",
+			"id": 1363956442072506400,
+			"id_str": "1363956442072506368",
+			"full_text": "Red Sox announce Franchy Cordero has been placed on the COVID-19 injury list. \n\nAlso, they re-claimed right-hander Joel Payamps off waivers. They'd DFA'd Payamps to make room for Garrett Richards.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106609417,
+				"id_str": "106609417",
+				"name": "Jen McCaffrey",
+				"screen_name": "jcmccaffrey",
+				"location": "Boston",
+				"description": "Red Sox beat writer for @TheAthletic | Syracuse grad | Apologies for the typos and bad jokes | jmccaffrey@theathletic.com",
+				"url": "https://t.co/dYK9dG1eVd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dYK9dG1eVd",
+								"expanded_url": "https://theathletic.com/author/jen-mccaffrey/",
+								"display_url": "theathletic.com/author/jen-mcc…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19066,
+				"friends_count": 645,
+				"listed_count": 825,
+				"created_at": "Wed Jan 20 03:07:40 +0000 2010",
+				"favourites_count": 20677,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 44965,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783838272820740096/wKNhViw3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783838272820740096/wKNhViw3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106609417/1533234905",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/QXLQOdos1U https://t.co/oXdVPbhJXK"
+	},
+	{
 		"created_at": "Sun Feb 21 22:39:19 +0000 2021",
 		"id": 1363619335529500700,
 		"id_str": "1363619335529500672",
