@@ -1,6 +1,745 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 23:49:46 +0000 2021",
+		"id": 1364361840550162400,
+		"id_str": "1364361840550162432",
+		"full_text": "What was left of Shea Stadium https://t.co/9BAmUfwdaA https://t.co/QYvqCdkHq8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9BAmUfwdaA",
+					"expanded_url": "https://twitter.com/jaberuski/status/1364337139509563397",
+					"display_url": "twitter.com/jaberuski/stat…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1364361832962605000,
+					"id_str": "1364361832962605058",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu8v277WQAI9i57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu8v277WQAI9i57.jpg",
+					"url": "https://t.co/QYvqCdkHq8",
+					"display_url": "pic.twitter.com/QYvqCdkHq8",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1364361840550162432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364361832962605000,
+					"id_str": "1364361832962605058",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu8v277WQAI9i57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu8v277WQAI9i57.jpg",
+					"url": "https://t.co/QYvqCdkHq8",
+					"display_url": "pic.twitter.com/QYvqCdkHq8",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1364361840550162432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 761,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364337139509563400,
+		"quoted_status_id_str": "1364337139509563397",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9BAmUfwdaA",
+			"expanded": "https://twitter.com/jaberuski/status/1364337139509563397",
+			"display": "twitter.com/jaberuski/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 23 22:11:36 +0000 2021",
+			"id": 1364337139509563400,
+			"id_str": "1364337139509563397",
+			"full_text": "Which sports venue is the biggest dump you've ever visited?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158951476,
+				"id_str": "158951476",
+				"name": "JT",
+				"screen_name": "Jaberuski",
+				"location": "New Jersey",
+				"description": "✝️. Husband/Dad. Panthers. Braves. Magic. VGK. Noles. CLTFC. Avid Indoorsman. Indifference Maker. NFL Draftnik. BBQ Judge. Kratom. Joshua 24:15",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20356,
+				"friends_count": 15534,
+				"listed_count": 104,
+				"created_at": "Thu Jun 24 02:30:15 +0000 2010",
+				"favourites_count": 193584,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 133286,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D6BDA9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1353711565825073155/_l1nE1Ua_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353711565825073155/_l1nE1Ua_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158951476/1610573227",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D6BDA9",
+				"profile_text_color": "3D1400",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 124,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What was left of Shea Stadium https://t.co/9BAmUfwdaA https://t.co/QYvqCdkHq8"
+	},
+	{
+		"created_at": "Tue Feb 23 22:09:52 +0000 2021",
+		"id": 1364336701557137400,
+		"id_str": "1364336701557137416",
+		"full_text": "So, Clearview and Palantir totally aren’t sucking up all the little/big pictures for nefarious uses. https://t.co/kQZG9FrIQE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364336695802433500,
+					"id_str": "1364336695802433537",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu8Y_wtVkAE5WLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu8Y_wtVkAE5WLH.jpg",
+					"url": "https://t.co/kQZG9FrIQE",
+					"display_url": "pic.twitter.com/kQZG9FrIQE",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1364336701557137416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364336695802433500,
+					"id_str": "1364336695802433537",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu8Y_wtVkAE5WLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu8Y_wtVkAE5WLH.jpg",
+					"url": "https://t.co/kQZG9FrIQE",
+					"display_url": "pic.twitter.com/kQZG9FrIQE",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1364336701557137416/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							11
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eu8Y_wtVkAE5WLH.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 761,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So, Clearview and Palantir totally aren’t sucking up all the little/big pictures for nefarious uses. https://t.co/kQZG9FrIQE"
+	},
+	{
+		"created_at": "Tue Feb 23 22:06:13 +0000 2021",
+		"id": 1364282253191360500,
+		"id_str": "1364335781238747138",
+		"full_text": "We gotta get a comeback going for the Oxen! Master Chief could never survive the trail https://t.co/8CzoaAViHC https://t.co/mhkd8XV41L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8CzoaAViHC",
+					"expanded_url": "https://twitter.com/ringer/status/1364260372115464192",
+					"display_url": "twitter.com/ringer/status/…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1364281438573576200,
+					"id_str": "1364281438573576208",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu7mvXfWQBANvM4.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eu7mvXfWQBANvM4.png",
+					"url": "https://t.co/mhkd8XV41L",
+					"display_url": "pic.twitter.com/mhkd8XV41L",
+					"expanded_url": "https://twitter.com/JohnNassif96/status/1364282253191360514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 277,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 277,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 277,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364281438573576200,
+					"id_str": "1364281438573576208",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu7mvXfWQBANvM4.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eu7mvXfWQBANvM4.png",
+					"url": "https://t.co/mhkd8XV41L",
+					"display_url": "pic.twitter.com/mhkd8XV41L",
+					"expanded_url": "https://twitter.com/JohnNassif96/status/1364282253191360514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 277,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 277,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 277,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276760392,
+			"id_str": "276760392",
+			"name": "John Nassif",
+			"screen_name": "JohnNassif96",
+			"location": "",
+			"description": "UNC Chapel Hill '18 - Washington DC | Go Heels, Go Grizz, Go Thers | Host of @thehilopodcast and Contributor for @SirCharlesIC",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 332,
+			"listed_count": 0,
+			"created_at": "Mon Apr 04 01:20:27 +0000 2011",
+			"favourites_count": 7560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329488942186565632/Om3--Fu5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329488942186565632/Om3--Fu5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276760392/1563998856",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364260372115464200,
+		"quoted_status_id_str": "1364260372115464192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8CzoaAViHC",
+			"expanded": "https://twitter.com/ringer/status/1364260372115464192",
+			"display": "twitter.com/ringer/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 23 17:06:34 +0000 2021",
+			"id": 1364260372115464200,
+			"id_str": "1364260372115464192",
+			"full_text": "Lastly, can the criminally overlooked 8-seed Oxen from ‘Oregon Trail’ take down the 1-seed Master Chief from ‘Halo’ in the Milky Way region of our #VideoGameGOAT bracket?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VideoGameGOAT",
+						"indices": [
+							147,
+							161
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers (legacy)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4760694445,
+				"id_str": "4760694445",
+				"name": "The Ringer",
+				"screen_name": "ringer",
+				"location": "",
+				"description": "Sports. Pop culture. Tech. @ringerpodcasts | @ringernba | @ringernfl",
+				"url": "https://t.co/w78VQWHCuO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w78VQWHCuO",
+								"expanded_url": "http://TheRinger.com",
+								"display_url": "TheRinger.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 523581,
+				"friends_count": 904,
+				"listed_count": 5205,
+				"created_at": "Fri Jan 15 01:30:52 +0000 2016",
+				"favourites_count": 14345,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 141872,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1349424898645528581/vHQYf33w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349424898645528581/vHQYf33w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4760694445/1604000052",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We gotta get a comeback going for the Oxen! Master Chief could never survive the trail https://t.co/8CzoaAViHC https://t.co/mhkd8XV41L"
+	},
+	{
 		"created_at": "Mon Feb 22 21:12:08 +0000 2021",
 		"id": 1363959785016729600,
 		"id_str": "1363959785016729600",
