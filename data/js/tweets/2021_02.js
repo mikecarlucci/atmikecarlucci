@@ -1,6 +1,1044 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 21:08:39 +0000 2021",
+		"id": 1365046072897339400,
+		"id_str": "1365046072897339394",
+		"full_text": "@eruptionsblog Like “X days since last accident” and you get a payment every time you break that no-tweet streak? 🤣",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eruptionsblog",
+					"name": "Dr. Erik Klemetti",
+					"id": 164089883,
+					"id_str": "164089883",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1365044408349986800,
+		"in_reply_to_status_id_str": "1365044408349986817",
+		"in_reply_to_user_id": 164089883,
+		"in_reply_to_user_id_str": "164089883",
+		"in_reply_to_screen_name": "eruptionsblog",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 761,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eruptionsblog Like “X days since last accident” and you get a payment every time you break that no-tweet streak? 🤣"
+	},
+	{
+		"created_at": "Thu Feb 25 19:35:56 +0000 2021",
+		"id": 1365008053481791500,
+		"id_str": "1365022740856594436",
+		"full_text": "I want content creators to get paid and I want journalists to get paid, but I don't want every high-quality piece of information to be behind a paywall\n\nespecially when misinformation is free\n\nthe question of how to square that circle is going to be a big one for our industry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38282454,
+			"id_str": "38282454",
+			"name": "Emily Dreyfuss",
+			"screen_name": "EmilyDreyfuss",
+			"location": "San Francisco, CA",
+			"description": "Writer. Editor. Gesticulator. \n\nFellow and senior editor @shorensteinctr. Formerly @wired, @niemanfdn, @protocol",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23225,
+			"friends_count": 1839,
+			"listed_count": 690,
+			"created_at": "Wed May 06 21:34:39 +0000 2009",
+			"favourites_count": 35791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "111212",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/614949197138276353/vAFwtVhc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/614949197138276353/vAFwtVhc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38282454/1402861470",
+			"profile_link_color": "1E7575",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 418,
+		"favorite_count": 2228,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I want content creators to get paid and I want journalists to get paid, but I don't want every high-quality piece of information to be behind a paywall\n\nespecially when misinformation is free\n\nthe question of how to square that circle is going to be a big one for our industry"
+	},
+	{
+		"created_at": "Thu Feb 25 19:31:08 +0000 2021",
+		"id": 1365021529231220700,
+		"id_str": "1365021529231220740",
+		"full_text": "pirate tweet market is gonna be 🔥 https://t.co/QVlU0eMbXn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QVlU0eMbXn",
+					"expanded_url": "https://twitter.com/verge/status/1365005189070147590",
+					"display_url": "twitter.com/verge/status/1…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 761,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365005189070147600,
+		"quoted_status_id_str": "1365005189070147590",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QVlU0eMbXn",
+			"expanded": "https://twitter.com/verge/status/1365005189070147590",
+			"display": "twitter.com/verge/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 25 18:26:12 +0000 2021",
+			"id": 1365005189070147600,
+			"id_str": "1365005189070147590",
+			"full_text": "Twitter announces paid Super Follows to let you charge for tweets https://t.co/nw281nPJ4P https://t.co/WHPGmYTK3j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nw281nPJ4P",
+						"expanded_url": "https://www.theverge.com/2021/2/25/22301375/twitter-super-follows-communities-paid-followers?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+						"display_url": "theverge.com/2021/2/25/2230…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1365005186935193600,
+						"id_str": "1365005186935193603",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/EvF4_EPWgAMpqgM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvF4_EPWgAMpqgM.jpg",
+						"url": "https://t.co/WHPGmYTK3j",
+						"display_url": "pic.twitter.com/WHPGmYTK3j",
+						"expanded_url": "https://twitter.com/verge/status/1365005189070147590/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1842,
+								"h": 1412,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1365005186935193600,
+						"id_str": "1365005186935193603",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/EvF4_EPWgAMpqgM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvF4_EPWgAMpqgM.jpg",
+						"url": "https://t.co/WHPGmYTK3j",
+						"display_url": "pic.twitter.com/WHPGmYTK3j",
+						"expanded_url": "https://twitter.com/verge/status/1365005189070147590/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1842,
+								"h": 1412,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275686563,
+				"id_str": "275686563",
+				"name": "The Verge",
+				"screen_name": "verge",
+				"location": "New York",
+				"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+				"url": "http://t.co/W2SFxIXkC4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2779138,
+				"friends_count": 171,
+				"listed_count": 36403,
+				"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+				"favourites_count": 1380,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 188117,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1601391578",
+				"profile_link_color": "EC008C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3421,
+			"favorite_count": 10533,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "pirate tweet market is gonna be 🔥 https://t.co/QVlU0eMbXn"
+	},
+	{
+		"created_at": "Thu Feb 25 17:36:16 +0000 2021",
+		"id": 1364992625426784300,
+		"id_str": "1364992625426784256",
+		"full_text": "@salemredsox @Steve_Perrault @houck_tanner @RedSox @Pitch4Adoption @LiveBPShow Re-release please 🤣 https://t.co/H4k7Jcfoo0",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "salemredsox",
+					"name": "The Salem Red Sox",
+					"id": 42500897,
+					"id_str": "42500897",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Steve_Perrault",
+					"name": "Steve Perrault",
+					"id": 39185810,
+					"id_str": "39185810",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "houck_tanner",
+					"name": "Tanner Houck",
+					"id": 2939189151,
+					"id_str": "2939189151",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "RedSox",
+					"name": "Red Sox",
+					"id": 40918816,
+					"id_str": "40918816",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"screen_name": "Pitch4Adoption",
+					"name": "Tanner Houck's Pitch for Adoption",
+					"id": 1217839683230666800,
+					"id_str": "1217839683230666753",
+					"indices": [
+						51,
+						66
+					]
+				},
+				{
+					"screen_name": "LiveBPShow",
+					"name": "The Live BP Show",
+					"id": 1316191771517505500,
+					"id_str": "1316191771517505536",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364992615125577700,
+					"id_str": "1364992615125577729",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EvFtjSmXcAE32p6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvFtjSmXcAE32p6.jpg",
+					"url": "https://t.co/H4k7Jcfoo0",
+					"display_url": "pic.twitter.com/H4k7Jcfoo0",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1364992625426784256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364992615125577700,
+					"id_str": "1364992615125577729",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EvFtjSmXcAE32p6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvFtjSmXcAE32p6.jpg",
+					"url": "https://t.co/H4k7Jcfoo0",
+					"display_url": "pic.twitter.com/H4k7Jcfoo0",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1364992625426784256/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EvFtjSmXcAE32p6.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1364958862013587500,
+		"in_reply_to_status_id_str": "1364958862013587466",
+		"in_reply_to_user_id": 42500897,
+		"in_reply_to_user_id_str": "42500897",
+		"in_reply_to_screen_name": "salemredsox",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430,
+			"friends_count": 761,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 92361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@salemredsox @Steve_Perrault @houck_tanner @RedSox @Pitch4Adoption @LiveBPShow Re-release please 🤣 https://t.co/H4k7Jcfoo0"
+	},
+	{
+		"created_at": "Thu Feb 25 17:33:15 +0000 2021",
+		"id": 1364967827241902000,
+		"id_str": "1364991866312228870",
+		"full_text": "This is the smartest thing I’ve seen a government do in a year. A selfie from a friend will do more to convince people the vaccine is self than a hundred PSAs https://t.co/TK6skaNNJt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TK6skaNNJt",
+					"expanded_url": "https://twitter.com/noahcrothman/status/1364946181055516673",
+					"display_url": "twitter.com/noahcrothman/s…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 846812526767751200,
+			"id_str": "846812526767751168",
+			"name": "John Hagner",
+			"screen_name": "JHagner",
+			"location": "Washington, DC",
+			"description": "Baseball nerd, hardcore partisan, amateur patissier. Partner @claritycampaign. Appropriates a lot of grandpa culture, would rather be woodworking. He/his/🏳️‍🌈",
+			"url": "https://t.co/LURTmapzcb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LURTmapzcb",
+							"expanded_url": "http://claritycampaigns.com",
+							"display_url": "claritycampaigns.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2571,
+			"friends_count": 410,
+			"listed_count": 44,
+			"created_at": "Tue Mar 28 19:53:34 +0000 2017",
+			"favourites_count": 8332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846813744009285633/DhCWgi0V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846813744009285633/DhCWgi0V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/846812526767751168/1597331460",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364946181055516700,
+		"quoted_status_id_str": "1364946181055516673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TK6skaNNJt",
+			"expanded": "https://twitter.com/noahcrothman/status/1364946181055516673",
+			"display": "twitter.com/noahcrothman/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 25 14:31:43 +0000 2021",
+			"id": 1364946181055516700,
+			"id_str": "1364946181055516673",
+			"full_text": "This is a real thing that exists at an NJ mass vaccination site. https://t.co/CWWLVEBKJo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1364946177268080600,
+						"id_str": "1364946177268080647",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/EvFDUQGXYAcdjp7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvFDUQGXYAcdjp7.jpg",
+						"url": "https://t.co/CWWLVEBKJo",
+						"display_url": "pic.twitter.com/CWWLVEBKJo",
+						"expanded_url": "https://twitter.com/NoahCRothman/status/1364946181055516673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364946177268080600,
+						"id_str": "1364946177268080647",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/EvFDUQGXYAcdjp7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvFDUQGXYAcdjp7.jpg",
+						"url": "https://t.co/CWWLVEBKJo",
+						"display_url": "pic.twitter.com/CWWLVEBKJo",
+						"expanded_url": "https://twitter.com/NoahCRothman/status/1364946181055516673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 168531961,
+				"id_str": "168531961",
+				"name": "Noah Rothman",
+				"screen_name": "NoahCRothman",
+				"location": "New York City",
+				"description": "Associate Editor @Commentary. MSNBC/NBC News contributor. Author \"Unjust: Social Justice and the Unmaking of America\" https://t.co/8PN276FhoX",
+				"url": "https://t.co/H8DRQ6vyWQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H8DRQ6vyWQ",
+								"expanded_url": "http://www.commentarymagazine.com",
+								"display_url": "commentarymagazine.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8PN276FhoX",
+								"expanded_url": "http://bit.ly/NoahRothman",
+								"display_url": "bit.ly/NoahRothman",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 86008,
+				"friends_count": 1860,
+				"listed_count": 1859,
+				"created_at": "Mon Jul 19 16:32:51 +0000 2010",
+				"favourites_count": 44741,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 35983,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326373260565618688/TSG62Sk9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326373260565618688/TSG62Sk9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/168531961/1548764250",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 512,
+			"favorite_count": 4474,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 187,
+		"favorite_count": 799,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the smartest thing I’ve seen a government do in a year. A selfie from a friend will do more to convince people the vaccine is self than a hundred PSAs https://t.co/TK6skaNNJt"
+	},
+	{
 		"created_at": "Wed Feb 24 20:19:32 +0000 2021",
 		"id": 1364671325319680000,
 		"id_str": "1364671325319680004",
