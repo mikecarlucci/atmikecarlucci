@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 16:27:11 +0000 2021",
+		"id": 1365462310463103000,
+		"id_str": "1366062403184701440",
+		"full_text": "forget STEM, now I’m all about STEAMED HAMS: science, technology, engineering, art, math, humanities, anthropology, music, and such",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14174091,
+			"id_str": "14174091",
+			"name": "Nick Seaver",
+			"screen_name": "npseaver",
+			"location": "Somerville, MA",
+			"description": "anthropology, algorithms, attention | asst prof @tuftsuniversity | mr @thisischristina | @seaverbot's... dad? | he/him | \"very relatable, but not exactly chill\"",
+			"url": "https://t.co/lWcla9UZSK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lWcla9UZSK",
+							"expanded_url": "http://anthropology.town",
+							"display_url": "anthropology.town",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11006,
+			"friends_count": 2281,
+			"listed_count": 275,
+			"created_at": "Wed Mar 19 02:14:35 +0000 2008",
+			"favourites_count": 131528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325126905968922624/ivyBALch_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325126905968922624/ivyBALch_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14174091/1541077919",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10108,
+		"favorite_count": 55250,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "forget STEM, now I’m all about STEAMED HAMS: science, technology, engineering, art, math, humanities, anthropology, music, and such"
+	},
+	{
+		"created_at": "Sun Feb 28 16:24:21 +0000 2021",
+		"id": 1366059966315049000,
+		"id_str": "1366061688303333387",
+		"full_text": "This Mike Trout jersey is going to cost more than some teams pay their starting CF https://t.co/bJIpLFWO8F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bJIpLFWO8F",
+					"expanded_url": "https://twitter.com/nesn/status/1366033855774412802",
+					"display_url": "twitter.com/nesn/status/13…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42500897,
+			"id_str": "42500897",
+			"name": "The Salem Red Sox",
+			"screen_name": "salemredsox",
+			"location": "Salem, VA",
+			"description": "Official Twitter of the Salem Red Sox, an Affiliate of the Boston @RedSox.",
+			"url": "https://t.co/QpJCvdtdcC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QpJCvdtdcC",
+							"expanded_url": "http://www.salemsox.com",
+							"display_url": "salemsox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30084,
+			"friends_count": 419,
+			"listed_count": 420,
+			"created_at": "Mon May 25 22:20:26 +0000 2009",
+			"favourites_count": 7074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347174159911182337/eLvth6Fv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347174159911182337/eLvth6Fv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42500897/1595512891",
+			"profile_link_color": "BD3039",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1366033855774412800,
+		"quoted_status_id_str": "1366033855774412802",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bJIpLFWO8F",
+			"expanded": "https://twitter.com/nesn/status/1366033855774412802",
+			"display": "twitter.com/nesn/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 28 14:33:45 +0000 2021",
+			"id": 1366033855774412800,
+			"id_str": "1366033855774412802",
+			"full_text": "Want Mike Trout's debut jersey? It's going to cost you ... a lot (via @TMZ, @TMZ_Sports) https://t.co/IKWOfpskPL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TMZ",
+						"name": "TMZ",
+						"id": 16331010,
+						"id_str": "16331010",
+						"indices": [
+							70,
+							74
+						]
+					},
+					{
+						"screen_name": "TMZ_Sports",
+						"name": "TMZ Sports",
+						"id": 117270375,
+						"id_str": "117270375",
+						"indices": [
+							76,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IKWOfpskPL",
+						"expanded_url": "http://tmz.com/2021/02/28/mike-trout-angels-jersey-major-league-baseball-mlb-debut-auction/?adid=NESN",
+						"display_url": "tmz.com/2021/02/28/mik…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Khoros Marketing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17000333,
+				"id_str": "17000333",
+				"name": "NESN",
+				"screen_name": "NESN",
+				"location": "Boston, MA",
+				"description": "Official page of NESN and NESN+. Home of the @nhlbruins and @redsox, covering all things New England. \n📺: @nesnafterhours\n👻: NESNsnap",
+				"url": "https://t.co/hG4dDHUNe9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hG4dDHUNe9",
+								"expanded_url": "http://nesn.com/",
+								"display_url": "nesn.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 315410,
+				"friends_count": 715,
+				"listed_count": 2915,
+				"created_at": "Mon Oct 27 15:27:10 +0000 2008",
+				"favourites_count": 2271,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 249681,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "004276",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1179868996029616146/lYO1CVuo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179868996029616146/lYO1CVuo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17000333/1612188455",
+				"profile_link_color": "004276",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This Mike Trout jersey is going to cost more than some teams pay their starting CF https://t.co/bJIpLFWO8F"
+	},
+	{
 		"created_at": "Sun Feb 28 01:47:29 +0000 2021",
 		"id": 1365841017530962000,
 		"id_str": "1365841017530961920",
