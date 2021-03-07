@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 07 00:12:14 +0000 2021",
+		"id": 1368234942333870000,
+		"id_str": "1368353760863543301",
+		"full_text": "OPRAH: in Suits season 1 you’re a paralegal\nMEGHAN: yes\nOPRAH: and the firm submits a patent application\nMEGHAN: yes\nOPRAH: normally the patent office would take years to approve it\nMEGHAN: yes\nOPRAH: and yet you get a response within hours\nMEGHAN: i think about this every day",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15751676,
+			"id_str": "15751676",
+			"name": "Matt Negrin, HOST OF HARDBALL AT 7PM ON MSNBC",
+			"screen_name": "MattNegrin",
+			"location": "New York",
+			"description": "@TheDailyShow; blocked by @MeetThePress; mysteriously unblocked by @MeetThePress; here to remind you @seanspicer is a liar. Host of @hardball at 7pm on @MSNBC.",
+			"url": "https://t.co/v7thJO9T8H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v7thJO9T8H",
+							"expanded_url": "http://dailyshow.com/book",
+							"display_url": "dailyshow.com/book",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57428,
+			"friends_count": 3076,
+			"listed_count": 747,
+			"created_at": "Wed Aug 06 16:11:47 +0000 2008",
+			"favourites_count": 32362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 59938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/825787279750856704/UlcPhlh7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/825787279750856704/UlcPhlh7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15751676/1598545884",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 2708,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "OPRAH: in Suits season 1 you’re a paralegal\nMEGHAN: yes\nOPRAH: and the firm submits a patent application\nMEGHAN: yes\nOPRAH: normally the patent office would take years to approve it\nMEGHAN: yes\nOPRAH: and yet you get a response within hours\nMEGHAN: i think about this every day"
+	},
+	{
 		"created_at": "Fri Mar 05 16:14:48 +0000 2021",
 		"id": 1367871226769776600,
 		"id_str": "1367871226769776647",
