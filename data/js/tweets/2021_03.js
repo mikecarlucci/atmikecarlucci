@@ -1,6 +1,954 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 15 23:52:08 +0000 2021",
+		"id": 1371610194275401700,
+		"id_str": "1371610194275401730",
+		"full_text": "Dear @Amtrak more please https://t.co/bzUIhM6xhK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Amtrak",
+					"name": "Amtrak",
+					"id": 119166791,
+					"id_str": "119166791",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bzUIhM6xhK",
+					"expanded_url": "https://twitter.com/cfarivar/status/1371600619572658179",
+					"display_url": "twitter.com/cfarivar/statu…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4433,
+			"friends_count": 696,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371600619572658200,
+		"quoted_status_id_str": "1371600619572658179",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bzUIhM6xhK",
+			"expanded": "https://twitter.com/cfarivar/status/1371600619572658179",
+			"display": "twitter.com/cfarivar/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 15 23:14:05 +0000 2021",
+			"id": 1371600619572658200,
+			"id_str": "1371600619572658179",
+			"full_text": "\"Several months ago, we had to bring sleeper cars out of storage and put them in service because our sleepers are simply sold out. Travelers like the sleeper product.”  \n\n— Amtrak CEO William J. Flynn\n\nhttps://t.co/6eYUpo6Xmt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6eYUpo6Xmt",
+						"expanded_url": "https://slate.com/business/2021/03/amtrak-ceo-interview-trains-coronavirus.html?via=rss",
+						"display_url": "slate.com/business/2021/…",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 709313,
+				"id_str": "709313",
+				"name": "Cyrus Farivar",
+				"screen_name": "cfarivar",
+				"location": "Oakland, CA // E24FP.com ",
+				"description": "\"suh-ROOS\" / Investigative Tech Reporter @nbcnews / author, HABEAS DATA (2018) / ex-@arstechnica / cyrus.farivar@nbcuni.com / +1-646-872-5369 (Signal/WhatsApp)",
+				"url": "https://t.co/0esaAhigfZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0esaAhigfZ",
+								"expanded_url": "https://www.nbcnews.com/pages/author/cyrus-farivar",
+								"display_url": "nbcnews.com/pages/author/c…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26610,
+				"friends_count": 29267,
+				"listed_count": 1339,
+				"created_at": "Fri Jan 26 16:38:14 +0000 2007",
+				"favourites_count": 19709,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 135226,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/709313/1484291429",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear @Amtrak more please https://t.co/bzUIhM6xhK"
+	},
+	{
+		"created_at": "Mon Mar 15 18:26:45 +0000 2021",
+		"id": 1371528310258274300,
+		"id_str": "1371528310258274305",
+		"full_text": "Nope. https://t.co/SJTwgq4vTu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SJTwgq4vTu",
+					"expanded_url": "https://twitter.com/mathowie/status/1371498418833592321",
+					"display_url": "twitter.com/mathowie/statu…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4433,
+			"friends_count": 696,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371498418833592300,
+		"quoted_status_id_str": "1371498418833592321",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SJTwgq4vTu",
+			"expanded": "https://twitter.com/mathowie/status/1371498418833592321",
+			"display": "twitter.com/mathowie/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 15 16:27:58 +0000 2021",
+			"id": 1371498418833592300,
+			"id_str": "1371498418833592321",
+			"full_text": "20yrs later, has *any* online music streaming service come close to the thrill of clicking a genre tag, clicking random users and downloading promising tracks from someone else’s library that end up being great songs you’d never heard? https://t.co/Jx75gFo3Lk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1371498415901659100,
+						"id_str": "1371498415901659139",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EwiKivHUUAMiJpj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwiKivHUUAMiJpj.jpg",
+						"url": "https://t.co/Jx75gFo3Lk",
+						"display_url": "pic.twitter.com/Jx75gFo3Lk",
+						"expanded_url": "https://twitter.com/mathowie/status/1371498418833592321/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 415,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 415,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 415,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1371498415901659100,
+						"id_str": "1371498415901659139",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EwiKivHUUAMiJpj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwiKivHUUAMiJpj.jpg",
+						"url": "https://t.co/Jx75gFo3Lk",
+						"display_url": "pic.twitter.com/Jx75gFo3Lk",
+						"expanded_url": "https://twitter.com/mathowie/status/1371498418833592321/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 415,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 415,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 415,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 761975,
+				"id_str": "761975",
+				"name": "Matt Haughey",
+				"screen_name": "mathowie",
+				"location": "Oregon, USA",
+				"description": "Writer @SlackHQ, he/him",
+				"url": "https://t.co/Lsy0Y826gl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lsy0Y826gl",
+								"expanded_url": "http://a.wholelottanothing.org",
+								"display_url": "a.wholelottanothing.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29533,
+				"friends_count": 1372,
+				"listed_count": 1130,
+				"created_at": "Sat Feb 10 03:17:49 +0000 2007",
+				"favourites_count": 206265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10613,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1319791324132900865/fycTd44z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319791324132900865/fycTd44z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/761975/1603989680",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FEFCD7",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 280,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nope. https://t.co/SJTwgq4vTu"
+	},
+	{
+		"created_at": "Mon Mar 15 18:09:28 +0000 2021",
+		"id": 1371519250431574000,
+		"id_str": "1371523960567959558",
+		"full_text": "Literally, exactly, perfectly, totally why “smart contracts” are dumb. \n\nThere are no bugs, only features. \n\nThere is no theft, only transactions.\n\nThere is no recourse, only the contract. https://t.co/428uekmcvy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/428uekmcvy",
+					"expanded_url": "https://twitter.com/michaelmiraflor/status/1371250201894133763",
+					"display_url": "twitter.com/michaelmiraflo…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15809746,
+			"id_str": "15809746",
+			"name": "ED ATEN 😷🇺🇸🌲",
+			"screen_name": "aten",
+			"location": "San Francisco, CA",
+			"description": "Inciter, insider & insighter. CEO @Merchbar. DJ @Mystopia. Husband @ShoshUMD.",
+			"url": "https://t.co/AHufAQqz9Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AHufAQqz9Q",
+							"expanded_url": "https://www.merchbar.com",
+							"display_url": "merchbar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3729,
+			"friends_count": 1980,
+			"listed_count": 177,
+			"created_at": "Mon Aug 11 16:04:59 +0000 2008",
+			"favourites_count": 26244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "540F78",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112814668119076865/_AQGzAZ7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112814668119076865/_AQGzAZ7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15809746/1401737741",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "B3ACA4",
+			"profile_sidebar_fill_color": "003F69",
+			"profile_text_color": "04D9FF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371250201894133800,
+		"quoted_status_id_str": "1371250201894133763",
+		"quoted_status_permalink": {
+			"url": "https://t.co/428uekmcvy",
+			"expanded": "https://twitter.com/michaelmiraflor/status/1371250201894133763",
+			"display": "twitter.com/michaelmiraflo…"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Literally, exactly, perfectly, totally why “smart contracts” are dumb. \n\nThere are no bugs, only features. \n\nThere is no theft, only transactions.\n\nThere is no recourse, only the contract. https://t.co/428uekmcvy"
+	},
+	{
+		"created_at": "Mon Mar 15 16:38:24 +0000 2021",
+		"id": 1371501043771707400,
+		"id_str": "1371501043771707396",
+		"full_text": "https://t.co/rOCEF2jLbI https://t.co/GJsZ8dOqFg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rOCEF2jLbI",
+					"expanded_url": "https://twitter.com/baseballamerica/status/1371498048841469953",
+					"display_url": "twitter.com/baseballameric…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1371501037782233000,
+					"id_str": "1371501037782233100",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EwiM7WYW8AwyUwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EwiM7WYW8AwyUwv.jpg",
+					"url": "https://t.co/GJsZ8dOqFg",
+					"display_url": "pic.twitter.com/GJsZ8dOqFg",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1371501043771707396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1371501037782233000,
+					"id_str": "1371501037782233100",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EwiM7WYW8AwyUwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EwiM7WYW8AwyUwv.jpg",
+					"url": "https://t.co/GJsZ8dOqFg",
+					"display_url": "pic.twitter.com/GJsZ8dOqFg",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1371501043771707396/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EwiM7WYW8AwyUwv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4433,
+			"friends_count": 696,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371498048841470000,
+		"quoted_status_id_str": "1371498048841469953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rOCEF2jLbI",
+			"expanded": "https://twitter.com/baseballamerica/status/1371498048841469953",
+			"display": "twitter.com/baseballameric…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 15 16:26:30 +0000 2021",
+			"id": 1371498048841470000,
+			"id_str": "1371498048841469953",
+			"full_text": "Many minor league fans assumed May 4th Opening Day would coincide with the return of Star Wars night. \n\nBut that won't be the case. \n\n@jjcoop36 explains why the force will not be around on the fourth in 2021 🔽\n\nhttps://t.co/DhjnX6fCBv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jjcoop36",
+						"name": "JJ Cooper",
+						"id": 41120758,
+						"id_str": "41120758",
+						"indices": [
+							134,
+							143
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DhjnX6fCBv",
+						"expanded_url": "https://www.baseballamerica.com/stories/dont-expect-star-wars-night-for-2021-minor-league-opening-day-on-may-4th/",
+						"display_url": "baseballamerica.com/stories/dont-e…",
+						"indices": [
+							211,
+							234
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21410529,
+				"id_str": "21410529",
+				"name": "Baseball America",
+				"screen_name": "BaseballAmerica",
+				"location": "Durham, N.C.",
+				"description": "Unparalleled coverage and authority for nearly 40 years. Get in the game👇",
+				"url": "https://t.co/bkHpdMr2mk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bkHpdMr2mk",
+								"expanded_url": "https://www.baseballamerica.com/sign-up/",
+								"display_url": "baseballamerica.com/sign-up/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 275990,
+				"friends_count": 1052,
+				"listed_count": 4759,
+				"created_at": "Fri Feb 20 16:33:00 +0000 2009",
+				"favourites_count": 1618,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 115443,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1095443676413808640/tGwquyUa_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095443676413808640/tGwquyUa_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21410529/1556369903",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/rOCEF2jLbI https://t.co/GJsZ8dOqFg"
+	},
+	{
 		"created_at": "Mon Mar 15 01:52:57 +0000 2021",
 		"id": 1371278210885902300,
 		"id_str": "1371278210885902339",
