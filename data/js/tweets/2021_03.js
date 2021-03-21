@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 21 00:40:19 +0000 2021",
+		"id": 1373434258417664000,
+		"id_str": "1373434258417664003",
+		"full_text": "My parents had the wood grain. I had the cube https://t.co/vy22bgWDu5 https://t.co/qqhkqQdFXe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vy22bgWDu5",
+					"expanded_url": "https://twitter.com/rjszczerba/status/1373252161426051075",
+					"display_url": "twitter.com/rjszczerba/sta…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1373434255196491800,
+					"id_str": "1373434255196491780",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew9rLadXEAQvMg4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ew9rLadXEAQvMg4.jpg",
+					"url": "https://t.co/qqhkqQdFXe",
+					"display_url": "pic.twitter.com/qqhkqQdFXe",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1373434258417664003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 547,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 547,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373434255196491800,
+					"id_str": "1373434255196491780",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew9rLadXEAQvMg4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ew9rLadXEAQvMg4.jpg",
+					"url": "https://t.co/qqhkqQdFXe",
+					"display_url": "pic.twitter.com/qqhkqQdFXe",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1373434258417664003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 547,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 547,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4436,
+			"friends_count": 694,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1373252161426051000,
+		"quoted_status_id_str": "1373252161426051075",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vy22bgWDu5",
+			"expanded": "https://twitter.com/rjszczerba/status/1373252161426051075",
+			"display": "twitter.com/rjszczerba/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 20 12:36:43 +0000 2021",
+			"id": 1373252161426051000,
+			"id_str": "1373252161426051075",
+			"full_text": "How many of you had this exact alarm clock? https://t.co/QGXvr8PM1y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1373252158464876500,
+						"id_str": "1373252158464876546",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Ew7Fj_RWYAIKx4y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ew7Fj_RWYAIKx4y.jpg",
+						"url": "https://t.co/QGXvr8PM1y",
+						"display_url": "pic.twitter.com/QGXvr8PM1y",
+						"expanded_url": "https://twitter.com/RJSzczerba/status/1373252161426051075/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 749,
+								"h": 565,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 513,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 565,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1373252158464876500,
+						"id_str": "1373252158464876546",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Ew7Fj_RWYAIKx4y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ew7Fj_RWYAIKx4y.jpg",
+						"url": "https://t.co/QGXvr8PM1y",
+						"display_url": "pic.twitter.com/QGXvr8PM1y",
+						"expanded_url": "https://twitter.com/RJSzczerba/status/1373252161426051075/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 749,
+								"h": 565,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 513,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 565,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 175711277,
+				"id_str": "175711277",
+				"name": "Rob Szczerba",
+				"screen_name": "RJSzczerba",
+				"location": "Pittsburgh, PA",
+				"description": "Rocket Scientist 🚀 turned CEO; Senior Fellow Emeritus @LockheedMartin, @NotreDame Ph.D., Write cool stuff @Forbes & Proud Autism Dad!",
+				"url": "https://t.co/a24hf8xfzj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a24hf8xfzj",
+								"expanded_url": "https://www.linkedin.com/in/robertszczerba/",
+								"display_url": "linkedin.com/in/robertszcze…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147396,
+				"friends_count": 57994,
+				"listed_count": 1339,
+				"created_at": "Sat Aug 07 11:12:56 +0000 2010",
+				"favourites_count": 32744,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25594,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783638214384975872/4BmrQtgC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783638214384975872/4BmrQtgC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/175711277/1513485246",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 301,
+			"favorite_count": 7816,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My parents had the wood grain. I had the cube https://t.co/vy22bgWDu5 https://t.co/qqhkqQdFXe"
+	},
+	{
 		"created_at": "Fri Mar 19 14:57:54 +0000 2021",
 		"id": 1372925300980453400,
 		"id_str": "1372925300980453379",
