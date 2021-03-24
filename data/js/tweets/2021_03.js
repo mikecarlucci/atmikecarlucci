@@ -1,6 +1,616 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 24 00:26:50 +0000 2021",
+		"id": 1374518031934623700,
+		"id_str": "1374518031934623754",
+		"full_text": "@CubeApril I know there are two shapes that are each 8 tablespoons...is there a different size too???",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CubeApril",
+					"name": "April King",
+					"id": 816069769577173000,
+					"id_str": "816069769577172992",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1374492364329218000,
+		"in_reply_to_status_id_str": "1374492364329218056",
+		"in_reply_to_user_id": 816069769577173000,
+		"in_reply_to_user_id_str": "816069769577172992",
+		"in_reply_to_screen_name": "CubeApril",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4436,
+			"friends_count": 694,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CubeApril I know there are two shapes that are each 8 tablespoons...is there a different size too???"
+	},
+	{
+		"created_at": "Wed Mar 24 00:13:08 +0000 2021",
+		"id": 1374514583713423400,
+		"id_str": "1374514583713423360",
+		"full_text": "@baseballtwit https://t.co/UtBLHIqwNL",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baseballtwit",
+					"name": "Adam Darowski",
+					"id": 18292847,
+					"id_str": "18292847",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374514577073868800,
+					"id_str": "1374514577073868801",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ExNBubEVkAE4eGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ExNBubEVkAE4eGU.jpg",
+					"url": "https://t.co/UtBLHIqwNL",
+					"display_url": "pic.twitter.com/UtBLHIqwNL",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1374514583713423360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 288,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374514577073868800,
+					"id_str": "1374514577073868801",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ExNBubEVkAE4eGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ExNBubEVkAE4eGU.jpg",
+					"url": "https://t.co/UtBLHIqwNL",
+					"display_url": "pic.twitter.com/UtBLHIqwNL",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1374514583713423360/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 288,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ExNBubEVkAE4eGU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1374508578770362400,
+		"in_reply_to_status_id_str": "1374508578770362370",
+		"in_reply_to_user_id": 18292847,
+		"in_reply_to_user_id_str": "18292847",
+		"in_reply_to_screen_name": "baseballtwit",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4436,
+			"friends_count": 694,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@baseballtwit https://t.co/UtBLHIqwNL"
+	},
+	{
+		"created_at": "Tue Mar 23 17:27:30 +0000 2021",
+		"id": 1374412502985961500,
+		"id_str": "1374412502985961483",
+		"full_text": "Admiral Ackbar cereal\n\nhttps://t.co/8nEmpAKleN https://t.co/827jWmgl5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8nEmpAKleN",
+					"expanded_url": "https://youtu.be/oQljzQ_FpUE",
+					"display_url": "youtu.be/oQljzQ_FpUE",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/827jWmgl5E",
+					"expanded_url": "https://twitter.com/jensenkarp/status/1374051365417230336",
+					"display_url": "twitter.com/jensenkarp/sta…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4436,
+			"friends_count": 694,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374051365417230300,
+		"quoted_status_id_str": "1374051365417230336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/827jWmgl5E",
+			"expanded": "https://twitter.com/jensenkarp/status/1374051365417230336",
+			"display": "twitter.com/jensenkarp/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 22 17:32:28 +0000 2021",
+			"id": 1374051365417230300,
+			"id_str": "1374051365417230336",
+			"full_text": "Ummmm @CTCSquares - why are there shrimp tails in my cereal? (This is not a bit) https://t.co/tTjiAdrnVp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CTCSquares",
+						"name": "Cinnamon Toast Crunch",
+						"id": 871984362,
+						"id_str": "871984362",
+						"indices": [
+							6,
+							17
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1374051360203698200,
+						"id_str": "1374051360203698176",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/ExGcbpwVcAA1POx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ExGcbpwVcAA1POx.jpg",
+						"url": "https://t.co/tTjiAdrnVp",
+						"display_url": "pic.twitter.com/tTjiAdrnVp",
+						"expanded_url": "https://twitter.com/JensenKarp/status/1374051365417230336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1374051360203698200,
+						"id_str": "1374051360203698176",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/ExGcbpwVcAA1POx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ExGcbpwVcAA1POx.jpg",
+						"url": "https://t.co/tTjiAdrnVp",
+						"display_url": "pic.twitter.com/tTjiAdrnVp",
+						"expanded_url": "https://twitter.com/JensenKarp/status/1374051365417230336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19315920,
+				"id_str": "19315920",
+				"name": "Jensen Karp",
+				"screen_name": "JensenKarp",
+				"location": "Los Angeles",
+				"description": "Father, writer, only person to debate at Oxford & perform at the Gathering of the Juggalos. Talk Ain’t Cheap podcast. Buy my memoir, Kanye West Owes Me $300.",
+				"url": "https://t.co/pHfJh8n7pe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pHfJh8n7pe",
+								"expanded_url": "https://linktr.ee/jensenkarp",
+								"display_url": "linktr.ee/jensenkarp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 130919,
+				"friends_count": 1306,
+				"listed_count": 778,
+				"created_at": "Thu Jan 22 00:01:09 +0000 2009",
+				"favourites_count": 55019,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36821,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1351928473246318593/GWJVkVGZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351928473246318593/GWJVkVGZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19315920/1604337652",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11099,
+			"favorite_count": 112527,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Admiral Ackbar cereal\n\nhttps://t.co/8nEmpAKleN https://t.co/827jWmgl5E"
+	},
+	{
 		"created_at": "Mon Mar 22 17:25:08 +0000 2021",
 		"id": 1374049516949737500,
 		"id_str": "1374049516949737473",
