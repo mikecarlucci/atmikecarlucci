@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 06 00:17:01 +0000 2021",
+		"id": 1379226601381101600,
+		"id_str": "1379226601381101574",
+		"full_text": "@megrowler Finally a use for this GIF! 🤣 https://t.co/g03byxlkQc",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "megrowler",
+					"name": "Meg Rowley",
+					"id": 433442459,
+					"id_str": "433442459",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1379226595953610800,
+					"id_str": "1379226595953610758",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EyP_SBSWEAY4u2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EyP_SBSWEAY4u2J.jpg",
+					"url": "https://t.co/g03byxlkQc",
+					"display_url": "pic.twitter.com/g03byxlkQc",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1379226601381101574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 92,
+							"h": 92,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 92,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 92,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 92,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379226595953610800,
+					"id_str": "1379226595953610758",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EyP_SBSWEAY4u2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EyP_SBSWEAY4u2J.jpg",
+					"url": "https://t.co/g03byxlkQc",
+					"display_url": "pic.twitter.com/g03byxlkQc",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1379226601381101574/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 92,
+							"h": 92,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 92,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 92,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 92,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EyP_SBSWEAY4u2J.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1379224730599743500,
+		"in_reply_to_status_id_str": "1379224730599743488",
+		"in_reply_to_user_id": 433442459,
+		"in_reply_to_user_id_str": "433442459",
+		"in_reply_to_screen_name": "megrowler",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4427,
+			"friends_count": 691,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@megrowler Finally a use for this GIF! 🤣 https://t.co/g03byxlkQc"
+	},
+	{
 		"created_at": "Sun Apr 04 18:13:01 +0000 2021",
 		"id": 1378772612680142800,
 		"id_str": "1378772612680142848",
