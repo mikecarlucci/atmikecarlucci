@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 08 02:05:35 +0000 2021",
+		"id": 1379978698682687500,
+		"id_str": "1379978698682687494",
+		"full_text": "https://t.co/J7gfrSX0CK https://t.co/HIf5A5q3Xn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J7gfrSX0CK",
+					"expanded_url": "https://twitter.com/ginadivittorio/status/1379916918128279555",
+					"display_url": "twitter.com/ginadivittorio…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1379978683553878000,
+					"id_str": "1379978683553878016",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EyarTR7XEAAEHRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EyarTR7XEAAEHRt.jpg",
+					"url": "https://t.co/HIf5A5q3Xn",
+					"display_url": "pic.twitter.com/HIf5A5q3Xn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1379978698682687494/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379978683553878000,
+					"id_str": "1379978683553878016",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EyarTR7XEAAEHRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EyarTR7XEAAEHRt.jpg",
+					"url": "https://t.co/HIf5A5q3Xn",
+					"display_url": "pic.twitter.com/HIf5A5q3Xn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1379978698682687494/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EyarTR7XEAAEHRt.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4427,
+			"friends_count": 688,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379916918128279600,
+		"quoted_status_id_str": "1379916918128279555",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J7gfrSX0CK",
+			"expanded": "https://twitter.com/ginadivittorio/status/1379916918128279555",
+			"display": "twitter.com/ginadivittorio…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 07 22:00:05 +0000 2021",
+			"id": 1379916918128279600,
+			"id_str": "1379916918128279555",
+			"full_text": "Personally I’m probably going to keep wearing a mask even after covid is over, there is no reason that strangers on the subway need to fully know what I look like",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 316229447,
+				"id_str": "316229447",
+				"name": "G. L. DiVittorio",
+				"screen_name": "ginadivittorio",
+				"location": "Brooklyn ",
+				"description": "5’8.5” @ThePocketReport she/her",
+				"url": "https://t.co/PfLYbpOis9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PfLYbpOis9",
+								"expanded_url": "https://www.bonfire.com/dashboard/details/vaccinated-t-shirt-1/",
+								"display_url": "bonfire.com/dashboard/deta…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68290,
+				"friends_count": 948,
+				"listed_count": 119,
+				"created_at": "Mon Jun 13 04:02:16 +0000 2011",
+				"favourites_count": 18772,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8665,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1176813343941779456/Dj0cTnxE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176813343941779456/Dj0cTnxE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/316229447/1609954244",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 70,
+			"favorite_count": 1396,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/J7gfrSX0CK https://t.co/HIf5A5q3Xn"
+	},
+	{
 		"created_at": "Tue Apr 06 18:23:12 +0000 2021",
 		"id": 1379499948555780000,
 		"id_str": "1379499948555780101",
