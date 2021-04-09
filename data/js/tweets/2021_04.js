@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 08 22:53:59 +0000 2021",
+		"id": 1380292869722943500,
+		"id_str": "1380292869722943494",
+		"full_text": "https://t.co/LTwyfrkuJK https://t.co/VIgBh4QvnD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LTwyfrkuJK",
+					"expanded_url": "https://twitter.com/thehill/status/1380142892338012160",
+					"display_url": "twitter.com/thehill/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1380292859346231300,
+					"id_str": "1380292859346231298",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1380292859346231298/pu/img/_V4jk4P4r-MYszu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1380292859346231298/pu/img/_V4jk4P4r-MYszu0.jpg",
+					"url": "https://t.co/VIgBh4QvnD",
+					"display_url": "pic.twitter.com/VIgBh4QvnD",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1380292869722943494/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1380292859346231300,
+					"id_str": "1380292859346231298",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1380292859346231298/pu/img/_V4jk4P4r-MYszu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1380292859346231298/pu/img/_V4jk4P4r-MYszu0.jpg",
+					"url": "https://t.co/VIgBh4QvnD",
+					"display_url": "pic.twitter.com/VIgBh4QvnD",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1380292869722943494/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							319,
+							180
+						],
+						"duration_millis": 5462,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1380292859346231298/pu/vid/638x360/qafM6a6sTyxDINpk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1380292859346231298/pu/pl/iSXZRJNDIen2wCyd.m3u8?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1380292859346231298/pu/vid/478x270/Sa7aebSY3-Zl3gnw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4427,
+			"friends_count": 688,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1380142892338012200,
+		"quoted_status_id_str": "1380142892338012160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LTwyfrkuJK",
+			"expanded": "https://twitter.com/thehill/status/1380142892338012160",
+			"display": "twitter.com/thehill/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 08 12:58:02 +0000 2021",
+			"id": 1380142892338012200,
+			"id_str": "1380142892338012160",
+			"full_text": "Elon Musk's business partner says he could build the real \"Jurassic Park\" with genetically engineered dinosaurs https://t.co/8AkTE84sN2 https://t.co/zeKSsWZIOG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8AkTE84sN2",
+						"expanded_url": "http://hill.cm/ieqoX1A",
+						"display_url": "hill.cm/ieqoX1A",
+						"indices": [
+							112,
+							135
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1380142890337337300,
+						"id_str": "1380142890337337347",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/media/EydApX3WgAM58SF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EydApX3WgAM58SF.jpg",
+						"url": "https://t.co/zeKSsWZIOG",
+						"display_url": "pic.twitter.com/zeKSsWZIOG",
+						"expanded_url": "https://twitter.com/thehill/status/1380142892338012160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 733,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 880,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1380142890337337300,
+						"id_str": "1380142890337337347",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/media/EydApX3WgAM58SF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EydApX3WgAM58SF.jpg",
+						"url": "https://t.co/zeKSsWZIOG",
+						"display_url": "pic.twitter.com/zeKSsWZIOG",
+						"expanded_url": "https://twitter.com/thehill/status/1380142892338012160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 733,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 880,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1917731,
+				"id_str": "1917731",
+				"name": "The Hill",
+				"screen_name": "thehill",
+				"location": "Washington, DC",
+				"description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+				"url": "http://t.co/t414UtTRv4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/t414UtTRv4",
+								"expanded_url": "http://www.thehill.com",
+								"display_url": "thehill.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4158191,
+				"friends_count": 279,
+				"listed_count": 28181,
+				"created_at": "Thu Mar 22 18:15:18 +0000 2007",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 862493,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+				"profile_link_color": "FF0021",
+				"profile_sidebar_border_color": "ADADAA",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 854,
+			"favorite_count": 4547,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/LTwyfrkuJK https://t.co/VIgBh4QvnD"
+	},
+	{
 		"created_at": "Thu Apr 08 02:05:35 +0000 2021",
 		"id": 1379978698682687500,
 		"id_str": "1379978698682687494",
