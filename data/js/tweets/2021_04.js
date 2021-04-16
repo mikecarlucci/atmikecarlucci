@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 16 01:44:05 +0000 2021",
+		"id": 1382872390389145600,
+		"id_str": "1382872390389145605",
+		"full_text": "Nomar https://t.co/eJXTVXnrfa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eJXTVXnrfa",
+					"expanded_url": "https://twitter.com/jakem0ntgomery/status/1382815123983634432",
+					"display_url": "twitter.com/jakem0ntgomery…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4428,
+			"friends_count": 690,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382815123983634400,
+		"quoted_status_id_str": "1382815123983634432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eJXTVXnrfa",
+			"expanded": "https://twitter.com/jakem0ntgomery/status/1382815123983634432",
+			"display": "twitter.com/jakem0ntgomery…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 15 21:56:31 +0000 2021",
+			"id": 1382815123983634400,
+			"id_str": "1382815123983634432",
+			"full_text": "You can pick ONE athlete ever to have an injury-free career (from beginning to end), who are you choosing?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 787434629120790500,
+				"id_str": "787434629120790528",
+				"name": "Jake Montgomery",
+				"screen_name": "JakeM0NTGOMERY",
+				"location": "New York, NY",
+				"description": "@ESPNNY98_7FM Producer/BoardOp. High School Football Hour/“Monty”. Diehard #Yankees fan since 93’. Saquon/Danny Dimes 2021. #Giants Unfortunately a #Knicks fan.",
+				"url": "https://t.co/6D8kSfhZDW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6D8kSfhZDW",
+								"expanded_url": "https://www.instagram.com/jakemontgomery93",
+								"display_url": "instagram.com/jakemontgomery…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7634,
+				"friends_count": 2394,
+				"listed_count": 51,
+				"created_at": "Sat Oct 15 23:27:00 +0000 2016",
+				"favourites_count": 2184,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8511,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1374083794014191622/7vxmLvGV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374083794014191622/7vxmLvGV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/787434629120790528/1614556594",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 941,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Nomar https://t.co/eJXTVXnrfa"
+	},
+	{
+		"created_at": "Thu Apr 15 18:52:24 +0000 2021",
+		"id": 1382755968505774000,
+		"id_str": "1382768790774120449",
+		"full_text": "This is like 95% so the logo doesn't get cut off when people post snapshots of food with cans of Coke on the table set behind the plates, right? https://t.co/dn9veUkV1j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dn9veUkV1j",
+					"expanded_url": "https://twitter.com/kimseverson/status/1382723852791382016",
+					"display_url": "twitter.com/kimseverson/st…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15676413,
+			"id_str": "15676413",
+			"name": "Hot Tubs Rosner",
+			"screen_name": "hels",
+			"location": "NYC via Chicago",
+			"description": "a nice lady",
+			"url": "https://t.co/90SUx7kHh7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/90SUx7kHh7",
+							"expanded_url": "https://www.newyorker.com/contributors/helen-rosner",
+							"display_url": "newyorker.com/contributors/h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146970,
+			"friends_count": 2975,
+			"listed_count": 1577,
+			"created_at": "Thu Jul 31 16:02:30 +0000 2008",
+			"favourites_count": 130089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336748050623176705/zKn_rh_9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336748050623176705/zKn_rh_9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15676413/1556840951",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382723852791382000,
+		"quoted_status_id_str": "1382723852791382016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dn9veUkV1j",
+			"expanded": "https://twitter.com/kimseverson/status/1382723852791382016",
+			"display": "twitter.com/kimseverson/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 15 15:53:50 +0000 2021",
+			"id": 1382723852791382000,
+			"id_str": "1382723852791382016",
+			"full_text": "Marketing is so hilarious sometimes. They’re saying the new Coke design “elevates the logo to the top of the label to signal the drinks' ‘uplifting’ possibilities.” https://t.co/dXv5Bujmnr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dXv5Bujmnr",
+						"expanded_url": "https://www.marketingweek.com/coca-cola-unified-packaging-strategy/",
+						"display_url": "marketingweek.com/coca-cola-unif…",
+						"indices": [
+							165,
+							188
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16588095,
+				"id_str": "16588095",
+				"name": "Kim Severson",
+				"screen_name": "kimseverson",
+				"location": "varies",
+				"description": "Food correspondent for The New York Times. Body in the South, head in NYC, heart in SF. https://t.co/q6v9BY4L32",
+				"url": "https://t.co/UmqCI5AhUx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UmqCI5AhUx",
+								"expanded_url": "http://www.nytimes.com",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/q6v9BY4L32",
+								"expanded_url": "https://www.nytimes.com/by/kim-severson",
+								"display_url": "nytimes.com/by/kim-severson",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 104561,
+				"friends_count": 1346,
+				"listed_count": 1976,
+				"created_at": "Sat Oct 04 03:52:17 +0000 2008",
+				"favourites_count": 41008,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40741,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1130301816359591937/Qsueqyqn_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130301816359591937/Qsueqyqn_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16588095/1437864925",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 293,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is like 95% so the logo doesn't get cut off when people post snapshots of food with cans of Coke on the table set behind the plates, right? https://t.co/dn9veUkV1j"
+	},
+	{
+		"created_at": "Thu Apr 15 18:34:08 +0000 2021",
+		"id": 1382764192806092800,
+		"id_str": "1382764192806092804",
+		"full_text": "Junior year high school Mr. Missler gave me a C on our summer reading essay because i couldn’t remember the name of Holden Caulfield. He figured I may have read it but wasn’t sure. The essay was very detailed. I called him “the main character” “protagonist” “Phoebe’s brother” https://t.co/bDSUrQEeUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bDSUrQEeUX",
+					"expanded_url": "https://twitter.com/i_lean/status/1382452903416303616",
+					"display_url": "twitter.com/i_lean/status/…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4428,
+			"friends_count": 690,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382452903416303600,
+		"quoted_status_id_str": "1382452903416303616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bDSUrQEeUX",
+			"expanded": "https://twitter.com/i_lean/status/1382452903416303616",
+			"display": "twitter.com/i_lean/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 14 21:57:11 +0000 2021",
+			"id": 1382452903416303600,
+			"id_str": "1382452903416303616",
+			"full_text": "Who’s a teacher that wronged you and you’re STILLL mad about it! NAME NAMES AND NAME THE INCIDENT!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21642593,
+				"id_str": "21642593",
+				"name": "Eileen Mary O’Connell",
+				"screen_name": "i_Lean",
+				"location": "Los Angeles",
+				"description": "Writer // Comedian (@ucbtla #RIPiOWest) // Social Media (@plutotv) // Queen of Space Jam 🏀🐰 // Good at making my bios short & succin",
+				"url": "https://t.co/A2veYcI7o3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A2veYcI7o3",
+								"expanded_url": "http://www.instagram.com/eileenmaryoconnell",
+								"display_url": "instagram.com/eileenmaryocon…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7355,
+				"friends_count": 984,
+				"listed_count": 122,
+				"created_at": "Mon Feb 23 09:44:48 +0000 2009",
+				"favourites_count": 128819,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 22089,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1351300153991303170/JsUPY3ah_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351300153991303170/JsUPY3ah_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21642593/1431404218",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 279,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Junior year high school Mr. Missler gave me a C on our summer reading essay because i couldn’t remember the name of Holden Caulfield. He figured I may have read it but wasn’t sure. The essay was very detailed. I called him “the main character” “protagonist” “Phoebe’s brother” https://t.co/bDSUrQEeUX"
+	},
+	{
 		"created_at": "Thu Apr 15 00:59:02 +0000 2021",
 		"id": 1382498665676292000,
 		"id_str": "1382498665676292097",
