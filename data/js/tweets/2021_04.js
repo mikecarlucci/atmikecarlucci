@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 22 02:11:10 +0000 2021",
+		"id": 1385053536958959600,
+		"id_str": "1385053536958959616",
+		"full_text": "Legend https://t.co/tdMJUftaLs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tdMJUftaLs",
+					"expanded_url": "https://twitter.com/alyankovic/status/1385052648668221444",
+					"display_url": "twitter.com/alyankovic/sta…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4426,
+			"friends_count": 691,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1385052648668221400,
+		"quoted_status_id_str": "1385052648668221444",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tdMJUftaLs",
+			"expanded": "https://twitter.com/alyankovic/status/1385052648668221444",
+			"display": "twitter.com/alyankovic/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 22 02:07:39 +0000 2021",
+			"id": 1385052648668221400,
+			"id_str": "1385052648668221444",
+			"full_text": "Tonight marks the 40th anniversary of my first-ever national TV appearance. Thanks to the late great Tom Snyder, and to @TheGreatBermuda, who is still banging on my accordion case to this day.  https://t.co/MZlEGhuFax",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheGreatBermuda",
+						"name": "Bermuda Schwartz",
+						"id": 62278044,
+						"id_str": "62278044",
+						"indices": [
+							120,
+							136
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MZlEGhuFax",
+						"expanded_url": "https://youtu.be/tZkouut-9RQ",
+						"display_url": "youtu.be/tZkouut-9RQ",
+						"indices": [
+							194,
+							217
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22461427,
+				"id_str": "22461427",
+				"name": "Al Yankovic",
+				"screen_name": "alyankovic",
+				"location": "Los Angeles",
+				"description": "You know... the weird one.",
+				"url": "https://t.co/AQRv276mUy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AQRv276mUy",
+								"expanded_url": "http://weirdal.com",
+								"display_url": "weirdal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5080802,
+				"friends_count": 620,
+				"listed_count": 28486,
+				"created_at": "Mon Mar 02 07:00:29 +0000 2009",
+				"favourites_count": 4546,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22461427/1398828117",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 2280,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Legend https://t.co/tdMJUftaLs"
+	},
+	{
+		"created_at": "Wed Apr 21 17:50:02 +0000 2021",
+		"id": 1384927420231397400,
+		"id_str": "1384927420231397379",
+		"full_text": "@90feetfromhome It’s a nice turn of phrase given Kingston the official charcoal briquette of MLB 🤣",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "90feetfromhome",
+					"name": "Ashley MacLennan",
+					"id": 776786543377645600,
+					"id_str": "776786543377645572",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1384927032866394000,
+		"in_reply_to_status_id_str": "1384927032866394117",
+		"in_reply_to_user_id": 776786543377645600,
+		"in_reply_to_user_id_str": "776786543377645572",
+		"in_reply_to_screen_name": "90feetfromhome",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4426,
+			"friends_count": 691,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@90feetfromhome It’s a nice turn of phrase given Kingston the official charcoal briquette of MLB 🤣"
+	},
+	{
+		"created_at": "Wed Apr 21 17:48:05 +0000 2021",
+		"id": 1384922770136576000,
+		"id_str": "1384926929028067334",
+		"full_text": "I think the \"Mendoza Line\" is a terrible name for at-bat futility, and let me tell you why... https://t.co/sDrPYoDuts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sDrPYoDuts",
+					"expanded_url": "https://twitter.com/fangraphs/status/1384922562833092609",
+					"display_url": "twitter.com/fangraphs/stat…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776786543377645600,
+			"id_str": "776786543377645572",
+			"name": "Ashley MacLennan",
+			"screen_name": "90feetfromhome",
+			"location": "Winnipeg, Manitoba",
+			"description": "Writer @fangraphs. Many hats at @blessyouboys, @draysbay, @bleedcubbieblue. Baseball YouTuber. Co-Host of Who's on Worst podcast. Questionably witty. she/her",
+			"url": "https://t.co/Ws4QTE4VUz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ws4QTE4VUz",
+							"expanded_url": "https://www.youtube.com/c/AshleyMacLennan90feetfromhome",
+							"display_url": "youtube.com/c/AshleyMacLen…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3134,
+			"friends_count": 1319,
+			"listed_count": 88,
+			"created_at": "Fri Sep 16 14:15:18 +0000 2016",
+			"favourites_count": 40836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303720063892180993/M5jIDHia_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303720063892180993/M5jIDHia_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776786543377645572/1561735442",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384922562833092600,
+		"quoted_status_id_str": "1384922562833092609",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sDrPYoDuts",
+			"expanded": "https://twitter.com/fangraphs/status/1384922562833092609",
+			"display": "twitter.com/fangraphs/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 21 17:30:44 +0000 2021",
+			"id": 1384922562833092600,
+			"id_str": "1384922562833092609",
+			"full_text": "Erasing the Mendoza Line https://t.co/mUGQp6beTV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mUGQp6beTV",
+						"expanded_url": "https://blogs.fangraphs.com/erasing-the-mendoza-line",
+						"display_url": "blogs.fangraphs.com/erasing-the-me…",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26863892,
+				"id_str": "26863892",
+				"name": "FanGraphs Baseball",
+				"screen_name": "fangraphs",
+				"location": "",
+				"description": "Your home for advanced baseball analysis and stats. Help support us by becoming a member: https://t.co/VPZAzvvVFW. Tweets by @JATayler. Capital F, capital G.",
+				"url": "http://t.co/U8srNdw7KN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/U8srNdw7KN",
+								"expanded_url": "http://www.fangraphs.com",
+								"display_url": "fangraphs.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VPZAzvvVFW",
+								"expanded_url": "http://plus.fangraphs.com/shop/",
+								"display_url": "plus.fangraphs.com/shop/",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 168871,
+				"friends_count": 26,
+				"listed_count": 4884,
+				"created_at": "Thu Mar 26 21:58:02 +0000 2009",
+				"favourites_count": 213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65491,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105549623316357121/fQDHfaG6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105549623316357121/fQDHfaG6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26863892/1552420209",
+				"profile_link_color": "52AE26",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think the \"Mendoza Line\" is a terrible name for at-bat futility, and let me tell you why... https://t.co/sDrPYoDuts"
+	},
+	{
 		"created_at": "Tue Apr 20 18:49:56 +0000 2021",
 		"id": 1384580107109609500,
 		"id_str": "1384580107109609472",
