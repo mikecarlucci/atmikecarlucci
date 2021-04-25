@@ -1,6 +1,548 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 24 15:00:48 +0000 2021",
+		"id": 1385971995955843000,
+		"id_str": "1385971995955843079",
+		"full_text": "Beautiful https://t.co/BFlrKn9UP2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BFlrKn9UP2",
+					"expanded_url": "https://twitter.com/smittyonmlb/status/1385962116063059972",
+					"display_url": "twitter.com/smittyonmlb/st…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4425,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1385962116063060000,
+		"quoted_status_id_str": "1385962116063059972",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BFlrKn9UP2",
+			"expanded": "https://twitter.com/smittyonmlb/status/1385962116063059972",
+			"display": "twitter.com/smittyonmlb/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 24 14:21:33 +0000 2021",
+			"id": 1385962116063060000,
+			"id_str": "1385962116063059972",
+			"full_text": "This is baseball weather https://t.co/p5qJ0zU54h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				24
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1385962083376902100,
+						"id_str": "1385962083376902146",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1385962083376902146/pu/img/VbtY4Imb01X35Izk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1385962083376902146/pu/img/VbtY4Imb01X35Izk.jpg",
+						"url": "https://t.co/p5qJ0zU54h",
+						"display_url": "pic.twitter.com/p5qJ0zU54h",
+						"expanded_url": "https://twitter.com/SmittyOnMLB/status/1385962116063059972/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1385962083376902100,
+						"id_str": "1385962083376902146",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1385962083376902146/pu/img/VbtY4Imb01X35Izk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1385962083376902146/pu/img/VbtY4Imb01X35Izk.jpg",
+						"url": "https://t.co/p5qJ0zU54h",
+						"display_url": "pic.twitter.com/p5qJ0zU54h",
+						"expanded_url": "https://twitter.com/SmittyOnMLB/status/1385962116063059972/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 13512,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1385962083376902146/pu/vid/1280x720/-2b3lCvQPpstvWPI.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1385962083376902146/pu/vid/640x360/sHVHFAZM4_34VJRj.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1385962083376902146/pu/pl/WG9AigwUZfRtzE-k.m3u8?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1385962083376902146/pu/vid/480x270/zycf0KANPYZfcqMQ.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158067020,
+				"id_str": "158067020",
+				"name": "Christopher Smith",
+				"screen_name": "SmittyOnMLB",
+				"location": "Georgetown, MA",
+				"description": "Red Sox reporter, https://t.co/0JhHSIgu0l. @NewhouseSU @SyracuseU grad. Dad of @KayleeSmith0819. Drummer. Writing about the best American novel ever written.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0JhHSIgu0l",
+								"expanded_url": "http://MassLive.com",
+								"display_url": "MassLive.com",
+								"indices": [
+									18,
+									41
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9774,
+				"friends_count": 2254,
+				"listed_count": 460,
+				"created_at": "Mon Jun 21 17:53:21 +0000 2010",
+				"favourites_count": 10322,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50480,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1348388051567968259/2tPQGaDo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348388051567968259/2tPQGaDo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158067020/1598459096",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0fc2e91c5e94d001",
+				"url": "https://api.twitter.com/1.1/geo/id/0fc2e91c5e94d001.json",
+				"place_type": "poi",
+				"name": "Fenway Park",
+				"full_name": "Fenway Park",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.09831218393697,
+								42.34628409436455
+							],
+							[
+								-71.09831218393697,
+								42.34628409436455
+							],
+							[
+								-71.09831218393697,
+								42.34628409436455
+							],
+							[
+								-71.09831218393697,
+								42.34628409436455
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beautiful https://t.co/BFlrKn9UP2"
+	},
+	{
+		"created_at": "Sat Apr 24 13:59:43 +0000 2021",
+		"id": 1385743779408355300,
+		"id_str": "1385956622388846599",
+		"full_text": "You can only retweet this if you know exactly how it feels to have this rig. https://t.co/DbGjbfPTq9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385743522628784000,
+					"id_str": "1385743522628784131",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1385743522628784131/pu/img/4M4NJcA7p-KJe-hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1385743522628784131/pu/img/4M4NJcA7p-KJe-hQ.jpg",
+					"url": "https://t.co/DbGjbfPTq9",
+					"display_url": "pic.twitter.com/DbGjbfPTq9",
+					"expanded_url": "https://twitter.com/ChefJags/status/1385743779408355330/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385743522628784000,
+					"id_str": "1385743522628784131",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1385743522628784131/pu/img/4M4NJcA7p-KJe-hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1385743522628784131/pu/img/4M4NJcA7p-KJe-hQ.jpg",
+					"url": "https://t.co/DbGjbfPTq9",
+					"display_url": "pic.twitter.com/DbGjbfPTq9",
+					"expanded_url": "https://twitter.com/ChefJags/status/1385743779408355330/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 59133,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1385743522628784131/pu/pl/9HEOV-GVhRHu8Ola.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1385743522628784131/pu/vid/576x1024/tw7ab46dfrNnO-xK.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1385743522628784131/pu/vid/480x852/5PMAzrZIQNjVVpNu.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1385743522628784131/pu/vid/320x568/g4EaV7FMGQjl97gG.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2763181319,
+			"id_str": "2763181319",
+			"name": "Chef",
+			"screen_name": "ChefJags",
+			"location": "",
+			"description": "DisneyWorld AP | Chef Stuff | #Jaguars | BCB | #Dodgers | There's always a great big beautiful tomorrow. | Singlehandedly got “Cooking with the Jags” Cancelled",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1497,
+			"friends_count": 1684,
+			"listed_count": 32,
+			"created_at": "Sat Sep 06 17:35:53 +0000 2014",
+			"favourites_count": 66563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379637276083359745/TUS3aNVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379637276083359745/TUS3aNVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2763181319/1550584445",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12552,
+		"favorite_count": 25963,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can only retweet this if you know exactly how it feels to have this rig. https://t.co/DbGjbfPTq9"
+	},
+	{
 		"created_at": "Fri Apr 23 22:31:25 +0000 2021",
 		"id": 1385723010502570000,
 		"id_str": "1385723010502569985",
@@ -1076,7 +1618,7 @@ Grailbird.data.tweets_2021_04 =
 			"user_mentions": [
 				{
 					"screen_name": "resistbot",
-					"name": "Resistbot 🏳️‍⚧️",
+					"name": "Resistbot 🏳️⚧️",
 					"id": 835740314006511600,
 					"id_str": "835740314006511618",
 					"indices": [
