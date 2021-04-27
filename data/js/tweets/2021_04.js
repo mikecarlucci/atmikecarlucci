@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 26 22:21:49 +0000 2021",
+		"id": 1386803469659648000,
+		"id_str": "1386807755328077830",
+		"full_text": "trdmrk ownrs: srsly dn't https://t.co/nCA5vvdc0Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nCA5vvdc0Z",
+					"expanded_url": "https://twitter.com/ArmitageJim/status/1386579350796095489",
+					"display_url": "twitter.com/ArmitageJim/st…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22581994,
+			"id_str": "22581994",
+			"name": "alexandra j. roberts",
+			"screen_name": "lexlanham",
+			"location": "boston & nh",
+			"description": "law professor teaching & writing on trademarks, entertainment law, false advertising, influencers, pop culture, & law/literature at @unhlaw & @uofnh. she/her.",
+			"url": "https://t.co/rQJzOFCU6Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rQJzOFCU6Y",
+							"expanded_url": "https://law.unh.edu/person/alexandra-j-roberts",
+							"display_url": "law.unh.edu/person/alexand…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11166,
+			"friends_count": 5206,
+			"listed_count": 233,
+			"created_at": "Tue Mar 03 04:05:16 +0000 2009",
+			"favourites_count": 77919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22581994/1601944342",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386579350796095500,
+		"quoted_status_id_str": "1386579350796095489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nCA5vvdc0Z",
+			"expanded": "https://twitter.com/ArmitageJim/status/1386579350796095489",
+			"display": "twitter.com/ArmitageJim/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 26 07:14:13 +0000 2021",
+			"id": 1386579350796095500,
+			"id_str": "1386579350796095489",
+			"full_text": "Is this the worse corporate name change in history? Standard Life Aberdeen to become Abrdn \"pronounced 'Aberdeen'\" as the press release explains...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 571269105,
+				"id_str": "571269105",
+				"name": "Jim Armitage",
+				"screen_name": "ArmitageJim",
+				"location": "London",
+				"description": "City ed at Evening Standard and The Independent. Ranter.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5661,
+				"friends_count": 967,
+				"listed_count": 157,
+				"created_at": "Fri May 04 21:57:40 +0000 2012",
+				"favourites_count": 1552,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5507,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3568275161/212de94e509288cd0885ee3b5e6f623e_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3568275161/212de94e509288cd0885ee3b5e6f623e_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 181,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "trdmrk ownrs: srsly dn't https://t.co/nCA5vvdc0Z"
+	},
+	{
+		"created_at": "Mon Apr 26 18:48:42 +0000 2021",
+		"id": 1386754124725825500,
+		"id_str": "1386754124725825547",
+		"full_text": "@FreedomPopHelp i don't have your service but it'll be upgraded to a pay program soon? what is going on? https://t.co/QzssFq8AiK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FreedomPopHelp",
+					"name": "FreedomPop Support",
+					"id": 930127766,
+					"id_str": "930127766",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386754053120663600,
+					"id_str": "1386754053120663556",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez69dscXIAQYsK6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez69dscXIAQYsK6.jpg",
+					"url": "https://t.co/QzssFq8AiK",
+					"display_url": "pic.twitter.com/QzssFq8AiK",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1386754124725825547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1483,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386754053120663600,
+					"id_str": "1386754053120663556",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez69dscXIAQYsK6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez69dscXIAQYsK6.jpg",
+					"url": "https://t.co/QzssFq8AiK",
+					"display_url": "pic.twitter.com/QzssFq8AiK",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1386754124725825547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1483,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 930127766,
+		"in_reply_to_user_id_str": "930127766",
+		"in_reply_to_screen_name": "FreedomPopHelp",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4426,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@FreedomPopHelp i don't have your service but it'll be upgraded to a pay program soon? what is going on? https://t.co/QzssFq8AiK"
+	},
+	{
 		"created_at": "Mon Apr 26 00:04:38 +0000 2021",
 		"id": 1386471244548251600,
 		"id_str": "1386471244548251653",
