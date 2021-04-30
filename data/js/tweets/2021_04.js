@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 29 23:12:33 +0000 2021",
+		"id": 1387907686730190800,
+		"id_str": "1387907686730190850",
+		"full_text": "https://t.co/qNQV5YDFMV https://t.co/NFPV8UtIq8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qNQV5YDFMV",
+					"expanded_url": "https://twitter.com/rachsyme/status/1387803897276870656",
+					"display_url": "twitter.com/rachsyme/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1387907681873272800,
+					"id_str": "1387907681873272843",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E0LWrucXoAs8nc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0LWrucXoAs8nc7.jpg",
+					"url": "https://t.co/NFPV8UtIq8",
+					"display_url": "pic.twitter.com/NFPV8UtIq8",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1387907686730190850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387907681873272800,
+					"id_str": "1387907681873272843",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E0LWrucXoAs8nc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0LWrucXoAs8nc7.jpg",
+					"url": "https://t.co/NFPV8UtIq8",
+					"display_url": "pic.twitter.com/NFPV8UtIq8",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1387907686730190850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4422,
+			"friends_count": 695,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1387803897276870700,
+		"quoted_status_id_str": "1387803897276870656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qNQV5YDFMV",
+			"expanded": "https://twitter.com/rachsyme/status/1387803897276870656",
+			"display": "twitter.com/rachsyme/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 29 16:20:07 +0000 2021",
+			"id": 1387803897276870700,
+			"id_str": "1387803897276870656",
+			"full_text": "what's a photograph that you would like to see made into an entire prestige tv series",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6931262,
+				"id_str": "6931262",
+				"name": "rachel syme",
+				"screen_name": "rachsyme",
+				"location": "Desert Flower in the Big Apple",
+				"description": "woman about town. writer @newyorker. writing a book called magpie for @aaknopf + one about letters. somehow also running a penpal service?(https://t.co/O2Hwo7Aeja)",
+				"url": "https://t.co/tmavZerZNI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tmavZerZNI",
+								"expanded_url": "http://www.rachelsyme.com/",
+								"display_url": "rachelsyme.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/O2Hwo7Aeja",
+								"expanded_url": "http://penpalooza.com",
+								"display_url": "penpalooza.com",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 115737,
+				"friends_count": 9180,
+				"listed_count": 1001,
+				"created_at": "Tue Jun 19 14:26:49 +0000 2007",
+				"favourites_count": 140764,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 22326,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "85749A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1262217473392328710/4rpFnXOH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262217473392328710/4rpFnXOH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6931262/1471017151",
+				"profile_link_color": "FF9999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C5BBE2",
+				"profile_text_color": "1F191B",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 111,
+			"favorite_count": 2189,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/qNQV5YDFMV https://t.co/NFPV8UtIq8"
+	},
+	{
 		"created_at": "Thu Apr 29 00:28:05 +0000 2021",
 		"id": 1387564307261665300,
 		"id_str": "1387564307261665280",
