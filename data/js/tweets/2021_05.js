@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 09 01:11:06 +0000 2021",
+		"id": 1391199011407863800,
+		"id_str": "1391199011407863808",
+		"full_text": "@DynamoNestico https://t.co/FbdNWNTRnf",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DynamoNestico",
+					"name": "Selling Cards Sucks",
+					"id": 1353646339,
+					"id_str": "1353646339",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1391199000221700000,
+					"id_str": "1391199000221700102",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E06IHqwX0AYOZBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E06IHqwX0AYOZBq.jpg",
+					"url": "https://t.co/FbdNWNTRnf",
+					"display_url": "pic.twitter.com/FbdNWNTRnf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1391199011407863808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1391199000221700000,
+					"id_str": "1391199000221700102",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E06IHqwX0AYOZBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E06IHqwX0AYOZBq.jpg",
+					"url": "https://t.co/FbdNWNTRnf",
+					"display_url": "pic.twitter.com/FbdNWNTRnf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1391199011407863808/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							124
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E06IHqwX0AYOZBq.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1391197898797424600,
+		"in_reply_to_status_id_str": "1391197898797424641",
+		"in_reply_to_user_id": 1353646339,
+		"in_reply_to_user_id_str": "1353646339",
+		"in_reply_to_screen_name": "DynamoNestico",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4421,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@DynamoNestico https://t.co/FbdNWNTRnf"
+	},
+	{
+		"created_at": "Sat May 08 14:44:28 +0000 2021",
+		"id": 1391041313177575400,
+		"id_str": "1391041313177575426",
+		"full_text": "Neat 😂 https://t.co/AElwW9KVtS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AElwW9KVtS",
+					"expanded_url": "https://twitter.com/otbaseballphoto/status/1391022288066289664",
+					"display_url": "twitter.com/otbaseballphot…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4421,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 93923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1391022288066289700,
+		"quoted_status_id_str": "1391022288066289664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AElwW9KVtS",
+			"expanded": "https://twitter.com/otbaseballphoto/status/1391022288066289664",
+			"display": "twitter.com/otbaseballphot…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 08 13:28:52 +0000 2021",
+			"id": 1391022288066289700,
+			"id_str": "1391022288066289664",
+			"full_text": "#OTD in 1878 in Providence, RI, the first triple play in MLB history was executed by Paul Hines of Providence Grays vs Boston in 3-2 win, for more about this historic play read @thorn_john's account in his wonderful blog --&gt; https://t.co/LwIVz2ooNz https://t.co/BJUnyNR4aW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OTD",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thorn_john",
+						"name": "John Thorn",
+						"id": 435820478,
+						"id_str": "435820478",
+						"indices": [
+							177,
+							188
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LwIVz2ooNz",
+						"expanded_url": "https://ourgame.mlblogs.com/paul-hines-and-the-unassisted-triple-play-220f56473f1a",
+						"display_url": "ourgame.mlblogs.com/paul-hines-and…",
+						"indices": [
+							228,
+							251
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1391022171527463000,
+						"id_str": "1391022171527462912",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/E03nS4iWQAAFBd-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E03nS4iWQAAFBd-.jpg",
+						"url": "https://t.co/BJUnyNR4aW",
+						"display_url": "pic.twitter.com/BJUnyNR4aW",
+						"expanded_url": "https://twitter.com/OTBaseballPhoto/status/1391022288066289664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 467,
+								"h": 881,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 467,
+								"h": 881,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1391022171527463000,
+						"id_str": "1391022171527462912",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/E03nS4iWQAAFBd-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E03nS4iWQAAFBd-.jpg",
+						"url": "https://t.co/BJUnyNR4aW",
+						"display_url": "pic.twitter.com/BJUnyNR4aW",
+						"expanded_url": "https://twitter.com/OTBaseballPhoto/status/1391022288066289664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 467,
+								"h": 881,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 467,
+								"h": 881,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2853322953,
+				"id_str": "2853322953",
+				"name": "Old-Time Baseball Photos",
+				"screen_name": "OTBaseballPhoto",
+				"location": "",
+				"description": "Celebrating baseball from the ages through the eyes of old baseball photos. SABR Member",
+				"url": "https://t.co/eRTUXQUkTW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eRTUXQUkTW",
+								"expanded_url": "https://www.facebook.com/pages/Old-Time-Baseball-Photos/308921932607061",
+								"display_url": "facebook.com/pages/Old-Time…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 97374,
+				"friends_count": 570,
+				"listed_count": 1013,
+				"created_at": "Fri Oct 31 14:46:09 +0000 2014",
+				"favourites_count": 24552,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27604,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/528198336939954176/v_-agXfV_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/528198336939954176/v_-agXfV_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2853322953/1414768093",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 133,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Neat 😂 https://t.co/AElwW9KVtS"
+	},
+	{
 		"created_at": "Thu May 06 17:22:14 +0000 2021",
 		"id": 1390356242942599200,
 		"id_str": "1390356242942599171",
