@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 12 13:13:31 +0000 2021",
+		"id": 1392464667323293700,
+		"id_str": "1392467976801112064",
+		"full_text": "arrested development banana meme goes mainstream! jessica walter would be proud 🍌♥️🍌 https://t.co/e5fIr9dHJN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392464448661622800,
+					"id_str": "1392464448661622788",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MHCdjWEAQDxrF.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1MHCdjWEAQDxrF.png",
+					"url": "https://t.co/e5fIr9dHJN",
+					"display_url": "pic.twitter.com/e5fIr9dHJN",
+					"expanded_url": "https://twitter.com/lexlanham/status/1392464667323293696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1268,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 258,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392464448661622800,
+					"id_str": "1392464448661622788",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MHCdjWEAQDxrF.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1MHCdjWEAQDxrF.png",
+					"url": "https://t.co/e5fIr9dHJN",
+					"display_url": "pic.twitter.com/e5fIr9dHJN",
+					"expanded_url": "https://twitter.com/lexlanham/status/1392464667323293696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1268,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 258,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22581994,
+			"id_str": "22581994",
+			"name": "alexandra j. roberts",
+			"screen_name": "lexlanham",
+			"location": "boston & nh",
+			"description": "law professor teaching & writing on trademarks, entertainment law, false advertising, influencers, pop culture, & law/literature at @unhlaw & @uofnh. she/her.",
+			"url": "https://t.co/rQJzOFCU6Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rQJzOFCU6Y",
+							"expanded_url": "https://law.unh.edu/person/alexandra-j-roberts",
+							"display_url": "law.unh.edu/person/alexand…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11256,
+			"friends_count": 5275,
+			"listed_count": 233,
+			"created_at": "Tue Mar 03 04:05:16 +0000 2009",
+			"favourites_count": 79473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22581994/1601944342",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 74,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "arrested development banana meme goes mainstream! jessica walter would be proud 🍌♥️🍌 https://t.co/e5fIr9dHJN"
+	},
+	{
 		"created_at": "Tue May 11 21:00:28 +0000 2021",
 		"id": 1392223104055890000,
 		"id_str": "1392223104055889927",
