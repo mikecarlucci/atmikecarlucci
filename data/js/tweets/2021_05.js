@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 22:03:54 +0000 2021",
+		"id": 1393326229881860000,
+		"id_str": "1393326229881860097",
+		"full_text": "@MemeItSo Images don’t seem to be loading",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MemeItSo",
+					"name": "Meme It So",
+					"id": 1385103369241604000,
+					"id_str": "1385103369241604096",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1385651171625480200,
+		"in_reply_to_status_id_str": "1385651171625480199",
+		"in_reply_to_user_id": 1385103369241604000,
+		"in_reply_to_user_id_str": "1385103369241604096",
+		"in_reply_to_screen_name": "MemeItSo",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4412,
+			"friends_count": 693,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 94103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MemeItSo Images don’t seem to be loading"
+	},
+	{
+		"created_at": "Fri May 14 19:53:21 +0000 2021",
+		"id": 1393245600066543600,
+		"id_str": "1393293374598299649",
+		"full_text": "The person who created the term geriatric millennials needs to be run out of town.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14298769,
+			"id_str": "14298769",
+			"name": "Molly Jong-Fast",
+			"screen_name": "MollyJongFast",
+			"location": "",
+			"description": "Editor at large @thedailybeast. podcasting @newabnormalpod & Wife of @Mattgreenfield & mother of @woketeenageson",
+			"url": "https://t.co/MmuhUfZv9d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MmuhUfZv9d",
+							"expanded_url": "https://www.instagram.com/mollyjongfast/?hl=en",
+							"display_url": "instagram.com/mollyjongfast/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 881333,
+			"friends_count": 6268,
+			"listed_count": 5162,
+			"created_at": "Fri Apr 04 01:41:30 +0000 2008",
+			"favourites_count": 859860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221616560252559360/d29_Rmsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221616560252559360/d29_Rmsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14298769/1560033873",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 391,
+		"favorite_count": 5102,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The person who created the term geriatric millennials needs to be run out of town."
+	},
+	{
 		"created_at": "Fri May 14 01:05:44 +0000 2021",
 		"id": 1393009601621205000,
 		"id_str": "1393009601621204993",
