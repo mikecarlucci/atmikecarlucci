@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 22 23:00:18 +0000 2021",
+		"id": 1396239527484838000,
+		"id_str": "1396239527484837894",
+		"full_text": "https://t.co/4LaxiVSn3y https://t.co/pMsazHtXii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4LaxiVSn3y",
+					"expanded_url": "https://twitter.com/pavlovicnbcs/status/1396192491246915587",
+					"display_url": "twitter.com/pavlovicnbcs/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1396239516617351200,
+					"id_str": "1396239516617351170",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E2BwcVlXIAIq3MR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E2BwcVlXIAIq3MR.jpg",
+					"url": "https://t.co/pMsazHtXii",
+					"display_url": "pic.twitter.com/pMsazHtXii",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1396239527484837894/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396239516617351200,
+					"id_str": "1396239516617351170",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E2BwcVlXIAIq3MR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E2BwcVlXIAIq3MR.jpg",
+					"url": "https://t.co/pMsazHtXii",
+					"display_url": "pic.twitter.com/pMsazHtXii",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1396239527484837894/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							133
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E2BwcVlXIAIq3MR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4398,
+			"friends_count": 694,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 94374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1396192491246915600,
+		"quoted_status_id_str": "1396192491246915587",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4LaxiVSn3y",
+			"expanded": "https://twitter.com/pavlovicnbcs/status/1396192491246915587",
+			"display": "twitter.com/pavlovicnbcs/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 22 19:53:24 +0000 2021",
+			"id": 1396192491246915600,
+			"id_str": "1396192491246915587",
+			"full_text": "Scott Kazmir will start for the Giants today. The 37-year-old hasn't pitched in the big leagues since 2016, when he made 26 starts for the Dodgers. Regardless of how it goes, it's a pretty cool comeback story.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38140624,
+				"id_str": "38140624",
+				"name": "Alex Pavlovic",
+				"screen_name": "PavlovicNBCS",
+				"location": "",
+				"description": "Covers the Giants for NBC Sports Bay Area || Instagram: pavlovicnbcs || Facebook: https://t.co/BjQmSNu9dR",
+				"url": "https://t.co/JVtPqvl76u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JVtPqvl76u",
+								"expanded_url": "https://www.instagram.com/pavlovicnbcs/",
+								"display_url": "instagram.com/pavlovicnbcs/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BjQmSNu9dR",
+								"expanded_url": "http://facebook.com/PavlovicNBCS",
+								"display_url": "facebook.com/PavlovicNBCS",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 66250,
+				"friends_count": 380,
+				"listed_count": 1747,
+				"created_at": "Wed May 06 08:28:45 +0000 2009",
+				"favourites_count": 2865,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 61488,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/518995796658634753/1QJjjVmm_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/518995796658634753/1QJjjVmm_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38140624/1436760975",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 640,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/4LaxiVSn3y https://t.co/pMsazHtXii"
+	},
+	{
 		"created_at": "Fri May 21 23:38:29 +0000 2021",
 		"id": 1395886747511296000,
 		"id_str": "1395886747511296002",
