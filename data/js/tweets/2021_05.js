@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 23 16:55:04 +0000 2021",
+		"id": 1396510000667893800,
+		"id_str": "1396510000667893761",
+		"full_text": "Glad he was able to get back on track https://t.co/QVG4s3dmG6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QVG4s3dmG6",
+					"expanded_url": "https://twitter.com/alec_lewis/status/1396504047729975296",
+					"display_url": "twitter.com/alec_lewis/sta…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4398,
+			"friends_count": 694,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 94394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1396504047729975300,
+		"quoted_status_id_str": "1396504047729975296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QVG4s3dmG6",
+			"expanded": "https://twitter.com/alec_lewis/status/1396504047729975296",
+			"display": "twitter.com/alec_lewis/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 23 16:31:25 +0000 2021",
+			"id": 1396504047729975300,
+			"id_str": "1396504047729975296",
+			"full_text": "Andrew Benintendi so far in the month of May:\n\n— .356 AVG (No. 9 in MLB)\n— .392 OBP\n— .452 SLG\n— .844 OPS\n— Nine multi-hit games\n\n#Royals",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Royals",
+						"indices": [
+							130,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 188947502,
+				"id_str": "188947502",
+				"name": "Alec Lewis",
+				"screen_name": "alec_lewis",
+				"location": "Kansas City, Mo.",
+				"description": "Kansas City Royals beat writer @TheAthletic. Mizzou alum from ‘Bama. alewis@theathletic.com. Let the kids write.",
+				"url": "https://t.co/K4Z4qcsuu2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K4Z4qcsuu2",
+								"expanded_url": "https://theathletic.com/team/royals/",
+								"display_url": "theathletic.com/team/royals/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15204,
+				"friends_count": 696,
+				"listed_count": 429,
+				"created_at": "Fri Sep 10 00:04:20 +0000 2010",
+				"favourites_count": 30723,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 62113,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1341622042639151105/HVGKzaKZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341622042639151105/HVGKzaKZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/188947502/1608704249",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 376,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Glad he was able to get back on track https://t.co/QVG4s3dmG6"
+	},
+	{
 		"created_at": "Sat May 22 23:00:18 +0000 2021",
 		"id": 1396239527484838000,
 		"id_str": "1396239527484837894",
