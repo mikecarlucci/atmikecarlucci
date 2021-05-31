@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 30 22:29:16 +0000 2021",
+		"id": 1399130821022339000,
+		"id_str": "1399130821022339075",
+		"full_text": "This idea is insane and I’m totally on board https://t.co/Husg7HArGu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Husg7HArGu",
+					"expanded_url": "https://twitter.com/guccitarantin0/status/1399023038654468098",
+					"display_url": "twitter.com/guccitarantin0…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4387,
+			"friends_count": 696,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 94634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1399023038654468000,
+		"quoted_status_id_str": "1399023038654468098",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Husg7HArGu",
+			"expanded": "https://twitter.com/guccitarantin0/status/1399023038654468098",
+			"display": "twitter.com/guccitarantin0…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 30 15:20:59 +0000 2021",
+			"id": 1399023038654468000,
+			"id_str": "1399023038654468098",
+			"full_text": "You know what these dinosaurs can't stop? Family https://t.co/ef10v056fE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ef10v056fE",
+						"expanded_url": "https://twitter.com/wgtc_site/status/1398635777626619911",
+						"display_url": "twitter.com/wgtc_site/stat…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 327158736,
+				"id_str": "327158736",
+				"name": "Brandon",
+				"screen_name": "Guccitarantin0",
+				"location": "Miami",
+				"description": "https://t.co/EFCx5bPk2x",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EFCx5bPk2x",
+								"expanded_url": "http://artistsourced.com/collections/guccitarantino",
+								"display_url": "artistsourced.com/collections/gu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14164,
+				"friends_count": 2174,
+				"listed_count": 129,
+				"created_at": "Fri Jul 01 02:54:17 +0000 2011",
+				"favourites_count": 69814,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 147301,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1391053077814419457/IxQXyu4d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391053077814419457/IxQXyu4d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/327158736/1614744827",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1398635777626620000,
+			"quoted_status_id_str": "1398635777626619911",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ef10v056fE",
+				"expanded": "https://twitter.com/wgtc_site/status/1398635777626619911",
+				"display": "twitter.com/wgtc_site/stat…"
+			},
+			"retweet_count": 17897,
+			"favorite_count": 91903,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This idea is insane and I’m totally on board https://t.co/Husg7HArGu"
+	},
+	{
 		"created_at": "Sat May 29 23:15:21 +0000 2021",
 		"id": 1398780027282636800,
 		"id_str": "1398780027282636800",
