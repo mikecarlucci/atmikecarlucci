@@ -1,6 +1,983 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 08 02:35:58 +0000 2021",
+		"id": 1402092005950476300,
+		"id_str": "1402092005950476290",
+		"full_text": "Perfection https://t.co/jMcp8ReaDd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402092000158130200,
+					"id_str": "1402092000158130179",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/E3U7PtvXoAMqF8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3U7PtvXoAMqF8Z.jpg",
+					"url": "https://t.co/jMcp8ReaDd",
+					"display_url": "pic.twitter.com/jMcp8ReaDd",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1402092005950476290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 527,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 299,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402092000158130200,
+					"id_str": "1402092000158130179",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/E3U7PtvXoAMqF8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3U7PtvXoAMqF8Z.jpg",
+					"url": "https://t.co/jMcp8ReaDd",
+					"display_url": "pic.twitter.com/jMcp8ReaDd",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1402092005950476290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 527,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 299,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4390,
+			"friends_count": 696,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 94890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Perfection https://t.co/jMcp8ReaDd"
+	},
+	{
+		"created_at": "Tue Jun 08 02:30:44 +0000 2021",
+		"id": 1402090690583138300,
+		"id_str": "1402090690583138310",
+		"full_text": "There really was something magical about the Muppets https://t.co/IUCo6hSqP9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IUCo6hSqP9",
+					"expanded_url": "https://twitter.com/historymuppet/status/1402003688835649538",
+					"display_url": "twitter.com/historymuppet/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4390,
+			"friends_count": 696,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 94890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1402003688835649500,
+		"quoted_status_id_str": "1402003688835649538",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IUCo6hSqP9",
+			"expanded": "https://twitter.com/historymuppet/status/1402003688835649538",
+			"display": "twitter.com/historymuppet/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 07 20:45:02 +0000 2021",
+			"id": 1402003688835649500,
+			"id_str": "1402003688835649538",
+			"full_text": "Fozzie and Kermit have an existential crisis 😂\n\nThe perfect example of the comedic genius of Jim Henson and Frank Oz.\n\n(Jim Frawley's Camera Tests, 1978) https://t.co/Ip8XFwT552",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1402003481897152500,
+						"id_str": "1402003481897152515",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402003481897152515/pu/img/3M4kyUjbE5CW33G5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402003481897152515/pu/img/3M4kyUjbE5CW33G5.jpg",
+						"url": "https://t.co/Ip8XFwT552",
+						"display_url": "pic.twitter.com/Ip8XFwT552",
+						"expanded_url": "https://twitter.com/HistoryMuppet/status/1402003688835649538/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1402003481897152500,
+						"id_str": "1402003481897152515",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402003481897152515/pu/img/3M4kyUjbE5CW33G5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402003481897152515/pu/img/3M4kyUjbE5CW33G5.jpg",
+						"url": "https://t.co/Ip8XFwT552",
+						"display_url": "pic.twitter.com/Ip8XFwT552",
+						"expanded_url": "https://twitter.com/HistoryMuppet/status/1402003688835649538/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 90448,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1402003481897152515/pu/vid/1280x720/lZLP1E_ZPmouQSMZ.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1402003481897152515/pu/vid/480x270/mtdKXSItsAz1AV1c.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1402003481897152515/pu/pl/J-gQ-3XXYRrHDsF9.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1402003481897152515/pu/vid/640x360/WXZN0fI3n2CsCXIs.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1049365727705288700,
+				"id_str": "1049365727705288704",
+				"name": "Muppet History",
+				"screen_name": "HistoryMuppet",
+				"location": "",
+				"description": "A fan page dedicated to continuing the spirit and silliness of Jim Henson! (He/Him) Created by @HalfHearted_JG Business: MuppetHistory@outlook.com",
+				"url": "https://t.co/Cs6QgBY0vH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cs6QgBY0vH",
+								"expanded_url": "https://linktr.ee/MuppetHistory",
+								"display_url": "linktr.ee/MuppetHistory",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 198661,
+				"friends_count": 1426,
+				"listed_count": 678,
+				"created_at": "Mon Oct 08 18:27:40 +0000 2018",
+				"favourites_count": 45099,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19737,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1400605244434812930/p82MTA1M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1400605244434812930/p82MTA1M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049365727705288704/1618241915",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1619,
+			"favorite_count": 5747,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There really was something magical about the Muppets https://t.co/IUCo6hSqP9"
+	},
+	{
+		"created_at": "Mon Jun 07 19:49:26 +0000 2021",
+		"id": 1401989697325441000,
+		"id_str": "1401989697325441030",
+		"full_text": "So glad to see they have a Skydome. Miss that name. https://t.co/U5ju7tKt9x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U5ju7tKt9x",
+					"expanded_url": "https://twitter.com/mykbo/status/1401727786662862855",
+					"display_url": "twitter.com/mykbo/status/1…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4390,
+			"friends_count": 696,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 94890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1401727786662862800,
+		"quoted_status_id_str": "1401727786662862855",
+		"quoted_status_permalink": {
+			"url": "https://t.co/U5ju7tKt9x",
+			"expanded": "https://twitter.com/mykbo/status/1401727786662862855",
+			"display": "twitter.com/mykbo/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 07 02:28:41 +0000 2021",
+			"id": 1401727786662862800,
+			"id_str": "1401727786662862855",
+			"full_text": "KBO All-Star Game is happening on July 24th at Gocheok SkyDome. \n\nHere's what this years emblem looks like https://t.co/Tz7Dguz7X9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1401727784855085000,
+						"id_str": "1401727784855085058",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/E3Pv_mAVIAIiHbv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3Pv_mAVIAIiHbv.jpg",
+						"url": "https://t.co/Tz7Dguz7X9",
+						"display_url": "pic.twitter.com/Tz7Dguz7X9",
+						"expanded_url": "https://twitter.com/MyKBO/status/1401727786662862855/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 499,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 339,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1401727784855085000,
+						"id_str": "1401727784855085058",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/E3Pv_mAVIAIiHbv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3Pv_mAVIAIiHbv.jpg",
+						"url": "https://t.co/Tz7Dguz7X9",
+						"display_url": "pic.twitter.com/Tz7Dguz7X9",
+						"expanded_url": "https://twitter.com/MyKBO/status/1401727786662862855/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 499,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 339,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63982880,
+				"id_str": "63982880",
+				"name": "Dan Kurtz",
+				"screen_name": "MyKBO",
+				"location": "Tacoma, WA ",
+				"description": "https://t.co/w0JPABut2P's a fan site about the KBO and Korean baseball in English. MyKBO is not affiliated with the KBO, any of its teams or entities.",
+				"url": "https://t.co/ToDKCgy5np",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ToDKCgy5np",
+								"expanded_url": "http://www.MyKBO.net",
+								"display_url": "MyKBO.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/w0JPABut2P",
+								"expanded_url": "http://MyKBO.net",
+								"display_url": "MyKBO.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19189,
+				"friends_count": 602,
+				"listed_count": 438,
+				"created_at": "Sat Aug 08 15:18:57 +0000 2009",
+				"favourites_count": 3136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 67345,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691450865719246848/IXTQbnCt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691450865719246848/IXTQbnCt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63982880/1398216666",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So glad to see they have a Skydome. Miss that name. https://t.co/U5ju7tKt9x"
+	},
+	{
+		"created_at": "Mon Jun 07 18:33:54 +0000 2021",
+		"id": 1401970691822571500,
+		"id_str": "1401970691822571522",
+		"full_text": "Bard and special guest...Chone Figgins! https://t.co/qtRohhNOVT https://t.co/EHW613BoHp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qtRohhNOVT",
+					"expanded_url": "https://www.overthemonster.com/2021/6/7/22523066/daniel-bard-as-good-as-ever?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2021/6/7/22523…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1401970689674985500,
+					"id_str": "1401970689674985477",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E3TM6g-WQAUjA-G.png",
+					"media_url_https": "https://pbs.twimg.com/media/E3TM6g-WQAUjA-G.png",
+					"url": "https://t.co/EHW613BoHp",
+					"display_url": "pic.twitter.com/EHW613BoHp",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1401970691822571522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 530,
+							"h": 488,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 488,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 530,
+							"h": 488,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401970689674985500,
+					"id_str": "1401970689674985477",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E3TM6g-WQAUjA-G.png",
+					"media_url_https": "https://pbs.twimg.com/media/E3TM6g-WQAUjA-G.png",
+					"url": "https://t.co/EHW613BoHp",
+					"display_url": "pic.twitter.com/EHW613BoHp",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1401970691822571522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 530,
+							"h": 488,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 488,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 530,
+							"h": 488,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4390,
+			"friends_count": 696,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 94890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bard and special guest...Chone Figgins! https://t.co/qtRohhNOVT https://t.co/EHW613BoHp"
+	},
+	{
 		"created_at": "Mon Jun 07 02:42:51 +0000 2021",
 		"id": 1401729981156315100,
 		"id_str": "1401731349963317253",
