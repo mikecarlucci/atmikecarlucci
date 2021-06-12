@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 22:22:35 +0000 2021",
+		"id": 1403477789555277800,
+		"id_str": "1403477789555277843",
+		"full_text": "https://t.co/gOKfsTEVHw https://t.co/g9CRZ1DaOE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gOKfsTEVHw",
+					"expanded_url": "https://twitter.com/retronewsnow/status/1403476221573447680",
+					"display_url": "twitter.com/retronewsnow/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403477777949642800,
+					"id_str": "1403477777949642759",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3onmmTX0AcsCfp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3onmmTX0AcsCfp.jpg",
+					"url": "https://t.co/g9CRZ1DaOE",
+					"display_url": "pic.twitter.com/g9CRZ1DaOE",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1403477789555277843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403477777949642800,
+					"id_str": "1403477777949642759",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3onmmTX0AcsCfp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3onmmTX0AcsCfp.jpg",
+					"url": "https://t.co/g9CRZ1DaOE",
+					"display_url": "pic.twitter.com/g9CRZ1DaOE",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1403477789555277843/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 204,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							65,
+							34
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E3onmmTX0AcsCfp.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4383,
+			"friends_count": 697,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 95060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403476221573447700,
+		"quoted_status_id_str": "1403476221573447680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gOKfsTEVHw",
+			"expanded": "https://twitter.com/retronewsnow/status/1403476221573447680",
+			"display": "twitter.com/retronewsnow/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 11 22:16:21 +0000 2021",
+			"id": 1403476221573447700,
+			"id_str": "1403476221573447680",
+			"full_text": "🎬Steven Spielberg’s ‘Jurassic Park' premiered in theaters 28 years ago today, June 11, 1993 https://t.co/7Ok9Ye5o0o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1403476216993226800,
+						"id_str": "1403476216993226754",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/E3omLvSXIAIEx58.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3omLvSXIAIEx58.jpg",
+						"url": "https://t.co/7Ok9Ye5o0o",
+						"display_url": "pic.twitter.com/7Ok9Ye5o0o",
+						"expanded_url": "https://twitter.com/RetroNewsNow/status/1403476221573447680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1007,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 806,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1403476216993226800,
+						"id_str": "1403476216993226754",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/E3omLvSXIAIEx58.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3omLvSXIAIEx58.jpg",
+						"url": "https://t.co/7Ok9Ye5o0o",
+						"display_url": "pic.twitter.com/7Ok9Ye5o0o",
+						"expanded_url": "https://twitter.com/RetroNewsNow/status/1403476221573447680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1007,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 806,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2377703834,
+				"id_str": "2377703834",
+				"name": "RetroNewsNow",
+				"screen_name": "RetroNewsNow",
+				"location": "USA",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101640,
+				"friends_count": 827,
+				"listed_count": 800,
+				"created_at": "Fri Mar 07 21:59:24 +0000 2014",
+				"favourites_count": 2357,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 55104,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326583765372723200/XRvDi6NN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326583765372723200/XRvDi6NN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2377703834/1605079272",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 118,
+			"favorite_count": 376,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/gOKfsTEVHw https://t.co/g9CRZ1DaOE"
+	},
+	{
+		"created_at": "Fri Jun 11 20:03:14 +0000 2021",
+		"id": 1403442724259369000,
+		"id_str": "1403442724259368970",
+		"full_text": "Plus Jurassic World, right? 🤣 https://t.co/pCBAwt3OgJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pCBAwt3OgJ",
+					"expanded_url": "https://twitter.com/discussingfilm/status/1403438755638304771",
+					"display_url": "twitter.com/discussingfilm…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4383,
+			"friends_count": 697,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 95060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403438755638304800,
+		"quoted_status_id_str": "1403438755638304771",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pCBAwt3OgJ",
+			"expanded": "https://twitter.com/discussingfilm/status/1403438755638304771",
+			"display": "twitter.com/discussingfilm…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 11 19:47:28 +0000 2021",
+			"id": 1403438755638304800,
+			"id_str": "1403438755638304771",
+			"full_text": "Vin Diesel confirms the ‘FAST &amp; FURIOUS’ saga will conclude after 2 more films — “Every story deserves its own ending.”\n\nHe thinks the final films could potentially release in 2023 and 2024.\n\n(Source: https://t.co/vPkZYWo6rp) https://t.co/xIpG0UvbFL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vPkZYWo6rp",
+						"expanded_url": "http://apne.ws/VpL74dT",
+						"display_url": "apne.ws/VpL74dT",
+						"indices": [
+							205,
+							228
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1403438750810714000,
+						"id_str": "1403438750810714114",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/E3oEG64XMAIcrF_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3oEG64XMAIcrF_.jpg",
+						"url": "https://t.co/xIpG0UvbFL",
+						"display_url": "pic.twitter.com/xIpG0UvbFL",
+						"expanded_url": "https://twitter.com/DiscussingFilm/status/1403438755638304771/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 830,
+								"h": 553,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 830,
+								"h": 553,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1403438750810714000,
+						"id_str": "1403438750810714114",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/E3oEG64XMAIcrF_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3oEG64XMAIcrF_.jpg",
+						"url": "https://t.co/xIpG0UvbFL",
+						"display_url": "pic.twitter.com/xIpG0UvbFL",
+						"expanded_url": "https://twitter.com/DiscussingFilm/status/1403438755638304771/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 830,
+								"h": 553,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 830,
+								"h": 553,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 780460754910732300,
+				"id_str": "780460754910732288",
+				"name": "DiscussingFilm",
+				"screen_name": "DiscussingFilm",
+				"location": "",
+				"description": "Your leading source in quick reliable news and one of a kind content. Home for healthy and liberating discussion on all things pop culture.",
+				"url": "https://t.co/0MY9TuyVQR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0MY9TuyVQR",
+								"expanded_url": "http://discussingfilm.net/",
+								"display_url": "discussingfilm.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 229332,
+				"friends_count": 510,
+				"listed_count": 1072,
+				"created_at": "Mon Sep 26 17:35:19 +0000 2016",
+				"favourites_count": 2832,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29082,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191180251159810049/w5JjDw1j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191180251159810049/w5JjDw1j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/780460754910732288/1591724134",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 375,
+			"favorite_count": 3177,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Plus Jurassic World, right? 🤣 https://t.co/pCBAwt3OgJ"
+	},
+	{
 		"created_at": "Fri Jun 11 02:24:37 +0000 2021",
 		"id": 1403176314409046000,
 		"id_str": "1403176314409046016",
