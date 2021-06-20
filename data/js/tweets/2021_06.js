@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 19 22:01:05 +0000 2021",
+		"id": 1406371485132931000,
+		"id_str": "1406371485132931080",
+		"full_text": "Yes https://t.co/c55F109Oo6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c55F109Oo6",
+					"expanded_url": "https://twitter.com/sabrbioproject/status/1406370470937731079",
+					"display_url": "twitter.com/sabrbioproject…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4383,
+			"friends_count": 697,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 95172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1406370470937731000,
+		"quoted_status_id_str": "1406370470937731079",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c55F109Oo6",
+			"expanded": "https://twitter.com/sabrbioproject/status/1406370470937731079",
+			"display": "twitter.com/sabrbioproject…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 19 21:57:04 +0000 2021",
+			"id": 1406370470937731000,
+			"id_str": "1406370470937731079",
+			"full_text": "Give us your verdict! Should the #Redsox Dwight Evans be in the HoF or the Hall of Very Good? He was 1 of the era's best RF's, 3X AS &amp; won 8 GG.  His final slashline 385-1384-.272, coupled with .370 OBP. Read more in his @sabr bio https://t.co/vZh83LQ6E0 https://t.co/zoZvYzTuHD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Redsox",
+						"indices": [
+							33,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sabr",
+						"name": "SABR",
+						"id": 18104452,
+						"id_str": "18104452",
+						"indices": [
+							225,
+							230
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vZh83LQ6E0",
+						"expanded_url": "https://sabr.org/bioproj/person/dwight-evans/",
+						"display_url": "sabr.org/bioproj/person…",
+						"indices": [
+							235,
+							258
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1406370202149851100,
+						"id_str": "1406370202149851139",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/E4RuP2HWEAMl4Si.png",
+						"media_url_https": "https://pbs.twimg.com/media/E4RuP2HWEAMl4Si.png",
+						"url": "https://t.co/zoZvYzTuHD",
+						"display_url": "pic.twitter.com/zoZvYzTuHD",
+						"expanded_url": "https://twitter.com/SABRbioproject/status/1406370470937731079/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1406370202149851100,
+						"id_str": "1406370202149851139",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/E4RuP2HWEAMl4Si.png",
+						"media_url_https": "https://pbs.twimg.com/media/E4RuP2HWEAMl4Si.png",
+						"url": "https://t.co/zoZvYzTuHD",
+						"display_url": "pic.twitter.com/zoZvYzTuHD",
+						"expanded_url": "https://twitter.com/SABRbioproject/status/1406370470937731079/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2153870472,
+				"id_str": "2153870472",
+				"name": "SABR BioProject",
+				"screen_name": "SABRbioproject",
+				"location": "",
+				"description": "Official feed of SABR's BioProject by co-director Gregory H. Wolf. Join the Society for American Baseball Research and become active in the BioProject.",
+				"url": "https://t.co/fk37X7VaiQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fk37X7VaiQ",
+								"expanded_url": "http://sabr.org/bioproject",
+								"display_url": "sabr.org/bioproject",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15298,
+				"friends_count": 298,
+				"listed_count": 241,
+				"created_at": "Fri Oct 25 00:17:26 +0000 2013",
+				"favourites_count": 32909,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11632,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818943314879614976/JAZd3LZn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818943314879614976/JAZd3LZn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2153870472/1484086217",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yes https://t.co/c55F109Oo6"
+	},
+	{
+		"created_at": "Sat Jun 19 20:21:05 +0000 2021",
+		"id": 1406346316695838700,
+		"id_str": "1406346316695838720",
+		"full_text": "@MissouriMTG There’s a MissouriMTGSYP on TCG too…is that you?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MissouriMTG",
+					"name": "Jeremy",
+					"id": 912802064,
+					"id_str": "912802064",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1406343915452743700,
+		"in_reply_to_status_id_str": "1406343915452743686",
+		"in_reply_to_user_id": 912802064,
+		"in_reply_to_user_id_str": "912802064",
+		"in_reply_to_screen_name": "MissouriMTG",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4383,
+			"friends_count": 697,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 95172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MissouriMTG There’s a MissouriMTGSYP on TCG too…is that you?"
+	},
+	{
 		"created_at": "Fri Jun 18 18:06:26 +0000 2021",
 		"id": 1405950044491157500,
 		"id_str": "1405950044491157504",
