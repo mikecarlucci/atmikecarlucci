@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 18:28:20 +0000 2021",
+		"id": 1411028986545819600,
+		"id_str": "1411028986545819648",
+		"full_text": "So @Dodgers new bobblehead? https://t.co/kv0wPrqnEt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dodgers",
+					"name": "Los Angeles Dodgers",
+					"id": 23043294,
+					"id_str": "23043294",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kv0wPrqnEt",
+					"expanded_url": "https://twitter.com/BlakeHarrisTBLA/status/1410982960895987715",
+					"display_url": "twitter.com/BlakeHarrisTBL…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 700,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 95582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1410982960895987700,
+		"quoted_status_id_str": "1410982960895987715",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kv0wPrqnEt",
+			"expanded": "https://twitter.com/BlakeHarrisTBLA/status/1410982960895987715",
+			"display": "twitter.com/BlakeHarrisTBL…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 02 15:25:27 +0000 2021",
+			"id": 1410982960895987700,
+			"id_str": "1410982960895987715",
+			"full_text": "JOE KELLY IS WEARING THE MARIACHI JACKET TO THE WHITE HOUSE 😂😂😂😂 https://t.co/a2eZgwHt3M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1410982958383571000,
+						"id_str": "1410982958383570948",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/E5TRhmKVIAQAzaX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5TRhmKVIAQAzaX.jpg",
+						"url": "https://t.co/a2eZgwHt3M",
+						"display_url": "pic.twitter.com/a2eZgwHt3M",
+						"expanded_url": "https://twitter.com/BlakeHarrisTBLA/status/1410982960895987715/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 582,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 968,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 968,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1410982958383571000,
+						"id_str": "1410982958383570948",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/E5TRhmKVIAQAzaX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5TRhmKVIAQAzaX.jpg",
+						"url": "https://t.co/a2eZgwHt3M",
+						"display_url": "pic.twitter.com/a2eZgwHt3M",
+						"expanded_url": "https://twitter.com/BlakeHarrisTBLA/status/1410982960895987715/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 582,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 968,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 968,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1103405828856397800,
+				"id_str": "1103405828856397825",
+				"name": "Blake Harris",
+				"screen_name": "BlakeHarrisTBLA",
+				"location": "Blake.Harris@voxmedia.com 📬",
+				"description": "Covering the #Dodgers for @TrueBlueLA ⚾️ California Communities Editor for @SBNation 📝 @Cronkite_ASU Alum 🔱 Turn notifs on 🛎",
+				"url": "https://t.co/InBpWpIe1i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/InBpWpIe1i",
+								"expanded_url": "https://open.spotify.com/show/6bT4JDhzZIEhTDlNYZiddn?si=1MluDCbqSQW93pfjkUmypg",
+								"display_url": "open.spotify.com/show/6bT4JDhzZ…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20233,
+				"friends_count": 606,
+				"listed_count": 184,
+				"created_at": "Wed Mar 06 21:23:44 +0000 2019",
+				"favourites_count": 1534,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7348,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103406412766408704/zHa6XS8L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103406412766408704/zHa6XS8L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1103405828856397825/1621586022",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6223,
+			"favorite_count": 41087,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So @Dodgers new bobblehead? https://t.co/kv0wPrqnEt"
+	},
+	{
 		"created_at": "Thu Jul 01 14:17:16 +0000 2021",
 		"id": 1410603414711455700,
 		"id_str": "1410603414711455745",
