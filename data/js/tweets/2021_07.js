@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 03 15:18:44 +0000 2021",
+		"id": 1410649950455799800,
+		"id_str": "1411343657115041793",
+		"full_text": "Tech billionaires like Elon Musk want you to believe this is outdated tech and instead we keep driving cars until the day Hyperloop arrives (a day that will never come). https://t.co/nSzkKXS9Mx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nSzkKXS9Mx",
+					"expanded_url": "https://twitter.com/lsjngs/status/1410451848289529856",
+					"display_url": "twitter.com/lsjngs/status/…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23273872,
+			"id_str": "23273872",
+			"name": "Paris Marx",
+			"screen_name": "parismarx",
+			"location": "St. John’s, Canada",
+			"description": "critic of tech futures | host @techwontsaveus | media phd @aucklanduni | writing a book on transport for verso | bylines @nbcnews @cbcnews @jacobinmag | they/he",
+			"url": "https://t.co/lo1DQ5YUc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lo1DQ5YUc7",
+							"expanded_url": "http://parismarx.com",
+							"display_url": "parismarx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17374,
+			"friends_count": 522,
+			"listed_count": 355,
+			"created_at": "Sun Mar 08 04:02:32 +0000 2009",
+			"favourites_count": 51541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "111111",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271808381074976769/PrETw_J0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271808381074976769/PrETw_J0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23273872/1585102381",
+			"profile_link_color": "DD0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1410451848289529900,
+		"quoted_status_id_str": "1410451848289529856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nSzkKXS9Mx",
+			"expanded": "https://twitter.com/lsjngs/status/1410451848289529856",
+			"display": "twitter.com/lsjngs/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 01 04:15:00 +0000 2021",
+			"id": 1410451848289529900,
+			"id_str": "1410451848289529856",
+			"full_text": "The distance between Chengdu and Chongqing is 299.8km. The density of HSR is similar to that of bus. with one train every 20 minutes and arriving in 1h.The max speed is 350km/H. https://t.co/pMAXkCNS1Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1410235366674600000,
+						"id_str": "1410235366674599936",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410235366674599936/pu/img/k0HU93CXKAIcjmKH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410235366674599936/pu/img/k0HU93CXKAIcjmKH.jpg",
+						"url": "https://t.co/pMAXkCNS1Z",
+						"display_url": "pic.twitter.com/pMAXkCNS1Z",
+						"expanded_url": "https://twitter.com/lsjngs/status/1410451848289529856/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1410235366674600000,
+						"id_str": "1410235366674599936",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410235366674599936/pu/img/k0HU93CXKAIcjmKH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410235366674599936/pu/img/k0HU93CXKAIcjmKH.jpg",
+						"url": "https://t.co/pMAXkCNS1Z",
+						"display_url": "pic.twitter.com/pMAXkCNS1Z",
+						"expanded_url": "https://twitter.com/lsjngs/status/1410451848289529856/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 9534,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1410235366674599936/pu/vid/720x1280/Xc4WG0pZKH5XS6HP.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1410235366674599936/pu/pl/rSia_WWmzgp4YYNs.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1410235366674599936/pu/vid/320x568/zKO7Nf2Y_0D3h2-H.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1410235366674599936/pu/vid/480x852/y8P9IEfdkTHth7KS.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1239144167684501500,
+				"id_str": "1239144167684501506",
+				"name": "Sharing travel",
+				"screen_name": "lsjngs",
+				"location": "Lishui",
+				"description": "#Travelers, driving more than 80000 KM. Chinese researcher, #history, #culture, #nationality, sharing the real China in my eyes.Alternate Account:@lsjngs1",
+				"url": "https://t.co/niPXO4qzkQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/niPXO4qzkQ",
+								"expanded_url": "https://youtube.com/channel/UCbu625iuEv-uO8A3DER-nDA",
+								"display_url": "youtube.com/channel/UCbu62…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19105,
+				"friends_count": 2946,
+				"listed_count": 110,
+				"created_at": "Sun Mar 15 10:59:39 +0000 2020",
+				"favourites_count": 66558,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22680,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1315609379673006082/STdqJ_fK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315609379673006082/STdqJ_fK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1239144167684501506/1602500879",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 935,
+			"favorite_count": 6382,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10776,
+		"favorite_count": 64726,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tech billionaires like Elon Musk want you to believe this is outdated tech and instead we keep driving cars until the day Hyperloop arrives (a day that will never come). https://t.co/nSzkKXS9Mx"
+	},
+	{
+		"created_at": "Sat Jul 03 13:51:00 +0000 2021",
+		"id": 1411296680075567000,
+		"id_str": "1411321579796058121",
+		"full_text": "Jul 3rd 1996 - Captain Steven Hiller had a close encounter with an alien #IndependenceDay #ID4 https://t.co/DRmKc20Rjq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndependenceDay",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"text": "ID4",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411296675868590000,
+					"id_str": "1411296675868590081",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E5Xu2W3WQAEOesJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E5Xu2W3WQAEOesJ.jpg",
+					"url": "https://t.co/DRmKc20Rjq",
+					"display_url": "pic.twitter.com/DRmKc20Rjq",
+					"expanded_url": "https://twitter.com/DatesInMovies/status/1411296680075567110/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411296675868590000,
+					"id_str": "1411296675868590081",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E5Xu2W3WQAEOesJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E5Xu2W3WQAEOesJ.jpg",
+					"url": "https://t.co/DRmKc20Rjq",
+					"display_url": "pic.twitter.com/DRmKc20Rjq",
+					"expanded_url": "https://twitter.com/DatesInMovies/status/1411296680075567110/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E5Xu2W3WQAEOesJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1146429722,
+			"id_str": "1146429722",
+			"name": "Dates in Movies",
+			"screen_name": "DatesInMovies",
+			"location": "Not in Kansas anymore",
+			"description": "When you absolutely, positively got to know every #OnThisDay in movie history, accept no substitutes.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30711,
+			"friends_count": 136,
+			"listed_count": 198,
+			"created_at": "Sun Feb 03 22:41:50 +0000 2013",
+			"favourites_count": 9730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146429722/1554069771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 123,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jul 3rd 1996 - Captain Steven Hiller had a close encounter with an alien #IndependenceDay #ID4 https://t.co/DRmKc20Rjq"
+	},
+	{
 		"created_at": "Fri Jul 02 18:28:20 +0000 2021",
 		"id": 1411028986545819600,
 		"id_str": "1411028986545819648",
