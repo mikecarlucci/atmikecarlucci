@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 15:10:33 +0000 2021",
+		"id": 1413515925689622500,
+		"id_str": "1413515925689622539",
+		"full_text": "🎶We're the Mario Brothers and plumbin's our game\nWe're not like the others who get all the fame\nIf your sink is in trouble, you can call us on the double\nWe're faster than the others, you'll be hooked on the brothers🎶 https://t.co/TofPBkakH1 https://t.co/OamDQ8DsWj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TofPBkakH1",
+					"expanded_url": "https://twitter.com/JobsOnTeamWork/status/1413514295019675656",
+					"display_url": "twitter.com/JobsOnTeamWork…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413515914016956400,
+					"id_str": "1413515914016956419",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413515914016956419/pu/img/0Pz0Cy2C48ryCXei.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413515914016956419/pu/img/0Pz0Cy2C48ryCXei.jpg",
+					"url": "https://t.co/OamDQ8DsWj",
+					"display_url": "pic.twitter.com/OamDQ8DsWj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1413515925689622539/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413515914016956400,
+					"id_str": "1413515914016956419",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413515914016956419/pu/img/0Pz0Cy2C48ryCXei.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413515914016956419/pu/img/0Pz0Cy2C48ryCXei.jpg",
+					"url": "https://t.co/OamDQ8DsWj",
+					"display_url": "pic.twitter.com/OamDQ8DsWj",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1413515925689622539/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 324,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							109,
+							81
+						],
+						"duration_millis": 1100,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413515914016956419/pu/vid/362x270/_CGlavx8o-wfkK3k.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1413515914016956419/pu/pl/UVGKtqVILg1tXcdl.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413515914016956419/pu/vid/436x324/ciybrC2f7oRKisuf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4380,
+			"friends_count": 700,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 95770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413514295019675600,
+		"quoted_status_id_str": "1413514295019675656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TofPBkakH1",
+			"expanded": "https://twitter.com/JobsOnTeamWork/status/1413514295019675656",
+			"display": "twitter.com/JobsOnTeamWork…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 09 15:04:04 +0000 2021",
+			"id": 1413514295019675600,
+			"id_str": "1413514295019675656",
+			"full_text": "*Plumber - Tampa Bay Rays (St Petersburg · FL) https://t.co/4bLpic7NRv https://t.co/Ff51i0dDbu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4bLpic7NRv",
+						"expanded_url": "http://dlvr.it/S3PDSS",
+						"display_url": "dlvr.it/S3PDSS",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1413514293421613000,
+						"id_str": "1413514293421613056",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/E53PwsBVIAAHrxj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E53PwsBVIAAHrxj.jpg",
+						"url": "https://t.co/Ff51i0dDbu",
+						"display_url": "pic.twitter.com/Ff51i0dDbu",
+						"expanded_url": "https://twitter.com/JobsOnTeamWork/status/1413514295019675656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1413514293421613000,
+						"id_str": "1413514293421613056",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/E53PwsBVIAAHrxj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E53PwsBVIAAHrxj.jpg",
+						"url": "https://t.co/Ff51i0dDbu",
+						"display_url": "pic.twitter.com/Ff51i0dDbu",
+						"expanded_url": "https://twitter.com/JobsOnTeamWork/status/1413514295019675656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63135225,
+				"id_str": "63135225",
+				"name": "TeamWork Online Jobs",
+				"screen_name": "JobsOnTeamWork",
+				"location": "Cleveland, OH",
+				"description": "Enabling real career connections between sports and live event professionals and organizations.\n@TeamWorkOnline",
+				"url": "http://t.co/ND35VSp3nP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ND35VSp3nP",
+								"expanded_url": "http://www.teamworkonline.com",
+								"display_url": "teamworkonline.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52907,
+				"friends_count": 786,
+				"listed_count": 582,
+				"created_at": "Wed Aug 05 13:42:32 +0000 2009",
+				"favourites_count": 1824,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 153653,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/608748500700921856/H9OuxTSA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/608748500700921856/H9OuxTSA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63135225/1469027879",
+				"profile_link_color": "5CA75A",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎶We're the Mario Brothers and plumbin's our game\nWe're not like the others who get all the fame\nIf your sink is in trouble, you can call us on the double\nWe're faster than the others, you'll be hooked on the brothers🎶 https://t.co/TofPBkakH1 https://t.co/OamDQ8DsWj"
+	},
+	{
 		"created_at": "Fri Jul 09 01:13:53 +0000 2021",
 		"id": 1413305371595354000,
 		"id_str": "1413305371595354119",
@@ -201,7 +603,7 @@ Grailbird.data.tweets_2021_07 =
 			"created_at": "Fri Jul 09 01:01:06 +0000 2021",
 			"id": 1413302155033858000,
 			"id_str": "1413302155033858051",
-			"full_text": "Folks, pls don’t forget to weigh down your kiddie pools… 🤣🤣 🏊‍♂️ ⛅️ https://t.co/wPghHcuwgO",
+			"full_text": "Folks, pls don’t forget to weigh down your kiddie pools… 🤣🤣 🏊♂️ ⛅️ https://t.co/wPghHcuwgO",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -334,7 +736,7 @@ Grailbird.data.tweets_2021_07 =
 				"name": "THRIVE ON PURPOSE #114",
 				"screen_name": "freepeeper",
 				"location": "",
-				"description": "Here for Meghan, Harry, Archie, Lili & Doria ONLY! 👩🏻👨🏻‍🦰🧒🏻👶🏻👩🏽‍🦱 #Hydrate 💧 #DriveSafe 🚗",
+				"description": "Here for Meghan, Harry, Archie, Lili & Doria ONLY! 👩🏻👨🏻🦰🧒🏻👶🏻👩🏽🦱 #Hydrate 💧 #DriveSafe 🚗",
 				"url": null,
 				"entities": {
 					"description": {
