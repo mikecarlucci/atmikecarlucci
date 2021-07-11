@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 15:29:47 +0000 2021",
+		"id": 1413883153857515500,
+		"id_str": "1413883153857515524",
+		"full_text": "@maro254 “if or when White Lotus” https://t.co/hfIBf1vzBB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maro254",
+					"name": "Mark Rosewater",
+					"id": 14817235,
+					"id_str": "14817235",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hfIBf1vzBB",
+					"expanded_url": "https://twitter.com/hbo/status/1410709992412418054",
+					"display_url": "twitter.com/hbo/status/141…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 14817235,
+		"in_reply_to_user_id_str": "14817235",
+		"in_reply_to_screen_name": "maro254",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4380,
+			"friends_count": 699,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 95780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1410709992412418000,
+		"quoted_status_id_str": "1410709992412418054",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hfIBf1vzBB",
+			"expanded": "https://twitter.com/hbo/status/1410709992412418054",
+			"display": "twitter.com/hbo/status/141…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 01 21:20:46 +0000 2021",
+			"id": 1410709992412418000,
+			"id_str": "1410709992412418054",
+			"full_text": "Paradise is no vacation.\n\n#TheWhiteLotus, written and directed by Mike White, arrives July 11 on @hbomax. https://t.co/6RUbFxStec",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheWhiteLotus",
+						"indices": [
+							26,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hbomax",
+						"name": "HBO Max",
+						"id": 89090040,
+						"id_str": "89090040",
+						"indices": [
+							97,
+							104
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1410709460075651000,
+						"id_str": "1410709460075651073",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1410709460075651073/img/87i_99lFK5xYeH5c.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1410709460075651073/img/87i_99lFK5xYeH5c.jpg",
+						"url": "https://t.co/6RUbFxStec",
+						"display_url": "pic.twitter.com/6RUbFxStec",
+						"expanded_url": "https://twitter.com/HBO/status/1410709992412418054/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1410709460075651000,
+						"id_str": "1410709460075651073",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1410709460075651073/img/87i_99lFK5xYeH5c.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1410709460075651073/img/87i_99lFK5xYeH5c.jpg",
+						"url": "https://t.co/6RUbFxStec",
+						"display_url": "pic.twitter.com/6RUbFxStec",
+						"expanded_url": "https://twitter.com/HBO/status/1410709992412418054/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15015,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1410709460075651073/vid/720x720/OoKtFiFqB-KeL3ZC.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1410709460075651073/vid/540x540/DBXuNPE1mJNNyOs0.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1410709460075651073/pl/MO8jjEmSL-pH0PyE.m3u8?tag=14"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1410709460075651073/vid/320x320/8qN-exOzjTIFnqld.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15635604,
+				"id_str": "15635604",
+				"name": "HBO",
+				"screen_name": "HBO",
+				"location": "United States",
+				"description": "Stream all of HBO now on @HBOMax.",
+				"url": "https://t.co/4AapBgXkqs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4AapBgXkqs",
+								"expanded_url": "http://linktr.ee/hbo",
+								"display_url": "linktr.ee/hbo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2804107,
+				"friends_count": 800,
+				"listed_count": 12266,
+				"created_at": "Mon Jul 28 18:30:12 +0000 2008",
+				"favourites_count": 20361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53174,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F1F1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1277608697624014849/E5S6vNgw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277608697624014849/E5S6vNgw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15635604/1625246509",
+				"profile_link_color": "2160A3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252525",
+				"profile_text_color": "757075",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 1276,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@maro254 “if or when White Lotus” https://t.co/hfIBf1vzBB"
+	},
+	{
 		"created_at": "Fri Jul 09 15:10:33 +0000 2021",
 		"id": 1413515925689622500,
 		"id_str": "1413515925689622539",
