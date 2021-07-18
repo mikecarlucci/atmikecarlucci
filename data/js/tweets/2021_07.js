@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 23:07:49 +0000 2021",
+		"id": 1416532557710209000,
+		"id_str": "1416535136502489091",
+		"full_text": "A lot of folks here on the $5 ticket promotion. \n\nMost pro teams these days choose to maximize revenue over attendance (i.e., fewer fans paying more). \n\nI'd like to see teams try the opposite tradeoff: Sacrifice $$ to improve atmosphere, introduce more fans to the game. https://t.co/otfysos9Cb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/otfysos9Cb",
+					"expanded_url": "https://twitter.com/evanwoodbery/status/1416530565814231044",
+					"display_url": "twitter.com/evanwoodbery/s…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39886924,
+			"id_str": "39886924",
+			"name": "Evan Woodbery",
+			"screen_name": "evanwoodbery",
+			"location": "Detroit, MI",
+			"description": "I cover the Detroit Tigers for MLive Media Group. \n(en español: @SoyEvanWoodbery)",
+			"url": "https://t.co/7eyGFxRwzL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eyGFxRwzL",
+							"expanded_url": "http://www.mlive.com/tigers",
+							"display_url": "mlive.com/tigers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20645,
+			"friends_count": 621,
+			"listed_count": 971,
+			"created_at": "Thu May 14 00:54:58 +0000 2009",
+			"favourites_count": 3413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D2B887",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/504727850587389952/wb6TEY1U_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/504727850587389952/wb6TEY1U_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39886924/1497669470",
+			"profile_link_color": "D2B887",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1416530565814231000,
+		"quoted_status_id_str": "1416530565814231044",
+		"quoted_status_permalink": {
+			"url": "https://t.co/otfysos9Cb",
+			"expanded": "https://twitter.com/evanwoodbery/status/1416530565814231044",
+			"display": "twitter.com/evanwoodbery/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 17 22:49:39 +0000 2021",
+			"id": 1416530565814231000,
+			"id_str": "1416530565814231044",
+			"full_text": "Beautiful night, great crowd. https://t.co/BG1T6w08AK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1416530561401774000,
+						"id_str": "1416530561401774080",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/E6iHCl3WYAAnvZC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6iHCl3WYAAnvZC.jpg",
+						"url": "https://t.co/BG1T6w08AK",
+						"display_url": "pic.twitter.com/BG1T6w08AK",
+						"expanded_url": "https://twitter.com/evanwoodbery/status/1416530565814231044/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 499,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 283,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 851,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1416530561401774000,
+						"id_str": "1416530561401774080",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/E6iHCl3WYAAnvZC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6iHCl3WYAAnvZC.jpg",
+						"url": "https://t.co/BG1T6w08AK",
+						"display_url": "pic.twitter.com/BG1T6w08AK",
+						"expanded_url": "https://twitter.com/evanwoodbery/status/1416530565814231044/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 499,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 283,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 851,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39886924,
+				"id_str": "39886924",
+				"name": "Evan Woodbery",
+				"screen_name": "evanwoodbery",
+				"location": "Detroit, MI",
+				"description": "I cover the Detroit Tigers for MLive Media Group. \n(en español: @SoyEvanWoodbery)",
+				"url": "https://t.co/7eyGFxRwzL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7eyGFxRwzL",
+								"expanded_url": "http://www.mlive.com/tigers",
+								"display_url": "mlive.com/tigers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20645,
+				"friends_count": 621,
+				"listed_count": 971,
+				"created_at": "Thu May 14 00:54:58 +0000 2009",
+				"favourites_count": 3413,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53529,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D2B887",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/504727850587389952/wb6TEY1U_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/504727850587389952/wb6TEY1U_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39886924/1497669470",
+				"profile_link_color": "D2B887",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9f325a2086001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9f325a2086001.json",
+				"place_type": "poi",
+				"name": "Comerica Park",
+				"full_name": "Comerica Park",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-83.04918726568529,
+								42.33932506074056
+							],
+							[
+								-83.04918726568529,
+								42.33932506074056
+							],
+							[
+								-83.04918726568529,
+								42.33932506074056
+							],
+							[
+								-83.04918726568529,
+								42.33932506074056
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 66,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 83,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A lot of folks here on the $5 ticket promotion. \n\nMost pro teams these days choose to maximize revenue over attendance (i.e., fewer fans paying more). \n\nI'd like to see teams try the opposite tradeoff: Sacrifice $$ to improve atmosphere, introduce more fans to the game. https://t.co/otfysos9Cb"
+	},
+	{
 		"created_at": "Fri Jul 16 12:30:03 +0000 2021",
 		"id": 1416012251740450800,
 		"id_str": "1416012251740450821",
