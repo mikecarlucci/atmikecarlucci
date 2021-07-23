@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 18:28:25 +0000 2021",
+		"id": 1418276765563302000,
+		"id_str": "1418276765563301891",
+		"full_text": "https://t.co/xm3rQlGt00 https://t.co/hMCKvyEnOf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xm3rQlGt00",
+					"expanded_url": "https://twitter.com/marshalljulius/status/1418136232685625346",
+					"display_url": "twitter.com/marshalljulius…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418276753844457500,
+					"id_str": "1418276753844457479",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E667MXoX0AcTkI9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E667MXoX0AcTkI9.jpg",
+					"url": "https://t.co/hMCKvyEnOf",
+					"display_url": "pic.twitter.com/hMCKvyEnOf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1418276765563301891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 170,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418276753844457500,
+					"id_str": "1418276753844457479",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E667MXoX0AcTkI9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E667MXoX0AcTkI9.jpg",
+					"url": "https://t.co/hMCKvyEnOf",
+					"display_url": "pic.twitter.com/hMCKvyEnOf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1418276765563301891/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 170,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 170,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							17
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E667MXoX0AcTkI9.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4380,
+			"friends_count": 690,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 96286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1418136232685625300,
+		"quoted_status_id_str": "1418136232685625346",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xm3rQlGt00",
+			"expanded": "https://twitter.com/marshalljulius/status/1418136232685625346",
+			"display": "twitter.com/marshalljulius…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 22 09:10:00 +0000 2021",
+			"id": 1418136232685625300,
+			"id_str": "1418136232685625346",
+			"full_text": "\"You will bring Captain Solo and the Wookiee to me.\" https://t.co/keXLYEbyyH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1417120332767498200,
+						"id_str": "1417120332767498247",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/E6qfbzaXEAc45xH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6qfbzaXEAc45xH.jpg",
+						"url": "https://t.co/keXLYEbyyH",
+						"display_url": "pic.twitter.com/keXLYEbyyH",
+						"expanded_url": "https://twitter.com/MarshallJulius/status/1418136232685625346/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 685,
+								"h": 520,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 516,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 685,
+								"h": 520,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1417120332767498200,
+						"id_str": "1417120332767498247",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/E6qfbzaXEAc45xH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6qfbzaXEAc45xH.jpg",
+						"url": "https://t.co/keXLYEbyyH",
+						"display_url": "pic.twitter.com/keXLYEbyyH",
+						"expanded_url": "https://twitter.com/MarshallJulius/status/1418136232685625346/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 685,
+								"h": 520,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 516,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 685,
+								"h": 520,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32338228,
+				"id_str": "32338228",
+				"name": "Marshall Julius: Vintage Geek!",
+				"screen_name": "MarshallJulius",
+				"location": "London, England",
+				"description": "Nerd. Word Monkey. Husband. Dad. 🤓 Obtainer of rare antiquities. 🦖 Critic @BBCOxford 🎙 Social @Zavvi 🚀 Author #VintageGeek 🤖 Retro swag @hot_merch & @Etsy",
+				"url": "https://t.co/1kikJfHqJU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1kikJfHqJU",
+								"expanded_url": "https://linktr.ee/MarshallJulius",
+								"display_url": "linktr.ee/MarshallJulius",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107252,
+				"friends_count": 82355,
+				"listed_count": 812,
+				"created_at": "Fri Apr 17 07:10:12 +0000 2009",
+				"favourites_count": 123890,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16650,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3A6769",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323190855142920199/j1I-MJH7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323190855142920199/j1I-MJH7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32338228/1615409281",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 807,
+			"favorite_count": 6595,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/xm3rQlGt00 https://t.co/hMCKvyEnOf"
+	},
+	{
+		"created_at": "Thu Jul 22 16:14:41 +0000 2021",
+		"id": 1418243108488335400,
+		"id_str": "1418243108488335368",
+		"full_text": "@JMastrodonato Basically everyone there will have a phone anyway if they need to bet on the go",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JMastrodonato",
+					"name": "Jason Mastrodonato",
+					"id": 108785782,
+					"id_str": "108785782",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1418238829207695400,
+		"in_reply_to_status_id_str": "1418238829207695364",
+		"in_reply_to_user_id": 108785782,
+		"in_reply_to_user_id_str": "108785782",
+		"in_reply_to_screen_name": "JMastrodonato",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4380,
+			"friends_count": 690,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 96286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JMastrodonato Basically everyone there will have a phone anyway if they need to bet on the go"
+	},
+	{
+		"created_at": "Thu Jul 22 16:12:21 +0000 2021",
+		"id": 1418238829207695400,
+		"id_str": "1418242523630288904",
+		"full_text": "If you were asking me how to cheapen the majesty of Fenway Park, I’d say, “install some betting booths!” https://t.co/Uuyev91IYD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uuyev91IYD",
+					"expanded_url": "https://twitter.com/erintiernan/status/1418231252998557697",
+					"display_url": "twitter.com/erintiernan/st…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108785782,
+			"id_str": "108785782",
+			"name": "Jason Mastrodonato",
+			"screen_name": "JMastrodonato",
+			"location": "Rochester, NY -- Boston, MA",
+			"description": "Sports columnist / @BostonHerald. Host of @LO_RedSox. Red Sox coverage since 2011. Northeastern University alumni advisory board. first.last@bostonherald.com",
+			"url": "https://t.co/8bjonuzsnS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8bjonuzsnS",
+							"expanded_url": "http://bostonherald.com/sports",
+							"display_url": "bostonherald.com/sports",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17709,
+			"friends_count": 1044,
+			"listed_count": 880,
+			"created_at": "Wed Jan 27 01:20:22 +0000 2010",
+			"favourites_count": 16175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 39414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410296507790761985/F7yzmFYb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410296507790761985/F7yzmFYb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108785782/1488004114",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1418231252998557700,
+		"quoted_status_id_str": "1418231252998557697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Uuyev91IYD",
+			"expanded": "https://twitter.com/erintiernan/status/1418231252998557697",
+			"display": "twitter.com/erintiernan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 22 15:27:34 +0000 2021",
+			"id": 1418231252998557700,
+			"id_str": "1418231252998557697",
+			"full_text": "The @RedSox tell me they + other Mass pro sports are behind a pair of amendments to take sports betting inside or near stadiums, allowing teams to apply for licenses. \n\nThe House will debate sports betting legalization at 1pm. #mapoli @bostonherald https://t.co/juMm2mr5gr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mapoli",
+						"indices": [
+							227,
+							234
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RedSox",
+						"name": "Red Sox",
+						"id": 40918816,
+						"id_str": "40918816",
+						"indices": [
+							4,
+							11
+						]
+					},
+					{
+						"screen_name": "bostonherald",
+						"name": "Boston Herald",
+						"id": 2488541,
+						"id_str": "2488541",
+						"indices": [
+							235,
+							248
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/juMm2mr5gr",
+						"expanded_url": "https://www.bostonherald.com/2021/07/21/red-sox-other-pro-sports-teams-back-sports-betting-in-or-nearby-stadiums/",
+						"display_url": "bostonherald.com/2021/07/21/red…",
+						"indices": [
+							249,
+							272
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 271998542,
+				"id_str": "271998542",
+				"name": "Erin Tiernan",
+				"screen_name": "ErinTiernan",
+				"location": "Somerville, MA",
+				"description": "State politics reporter @bostonherald. Ex-@patriotledger | Cat lady in training. @npr addict. Phan. Tips: etiernan (at) https://t.co/36FMZPeXzv",
+				"url": "https://t.co/36FMZPeXzv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/36FMZPeXzv",
+								"expanded_url": "http://bostonherald.com",
+								"display_url": "bostonherald.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/36FMZPeXzv",
+								"expanded_url": "http://bostonherald.com",
+								"display_url": "bostonherald.com",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2207,
+				"friends_count": 1895,
+				"listed_count": 74,
+				"created_at": "Fri Mar 25 16:18:20 +0000 2011",
+				"favourites_count": 2577,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8085,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1225903177754693632/CwLFr7fN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225903177754693632/CwLFr7fN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/271998542/1625418002",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 47,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you were asking me how to cheapen the majesty of Fenway Park, I’d say, “install some betting booths!” https://t.co/Uuyev91IYD"
+	},
+	{
 		"created_at": "Thu Jul 22 02:36:40 +0000 2021",
 		"id": 1418037248973545500,
 		"id_str": "1418037248973545472",
