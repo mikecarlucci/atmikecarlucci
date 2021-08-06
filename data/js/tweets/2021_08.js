@@ -1,6 +1,933 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 22:10:21 +0000 2021",
+		"id": 1423281257979555800,
+		"id_str": "1423406045968412673",
+		"full_text": "Set those alarms now. 6:00 a.m. EDT on Saturday. #ForGlory🇺🇸 https://t.co/VpMYhmEvQc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ForGlory",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VpMYhmEvQc",
+					"expanded_url": "https://twitter.com/WBSC/status/1423280775714119684",
+					"display_url": "twitter.com/WBSC/status/14…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17486040,
+			"id_str": "17486040",
+			"name": "USA Baseball",
+			"screen_name": "USABaseball",
+			"location": "Cary, North Carolina",
+			"description": "#ForGlory🇺🇸 The official Twitter account of USA Baseball, the national governing body of amateur baseball in the U.S.",
+			"url": "https://t.co/mBMXczMIOl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mBMXczMIOl",
+							"expanded_url": "http://USABaseball.com",
+							"display_url": "USABaseball.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168910,
+			"friends_count": 1116,
+			"listed_count": 1058,
+			"created_at": "Wed Nov 19 13:52:03 +0000 2008",
+			"favourites_count": 12940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000F21",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410993844951334920/DFEVdzma_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410993844951334920/DFEVdzma_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17486040/1625242123",
+			"profile_link_color": "00234C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1423280775714119700,
+		"quoted_status_id_str": "1423280775714119684",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VpMYhmEvQc",
+			"expanded": "https://twitter.com/WBSC/status/1423280775714119684",
+			"display": "twitter.com/WBSC/status/14…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 05 13:52:34 +0000 2021",
+			"id": 1423280775714119700,
+			"id_str": "1423280775714119684",
+			"full_text": "🇺🇸 USA v Japan 🇯🇵 🥇\n\n#tokyo2020 #olympics #baseball #gold #silver https://t.co/FyKJSw56yp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tokyo2020",
+						"indices": [
+							21,
+							31
+						]
+					},
+					{
+						"text": "olympics",
+						"indices": [
+							32,
+							41
+						]
+					},
+					{
+						"text": "baseball",
+						"indices": [
+							42,
+							51
+						]
+					},
+					{
+						"text": "gold",
+						"indices": [
+							52,
+							57
+						]
+					},
+					{
+						"text": "silver",
+						"indices": [
+							58,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1423280367818068000,
+						"id_str": "1423280367818067968",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/E8CB9COVUAAuW6v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8CB9COVUAAuW6v.jpg",
+						"url": "https://t.co/FyKJSw56yp",
+						"display_url": "pic.twitter.com/FyKJSw56yp",
+						"expanded_url": "https://twitter.com/WBSC/status/1423280775714119684/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1423280367818068000,
+						"id_str": "1423280367818067968",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/E8CB9COVUAAuW6v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8CB9COVUAAuW6v.jpg",
+						"url": "https://t.co/FyKJSw56yp",
+						"display_url": "pic.twitter.com/FyKJSw56yp",
+						"expanded_url": "https://twitter.com/WBSC/status/1423280775714119684/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1224386275,
+				"id_str": "1224386275",
+				"name": "WBSC #Baseball ⚾ #Tokyo2020",
+				"screen_name": "WBSC",
+				"location": "140+ countries and territories",
+				"description": "World governing body of Baseball ⚾, Softball 🥎 and all National Team competitions, including the World Cups and Olympic Games.",
+				"url": "https://t.co/yfiw0HjjjQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yfiw0HjjjQ",
+								"expanded_url": "http://olympicbaseball.wbsc.org",
+								"display_url": "olympicbaseball.wbsc.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90960,
+				"friends_count": 709,
+				"listed_count": 778,
+				"created_at": "Wed Feb 27 10:52:23 +0000 2013",
+				"favourites_count": 13490,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12768,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1420862916161646592/QRnBFu6r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1420862916161646592/QRnBFu6r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1224386275/1627047230",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 403,
+			"favorite_count": 1338,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 123,
+		"favorite_count": 515,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Set those alarms now. 6:00 a.m. EDT on Saturday. #ForGlory🇺🇸 https://t.co/VpMYhmEvQc"
+	},
+	{
+		"created_at": "Thu Aug 05 20:45:45 +0000 2021",
+		"id": 1423384756922818600,
+		"id_str": "1423384756922818562",
+		"full_text": "https://t.co/IAK2DvIMlc https://t.co/Tqs8NVRlMF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IAK2DvIMlc",
+					"expanded_url": "https://twitter.com/verge/status/1422989496359034888",
+					"display_url": "twitter.com/verge/status/1…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423384743945572400,
+					"id_str": "1423384743945572358",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E8Dg4hmWEAY74yg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8Dg4hmWEAY74yg.jpg",
+					"url": "https://t.co/Tqs8NVRlMF",
+					"display_url": "pic.twitter.com/Tqs8NVRlMF",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1423384756922818562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 212,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423384743945572400,
+					"id_str": "1423384743945572358",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E8Dg4hmWEAY74yg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8Dg4hmWEAY74yg.jpg",
+					"url": "https://t.co/Tqs8NVRlMF",
+					"display_url": "pic.twitter.com/Tqs8NVRlMF",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1423384756922818562/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 212,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							100,
+							53
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E8Dg4hmWEAY74yg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4381,
+			"friends_count": 693,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 97085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1422989496359035000,
+		"quoted_status_id_str": "1422989496359034888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IAK2DvIMlc",
+			"expanded": "https://twitter.com/verge/status/1422989496359034888",
+			"display": "twitter.com/verge/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 04 18:35:08 +0000 2021",
+			"id": 1422989496359035000,
+			"id_str": "1422989496359034888",
+			"full_text": "Disney’s Star Wars hotel is just like Westworld: only for the wealthy https://t.co/rMLLgZatVf https://t.co/inxVhczgP2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rMLLgZatVf",
+						"expanded_url": "https://www.theverge.com/2021/8/4/22609764/disney-star-wars-hotel-galactic-starcruiser-pricing-2022-interactive-immersive?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+						"display_url": "theverge.com/2021/8/4/22609…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1422989493628461000,
+						"id_str": "1422989493628461065",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/E795Z7bWYAki0PO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E795Z7bWYAki0PO.jpg",
+						"url": "https://t.co/inxVhczgP2",
+						"display_url": "pic.twitter.com/inxVhczgP2",
+						"expanded_url": "https://twitter.com/verge/status/1422989496359034888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1878,
+								"h": 964,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 349,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1422989493628461000,
+						"id_str": "1422989493628461065",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/E795Z7bWYAki0PO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E795Z7bWYAki0PO.jpg",
+						"url": "https://t.co/inxVhczgP2",
+						"display_url": "pic.twitter.com/inxVhczgP2",
+						"expanded_url": "https://twitter.com/verge/status/1422989496359034888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1878,
+								"h": 964,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 349,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275686563,
+				"id_str": "275686563",
+				"name": "The Verge",
+				"screen_name": "verge",
+				"location": "New York",
+				"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+				"url": "http://t.co/W2SFxIXkC4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2820799,
+				"friends_count": 170,
+				"listed_count": 36901,
+				"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+				"favourites_count": 1361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 196096,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1601391578",
+				"profile_link_color": "EC008C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 327,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/IAK2DvIMlc https://t.co/Tqs8NVRlMF"
+	},
+	{
+		"created_at": "Thu Aug 05 13:38:43 +0000 2021",
+		"id": 1423276586493640700,
+		"id_str": "1423277288330772480",
+		"full_text": "Happy Bobby Bonds Day! https://t.co/WermoyyqsP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WermoyyqsP",
+					"expanded_url": "https://twitter.com/ajacksonevans/status/803356946321604608",
+					"display_url": "twitter.com/ajacksonevans/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3205758300,
+			"id_str": "3205758300",
+			"name": "Jim Passon",
+			"screen_name": "PassonJim",
+			"location": "Tacoma, WA",
+			"description": "Author • Co-host of the Romantic About Baseball podcast • Stat hunter • @AdamCMacK refers to me as the Statmaster General • he/him",
+			"url": "https://t.co/UFZzjJFVDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UFZzjJFVDX",
+							"expanded_url": "https://www.amazon.com/dp/B087SLPXSP/ref=cm_sw_r_cp_api_i_jNXREbFEW5FBY",
+							"display_url": "amazon.com/dp/B087SLPXSP/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14441,
+			"friends_count": 817,
+			"listed_count": 262,
+			"created_at": "Sun May 17 13:10:32 +0000 2015",
+			"favourites_count": 65418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194120136736657410/27xfg5BG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194120136736657410/27xfg5BG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3205758300/1455571505",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 803356946321604600,
+		"quoted_status_id_str": "803356946321604608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WermoyyqsP",
+			"expanded": "https://twitter.com/ajacksonevans/status/803356946321604608",
+			"display": "twitter.com/ajacksonevans/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 28 21:56:36 +0000 2016",
+			"id": 803356946321604600,
+			"id_str": "803356946321604608",
+			"full_text": "Barry Bonds homered on every day between Apr 1st-Sep 29th in his career, except Aug 5th\n\nAug 5th is the date Bobby Bonds homered on the most",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 735620016,
+				"id_str": "735620016",
+				"name": "Aidan Jackson-Evans",
+				"screen_name": "ajacksonevans",
+				"location": "",
+				"description": "Baseball writer and researcher. @SABR presenter and SABR bio author. Words at @HighHeatStats. Written for USA Today Sports Weekly. I tweet baseball stats.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3080,
+				"friends_count": 393,
+				"listed_count": 103,
+				"created_at": "Fri Aug 03 22:07:30 +0000 2012",
+				"favourites_count": 4378,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/578393677866860544/ILm7wNsT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/578393677866860544/ILm7wNsT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/735620016/1426734737",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 418,
+			"favorite_count": 901,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 47,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Bobby Bonds Day! https://t.co/WermoyyqsP"
+	},
+	{
 		"created_at": "Thu Aug 05 00:28:56 +0000 2021",
 		"id": 1423069198897631200,
 		"id_str": "1423078532633272323",
