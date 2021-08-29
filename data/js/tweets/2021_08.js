@@ -1,6 +1,1100 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 29 02:26:45 +0000 2021",
+		"id": 1431805489923383300,
+		"id_str": "1431805489923383296",
+		"full_text": "Waiting for the HBO prestige series like https://t.co/BdP6BieBYt https://t.co/bztqBK5X2R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BdP6BieBYt",
+					"expanded_url": "https://twitter.com/gertrudeprkns/status/1431631487166816263",
+					"display_url": "twitter.com/gertrudeprkns/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431805484529488000,
+					"id_str": "1431805484529487873",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E97LgIzWEAEsQaG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E97LgIzWEAEsQaG.jpg",
+					"url": "https://t.co/bztqBK5X2R",
+					"display_url": "pic.twitter.com/bztqBK5X2R",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1431805489923383296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431805484529488000,
+					"id_str": "1431805484529487873",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E97LgIzWEAEsQaG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E97LgIzWEAEsQaG.jpg",
+					"url": "https://t.co/bztqBK5X2R",
+					"display_url": "pic.twitter.com/bztqBK5X2R",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1431805489923383296/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							134
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E97LgIzWEAEsQaG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4379,
+			"friends_count": 685,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 98166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1431631487166816300,
+		"quoted_status_id_str": "1431631487166816263",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BdP6BieBYt",
+			"expanded": "https://twitter.com/gertrudeprkns/status/1431631487166816263",
+			"display": "twitter.com/gertrudeprkns/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 28 14:55:19 +0000 2021",
+			"id": 1431631487166816300,
+			"id_str": "1431631487166816263",
+			"full_text": "Long ago, the four nations lived in harmony.... https://t.co/lNBwqZa0jo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1431631467935903700,
+						"id_str": "1431631467935903745",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/E94tPCeXMAEsW9o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E94tPCeXMAEsW9o.jpg",
+						"url": "https://t.co/lNBwqZa0jo",
+						"display_url": "pic.twitter.com/lNBwqZa0jo",
+						"expanded_url": "https://twitter.com/gertrudeprkns/status/1431631487166816263/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1124,
+								"h": 799,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 483,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 799,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1431631467935903700,
+						"id_str": "1431631467935903745",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/E94tPCeXMAEsW9o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E94tPCeXMAEsW9o.jpg",
+						"url": "https://t.co/lNBwqZa0jo",
+						"display_url": "pic.twitter.com/lNBwqZa0jo",
+						"expanded_url": "https://twitter.com/gertrudeprkns/status/1431631487166816263/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1124,
+								"h": 799,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 483,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 799,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 393481383,
+				"id_str": "393481383",
+				"name": "Gertrude Perkins ☄",
+				"screen_name": "gertrudeprkns",
+				"location": "MCR, Rainy Fascism Island",
+				"description": "24/7 Online, he/him. I write sometimes. Ex-PhD student of popular culture, still in recovery. \nCohost of @FlashITPanCast; I run @truemusicfacts2 & @nonarticles",
+				"url": "https://t.co/tCIIWwm89j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tCIIWwm89j",
+								"expanded_url": "https://mediagluttony.wordpress.com/",
+								"display_url": "mediagluttony.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 695,
+				"friends_count": 2202,
+				"listed_count": 18,
+				"created_at": "Tue Oct 18 16:08:45 +0000 2011",
+				"favourites_count": 28059,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26912,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/620705514226348032/ADYwlfMP_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/620705514226348032/ADYwlfMP_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/393481383/1447783978",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6151,
+			"favorite_count": 40179,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Waiting for the HBO prestige series like https://t.co/BdP6BieBYt https://t.co/bztqBK5X2R"
+	},
+	{
+		"created_at": "Sat Aug 28 23:12:27 +0000 2021",
+		"id": 1431756593771819000,
+		"id_str": "1431756593771819012",
+		"full_text": "Rule 15. If you have one strong-initial name and one weak-initial name, you can still get the initial-plus-name (or initial-plus-first-syllable) nickname: G-Rich for Garrett Richards. https://t.co/AaTMLm3ghC https://t.co/VcMbiK7d6k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AaTMLm3ghC",
+					"expanded_url": "https://www.espn.com/mlb/story/_/id/24392684/the-20-rules-creating-mlb-nickname-would-be",
+					"display_url": "espn.com/mlb/story/_/id…",
+					"indices": [
+						184,
+						207
+					]
+				},
+				{
+					"url": "https://t.co/VcMbiK7d6k",
+					"expanded_url": "https://twitter.com/smittyonmlb/status/1431754392995303426",
+					"display_url": "twitter.com/smittyonmlb/st…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4379,
+			"friends_count": 685,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 98166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1431754392995303400,
+		"quoted_status_id_str": "1431754392995303426",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VcMbiK7d6k",
+			"expanded": "https://twitter.com/smittyonmlb/status/1431754392995303426",
+			"display": "twitter.com/smittyonmlb/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 28 23:03:42 +0000 2021",
+			"id": 1431754392995303400,
+			"id_str": "1431754392995303426",
+			"full_text": "Garrett Richards — who Cora calls G-Rich — coming in to pitch for the Red Sox with two outs in the eighth and a runner at third.\nThird straight game for him.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158067020,
+				"id_str": "158067020",
+				"name": "Christopher Smith",
+				"screen_name": "SmittyOnMLB",
+				"location": "Georgetown, MA",
+				"description": "Red Sox reporter, https://t.co/0JhHSIgu0l. @NewhouseSU @SyracuseU grad. Dad of @KayleeSmith0819. Drummer. Writing about the best American novel ever written.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0JhHSIgu0l",
+								"expanded_url": "http://MassLive.com",
+								"display_url": "MassLive.com",
+								"indices": [
+									18,
+									41
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10614,
+				"friends_count": 2232,
+				"listed_count": 498,
+				"created_at": "Mon Jun 21 17:53:21 +0000 2010",
+				"favourites_count": 10876,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53876,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1348388051567968259/2tPQGaDo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348388051567968259/2tPQGaDo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158067020/1598459096",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rule 15. If you have one strong-initial name and one weak-initial name, you can still get the initial-plus-name (or initial-plus-first-syllable) nickname: G-Rich for Garrett Richards. https://t.co/AaTMLm3ghC https://t.co/VcMbiK7d6k"
+	},
+	{
+		"created_at": "Sat Aug 28 21:27:09 +0000 2021",
+		"id": 1431730096394674200,
+		"id_str": "1431730096394674183",
+		"full_text": "@bryanjoiner https://t.co/1u9tPXTeDX",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bryanjoiner",
+					"name": "Bryan Joiner will argue at the Chilmark Store",
+					"id": 20944031,
+					"id_str": "20944031",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1431730090954662000,
+					"id_str": "1431730090954661890",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E96G7p2XIAIsVFG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E96G7p2XIAIsVFG.jpg",
+					"url": "https://t.co/1u9tPXTeDX",
+					"display_url": "pic.twitter.com/1u9tPXTeDX",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1431730096394674183/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431730090954662000,
+					"id_str": "1431730090954661890",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E96G7p2XIAIsVFG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E96G7p2XIAIsVFG.jpg",
+					"url": "https://t.co/1u9tPXTeDX",
+					"display_url": "pic.twitter.com/1u9tPXTeDX",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1431730096394674183/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 482,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							241
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E96G7p2XIAIsVFG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1431724114981630000,
+		"in_reply_to_status_id_str": "1431724114981629953",
+		"in_reply_to_user_id": 20944031,
+		"in_reply_to_user_id_str": "20944031",
+		"in_reply_to_screen_name": "bryanjoiner",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4379,
+			"friends_count": 685,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 98166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@bryanjoiner https://t.co/1u9tPXTeDX"
+	},
+	{
+		"created_at": "Sat Aug 28 20:20:17 +0000 2021",
+		"id": 1431713265764208600,
+		"id_str": "1431713265764208642",
+		"full_text": "So fun https://t.co/9T9E63wva3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9T9E63wva3",
+					"expanded_url": "https://twitter.com/redsox/status/1431710245638877194",
+					"display_url": "twitter.com/redsox/status/…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4379,
+			"friends_count": 685,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 98166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1431710245638877200,
+		"quoted_status_id_str": "1431710245638877194",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9T9E63wva3",
+			"expanded": "https://twitter.com/redsox/status/1431710245638877194",
+			"display": "twitter.com/redsox/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 28 20:08:17 +0000 2021",
+			"id": 1431710245638877200,
+			"id_str": "1431710245638877194",
+			"full_text": "Get him in the cart! https://t.co/hVz7lT5M7Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				20
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1431710184947261400,
+						"id_str": "1431710184947261440",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E9500-MXIAAe8S3.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E9500-MXIAAe8S3.jpg",
+						"url": "https://t.co/hVz7lT5M7Q",
+						"display_url": "pic.twitter.com/hVz7lT5M7Q",
+						"expanded_url": "https://twitter.com/RedSox/status/1431710245638877194/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1431710184947261400,
+						"id_str": "1431710184947261440",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E9500-MXIAAe8S3.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E9500-MXIAAe8S3.jpg",
+						"url": "https://t.co/hVz7lT5M7Q",
+						"display_url": "pic.twitter.com/hVz7lT5M7Q",
+						"expanded_url": "https://twitter.com/RedSox/status/1431710245638877194/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/E9500-MXIAAe8S3.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40918816,
+				"id_str": "40918816",
+				"name": "Red Sox",
+				"screen_name": "RedSox",
+				"location": "Fenway Park",
+				"description": "Chris Sale once compared this team to sandpaper.",
+				"url": "https://t.co/9Of5h9YXc8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Of5h9YXc8",
+								"expanded_url": "http://redsox.com",
+								"display_url": "redsox.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2128853,
+				"friends_count": 240,
+				"listed_count": 10570,
+				"created_at": "Mon May 18 17:21:20 +0000 2009",
+				"favourites_count": 10320,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 98198,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "213117",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410743797403766784/Awfg6r5A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410743797403766784/Awfg6r5A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40918816/1625227203",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 102,
+			"favorite_count": 1693,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So fun https://t.co/9T9E63wva3"
+	},
+	{
 		"created_at": "Sat Aug 28 01:52:19 +0000 2021",
 		"id": 1431434439196819500,
 		"id_str": "1431434439196819458",
