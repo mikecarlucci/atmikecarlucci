@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 02:06:13 +0000 2021",
+		"id": 1438323305350586400,
+		"id_str": "1438323305350586369",
+		"full_text": "Hack the planet! https://t.co/NqYPX4EFTh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NqYPX4EFTh",
+					"expanded_url": "https://twitter.com/newbeverly/status/1438261543846694916",
+					"display_url": "twitter.com/newbeverly/sta…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 689,
+			"listed_count": 51,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 99124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438261543846695000,
+		"quoted_status_id_str": "1438261543846694916",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NqYPX4EFTh",
+			"expanded": "https://twitter.com/newbeverly/status/1438261543846694916",
+			"display": "twitter.com/newbeverly/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 15 22:00:48 +0000 2021",
+			"id": 1438261543846695000,
+			"id_str": "1438261543846694916",
+			"full_text": "HACKERS opened in theaters on this day in 1995. https://t.co/PEzZukFG81",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1438261540956819500,
+						"id_str": "1438261540956819460",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/E_W7QFLWUAQcPTc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_W7QFLWUAQcPTc.jpg",
+						"url": "https://t.co/PEzZukFG81",
+						"display_url": "pic.twitter.com/PEzZukFG81",
+						"expanded_url": "https://twitter.com/newbeverly/status/1438261543846694916/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 797,
+								"h": 759,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 797,
+								"h": 759,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438261540956819500,
+						"id_str": "1438261540956819460",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/E_W7QFLWUAQcPTc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_W7QFLWUAQcPTc.jpg",
+						"url": "https://t.co/PEzZukFG81",
+						"display_url": "pic.twitter.com/PEzZukFG81",
+						"expanded_url": "https://twitter.com/newbeverly/status/1438261543846694916/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 797,
+								"h": 759,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 797,
+								"h": 759,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17070938,
+				"id_str": "17070938",
+				"name": "New Beverly Cinema",
+				"screen_name": "newbeverly",
+				"location": "7165 Beverly Blvd, Los Angeles, CA 90036",
+				"description": "Repertory programming since 1978.",
+				"url": "https://t.co/HAiigjtNJi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HAiigjtNJi",
+								"expanded_url": "http://www.thenewbev.com",
+								"display_url": "thenewbev.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79013,
+				"friends_count": 843,
+				"listed_count": 1144,
+				"created_at": "Thu Oct 30 18:35:42 +0000 2008",
+				"favourites_count": 28187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 38926,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1432515581144489985/0QeKogO3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432515581144489985/0QeKogO3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17070938/1544463075",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 379,
+			"favorite_count": 1209,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hack the planet! https://t.co/NqYPX4EFTh"
+	},
+	{
+		"created_at": "Wed Sep 15 18:05:19 +0000 2021",
+		"id": 1438201901011533800,
+		"id_str": "1438202284253581320",
+		"full_text": "👀 We already knew FB's \"pivot to video\" was bullshit, but it's fascinating that the bogus pivot to video didn't just screw over all the sucker publishers who believed FB's nonsense on it... but also FB itself. The users didn't want the video. https://t.co/2CNcx7gFiY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2CNcx7gFiY",
+					"expanded_url": "https://twitter.com/laurahazardowen/status/1438167987727503362",
+					"display_url": "twitter.com/laurahazardowe…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1270191,
+			"id_str": "1270191",
+			"name": "Mike Masnick",
+			"screen_name": "mmasnick",
+			"location": "",
+			"description": "I write/edit @techdirt. I survived for 12 years without a bio on Twitter, but now I've added one.",
+			"url": "http://t.co/eY1dwNDtAZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eY1dwNDtAZ",
+							"expanded_url": "http://www.techdirt.com/",
+							"display_url": "techdirt.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29635,
+			"friends_count": 1773,
+			"listed_count": 1296,
+			"created_at": "Fri Mar 16 06:42:05 +0000 2007",
+			"favourites_count": 45337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 108905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329837768923435010/WuNYRRjz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329837768923435010/WuNYRRjz_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1270191/1462516125",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438167987727503400,
+		"quoted_status_id_str": "1438167987727503362",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2CNcx7gFiY",
+			"expanded": "https://twitter.com/laurahazardowen/status/1438167987727503362",
+			"display": "twitter.com/laurahazardowe…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 15 15:49:02 +0000 2021",
+			"id": 1438167987727503400,
+			"id_str": "1438167987727503362",
+			"full_text": "wow, too bad all those publishers pivoted to video based on what Facebook told them to do! \n\nhttps://t.co/JwoC8E7iXm https://t.co/0N0zARcJWs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JwoC8E7iXm",
+						"expanded_url": "https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215?mod=hp_lead_pos7",
+						"display_url": "wsj.com/articles/faceb…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1438167883423563800,
+						"id_str": "1438167883423563794",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/E_VmEfrWQBImaPr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_VmEfrWQBImaPr.jpg",
+						"url": "https://t.co/0N0zARcJWs",
+						"display_url": "pic.twitter.com/0N0zARcJWs",
+						"expanded_url": "https://twitter.com/laurahazardowen/status/1438167987727503362/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1432,
+								"h": 504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 422,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 239,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438167883423563800,
+						"id_str": "1438167883423563794",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/E_VmEfrWQBImaPr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_VmEfrWQBImaPr.jpg",
+						"url": "https://t.co/0N0zARcJWs",
+						"display_url": "pic.twitter.com/0N0zARcJWs",
+						"expanded_url": "https://twitter.com/laurahazardowen/status/1438167987727503362/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1432,
+								"h": 504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 422,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 239,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16242112,
+				"id_str": "16242112",
+				"name": "Laura Hazard Owen",
+				"screen_name": "laurahazardowen",
+				"location": "Cambridge, MA",
+				"description": "Editor of @niemanlab, mom of 3. DMs open. (I also write an occasional parenting newsletter: https://t.co/uOfiEAiJcK)",
+				"url": "https://t.co/IC4x69Rao7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IC4x69Rao7",
+								"expanded_url": "https://illberightback.substack.com/",
+								"display_url": "illberightback.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uOfiEAiJcK",
+								"expanded_url": "http://illberightback.substack.com",
+								"display_url": "illberightback.substack.com",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16782,
+				"friends_count": 1388,
+				"listed_count": 945,
+				"created_at": "Thu Sep 11 15:35:09 +0000 2008",
+				"favourites_count": 7440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13397,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/469201172264284160/3K23-kJ1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/469201172264284160/3K23-kJ1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16242112/1400700967",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 157,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👀 We already knew FB's \"pivot to video\" was bullshit, but it's fascinating that the bogus pivot to video didn't just screw over all the sucker publishers who believed FB's nonsense on it... but also FB itself. The users didn't want the video. https://t.co/2CNcx7gFiY"
+	},
+	{
+		"created_at": "Wed Sep 15 17:53:17 +0000 2021",
+		"id": 1438199255999545300,
+		"id_str": "1438199255999545346",
+		"full_text": "I can soon express in emoji trading my 🐄 for 🪄  [beans] https://t.co/XHHK9bAtoY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XHHK9bAtoY",
+					"expanded_url": "https://twitter.com/arstechnica/status/1438198438282342400",
+					"display_url": "twitter.com/arstechnica/st…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 689,
+			"listed_count": 51,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 99124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438198438282342400,
+		"quoted_status_id_str": "1438198438282342400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XHHK9bAtoY",
+			"expanded": "https://twitter.com/arstechnica/status/1438198438282342400",
+			"display": "twitter.com/arstechnica/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 15 17:50:02 +0000 2021",
+			"id": 1438198438282342400,
+			"id_str": "1438198438282342400",
+			"full_text": "“Melting face,” “pregnant person,” and 35 other emoji approved for Unicode 14.0 https://t.co/2VCrCPJcOI by @AndrewWrites",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AndrewWrites",
+						"name": "Andrew Cunningham",
+						"id": 181395652,
+						"id_str": "181395652",
+						"indices": [
+							107,
+							120
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2VCrCPJcOI",
+						"expanded_url": "https://arstechnica.com/gadgets/2021/09/melting-face-pregnant-person-and-35-other-emoji-approved-for-unicode-14-0/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social",
+						"display_url": "arstechnica.com/gadgets/2021/0…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://arstechnica.com\" rel=\"nofollow\">Ars tweetbot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717313,
+				"id_str": "717313",
+				"name": "Ars Technica",
+				"screen_name": "arstechnica",
+				"location": "NYC - Boston - Chicago - SF",
+				"description": "Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.",
+				"url": "http://t.co/Ul1NPoX9hd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ul1NPoX9hd",
+								"expanded_url": "http://arstechnica.com",
+								"display_url": "arstechnica.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1147159,
+				"friends_count": 1337,
+				"listed_count": 28190,
+				"created_at": "Sun Jan 28 01:58:49 +0000 2007",
+				"favourites_count": 8515,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 119210,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "201F25",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717313/1407516523",
+				"profile_link_color": "FF5B00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can soon express in emoji trading my 🐄 for 🪄  [beans] https://t.co/XHHK9bAtoY"
+	},
+	{
 		"created_at": "Tue Sep 14 18:59:20 +0000 2021",
 		"id": 1437853487325499400,
 		"id_str": "1437853487325499403",
