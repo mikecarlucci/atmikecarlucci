@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 23 23:23:43 +0000 2021",
+		"id": 1441181512578125800,
+		"id_str": "1441181512578125831",
+		"full_text": "Not sure how they can top the original 🤣 https://t.co/MVZXTLNJb6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MVZXTLNJb6",
+					"expanded_url": "https://twitter.com/nintendoamerica/status/1441168479864844292",
+					"display_url": "twitter.com/nintendoameric…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 692,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 99324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1441168479864844300,
+		"quoted_status_id_str": "1441168479864844292",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MVZXTLNJb6",
+			"expanded": "https://twitter.com/nintendoamerica/status/1441168479864844292",
+			"display": "twitter.com/nintendoameric…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 23 22:31:55 +0000 2021",
+			"id": 1441168479864844300,
+			"id_str": "1441168479864844292",
+			"full_text": "The Super Mario Bros. Animated Film movie is heading to theaters in North America on 12/21/22! \n\nCheck out the voice cast for the upcoming movie below 👇 https://t.co/Xj31P6hk6y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1441168329624850400,
+						"id_str": "1441168329624850432",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/FAAO9czVEAAW58o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAAO9czVEAAW58o.jpg",
+						"url": "https://t.co/Xj31P6hk6y",
+						"display_url": "pic.twitter.com/Xj31P6hk6y",
+						"expanded_url": "https://twitter.com/NintendoAmerica/status/1441168479864844292/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1441168329624850400,
+						"id_str": "1441168329624850432",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/FAAO9czVEAAW58o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAAO9czVEAAW58o.jpg",
+						"url": "https://t.co/Xj31P6hk6y",
+						"display_url": "pic.twitter.com/Xj31P6hk6y",
+						"expanded_url": "https://twitter.com/NintendoAmerica/status/1441168479864844292/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5162861,
+				"id_str": "5162861",
+				"name": "Nintendo of America",
+				"screen_name": "NintendoAmerica",
+				"location": "",
+				"description": "Welcome to the official Nintendo profile for gaming news! We’re listening, too. For ESRB ratings go to https://t.co/OgSR65P8OY",
+				"url": "https://t.co/KV95CnwR7H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KV95CnwR7H",
+								"expanded_url": "https://www.nintendo.com",
+								"display_url": "nintendo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OgSR65P8OY",
+								"expanded_url": "http://esrb.org",
+								"display_url": "esrb.org",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11501897,
+				"friends_count": 229,
+				"listed_count": 15300,
+				"created_at": "Wed Apr 18 22:43:15 +0000 2007",
+				"favourites_count": 313,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21806,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1436397139517526018/dFPPX0_l_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436397139517526018/dFPPX0_l_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5162861/1631283080",
+				"profile_link_color": "E60012",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8813,
+			"favorite_count": 42839,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not sure how they can top the original 🤣 https://t.co/MVZXTLNJb6"
+	},
+	{
+		"created_at": "Thu Sep 23 14:19:44 +0000 2021",
+		"id": 1441044617009447000,
+		"id_str": "1441044617009446916",
+		"full_text": "Absolutely nuts https://t.co/0blme6gcZw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0blme6gcZw",
+					"expanded_url": "https://twitter.com/lexlanham/status/1441040873442193409",
+					"display_url": "twitter.com/lexlanham/stat…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 692,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 99324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1441040873442193400,
+		"quoted_status_id_str": "1441040873442193409",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0blme6gcZw",
+			"expanded": "https://twitter.com/lexlanham/status/1441040873442193409",
+			"display": "twitter.com/lexlanham/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 23 14:04:52 +0000 2021",
+			"id": 1441040873442193400,
+			"id_str": "1441040873442193409",
+			"full_text": "rockville, maryland brewery changes the name of its \"surrender, dorothy\" beer to plain old \"surrender\" after turner entertainment opposes its trademark application. @techdirt explains how it was never really a wizard of oz reference in the first place.\n\nhttps://t.co/kzeZYCsI73 https://t.co/zwKiDNsjMB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "techdirt",
+						"name": "techdirt",
+						"id": 11382292,
+						"id_str": "11382292",
+						"indices": [
+							165,
+							174
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kzeZYCsI73",
+						"expanded_url": "https://www.techdirt.com/articles/20181011/09353540816/warner-media-opposes-trademark-filed-actual-wicked-witch-over-wizard-oz-trademarks.shtml",
+						"display_url": "techdirt.com/articles/20181…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1441040170267119600,
+						"id_str": "1441040170267119617",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/E_-aZl_XEAESHJr.png",
+						"media_url_https": "https://pbs.twimg.com/media/E_-aZl_XEAESHJr.png",
+						"url": "https://t.co/zwKiDNsjMB",
+						"display_url": "pic.twitter.com/zwKiDNsjMB",
+						"expanded_url": "https://twitter.com/lexlanham/status/1441040873442193409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 520,
+								"h": 471,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 520,
+								"h": 471,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 520,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1441040170267119600,
+						"id_str": "1441040170267119617",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/E_-aZl_XEAESHJr.png",
+						"media_url_https": "https://pbs.twimg.com/media/E_-aZl_XEAESHJr.png",
+						"url": "https://t.co/zwKiDNsjMB",
+						"display_url": "pic.twitter.com/zwKiDNsjMB",
+						"expanded_url": "https://twitter.com/lexlanham/status/1441040873442193409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 520,
+								"h": 471,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 520,
+								"h": 471,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 520,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1441040736644833300,
+						"id_str": "1441040736644833285",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/E_-a6j6VIAUUHGf.png",
+						"media_url_https": "https://pbs.twimg.com/media/E_-a6j6VIAUUHGf.png",
+						"url": "https://t.co/zwKiDNsjMB",
+						"display_url": "pic.twitter.com/zwKiDNsjMB",
+						"expanded_url": "https://twitter.com/lexlanham/status/1441040873442193409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 718,
+								"h": 505,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 478,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 718,
+								"h": 505,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22581994,
+				"id_str": "22581994",
+				"name": "alexandra j. roberts",
+				"screen_name": "lexlanham",
+				"location": "boston & nh",
+				"description": "law professor teaching & writing on trademarks, entertainment law, contracts, false advertising, influencers, & law/literature at @unhlaw & @uofnh. she/her.",
+				"url": "https://t.co/rQJzOFCU6Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rQJzOFCU6Y",
+								"expanded_url": "https://law.unh.edu/person/alexandra-j-roberts",
+								"display_url": "law.unh.edu/person/alexand…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11993,
+				"friends_count": 5581,
+				"listed_count": 239,
+				"created_at": "Tue Mar 03 04:05:16 +0000 2009",
+				"favourites_count": 89734,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42575,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22581994/1601944342",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolutely nuts https://t.co/0blme6gcZw"
+	},
+	{
 		"created_at": "Thu Sep 23 01:09:38 +0000 2021",
 		"id": 1440845780076482600,
 		"id_str": "1440845780076482565",
@@ -1656,7 +2299,7 @@ Grailbird.data.tweets_2021_09 =
 				"name": "J 🌿",
 				"screen_name": "jbtuason",
 				"location": "snzz",
-				"description": "Advanced technical artist @InsomniacGames 🕸🐱 Subsists on shaders, wlw content, gay videogames, and vintage anime ✨ they/them 🏳️‍🌈",
+				"description": "Advanced technical artist @InsomniacGames 🕸🐱 Subsists on shaders, wlw content, gay videogames, and vintage anime ✨ they/them 🏳️🌈",
 				"url": "https://t.co/zTKQ56dISX",
 				"entities": {
 					"url": {
