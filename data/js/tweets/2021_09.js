@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 30 20:56:59 +0000 2021",
+		"id": 1443681300603445200,
+		"id_str": "1443681300603445252",
+		"full_text": "You speak of the prophecy of the one who will https://t.co/E6X5YxgYQS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443681295591264300,
+					"id_str": "1443681295591264260",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FAj8fUiX0AQcqKn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAj8fUiX0AQcqKn.jpg",
+					"url": "https://t.co/E6X5YxgYQS",
+					"display_url": "pic.twitter.com/E6X5YxgYQS",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1443681300603445252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1116,
+							"h": 1324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1011,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443681295591264300,
+					"id_str": "1443681295591264260",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FAj8fUiX0AQcqKn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAj8fUiX0AQcqKn.jpg",
+					"url": "https://t.co/E6X5YxgYQS",
+					"display_url": "pic.twitter.com/E6X5YxgYQS",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1443681300603445252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1116,
+							"h": 1324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1011,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 692,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 99729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You speak of the prophecy of the one who will https://t.co/E6X5YxgYQS"
+	},
+	{
+		"created_at": "Thu Sep 30 19:54:30 +0000 2021",
+		"id": 1443607828074320000,
+		"id_str": "1443665578225504260",
+		"full_text": "Slack is down, everyone go home and by home I mean from your desk to your couch https://t.co/PBVv6s4SUC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443607824865575000,
+					"id_str": "1443607824865574916",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FAi5qwwWQAQ5cz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAi5qwwWQAQ5cz4.jpg",
+					"url": "https://t.co/PBVv6s4SUC",
+					"display_url": "pic.twitter.com/PBVv6s4SUC",
+					"expanded_url": "https://twitter.com/Kara_Chin/status/1443607828074319883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 618,
+							"h": 236,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 618,
+							"h": 236,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443607824865575000,
+					"id_str": "1443607824865574916",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FAi5qwwWQAQ5cz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAi5qwwWQAQ5cz4.jpg",
+					"url": "https://t.co/PBVv6s4SUC",
+					"display_url": "pic.twitter.com/PBVv6s4SUC",
+					"expanded_url": "https://twitter.com/Kara_Chin/status/1443607828074319883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 618,
+							"h": 236,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 618,
+							"h": 236,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 560369408,
+			"id_str": "560369408",
+			"name": "Kara Chin",
+			"screen_name": "Kara_Chin",
+			"location": "New York, New York",
+			"description": "@thisisinsider @businessinsider producer 🎥 // 📝 bylines @nytimes @fivethirtyeight @adage // @newmarkjschool alumna 👩🏻‍🎓// she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 1142,
+			"listed_count": 19,
+			"created_at": "Sun Apr 22 15:30:55 +0000 2012",
+			"favourites_count": 11064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ADD3DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388224124858900480/bnGPhX3z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388224124858900480/bnGPhX3z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/560369408/1552349258",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 272,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slack is down, everyone go home and by home I mean from your desk to your couch https://t.co/PBVv6s4SUC"
+	},
+	{
 		"created_at": "Wed Sep 29 22:35:30 +0000 2021",
 		"id": 1443343705914683400,
 		"id_str": "1443343705914683394",
