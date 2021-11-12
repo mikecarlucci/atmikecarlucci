@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 11 21:56:06 +0000 2021",
+		"id": 1458916470893785000,
+		"id_str": "1458916470893785092",
+		"full_text": "@StarCityBen @MTGSecretLair https://t.co/4lP88ZV2iN",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StarCityBen",
+					"name": "Ben Bleiweiss",
+					"id": 29992758,
+					"id_str": "29992758",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MTGSecretLair",
+					"name": "MTG Secret Lair",
+					"id": 1171939430854086700,
+					"id_str": "1171939430854086656",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458916465218830300,
+					"id_str": "1458916465218830340",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FD8cy6JWQAQ1jwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FD8cy6JWQAQ1jwY.jpg",
+					"url": "https://t.co/4lP88ZV2iN",
+					"display_url": "pic.twitter.com/4lP88ZV2iN",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1458916470893785092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458916465218830300,
+					"id_str": "1458916465218830340",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FD8cy6JWQAQ1jwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FD8cy6JWQAQ1jwY.jpg",
+					"url": "https://t.co/4lP88ZV2iN",
+					"display_url": "pic.twitter.com/4lP88ZV2iN",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1458916470893785092/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FD8cy6JWQAQ1jwY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1458914921664688000,
+		"in_reply_to_status_id_str": "1458914921664688131",
+		"in_reply_to_user_id": 29992758,
+		"in_reply_to_user_id_str": "29992758",
+		"in_reply_to_screen_name": "StarCityBen",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4379,
+			"friends_count": 700,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@StarCityBen @MTGSecretLair https://t.co/4lP88ZV2iN"
+	},
+	{
+		"created_at": "Thu Nov 11 20:05:22 +0000 2021",
+		"id": 1458888602650230800,
+		"id_str": "1458888602650230784",
+		"full_text": "Today’s the day! 🍍 https://t.co/ucmDrpt2Px https://t.co/WWmMScU5Vd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ucmDrpt2Px",
+					"expanded_url": "https://twitter.com/psychologistpod/status/1458853307783401475",
+					"display_url": "twitter.com/psychologistpo…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458888595599724500,
+					"id_str": "1458888595599724549",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FD8DcruXEAUVFqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FD8DcruXEAUVFqc.jpg",
+					"url": "https://t.co/WWmMScU5Vd",
+					"display_url": "pic.twitter.com/WWmMScU5Vd",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1458888602650230784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458888595599724500,
+					"id_str": "1458888595599724549",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FD8DcruXEAUVFqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FD8DcruXEAUVFqc.jpg",
+					"url": "https://t.co/WWmMScU5Vd",
+					"display_url": "pic.twitter.com/WWmMScU5Vd",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1458888602650230784/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FD8DcruXEAUVFqc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4379,
+			"friends_count": 700,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458853307783401500,
+		"quoted_status_id_str": "1458853307783401475",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ucmDrpt2Px",
+			"expanded": "https://twitter.com/psychologistpod/status/1458853307783401475",
+			"display": "twitter.com/psychologistpo…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 11 17:45:07 +0000 2021",
+			"id": 1458853307783401500,
+			"id_str": "1458853307783401475",
+			"full_text": "You guys!!! It’s here! Episode 1 is out now with our first guest - the creator, showrunner and genius behind Psych, @SteveFranks! 💙 Listen now and hear all about how @PsychPeacock began  🍍 @maggielawson  @Omundson https://t.co/WDpL6e5Klf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SteveFranks",
+						"name": "Steve Franks",
+						"id": 1583955073,
+						"id_str": "1583955073",
+						"indices": [
+							116,
+							128
+						]
+					},
+					{
+						"screen_name": "PsychPeacock",
+						"name": "Psych 3: Coming Soon",
+						"id": 33617320,
+						"id_str": "33617320",
+						"indices": [
+							166,
+							179
+						]
+					},
+					{
+						"screen_name": "maggielawson",
+						"name": "Maggie Lawson",
+						"id": 339336382,
+						"id_str": "339336382",
+						"indices": [
+							189,
+							202
+						]
+					},
+					{
+						"screen_name": "Omundson",
+						"name": "Timothy Omundson",
+						"id": 384685037,
+						"id_str": "384685037",
+						"indices": [
+							204,
+							213
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WDpL6e5Klf",
+						"expanded_url": "https://podcasts.apple.com/us/podcast/the-psychologists-are-in-with-maggie-lawson/id1593693216?i=1000541474715",
+						"display_url": "podcasts.apple.com/us/podcast/the…",
+						"indices": [
+							214,
+							237
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1456309045019615200,
+				"id_str": "1456309045019615234",
+				"name": "The Psychologists Are In Podcast",
+				"screen_name": "psychologistpod",
+				"location": "",
+				"description": "A Psych Rewatch podcast with @maggielawson and @omundson!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3466,
+				"friends_count": 8,
+				"listed_count": 6,
+				"created_at": "Thu Nov 04 17:15:18 +0000 2021",
+				"favourites_count": 75,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1456309191476322315/fhRSpMjW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456309191476322315/fhRSpMjW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1456309045019615234/1636046366",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 374,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today’s the day! 🍍 https://t.co/ucmDrpt2Px https://t.co/WWmMScU5Vd"
+	},
+	{
 		"created_at": "Wed Nov 10 13:30:15 +0000 2021",
 		"id": 1458426781397028900,
 		"id_str": "1458426781397028867",
