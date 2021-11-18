@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 23:04:25 +0000 2021",
+		"id": 1461107990296248300,
+		"id_str": "1461107990296248328",
+		"full_text": "Absolute 🔥 grab bag from @MissouriMTG https://t.co/sp9sdmjbEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MissouriMTG",
+					"name": "Jeremy @ #mtglasvegas",
+					"id": 912802064,
+					"id_str": "912802064",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461107987263729700,
+					"id_str": "1461107987263729664",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FEbl-R9XMAATtnr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEbl-R9XMAATtnr.jpg",
+					"url": "https://t.co/sp9sdmjbEA",
+					"display_url": "pic.twitter.com/sp9sdmjbEA",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1461107990296248328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461107987263729700,
+					"id_str": "1461107987263729664",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FEbl-R9XMAATtnr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEbl-R9XMAATtnr.jpg",
+					"url": "https://t.co/sp9sdmjbEA",
+					"display_url": "pic.twitter.com/sp9sdmjbEA",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1461107990296248328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 701,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolute 🔥 grab bag from @MissouriMTG https://t.co/sp9sdmjbEA"
+	},
+	{
+		"created_at": "Wed Nov 17 20:12:22 +0000 2021",
+		"id": 1461058251211083800,
+		"id_str": "1461064693104136200",
+		"full_text": "Hey @starwars make this a vinyl picture disc of the holiday special soundtrack, cowards https://t.co/Pvu3r776d4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "starwars",
+					"name": "Star Wars",
+					"id": 20106852,
+					"id_str": "20106852",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pvu3r776d4",
+					"expanded_url": "https://twitter.com/blast_points/status/1460999261647212545",
+					"display_url": "twitter.com/blast_points/s…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40502375,
+			"id_str": "40502375",
+			"name": "Galactic Snackin’ Brandon Lee",
+			"screen_name": "bleeinternets",
+			"location": "Uptown, Chicago",
+			"description": "Hello, Brandon here! 👋 (Most of this feed is) Cubs, Bulls, Star Wars, caps, pizza, and Chicago. Comms at @icirr. Right-handed batter, left-handed politics",
+			"url": "https://t.co/M4mnUC5aAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M4mnUC5aAp",
+							"expanded_url": "https://www.instagram.com/bleebrims/",
+							"display_url": "instagram.com/bleebrims/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1364,
+			"friends_count": 4988,
+			"listed_count": 43,
+			"created_at": "Sat May 16 17:20:10 +0000 2009",
+			"favourites_count": 33274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/214749075/n32807535_36311368_6067649_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/214749075/n32807535_36311368_6067649_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40502375/1600396019",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1460999261647212500,
+		"quoted_status_id_str": "1460999261647212545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pvu3r776d4",
+			"expanded": "https://twitter.com/blast_points/status/1460999261647212545",
+			"display": "twitter.com/blast_points/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 17 15:52:22 +0000 2021",
+			"id": 1460999261647212500,
+			"id_str": "1460999261647212545",
+			"full_text": "A Very Happy Life Day To All Those Who Celebrate.  We Love You. https://t.co/thXv34WR2m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1460999256895021000,
+						"id_str": "1460999256895021060",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/FEaDFVxWYAQ9epR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEaDFVxWYAQ9epR.jpg",
+						"url": "https://t.co/thXv34WR2m",
+						"display_url": "pic.twitter.com/thXv34WR2m",
+						"expanded_url": "https://twitter.com/blast_points/status/1460999261647212545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1460999256895021000,
+						"id_str": "1460999256895021060",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/FEaDFVxWYAQ9epR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEaDFVxWYAQ9epR.jpg",
+						"url": "https://t.co/thXv34WR2m",
+						"display_url": "pic.twitter.com/thXv34WR2m",
+						"expanded_url": "https://twitter.com/blast_points/status/1460999261647212545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4758646036,
+				"id_str": "4758646036",
+				"name": "Blast Points Podcast",
+				"screen_name": "blast_points",
+				"location": "Forest Moon of Endor ",
+				"description": "The SW podcast that celebrates the love & loves the weird. with Jason @gibnerd & Gabe @na_kee_tula - listen anywhere podcasts are! (tweets mostly by Jason)",
+				"url": "https://t.co/SwmoeLeUDN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SwmoeLeUDN",
+								"expanded_url": "http://blastpointspodcast.com/",
+								"display_url": "blastpointspodcast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4454,
+				"friends_count": 2411,
+				"listed_count": 98,
+				"created_at": "Sat Jan 09 22:49:33 +0000 2016",
+				"favourites_count": 92074,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18569,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410571840158842884/WfHSfW9T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410571840158842884/WfHSfW9T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4758646036/1636726269",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey @starwars make this a vinyl picture disc of the holiday special soundtrack, cowards https://t.co/Pvu3r776d4"
+	},
+	{
+		"created_at": "Wed Nov 17 13:30:15 +0000 2021",
+		"id": 1460963494182936600,
+		"id_str": "1460963494182936589",
+		"full_text": "OTM Open Thread 11/17: It is Wednesday  🐪🐪🐪 https://t.co/R7Jo5tTi8j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R7Jo5tTi8j",
+					"expanded_url": "https://www.overthemonster.com/2021/11/17/22786423/otm-open-thread-11-17-it-is-wednesday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2021/11/17/227…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 701,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1590433607",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 11/17: It is Wednesday  🐪🐪🐪 https://t.co/R7Jo5tTi8j"
+	},
+	{
 		"created_at": "Wed Nov 17 02:53:26 +0000 2021",
 		"id": 1460803236408004600,
 		"id_str": "1460803236408004617",
@@ -1405,7 +1997,7 @@ Grailbird.data.tweets_2021_11 =
 								"name": "Rep. Katie Porter",
 								"screen_name": "RepKatiePorter",
 								"location": "Irvine, CA and Washington, DC",
-								"description": "Representative for #CA45. Minivan-driving single mom, law professor, consumer advocate 🚙👩🏻‍🏫 Usually carrying a whiteboard, always bringing the receipts 🧾",
+								"description": "Representative for #CA45. Minivan-driving single mom, law professor, consumer advocate 🚙👩🏻🏫 Usually carrying a whiteboard, always bringing the receipts 🧾",
 								"url": "https://t.co/PdxzySsDwW",
 								"entities": {
 									"url": {
@@ -1474,7 +2066,7 @@ Grailbird.data.tweets_2021_11 =
 			"user": {
 				"id": 835740314006511600,
 				"id_str": "835740314006511618",
-				"name": "Resistbot 🏳️‍⚧️",
+				"name": "Resistbot 🏳️⚧️",
 				"screen_name": "resistbot",
 				"location": "Text RESIST to 50409",
 				"description": "Direct Message me or text RESIST to 50409, and I’ll help you contact your officials. Free, nonprofit service built by volunteers and funded by your donations.",
