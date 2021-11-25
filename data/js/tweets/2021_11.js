@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 02:55:00 +0000 2021",
+		"id": 1463532763726889000,
+		"id_str": "1463702734826262531",
+		"full_text": "They mined too greedily, and too deep. https://t.co/87uW7nxxdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/87uW7nxxdU",
+					"expanded_url": "https://twitter.com/BBCWorld/status/1463520992664375299",
+					"display_url": "twitter.com/BBCWorld/statu…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1410331478035157000,
+			"id_str": "1410331478035157004",
+			"name": "Cryptid Glover",
+			"screen_name": "keepinitciviI",
+			"location": "he/him",
+			"description": "For legal reasons, everything I post here is technically a \"joke\".\n\nP R O N O U N S   I N   B I O",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364,
+			"friends_count": 509,
+			"listed_count": 0,
+			"created_at": "Wed Jun 30 20:16:54 +0000 2021",
+			"favourites_count": 13355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410867362233040898/ei_p9AGY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410867362233040898/ei_p9AGY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1410331478035157004/1625213949",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463520992664375300,
+		"quoted_status_id_str": "1463520992664375299",
+		"quoted_status_permalink": {
+			"url": "https://t.co/87uW7nxxdU",
+			"expanded": "https://twitter.com/BBCWorld/status/1463520992664375299",
+			"display": "twitter.com/BBCWorld/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 24 14:52:50 +0000 2021",
+			"id": 1463520992664375300,
+			"id_str": "1463520992664375299",
+			"full_text": "Tolkien estate blocks JRR Token crypto-currency https://t.co/1s4DhJ1fIk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1s4DhJ1fIk",
+						"expanded_url": "https://bbc.in/3DTqdYQ",
+						"display_url": "bbc.in/3DTqdYQ",
+						"indices": [
+							48,
+							71
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 742143,
+				"id_str": "742143",
+				"name": "BBC News (World)",
+				"screen_name": "BBCWorld",
+				"location": "London, UK",
+				"description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+				"url": "https://t.co/7NEgoMwJy3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7NEgoMwJy3",
+								"expanded_url": "http://www.bbc.com/news",
+								"display_url": "bbc.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33608898,
+				"friends_count": 18,
+				"listed_count": 126804,
+				"created_at": "Thu Feb 01 07:44:29 +0000 2007",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 338066,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150717770478379008/8-XiwK-s_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150717770478379008/8-XiwK-s_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/742143/1621582392",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 123,
+			"favorite_count": 775,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 754,
+		"favorite_count": 2872,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They mined too greedily, and too deep. https://t.co/87uW7nxxdU"
+	},
+	{
+		"created_at": "Wed Nov 24 15:16:05 +0000 2021",
+		"id": 1463518761273671700,
+		"id_str": "1463526845610176515",
+		"full_text": "Backstory - He came in the cage that day &amp; could do nothing but rollover. He hopped in &amp; out probably half a dozen times to try and “fix it” unsuccessfully. I was trying to coach him up the best I could, to no avail. Then proceeded to go hit 3 HRs. #BPisOverrated #WorldSeriesMVP https://t.co/Bh5XnbTi3S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BPisOverrated",
+					"indices": [
+						257,
+						271
+					]
+				},
+				{
+					"text": "WorldSeriesMVP",
+					"indices": [
+						272,
+						287
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bh5XnbTi3S",
+					"expanded_url": "https://twitter.com/nasppodcast/status/1463166860925493254",
+					"display_url": "twitter.com/nasppodcast/st…",
+					"indices": [
+						288,
+						311
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110751973,
+			"id_str": "110751973",
+			"name": "Andy Barkett",
+			"screen_name": "abarkett17",
+			"location": "Oviedo, FL",
+			"description": "Husband, Father, 2018 World Series Champion, Former MLB player & coach. Hitting Coordinator, Chicago White Sox",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11862,
+			"friends_count": 716,
+			"listed_count": 70,
+			"created_at": "Tue Feb 02 17:06:38 +0000 2010",
+			"favourites_count": 32206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177424805555068928/aVCXsxR8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177424805555068928/aVCXsxR8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110751973/1585405394",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463166860925493200,
+		"quoted_status_id_str": "1463166860925493254",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Bh5XnbTi3S",
+			"expanded": "https://twitter.com/nasppodcast/status/1463166860925493254",
+			"display": "twitter.com/nasppodcast/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 23 15:25:38 +0000 2021",
+			"id": 1463166860925493200,
+			"id_str": "1463166860925493254",
+			"full_text": "08/02/2018: Steve Pearce completes the Hat Trick against the Yankees hitting his third Home Run of the night. The Red Sox would go on to sweep the Yankees in a 4 games series https://t.co/LB9P3KoCTO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1463166644952486000,
+						"id_str": "1463166644952485890",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463166644952485890/pu/img/vRo3CEEOhSWid66w.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463166644952485890/pu/img/vRo3CEEOhSWid66w.jpg",
+						"url": "https://t.co/LB9P3KoCTO",
+						"display_url": "pic.twitter.com/LB9P3KoCTO",
+						"expanded_url": "https://twitter.com/NASPpodcast/status/1463166860925493254/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1463166644952486000,
+						"id_str": "1463166644952485890",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463166644952485890/pu/img/vRo3CEEOhSWid66w.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463166644952485890/pu/img/vRo3CEEOhSWid66w.jpg",
+						"url": "https://t.co/LB9P3KoCTO",
+						"display_url": "pic.twitter.com/LB9P3KoCTO",
+						"expanded_url": "https://twitter.com/NASPpodcast/status/1463166860925493254/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 53968,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1463166644952485890/pu/vid/640x360/jcdc_ZTVMW6mAmVa.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1463166644952485890/pu/vid/1280x720/1dIAgMEO0D6THpGV.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1463166644952485890/pu/pl/LKYHPjfKkd__zWnZ.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1463166644952485890/pu/vid/480x270/3VyQm52_dSIZKm44.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1439753009622311000,
+				"id_str": "1439753009622310912",
+				"name": "🎙Not Another Sox Podcast🎙",
+				"screen_name": "NASPpodcast",
+				"location": "",
+				"description": "Yeah, we are three straight white guys with a Red Sox podcast @mathewgalvao @matt_lebeau15 @ncdinosstan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 507,
+				"friends_count": 587,
+				"listed_count": 0,
+				"created_at": "Mon Sep 20 00:47:31 +0000 2021",
+				"favourites_count": 524,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 637,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1452463055783223296/wcQGNJyI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1452463055783223296/wcQGNJyI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1439753009622310912/1635988987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 570,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 412,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Backstory - He came in the cage that day &amp; could do nothing but rollover. He hopped in &amp; out probably half a dozen times to try and “fix it” unsuccessfully. I was trying to coach him up the best I could, to no avail. Then proceeded to go hit 3 HRs. #BPisOverrated #WorldSeriesMVP https://t.co/Bh5XnbTi3S"
+	},
+	{
+		"created_at": "Wed Nov 24 15:07:18 +0000 2021",
+		"id": 1463500083505336300,
+		"id_str": "1463524632477290497",
+		"full_text": "Good morning. It’s the Wednesday before Thanksgiving. Why not kill some time by voting for the 2022 BBWAA Hall of Fame ballot. I have no idea how I’d fill it out. I’m curious how you would. Sharing appreciated for a larger sample. https://t.co/YHApNvyEES",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YHApNvyEES",
+					"expanded_url": "https://forms.gle/G3Q7sf4kYFyo6rCB9",
+					"display_url": "forms.gle/G3Q7sf4kYFyo6r…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18292847,
+			"id_str": "18292847",
+			"name": "Adam Darowski",
+			"screen_name": "baseballtwit",
+			"location": "Rehoboth, MA",
+			"description": "Head of User Experience for @sports_ref (@baseball_ref @fbref @stathead etc) ⚾️ @SABR Member ⚽️ @BVB obsessed 📈 Made @HallOfStats",
+			"url": "https://t.co/NGG8TawT4h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NGG8TawT4h",
+							"expanded_url": "http://baseball-reference.com",
+							"display_url": "baseball-reference.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4972,
+			"friends_count": 602,
+			"listed_count": 251,
+			"created_at": "Sun Dec 21 21:04:01 +0000 2008",
+			"favourites_count": 13359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9999C1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323410338302300160/6nkGy64q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323410338302300160/6nkGy64q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18292847/1625860755",
+			"profile_link_color": "000064",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good morning. It’s the Wednesday before Thanksgiving. Why not kill some time by voting for the 2022 BBWAA Hall of Fame ballot. I have no idea how I’d fill it out. I’m curious how you would. Sharing appreciated for a larger sample. https://t.co/YHApNvyEES"
+	},
+	{
 		"created_at": "Tue Nov 23 21:53:21 +0000 2021",
 		"id": 1463264433514365000,
 		"id_str": "1463264433514364929",
