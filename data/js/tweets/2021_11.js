@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 20:59:56 +0000 2021",
+		"id": 1463975764756504600,
+		"id_str": "1463975764756504576",
+		"full_text": "Tall ask for @wutrain https://t.co/m6PLaN0BOh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wutrain",
+					"name": "Michelle Wu 吳弭",
+					"id": 20659868,
+					"id_str": "20659868",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m6PLaN0BOh",
+					"expanded_url": "https://twitter.com/jeremyzorek/status/1463540642777341956",
+					"display_url": "twitter.com/jeremyzorek/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 698,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463540642777342000,
+		"quoted_status_id_str": "1463540642777341956",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m6PLaN0BOh",
+			"expanded": "https://twitter.com/jeremyzorek/status/1463540642777341956",
+			"display": "twitter.com/jeremyzorek/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 24 16:10:55 +0000 2021",
+			"id": 1463540642777342000,
+			"id_str": "1463540642777341956",
+			"full_text": "Good morning, Twitter https://t.co/LGYEGcQE4L",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				21
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1463540604407881700,
+						"id_str": "1463540604407881728",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/FE-KbPAXoAAj_Yj.png",
+						"media_url_https": "https://pbs.twimg.com/media/FE-KbPAXoAAj_Yj.png",
+						"url": "https://t.co/LGYEGcQE4L",
+						"display_url": "pic.twitter.com/LGYEGcQE4L",
+						"expanded_url": "https://twitter.com/jeremyzorek/status/1463540642777341956/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 430,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 430,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1463540604407881700,
+						"id_str": "1463540604407881728",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/FE-KbPAXoAAj_Yj.png",
+						"media_url_https": "https://pbs.twimg.com/media/FE-KbPAXoAAj_Yj.png",
+						"url": "https://t.co/LGYEGcQE4L",
+						"display_url": "pic.twitter.com/LGYEGcQE4L",
+						"expanded_url": "https://twitter.com/jeremyzorek/status/1463540642777341956/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 430,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 430,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2419689306,
+				"id_str": "2419689306",
+				"name": "Jeremy \"Looking for Arrows\" Zorek 🚰",
+				"screen_name": "jeremyzorek",
+				"location": "New Brunswick, NJ",
+				"description": "Rutgers '24, transit enthusiast/advocate, New Yorker now in Jersey, runs @BlessedTrains He/Him, train good, car bad. #NotMeUs, ADHD, Autistic, Ferroequinologist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2320,
+				"friends_count": 706,
+				"listed_count": 35,
+				"created_at": "Mon Mar 31 00:07:44 +0000 2014",
+				"favourites_count": 208591,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 89869,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1457506573857734658/SQmcFxhl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506573857734658/SQmcFxhl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2419689306/1613354306",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 70,
+			"favorite_count": 557,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tall ask for @wutrain https://t.co/m6PLaN0BOh"
+	},
+	{
+		"created_at": "Thu Nov 25 15:04:06 +0000 2021",
+		"id": 1463883652081795000,
+		"id_str": "1463886215850115074",
+		"full_text": "#Thanksgiving https://t.co/FVzuMMP4Es",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Thanksgiving",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463883649829556200,
+					"id_str": "1463883649829556225",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FFDCbGyX0AEtex9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFDCbGyX0AEtex9.jpg",
+					"url": "https://t.co/FVzuMMP4Es",
+					"display_url": "pic.twitter.com/FVzuMMP4Es",
+					"expanded_url": "https://twitter.com/NoContextTrek/status/1463883652081795077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1197,
+							"h": 860,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1197,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463883649829556200,
+					"id_str": "1463883649829556225",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FFDCbGyX0AEtex9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFDCbGyX0AEtex9.jpg",
+					"url": "https://t.co/FVzuMMP4Es",
+					"display_url": "pic.twitter.com/FVzuMMP4Es",
+					"expanded_url": "https://twitter.com/NoContextTrek/status/1463883652081795077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1197,
+							"h": 860,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1197,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839246845914251300,
+			"id_str": "839246845914251264",
+			"name": "Star Trek Minus Context",
+			"screen_name": "NoContextTrek",
+			"location": "that one weird Jefferies tube",
+			"description": "Double dumbass on you, and so forth. (These are all real) #StarTrek🖖🏾",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95281,
+			"friends_count": 129,
+			"listed_count": 529,
+			"created_at": "Tue Mar 07 22:50:15 +0000 2017",
+			"favourites_count": 88068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100138473539940352/u5ydepge_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100138473539940352/u5ydepge_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/839246845914251264/1488930275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 949,
+		"favorite_count": 4414,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#Thanksgiving https://t.co/FVzuMMP4Es"
+	},
+	{
+		"created_at": "Thu Nov 25 14:50:21 +0000 2021",
+		"id": 1463882758275620900,
+		"id_str": "1463882758275620866",
+		"full_text": "Happy Thanksgiving 🦃🍁🍽 https://t.co/B9mzyojiSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463882752571412500,
+					"id_str": "1463882752571412481",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FFDBm4PXEAEbHiy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFDBm4PXEAEbHiy.jpg",
+					"url": "https://t.co/B9mzyojiSV",
+					"display_url": "pic.twitter.com/B9mzyojiSV",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1463882758275620866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463882752571412500,
+					"id_str": "1463882752571412481",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FFDBm4PXEAEbHiy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFDBm4PXEAEbHiy.jpg",
+					"url": "https://t.co/B9mzyojiSV",
+					"display_url": "pic.twitter.com/B9mzyojiSV",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1463882758275620866/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							93
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FFDBm4PXEAEbHiy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 698,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Thanksgiving 🦃🍁🍽 https://t.co/B9mzyojiSV"
+	},
+	{
 		"created_at": "Thu Nov 25 02:55:00 +0000 2021",
 		"id": 1463532763726889000,
 		"id_str": "1463702734826262531",
