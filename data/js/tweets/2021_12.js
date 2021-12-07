@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 18:24:31 +0000 2021",
+		"id": 1467922921406582800,
+		"id_str": "1467922921406582787",
+		"full_text": "@l_kyllonen https://t.co/bXnoyppLVZ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "l_kyllonen",
+					"name": "Laine Carlucci",
+					"id": 301234715,
+					"id_str": "301234715",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467922914167214000,
+					"id_str": "1467922914167214086",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FF8cHPCX0AY-BSO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FF8cHPCX0AY-BSO.jpg",
+					"url": "https://t.co/bXnoyppLVZ",
+					"display_url": "pic.twitter.com/bXnoyppLVZ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1467922921406582787/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467922914167214000,
+					"id_str": "1467922914167214086",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FF8cHPCX0AY-BSO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FF8cHPCX0AY-BSO.jpg",
+					"url": "https://t.co/bXnoyppLVZ",
+					"display_url": "pic.twitter.com/bXnoyppLVZ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1467922921406582787/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FF8cHPCX0AY-BSO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1467920923344965600,
+		"in_reply_to_status_id_str": "1467920923344965636",
+		"in_reply_to_user_id": 301234715,
+		"in_reply_to_user_id_str": "301234715",
+		"in_reply_to_screen_name": "l_kyllonen",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@l_kyllonen https://t.co/bXnoyppLVZ"
+	},
+	{
+		"created_at": "Mon Dec 06 14:53:41 +0000 2021",
+		"id": 1467869863242875000,
+		"id_str": "1467869863242874883",
+		"full_text": "Future Hall of Famer Tim Lincecum! \nLarge Hall can accommodate impressive peak runs. https://t.co/f0Ut0DRPlh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467869345640501200,
+					"id_str": "1467869345640501249",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FF7rZIuWUAEurEl.png",
+					"media_url_https": "https://pbs.twimg.com/media/FF7rZIuWUAEurEl.png",
+					"url": "https://t.co/f0Ut0DRPlh",
+					"display_url": "pic.twitter.com/f0Ut0DRPlh",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1467869863242874883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1182,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1182,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467869345640501200,
+					"id_str": "1467869345640501249",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FF7rZIuWUAEurEl.png",
+					"media_url_https": "https://pbs.twimg.com/media/FF7rZIuWUAEurEl.png",
+					"url": "https://t.co/f0Ut0DRPlh",
+					"display_url": "pic.twitter.com/f0Ut0DRPlh",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1467869863242874883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1182,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1182,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1467869345757999000,
+					"id_str": "1467869345757999123",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FF7rZJKXMBMxHOp.png",
+					"media_url_https": "https://pbs.twimg.com/media/FF7rZJKXMBMxHOp.png",
+					"url": "https://t.co/f0Ut0DRPlh",
+					"display_url": "pic.twitter.com/f0Ut0DRPlh",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1467869863242874883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Future Hall of Famer Tim Lincecum! \nLarge Hall can accommodate impressive peak runs. https://t.co/f0Ut0DRPlh"
+	},
+	{
+		"created_at": "Mon Dec 06 14:38:10 +0000 2021",
+		"id": 1467681534169788400,
+		"id_str": "1467865958375165964",
+		"full_text": "italian awareness month https://t.co/ydrOvdFVkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467681529551798300,
+					"id_str": "1467681529551798276",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5AkzRWQAQDdnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5AkzRWQAQDdnq.jpg",
+					"url": "https://t.co/ydrOvdFVkF",
+					"display_url": "pic.twitter.com/ydrOvdFVkF",
+					"expanded_url": "https://twitter.com/drivingmemadi/status/1467681534169788422/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467681529551798300,
+					"id_str": "1467681529551798276",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5AkzRWQAQDdnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5AkzRWQAQDdnq.jpg",
+					"url": "https://t.co/ydrOvdFVkF",
+					"display_url": "pic.twitter.com/ydrOvdFVkF",
+					"expanded_url": "https://twitter.com/drivingmemadi/status/1467681534169788422/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1154481070471090200,
+			"id_str": "1154481070471090176",
+			"name": "꧁Madimoiselle꧂",
+			"screen_name": "drivingmemadi",
+			"location": "chicago | she/her",
+			"description": "like a furby but worse | unfortunately all views are my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43426,
+			"friends_count": 484,
+			"listed_count": 233,
+			"created_at": "Thu Jul 25 19:58:31 +0000 2019",
+			"favourites_count": 50062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455403852690251777/N9w0IiBW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455403852690251777/N9w0IiBW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1154481070471090176/1636485309",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10867,
+		"favorite_count": 162542,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "italian awareness month https://t.co/ydrOvdFVkF"
+	},
+	{
 		"created_at": "Sun Dec 05 17:01:23 +0000 2021",
 		"id": 1467539612226801700,
 		"id_str": "1467539612226801672",
