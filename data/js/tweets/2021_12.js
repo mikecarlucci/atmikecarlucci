@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 21:45:04 +0000 2021",
+		"id": 1468325232448528400,
+		"id_str": "1468335776853340163",
+		"full_text": "Shout out to all the suckers on Microsoft Teams who have to keep working because all their shit works",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2436389418,
+			"id_str": "2436389418",
+			"name": "SwiftOnSecurity",
+			"screen_name": "SwiftOnSecurity",
+			"location": "Cyber, USA",
+			"description": "Systems security, author https://t.co/bPyDgh9XZO, SciFi @ https://t.co/2h2g0EGTiF, sysadmin & SecEng. Microsoft MVP, Client Security 2021. they/them/tay",
+			"url": "https://t.co/mbqpcAFmb3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mbqpcAFmb3",
+							"expanded_url": "https://decentsecurity.com",
+							"display_url": "decentsecurity.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bPyDgh9XZO",
+							"expanded_url": "http://DecentSecurity.com",
+							"display_url": "DecentSecurity.com",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/2h2g0EGTiF",
+							"expanded_url": "http://UniversalShards.com",
+							"display_url": "UniversalShards.com",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 341986,
+			"friends_count": 9144,
+			"listed_count": 6830,
+			"created_at": "Thu Apr 10 02:54:26 +0000 2014",
+			"favourites_count": 123757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453474211914203141/_nDE6cbR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453474211914203141/_nDE6cbR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2436389418/1598152150",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 1412,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Shout out to all the suckers on Microsoft Teams who have to keep working because all their shit works"
+	},
+	{
 		"created_at": "Mon Dec 06 18:24:31 +0000 2021",
 		"id": 1467922921406582800,
 		"id_str": "1467922921406582787",
