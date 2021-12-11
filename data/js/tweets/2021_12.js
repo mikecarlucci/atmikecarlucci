@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 01:45:21 +0000 2021",
+		"id": 1469424767488962600,
+		"id_str": "1469483412432076803",
+		"full_text": "Keanu's laugh in response to NFTs in this @verge interview is everything I wanted for Christmas\n\nhttps://t.co/v4pix60nX9 https://t.co/1J5EcoijDs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						42,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v4pix60nX9",
+					"expanded_url": "https://www.youtube.com/watch?v=0OK80eljWrs",
+					"display_url": "youtube.com/watch?v=0OK80e…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469424325216424000,
+					"id_str": "1469424325216423944",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469424325216423944/pu/img/GrRRQ6f3OW6utkSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469424325216423944/pu/img/GrRRQ6f3OW6utkSA.jpg",
+					"url": "https://t.co/1J5EcoijDs",
+					"display_url": "pic.twitter.com/1J5EcoijDs",
+					"expanded_url": "https://twitter.com/dz/status/1469424767488962570/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469424325216424000,
+					"id_str": "1469424325216423944",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469424325216423944/pu/img/GrRRQ6f3OW6utkSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469424325216423944/pu/img/GrRRQ6f3OW6utkSA.jpg",
+					"url": "https://t.co/1J5EcoijDs",
+					"display_url": "pic.twitter.com/1J5EcoijDs",
+					"expanded_url": "https://twitter.com/dz/status/1469424767488962570/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 546,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1276,
+							581
+						],
+						"duration_millis": 15086,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469424325216423944/pu/vid/1272x580/yLfeOm3tw6Y48W07.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469424325216423944/pu/vid/790x360/_i98AcgzwvuqQazn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469424325216423944/pu/pl/W9nd6M3dX4EV3_tP.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469424325216423944/pu/vid/592x270/g24yPsDlLN7nsbXZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7073182,
+			"id_str": "7073182",
+			"name": "David Zhou",
+			"screen_name": "dz",
+			"location": "Brooklyn",
+			"description": "Engineering Manager @shopify. Prev: @mailchimp @voxmedia @disqus @threespot. Tweets my own. Jokes stolen from Reddit. he/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4456,
+			"friends_count": 458,
+			"listed_count": 134,
+			"created_at": "Mon Jun 25 17:42:27 +0000 2007",
+			"favourites_count": 27722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1382123820304248835/ffGT-ppJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382123820304248835/ffGT-ppJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7073182/1486527752",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11864,
+		"favorite_count": 46734,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Keanu's laugh in response to NFTs in this @verge interview is everything I wanted for Christmas\n\nhttps://t.co/v4pix60nX9 https://t.co/1J5EcoijDs"
+	},
+	{
 		"created_at": "Thu Dec 09 18:33:42 +0000 2021",
 		"id": 1469012393288249300,
 		"id_str": "1469012393288249346",
