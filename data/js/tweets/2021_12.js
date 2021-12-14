@@ -1,6 +1,768 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 01:56:55 +0000 2021",
+		"id": 1470573485537771500,
+		"id_str": "1470573485537771523",
+		"full_text": "@MarkArmour04 Something like “The vaccine was technically developed in 2020 so they weren’t considered”",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkArmour04",
+					"name": "Mark Armour",
+					"id": 1363799064,
+					"id_str": "1363799064",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1470566789914382300,
+		"in_reply_to_status_id_str": "1470566789914382338",
+		"in_reply_to_user_id": 1363799064,
+		"in_reply_to_user_id_str": "1363799064",
+		"in_reply_to_screen_name": "MarkArmour04",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 694,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarkArmour04 Something like “The vaccine was technically developed in 2020 so they weren’t considered”"
+	},
+	{
+		"created_at": "Mon Dec 13 18:57:03 +0000 2021",
+		"id": 1470467820911833000,
+		"id_str": "1470467820911833091",
+		"full_text": "🎶Swing your arms…🎶 https://t.co/knsAeFt48o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/knsAeFt48o",
+					"expanded_url": "https://twitter.com/edsbs/status/1470466935812984839",
+					"display_url": "twitter.com/edsbs/status/1…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 694,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1470466935812984800,
+		"quoted_status_id_str": "1470466935812984839",
+		"quoted_status_permalink": {
+			"url": "https://t.co/knsAeFt48o",
+			"expanded": "https://twitter.com/edsbs/status/1470466935812984839",
+			"display": "twitter.com/edsbs/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 13 18:53:32 +0000 2021",
+			"id": 1470466935812984800,
+			"id_str": "1470466935812984839",
+			"full_text": "You call it Super Mario Brothers and I call it https://t.co/AzetBHMU4W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				46
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1470466925994016800,
+						"id_str": "1470466925994016772",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/FGgl4NnVgAQhhOW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGgl4NnVgAQhhOW.jpg",
+						"url": "https://t.co/AzetBHMU4W",
+						"display_url": "pic.twitter.com/AzetBHMU4W",
+						"expanded_url": "https://twitter.com/edsbs/status/1470466935812984839/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1470466925994016800,
+						"id_str": "1470466925994016772",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/FGgl4NnVgAQhhOW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGgl4NnVgAQhhOW.jpg",
+						"url": "https://t.co/AzetBHMU4W",
+						"display_url": "pic.twitter.com/AzetBHMU4W",
+						"expanded_url": "https://twitter.com/edsbs/status/1470466935812984839/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7452872,
+				"id_str": "7452872",
+				"name": "BUM CHILLUPS AKA SPENCER HALL",
+				"screen_name": "edsbs",
+				"location": "ATL ",
+				"description": "Kickin' it in Hattiesburg\n\nTwo things a week at: @channel6_feed\n\neverything else: https://t.co/FO7JZ8lKGi",
+				"url": "https://t.co/tjrtudU14e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tjrtudU14e",
+								"expanded_url": "https://channel-6.ghost.io/",
+								"display_url": "channel-6.ghost.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FO7JZ8lKGi",
+								"expanded_url": "http://linktr.ee/spencerhall",
+								"display_url": "linktr.ee/spencerhall",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 172158,
+				"friends_count": 1739,
+				"listed_count": 3987,
+				"created_at": "Fri Jul 13 14:14:11 +0000 2007",
+				"favourites_count": 223863,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 92252,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1209713337652666368/Y4hnqpL7_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209713337652666368/Y4hnqpL7_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7452872/1472854873",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 495,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎶Swing your arms…🎶 https://t.co/knsAeFt48o"
+	},
+	{
+		"created_at": "Mon Dec 13 13:30:23 +0000 2021",
+		"id": 1470385614352699400,
+		"id_str": "1470385614352699399",
+		"full_text": "OTM Open Thread 12/13: It is Monday! https://t.co/97wckfAezl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/97wckfAezl",
+					"expanded_url": "https://www.overthemonster.com/2021/12/13/22831420/otm-open-thread-12-13-it-is-monday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2021/12/13/228…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 694,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 12/13: It is Monday! https://t.co/97wckfAezl"
+	},
+	{
+		"created_at": "Mon Dec 13 13:05:19 +0000 2021",
+		"id": 1470272522159476700,
+		"id_str": "1470379307709128708",
+		"full_text": "https://t.co/9SLNKXbsi0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1358913399976054800,
+					"id_str": "1358913399976054787",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358913399976054787/pu/img/Fleu9iqioloZeouA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358913399976054787/pu/img/Fleu9iqioloZeouA.jpg",
+					"url": "https://t.co/9SLNKXbsi0",
+					"display_url": "pic.twitter.com/9SLNKXbsi0",
+					"expanded_url": "https://twitter.com/maximoffmondays/status/1358913411938197509/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 976,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 548,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1358913411938197500,
+					"source_status_id_str": "1358913411938197509",
+					"source_user_id": 1358912438117220400,
+					"source_user_id_str": "1358912438117220354"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358913399976054800,
+					"id_str": "1358913399976054787",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358913399976054787/pu/img/Fleu9iqioloZeouA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358913399976054787/pu/img/Fleu9iqioloZeouA.jpg",
+					"url": "https://t.co/9SLNKXbsi0",
+					"display_url": "pic.twitter.com/9SLNKXbsi0",
+					"expanded_url": "https://twitter.com/maximoffmondays/status/1358913411938197509/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 976,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 548,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1358913411938197500,
+					"source_status_id_str": "1358913411938197509",
+					"source_user_id": 1358912438117220400,
+					"source_user_id_str": "1358912438117220354",
+					"video_info": {
+						"aspect_ratio": [
+							244,
+							137
+						],
+						"duration_millis": 3267,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1358913399976054787/pu/vid/640x360/5UfwMbIeoc1Ii7iZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1358913399976054787/pu/vid/480x270/k2FCXuEAyWg-8Cfh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1358913399976054787/pu/pl/Bs5s0aQAg462H12Y.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1358913399976054787/pu/vid/976x548/448cnF4udfb7rg_p.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1358912438117220400,
+							"id_str": "1358912438117220354",
+							"name": "Probably just a case of the Mondays",
+							"screen_name": "maximoffmondays",
+							"location": "",
+							"description": "Posts the “It’s probably just a case of the Mondays, am I right?” clip every Monday",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 54423,
+							"friends_count": 11,
+							"listed_count": 77,
+							"created_at": "Mon Feb 08 22:55:55 +0000 2021",
+							"favourites_count": 125,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 63,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1358916132439261188/5r2tpJoF_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358916132439261188/5r2tpJoF_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1358912438117220354/1612825828",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": true,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1358912438117220400,
+			"id_str": "1358912438117220354",
+			"name": "Probably just a case of the Mondays",
+			"screen_name": "maximoffmondays",
+			"location": "",
+			"description": "Posts the “It’s probably just a case of the Mondays, am I right?” clip every Monday",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54423,
+			"friends_count": 11,
+			"listed_count": 77,
+			"created_at": "Mon Feb 08 22:55:55 +0000 2021",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358916132439261188/5r2tpJoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358916132439261188/5r2tpJoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1358912438117220354/1612825828",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2955,
+		"favorite_count": 9570,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/9SLNKXbsi0"
+	},
+	{
 		"created_at": "Sat Dec 11 13:30:20 +0000 2021",
 		"id": 1469660826084810800,
 		"id_str": "1469660826084810755",
