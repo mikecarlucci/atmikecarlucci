@@ -1,10 +1,434 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 22 21:01:27 +0000 2021",
+		"id": 1473760621439164400,
+		"id_str": "1473760621439164416",
+		"full_text": "@joshtpm 🎶I only like hippopotamuseses🎶",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshtpm",
+					"name": "Josh Marshall",
+					"id": 21268897,
+					"id_str": "21268897",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473748758424961000,
+		"in_reply_to_status_id_str": "1473748758424961033",
+		"in_reply_to_user_id": 21268897,
+		"in_reply_to_user_id_str": "21268897",
+		"in_reply_to_screen_name": "joshtpm",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4374,
+			"friends_count": 694,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@joshtpm 🎶I only like hippopotamuseses🎶"
+	},
+	{
+		"created_at": "Wed Dec 22 15:08:16 +0000 2021",
+		"id": 1473644640008028200,
+		"id_str": "1473671739787853825",
+		"full_text": "i don't always order chicken tenders\nbut when i do\n\nhttps://t.co/R1f3MxyCe0\n\n#trademarks #1b https://t.co/u3DpC46vLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "trademarks",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"text": "1b",
+					"indices": [
+						89,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R1f3MxyCe0",
+					"expanded_url": "https://tsdr.uspto.gov/#caseNumber=97178978&caseType=SERIAL_NO&searchType=statusSearch",
+					"display_url": "tsdr.uspto.gov/#caseNumber=97…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1473644586929111000,
+					"id_str": "1473644586929111043",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FHNv8bEWQAMC7Ix.png",
+					"media_url_https": "https://pbs.twimg.com/media/FHNv8bEWQAMC7Ix.png",
+					"url": "https://t.co/u3DpC46vLl",
+					"display_url": "pic.twitter.com/u3DpC46vLl",
+					"expanded_url": "https://twitter.com/TimberlakeLaw/status/1473644640008028172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 133,
+							"h": 133,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 133,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 133,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 133,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473644586929111000,
+					"id_str": "1473644586929111043",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FHNv8bEWQAMC7Ix.png",
+					"media_url_https": "https://pbs.twimg.com/media/FHNv8bEWQAMC7Ix.png",
+					"url": "https://t.co/u3DpC46vLl",
+					"display_url": "pic.twitter.com/u3DpC46vLl",
+					"expanded_url": "https://twitter.com/TimberlakeLaw/status/1473644640008028172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 133,
+							"h": 133,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 133,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 133,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 133,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 787249747,
+			"id_str": "787249747",
+			"name": "Trademarks Are Magic",
+			"screen_name": "TimberlakeLaw",
+			"location": "ed@timberlakelaw.com",
+			"description": "What is #distinctiveness?  Former Trademark Examining Attorney @uspto. Board Certified Specialist in Trademark Law. https://t.co/WL8ogAZHsM",
+			"url": "https://t.co/GfRfhIdwmF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GfRfhIdwmF",
+							"expanded_url": "http://timberlakelaw.com/",
+							"display_url": "timberlakelaw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WL8ogAZHsM",
+							"expanded_url": "https://clarity.fm/edtimberlake",
+							"display_url": "clarity.fm/edtimberlake",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6702,
+			"friends_count": 1777,
+			"listed_count": 250,
+			"created_at": "Tue Aug 28 15:27:42 +0000 2012",
+			"favourites_count": 67812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "727480",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829750170480959490/qkDvbbPQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829750170480959490/qkDvbbPQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/787249747/1398695930",
+			"profile_link_color": "2A5DDE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i don't always order chicken tenders\nbut when i do\n\nhttps://t.co/R1f3MxyCe0\n\n#trademarks #1b https://t.co/u3DpC46vLl"
+	},
+	{
+		"created_at": "Wed Dec 22 13:51:11 +0000 2021",
+		"id": 1473652338707546000,
+		"id_str": "1473652338707546113",
+		"full_text": "Did anyone really suspect otherwise? Just pump and dump on the backs of the true believers.\nhttps://t.co/PBngCXTI4C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PBngCXTI4C",
+					"expanded_url": "https://www.wsj.com/articles/bitcoins-one-percent-controls-lions-share-of-the-cryptocurrencys-wealth-11639996204?mod=markets_minor_pos2",
+					"display_url": "wsj.com/articles/bitco…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4374,
+			"friends_count": 694,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did anyone really suspect otherwise? Just pump and dump on the backs of the true believers.\nhttps://t.co/PBngCXTI4C"
+	},
+	{
 		"created_at": "Tue Dec 21 15:13:29 +0000 2021",
 		"id": 1473310661849534500,
 		"id_str": "1473310661849534472",
-		"full_text": "So frustrating to cash in on the cards as merch but say the cards are unavailable. End the reserved list ⁦@wizards_magic⁩ ⁦@MtgPearl⁩ https://t.co/Bo34UYr09a https://t.co/kDdxfjV60N",
+		"full_text": "So frustrating to cash in on the cards as merch but say the cards are unavailable. End the reserved list @wizards_magic @MtgPearl https://t.co/Bo34UYr09a https://t.co/kDdxfjV60N",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -135,7 +559,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "So frustrating to cash in on the cards as merch but say the cards are unavailable. End the reserved list ⁦@wizards_magic⁩ ⁦@MtgPearl⁩ https://t.co/Bo34UYr09a https://t.co/kDdxfjV60N"
+		"text": "So frustrating to cash in on the cards as merch but say the cards are unavailable. End the reserved list @wizards_magic @MtgPearl https://t.co/Bo34UYr09a https://t.co/kDdxfjV60N"
 	},
 	{
 		"created_at": "Tue Dec 21 15:10:37 +0000 2021",
