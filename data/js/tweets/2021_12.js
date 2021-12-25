@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 24 16:04:38 +0000 2021",
+		"id": 1474410700432941000,
+		"id_str": "1474410700432941060",
+		"full_text": "So exciting https://t.co/LSbrgJvH8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LSbrgJvH8h",
+					"expanded_url": "https://twitter.com/nasahubble/status/1474405310693613596",
+					"display_url": "twitter.com/nasahubble/sta…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1474405310693613600,
+		"quoted_status_id_str": "1474405310693613596",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LSbrgJvH8h",
+			"expanded": "https://twitter.com/nasahubble/status/1474405310693613596",
+			"display": "twitter.com/nasahubble/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 24 15:43:13 +0000 2021",
+			"id": 1474405310693613600,
+			"id_str": "1474405310693613596",
+			"full_text": "📣 December 25 is a BIG day for astronomy!\n\nWith the launch of @NASAWebb, a new and exciting era of science awaits.\n\nBut how is Webb different from Hubble? How will these telescopes work together?\n\n🧵 Read on... https://t.co/6xrJ3Rl0jq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NASAWebb",
+						"name": "NASA Webb Telescope",
+						"id": 29472803,
+						"id_str": "29472803",
+						"indices": [
+							62,
+							71
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1474405306654470100,
+						"id_str": "1474405306654470149",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/FHYj0I4XMAUcqDl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHYj0I4XMAUcqDl.jpg",
+						"url": "https://t.co/6xrJ3Rl0jq",
+						"display_url": "pic.twitter.com/6xrJ3Rl0jq",
+						"expanded_url": "https://twitter.com/NASAHubble/status/1474405310693613596/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 546,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 963,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1644,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1474405306654470100,
+						"id_str": "1474405306654470149",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/FHYj0I4XMAUcqDl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHYj0I4XMAUcqDl.jpg",
+						"url": "https://t.co/6xrJ3Rl0jq",
+						"display_url": "pic.twitter.com/6xrJ3Rl0jq",
+						"expanded_url": "https://twitter.com/NASAHubble/status/1474405310693613596/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 546,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 963,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1644,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14091091,
+				"id_str": "14091091",
+				"name": "Hubble",
+				"screen_name": "NASAHubble",
+				"location": "Goddard Space Flight Center",
+				"description": "The official Twitter account for the NASA Hubble Space Telescope, managed and operated by NASA's Goddard Space Flight Center.",
+				"url": "https://t.co/3bfzzsw25s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3bfzzsw25s",
+								"expanded_url": "http://www.nasa.gov/mission_pages/hubble/main/index.html",
+								"display_url": "nasa.gov/mission_pages/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7357969,
+				"friends_count": 139,
+				"listed_count": 12859,
+				"created_at": "Thu Mar 06 20:15:02 +0000 2008",
+				"favourites_count": 1077,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6489,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3468011581/efb985f24af0a814a722457a768f3cc5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468011581/efb985f24af0a814a722457a768f3cc5_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14091091/1638309016",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 861,
+			"favorite_count": 4542,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So exciting https://t.co/LSbrgJvH8h"
+	},
+	{
 		"created_at": "Fri Dec 24 00:03:51 +0000 2021",
 		"id": 1474168911931351000,
 		"id_str": "1474168911931351044",
