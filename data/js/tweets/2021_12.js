@@ -1,6 +1,1128 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 25 17:11:17 +0000 2021",
+		"id": 1474789858413584400,
+		"id_str": "1474789858413584388",
+		"full_text": "@rossbukouricz “Only my Kermie can make someone that angry” I can see it!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rossbukouricz",
+					"name": "Ross Bukouricz",
+					"id": 420125334,
+					"id_str": "420125334",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1474789481786056700,
+		"in_reply_to_status_id_str": "1474789481786056708",
+		"in_reply_to_user_id": 420125334,
+		"in_reply_to_user_id_str": "420125334",
+		"in_reply_to_screen_name": "rossbukouricz",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rossbukouricz “Only my Kermie can make someone that angry” I can see it!"
+	},
+	{
+		"created_at": "Sat Dec 25 15:45:12 +0000 2021",
+		"id": 1474508903341863000,
+		"id_str": "1474768196406333440",
+		"full_text": "Michael Caine deserved an Oscar for The Muppet Christmas Carol purely for his delivery of the line \"This is old Fozziewig's rubber chicken emporium\" like it was a line straight from Dickens",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 82400379,
+			"id_str": "82400379",
+			"name": "Dave Probert",
+			"screen_name": "DaveJProbert",
+			"location": "",
+			"description": "Sci-fi and fantasy blogger at The Probert Report. Podcaster on Twice as Bright, Half as Long, The Happy Place, Jackdaw Meanderings and @thequantumpub. He/Him",
+			"url": "https://t.co/4ikqp2Exzs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4ikqp2Exzs",
+							"expanded_url": "https://theprobertreport.wordpress.com/",
+							"display_url": "theprobertreport.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1402,
+			"friends_count": 898,
+			"listed_count": 69,
+			"created_at": "Wed Oct 14 16:39:58 +0000 2009",
+			"favourites_count": 40513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402262500083748872/CUmBJvmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402262500083748872/CUmBJvmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/82400379/1554549623",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "1C1F23",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8104,
+		"favorite_count": 67278,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Michael Caine deserved an Oscar for The Muppet Christmas Carol purely for his delivery of the line \"This is old Fozziewig's rubber chicken emporium\" like it was a line straight from Dickens"
+	},
+	{
+		"created_at": "Sat Dec 25 15:36:29 +0000 2021",
+		"id": 1474766004555288600,
+		"id_str": "1474766004555288579",
+		"full_text": "Or Fozzie as Fons Grubear. https://t.co/Rtybzb2qS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rtybzb2qS9",
+					"expanded_url": "https://twitter.com/danaschwartzzz/status/1474549981050593280",
+					"display_url": "twitter.com/danaschwartzzz…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1474549981050593300,
+		"quoted_status_id_str": "1474549981050593280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Rtybzb2qS9",
+			"expanded": "https://twitter.com/danaschwartzzz/status/1474549981050593280",
+			"display": "twitter.com/danaschwartzzz…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 25 01:18:05 +0000 2021",
+			"id": 1474549981050593300,
+			"id_str": "1474549981050593280",
+			"full_text": "And obviously, Hans Gruber is a human https://t.co/0NdY0aeP0G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1474549956803399700,
+						"id_str": "1474549956803399682",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FHanX4rVkAIY1ux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHanX4rVkAIY1ux.jpg",
+						"url": "https://t.co/0NdY0aeP0G",
+						"display_url": "pic.twitter.com/0NdY0aeP0G",
+						"expanded_url": "https://twitter.com/DanaSchwartzzz/status/1474549981050593280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 425,
+								"h": 235,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 425,
+								"h": 235,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 425,
+								"h": 235,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1474549956803399700,
+						"id_str": "1474549956803399682",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FHanX4rVkAIY1ux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHanX4rVkAIY1ux.jpg",
+						"url": "https://t.co/0NdY0aeP0G",
+						"display_url": "pic.twitter.com/0NdY0aeP0G",
+						"expanded_url": "https://twitter.com/DanaSchwartzzz/status/1474549981050593280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 425,
+								"h": 235,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 425,
+								"h": 235,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 425,
+								"h": 235,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1474549888792727600,
+			"in_reply_to_status_id_str": "1474549888792727553",
+			"in_reply_to_user_id": 331120729,
+			"in_reply_to_user_id_str": "331120729",
+			"in_reply_to_screen_name": "DanaSchwartzzz",
+			"user": {
+				"id": 331120729,
+				"id_str": "331120729",
+				"name": "Dana Schwartz 🫀",
+				"screen_name": "DanaSchwartzzz",
+				"location": "los angeles, ca",
+				"description": "writer of TV, books, comics, and podcasts. creator of @noblebloodtales. host of Haileywood. ANATOMY: A LOVE STORY coming january 18! https://t.co/KpbSSD7Hdc",
+				"url": "https://t.co/Uq9bvXrU6v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Uq9bvXrU6v",
+								"expanded_url": "http://patreon.com/noblebloodtales",
+								"display_url": "patreon.com/noblebloodtales",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KpbSSD7Hdc",
+								"expanded_url": "http://bit.ly/3zrg3vy",
+								"display_url": "bit.ly/3zrg3vy",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 197843,
+				"friends_count": 1679,
+				"listed_count": 1384,
+				"created_at": "Thu Jul 07 17:42:14 +0000 2011",
+				"favourites_count": 402548,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16821,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1471893637466361856/K-WPAhPm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471893637466361856/K-WPAhPm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331120729/1624475000",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 418,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Or Fozzie as Fons Grubear. https://t.co/Rtybzb2qS9"
+	},
+	{
+		"created_at": "Sat Dec 25 14:03:59 +0000 2021",
+		"id": 1474742722435199000,
+		"id_str": "1474742722435198976",
+		"full_text": "https://t.co/zdR9KlkRaB https://t.co/q34D85pMSs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zdR9KlkRaB",
+					"expanded_url": "https://twitter.com/NASAWebb/status/1474730704940548096",
+					"display_url": "twitter.com/NASAWebb/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1474742716756021200,
+					"id_str": "1474742716756021262",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FHdWr_dWUA4kSyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FHdWr_dWUA4kSyy.jpg",
+					"url": "https://t.co/q34D85pMSs",
+					"display_url": "pic.twitter.com/q34D85pMSs",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1474742722435198976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1474742716756021200,
+					"id_str": "1474742716756021262",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FHdWr_dWUA4kSyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FHdWr_dWUA4kSyy.jpg",
+					"url": "https://t.co/q34D85pMSs",
+					"display_url": "pic.twitter.com/q34D85pMSs",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1474742722435198976/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FHdWr_dWUA4kSyy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1474730704940548000,
+		"quoted_status_id_str": "1474730704940548096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zdR9KlkRaB",
+			"expanded": "https://twitter.com/NASAWebb/status/1474730704940548096",
+			"display": "twitter.com/NASAWebb/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 25 13:16:13 +0000 2021",
+			"id": 1474730704940548000,
+			"id_str": "1474730704940548096",
+			"full_text": "#NASAWebb is safely in space with its solar array drawing power from the Sun! Its reaction wheels will keep the spacecraft pointed in the right direction so that its sunshield can protect the telescope from radiation and heat: https://t.co/NZJ7sSJ8fX\n#UnfoldTheUniverse https://t.co/s4nfqvKJZD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NASAWebb",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "UnfoldTheUniverse",
+						"indices": [
+							251,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NZJ7sSJ8fX",
+						"expanded_url": "https://blogs.nasa.gov/webb/2021/12/25/webb-is-on-its-way/",
+						"display_url": "blogs.nasa.gov/webb/2021/12/2…",
+						"indices": [
+							227,
+							250
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1474725306875449300,
+						"id_str": "1474725306875449355",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1474725306875449355/img/YSJvJP8bYb7W2lhf.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1474725306875449355/img/YSJvJP8bYb7W2lhf.jpg",
+						"url": "https://t.co/s4nfqvKJZD",
+						"display_url": "pic.twitter.com/s4nfqvKJZD",
+						"expanded_url": "https://twitter.com/NASAWebb/status/1474730704940548096/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 11348282,
+						"source_user_id_str": "11348282"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1474725306875449300,
+						"id_str": "1474725306875449355",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1474725306875449355/img/YSJvJP8bYb7W2lhf.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1474725306875449355/img/YSJvJP8bYb7W2lhf.jpg",
+						"url": "https://t.co/s4nfqvKJZD",
+						"display_url": "pic.twitter.com/s4nfqvKJZD",
+						"expanded_url": "https://twitter.com/NASAWebb/status/1474730704940548096/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 11348282,
+						"source_user_id_str": "11348282",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 88800,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1474725306875449355/vid/640x360/pnWCZNUa5b7cP4Mk.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1474725306875449355/vid/1280x720/ykJa4PJtxII71nro.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1474725306875449355/vid/480x270/FRm1rlK3ht6R0fbi.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1474725306875449355/pl/mwHeEd_b_KF_cCoa.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Solar Arrays Deployed",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 11348282,
+								"id_str": "11348282",
+								"name": "NASA",
+								"screen_name": "NASA",
+								"location": "Pale Blue Dot",
+								"description": "There's space for everybody. ✨",
+								"url": "https://t.co/9NkQJKAnuU",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/9NkQJKAnuU",
+												"expanded_url": "http://www.nasa.gov/",
+												"display_url": "nasa.gov",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 50655551,
+								"friends_count": 177,
+								"listed_count": 97251,
+								"created_at": "Wed Dec 19 20:20:32 +0000 2007",
+								"favourites_count": 13588,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 67529,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1639499879",
+								"profile_link_color": "205BA7",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "F3F2F2",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": true,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29472803,
+				"id_str": "29472803",
+				"name": "NASA Webb Telescope",
+				"screen_name": "NASAWebb",
+				"location": "",
+				"description": "NASA's James Webb Space Telescope will #UnfoldTheUniverse and show us things we've never seen before.",
+				"url": "https://t.co/ZpTf8zeokA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZpTf8zeokA",
+								"expanded_url": "https://webb.nasa.gov",
+								"display_url": "webb.nasa.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 768917,
+				"friends_count": 76,
+				"listed_count": 7076,
+				"created_at": "Tue Apr 07 15:40:56 +0000 2009",
+				"favourites_count": 3648,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9300,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFCFC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/685182791496134658/Wmyak8D6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/685182791496134658/Wmyak8D6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29472803/1585772391",
+				"profile_link_color": "784871",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B2C1ED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4405,
+			"favorite_count": 18153,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zdR9KlkRaB https://t.co/q34D85pMSs"
+	},
+	{
+		"created_at": "Sat Dec 25 13:56:55 +0000 2021",
+		"id": 1474740946986279000,
+		"id_str": "1474740946986278915",
+		"full_text": "@GavinVerhey Based on @maro254’s stories,  Tempest. It had a decade of sets designed with it! As a player, Invasion block was just bonkers fun and different in the best way.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinVerhey",
+					"name": "Gavin Verhey",
+					"id": 172153520,
+					"id_str": "172153520",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "maro254",
+					"name": "Mark Rosewater",
+					"id": 14817235,
+					"id_str": "14817235",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1474528520504107000,
+		"in_reply_to_status_id_str": "1474528520504107009",
+		"in_reply_to_user_id": 172153520,
+		"in_reply_to_user_id_str": "172153520",
+		"in_reply_to_screen_name": "GavinVerhey",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GavinVerhey Based on @maro254’s stories,  Tempest. It had a decade of sets designed with it! As a player, Invasion block was just bonkers fun and different in the best way."
+	},
+	{
 		"created_at": "Fri Dec 24 16:04:38 +0000 2021",
 		"id": 1474410700432941000,
 		"id_str": "1474410700432941060",
