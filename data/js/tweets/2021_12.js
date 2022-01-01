@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 31 16:28:36 +0000 2021",
+		"id": 1349507733683368000,
+		"id_str": "1476953445110370306",
+		"full_text": "I broke down Urkel and Grandmama dominating a 2 on 2 tournament in Family Matters https://t.co/s9c3RQQ46z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349506432576741400,
+					"id_str": "1349506432576741379",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349506432576741379/pu/img/glyXFXlzrWtjuJm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349506432576741379/pu/img/glyXFXlzrWtjuJm0.jpg",
+					"url": "https://t.co/s9c3RQQ46z",
+					"display_url": "pic.twitter.com/s9c3RQQ46z",
+					"expanded_url": "https://twitter.com/MCamerlengo/status/1349507733683367945/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 962,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349506432576741400,
+					"id_str": "1349506432576741379",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349506432576741379/pu/img/glyXFXlzrWtjuJm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349506432576741379/pu/img/glyXFXlzrWtjuJm0.jpg",
+					"url": "https://t.co/s9c3RQQ46z",
+					"display_url": "pic.twitter.com/s9c3RQQ46z",
+					"expanded_url": "https://twitter.com/MCamerlengo/status/1349507733683367945/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 962,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							481,
+							360
+						],
+						"duration_millis": 122517,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1349506432576741379/pu/pl/9FGblWWtJ_Ec6bH2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349506432576741379/pu/vid/480x360/xfJ5ozA71kLPZFQF.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349506432576741379/pu/vid/962x720/tbjFJM-ri-paQ_xp.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349506432576741379/pu/vid/360x270/GI7ko7U8vQJ325rn.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240497225,
+			"id_str": "240497225",
+			"name": "Mike Camerlengo",
+			"screen_name": "MCamerlengo",
+			"location": "",
+			"description": "just trying to make fun stuff on the internet | creator of 60 second classics | mikecamerlengo@gmail.com",
+			"url": "https://t.co/hodX7OQ7VD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hodX7OQ7VD",
+							"expanded_url": "http://60secondclassics.com/",
+							"display_url": "60secondclassics.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50114,
+			"friends_count": 1251,
+			"listed_count": 139,
+			"created_at": "Thu Jan 20 02:10:18 +0000 2011",
+			"favourites_count": 20933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434685293542662147/DowvG00u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434685293542662147/DowvG00u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240497225/1629596600",
+			"profile_link_color": "38BBEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6720,
+		"favorite_count": 24118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I broke down Urkel and Grandmama dominating a 2 on 2 tournament in Family Matters https://t.co/s9c3RQQ46z"
+	},
+	{
 		"created_at": "Fri Dec 31 01:25:28 +0000 2021",
 		"id": 1476726163762557000,
 		"id_str": "1476726163762556931",
