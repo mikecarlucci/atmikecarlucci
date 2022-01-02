@@ -1,6 +1,1804 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 01 21:43:07 +0000 2022",
+		"id": 1477394986010390500,
+		"id_str": "1477394986010390542",
+		"full_text": "On the other hand, forced digital scarcity is the anthesis of the web https://t.co/FMjB7h0TIE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FMjB7h0TIE",
+					"expanded_url": "https://twitter.com/mattmedved/status/1477096464895680512",
+					"display_url": "twitter.com/mattmedved/sta…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1477096464895680500,
+		"quoted_status_id_str": "1477096464895680512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FMjB7h0TIE",
+			"expanded": "https://twitter.com/mattmedved/status/1477096464895680512",
+			"display": "twitter.com/mattmedved/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 01 01:56:55 +0000 2022",
+			"id": 1477096464895680500,
+			"id_str": "1477096464895680512",
+			"full_text": "Literature NFTs will change the world.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23687471,
+				"id_str": "23687471",
+				"name": "medved",
+				"screen_name": "mattmedved",
+				"location": "medved.eth",
+				"description": "Co-Founder & CEO, @nftnow 💭 Writer, musician, investor, advisor. On a mission to empower the creators of culture.",
+				"url": "https://t.co/4YGDGoZgl4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4YGDGoZgl4",
+								"expanded_url": "http://instagram.com/mattmedved",
+								"display_url": "instagram.com/mattmedved",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83816,
+				"friends_count": 4906,
+				"listed_count": 781,
+				"created_at": "Wed Mar 11 00:08:38 +0000 2009",
+				"favourites_count": 80239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14441,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1475279319849132035/eegvCeYF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475279319849132035/eegvCeYF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23687471/1640578486",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 199,
+			"favorite_count": 1636,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On the other hand, forced digital scarcity is the anthesis of the web https://t.co/FMjB7h0TIE"
+	},
+	{
+		"created_at": "Sat Jan 01 19:57:31 +0000 2022",
+		"id": 1477368410615001000,
+		"id_str": "1477368410615001090",
+		"full_text": "Dodgers. https://t.co/XjfWsMwJVA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XjfWsMwJVA",
+					"expanded_url": "https://twitter.com/brandon_warne/status/1477361740241379335",
+					"display_url": "twitter.com/brandon_warne/…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1477361740241379300,
+		"quoted_status_id_str": "1477361740241379335",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XjfWsMwJVA",
+			"expanded": "https://twitter.com/brandon_warne/status/1477361740241379335",
+			"display": "twitter.com/brandon_warne/…"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dodgers. https://t.co/XjfWsMwJVA"
+	},
+	{
+		"created_at": "Sat Jan 01 19:25:54 +0000 2022",
+		"id": 1477298725206868000,
+		"id_str": "1477360450534887431",
+		"full_text": "Fun fact, under the first copyright law passed by Congress everything released in 1993, including movies like Jurassic Park and Sleepless in Seattle, and albums like In Utero and Siamese Dream, would now be in the public domain. https://t.co/wkpqxE4VyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wkpqxE4VyX",
+					"expanded_url": "https://twitter.com/publicdomainrev/status/1477287187377004548",
+					"display_url": "twitter.com/publicdomainre…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89477148,
+			"id_str": "89477148",
+			"name": "John Overholt",
+			"screen_name": "john_overholt",
+			"location": "Cambridge/Medford, MA",
+			"description": "Curator of Early Books & Manuscripts, Houghton Library, Harvard University. Opinions are my own. He/him/his",
+			"url": "https://t.co/9YAHh93Qr4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9YAHh93Qr4",
+							"expanded_url": "http://library.harvard.edu/hou",
+							"display_url": "library.harvard.edu/hou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24845,
+			"friends_count": 820,
+			"listed_count": 729,
+			"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+			"favourites_count": 25922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1463155608937537550/fR-xvQvi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1463155608937537550/fR-xvQvi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1477287187377004500,
+		"quoted_status_id_str": "1477287187377004548",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wkpqxE4VyX",
+			"expanded": "https://twitter.com/publicdomainrev/status/1477287187377004548",
+			"display": "twitter.com/publicdomainre…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 01 14:34:46 +0000 2022",
+			"id": 1477287187377004500,
+			"id_str": "1477287187377004548",
+			"full_text": "Happy #PublicDomainDay! See our highlights for this year's new public domain entrants, including Winnie The Pooh, poems by Dorothy Parker, and Franz Kafka’s The Castle. (And hundreds of thousands of pre-1923 sound recordings!) — https://t.co/OuHZi6AQVB #publicdomain https://t.co/Oym5476zIY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PublicDomainDay",
+						"indices": [
+							6,
+							22
+						]
+					},
+					{
+						"text": "publicdomain",
+						"indices": [
+							253,
+							266
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OuHZi6AQVB",
+						"expanded_url": "https://publicdomainreview.org/blog/2022/01/public-domain-day-2022",
+						"display_url": "publicdomainreview.org/blog/2022/01/p…",
+						"indices": [
+							229,
+							252
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1477286992035602400,
+						"id_str": "1477286992035602435",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/FIBgsTeWYAM-yJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIBgsTeWYAM-yJH.jpg",
+						"url": "https://t.co/Oym5476zIY",
+						"display_url": "pic.twitter.com/Oym5476zIY",
+						"expanded_url": "https://twitter.com/PublicDomainRev/status/1477287187377004548/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 514,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 847,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 847,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1477286992035602400,
+						"id_str": "1477286992035602435",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/FIBgsTeWYAM-yJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIBgsTeWYAM-yJH.jpg",
+						"url": "https://t.co/Oym5476zIY",
+						"display_url": "pic.twitter.com/Oym5476zIY",
+						"expanded_url": "https://twitter.com/PublicDomainRev/status/1477287187377004548/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 514,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 847,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 847,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 203307838,
+				"id_str": "203307838",
+				"name": "Public Domain Review",
+				"screen_name": "PublicDomainRev",
+				"location": "",
+				"description": "Exploring curious and compelling works from the history of art, literature, and ideas. (“Magnificent ... a model of digital curation” — The Guardian)",
+				"url": "http://t.co/Hzr7n1zZS4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hzr7n1zZS4",
+								"expanded_url": "http://publicdomainreview.org",
+								"display_url": "publicdomainreview.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67644,
+				"friends_count": 1618,
+				"listed_count": 1969,
+				"created_at": "Sat Oct 16 00:18:28 +0000 2010",
+				"favourites_count": 2687,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11087,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826480742372872192/Oqvr42Ky_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826480742372872192/Oqvr42Ky_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203307838/1624005693",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 564,
+			"favorite_count": 1211,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 86,
+		"favorite_count": 225,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fun fact, under the first copyright law passed by Congress everything released in 1993, including movies like Jurassic Park and Sleepless in Seattle, and albums like In Utero and Siamese Dream, would now be in the public domain. https://t.co/wkpqxE4VyX"
+	},
+	{
+		"created_at": "Sat Jan 01 18:32:07 +0000 2022",
+		"id": 1477346915847180300,
+		"id_str": "1477346915847180290",
+		"full_text": "@GavinVerhey I’m just hoping for Urza’s glasses equipment 🤣",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinVerhey",
+					"name": "Gavin Verhey",
+					"id": 172153520,
+					"id_str": "172153520",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1477340047242403800,
+		"in_reply_to_status_id_str": "1477340047242403846",
+		"in_reply_to_user_id": 172153520,
+		"in_reply_to_user_id_str": "172153520",
+		"in_reply_to_screen_name": "GavinVerhey",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GavinVerhey I’m just hoping for Urza’s glasses equipment 🤣"
+	},
+	{
+		"created_at": "Sat Jan 01 18:28:29 +0000 2022",
+		"id": 1477346002826899500,
+		"id_str": "1477346002826899456",
+		"full_text": "Summoning the tiniest 🎻s for these guys https://t.co/KrDxtJdq9x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KrDxtJdq9x",
+					"expanded_url": "https://twitter.com/_rewhan/status/1477103196724076551",
+					"display_url": "twitter.com/_rewhan/status…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1477103196724076500,
+		"quoted_status_id_str": "1477103196724076551",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KrDxtJdq9x",
+			"expanded": "https://twitter.com/_rewhan/status/1477103196724076551",
+			"display": "twitter.com/_rewhan/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 01 02:23:40 +0000 2022",
+			"id": 1477103196724076500,
+			"id_str": "1477103196724076551",
+			"full_text": "Everybody loves unregulated markets until their imaginary wallet full of monkey jpegs gets stolen. https://t.co/I4RVVX9oZE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1477103193091809300,
+						"id_str": "1477103193091809283",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FH-5hzDVIAMMFbt.png",
+						"media_url_https": "https://pbs.twimg.com/media/FH-5hzDVIAMMFbt.png",
+						"url": "https://t.co/I4RVVX9oZE",
+						"display_url": "pic.twitter.com/I4RVVX9oZE",
+						"expanded_url": "https://twitter.com/_Rewhan/status/1477103196724076551/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 589,
+								"h": 309,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 589,
+								"h": 309,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 589,
+								"h": 309,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1477103193091809300,
+						"id_str": "1477103193091809283",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FH-5hzDVIAMMFbt.png",
+						"media_url_https": "https://pbs.twimg.com/media/FH-5hzDVIAMMFbt.png",
+						"url": "https://t.co/I4RVVX9oZE",
+						"display_url": "pic.twitter.com/I4RVVX9oZE",
+						"expanded_url": "https://twitter.com/_Rewhan/status/1477103196724076551/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 589,
+								"h": 309,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 589,
+								"h": 309,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 589,
+								"h": 309,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 745699970905342000,
+				"id_str": "745699970905341953",
+				"name": "Shitpost Munitions and the Teachings of Buddha",
+				"screen_name": "_Rewhan",
+				"location": "In Harm's Way",
+				"description": "🎭: Ferret ¦ ⚧️: They/Them ¦ 🎂: 32 ¦ 🏡: Unceded Songhees Territory ¦ 💞 @TashaSimms ¦ Banner 🎨: @/TransTWill ¦ 🐈: @GanymedeDaCat ¦ #BLM ¦ #1312",
+				"url": "https://t.co/zqNTo1oXux",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zqNTo1oXux",
+								"expanded_url": "http://www.ko-fi.com/G2G16C3E",
+								"display_url": "ko-fi.com/G2G16C3E",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1713,
+				"friends_count": 586,
+				"listed_count": 9,
+				"created_at": "Wed Jun 22 19:28:22 +0000 2016",
+				"favourites_count": 164553,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 95088,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1406673948952068097/DtE-xBkh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406673948952068097/DtE-xBkh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/745699970905341953/1561870870",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5668,
+			"favorite_count": 33397,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Summoning the tiniest 🎻s for these guys https://t.co/KrDxtJdq9x"
+	},
+	{
+		"created_at": "Sat Jan 01 18:27:27 +0000 2022",
+		"id": 1477103196724076500,
+		"id_str": "1477345744650657792",
+		"full_text": "Everybody loves unregulated markets until their imaginary wallet full of monkey jpegs gets stolen. https://t.co/I4RVVX9oZE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477103193091809300,
+					"id_str": "1477103193091809283",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FH-5hzDVIAMMFbt.png",
+					"media_url_https": "https://pbs.twimg.com/media/FH-5hzDVIAMMFbt.png",
+					"url": "https://t.co/I4RVVX9oZE",
+					"display_url": "pic.twitter.com/I4RVVX9oZE",
+					"expanded_url": "https://twitter.com/_Rewhan/status/1477103196724076551/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 589,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 589,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 589,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477103193091809300,
+					"id_str": "1477103193091809283",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FH-5hzDVIAMMFbt.png",
+					"media_url_https": "https://pbs.twimg.com/media/FH-5hzDVIAMMFbt.png",
+					"url": "https://t.co/I4RVVX9oZE",
+					"display_url": "pic.twitter.com/I4RVVX9oZE",
+					"expanded_url": "https://twitter.com/_Rewhan/status/1477103196724076551/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 589,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 589,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 589,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 745699970905342000,
+			"id_str": "745699970905341953",
+			"name": "Shitpost Munitions and the Teachings of Buddha",
+			"screen_name": "_Rewhan",
+			"location": "In Harm's Way",
+			"description": "🎭: Ferret ¦ ⚧️: They/Them ¦ 🎂: 32 ¦ 🏡: Unceded Songhees Territory ¦ 💞 @TashaSimms ¦ Banner 🎨: @/TransTWill ¦ 🐈: @GanymedeDaCat ¦ #BLM ¦ #1312",
+			"url": "https://t.co/zqNTo1oXux",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zqNTo1oXux",
+							"expanded_url": "http://www.ko-fi.com/G2G16C3E",
+							"display_url": "ko-fi.com/G2G16C3E",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1713,
+			"friends_count": 586,
+			"listed_count": 9,
+			"created_at": "Wed Jun 22 19:28:22 +0000 2016",
+			"favourites_count": 164553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1406673948952068097/DtE-xBkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406673948952068097/DtE-xBkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/745699970905341953/1561870870",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5668,
+		"favorite_count": 33397,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everybody loves unregulated markets until their imaginary wallet full of monkey jpegs gets stolen. https://t.co/I4RVVX9oZE"
+	},
+	{
+		"created_at": "Sat Jan 01 14:50:30 +0000 2022",
+		"id": 1477291146204389400,
+		"id_str": "1477291146204389379",
+		"full_text": "Big day https://t.co/JpwfIQXrHD https://t.co/nVxgUIbZVk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JpwfIQXrHD",
+					"expanded_url": "https://twitter.com/publicdomainrev/status/1477287187377004548",
+					"display_url": "twitter.com/publicdomainre…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477291140097396700,
+					"id_str": "1477291140097396739",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIBkdwNWUAM1EqD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIBkdwNWUAM1EqD.jpg",
+					"url": "https://t.co/nVxgUIbZVk",
+					"display_url": "pic.twitter.com/nVxgUIbZVk",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1477291146204389379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 518,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 518,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 518,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477291140097396700,
+					"id_str": "1477291140097396739",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIBkdwNWUAM1EqD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIBkdwNWUAM1EqD.jpg",
+					"url": "https://t.co/nVxgUIbZVk",
+					"display_url": "pic.twitter.com/nVxgUIbZVk",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1477291146204389379/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 518,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 518,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 518,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							259,
+							197
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FIBkdwNWUAM1EqD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4377,
+			"friends_count": 695,
+			"listed_count": 50,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 101981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1477287187377004500,
+		"quoted_status_id_str": "1477287187377004548",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JpwfIQXrHD",
+			"expanded": "https://twitter.com/publicdomainrev/status/1477287187377004548",
+			"display": "twitter.com/publicdomainre…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 01 14:34:46 +0000 2022",
+			"id": 1477287187377004500,
+			"id_str": "1477287187377004548",
+			"full_text": "Happy #PublicDomainDay! See our highlights for this year's new public domain entrants, including Winnie The Pooh, poems by Dorothy Parker, and Franz Kafka’s The Castle. (And hundreds of thousands of pre-1923 sound recordings!) — https://t.co/OuHZi6AQVB #publicdomain https://t.co/Oym5476zIY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PublicDomainDay",
+						"indices": [
+							6,
+							22
+						]
+					},
+					{
+						"text": "publicdomain",
+						"indices": [
+							253,
+							266
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OuHZi6AQVB",
+						"expanded_url": "https://publicdomainreview.org/blog/2022/01/public-domain-day-2022",
+						"display_url": "publicdomainreview.org/blog/2022/01/p…",
+						"indices": [
+							229,
+							252
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1477286992035602400,
+						"id_str": "1477286992035602435",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/FIBgsTeWYAM-yJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIBgsTeWYAM-yJH.jpg",
+						"url": "https://t.co/Oym5476zIY",
+						"display_url": "pic.twitter.com/Oym5476zIY",
+						"expanded_url": "https://twitter.com/PublicDomainRev/status/1477287187377004548/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 514,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 847,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 847,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1477286992035602400,
+						"id_str": "1477286992035602435",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/FIBgsTeWYAM-yJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIBgsTeWYAM-yJH.jpg",
+						"url": "https://t.co/Oym5476zIY",
+						"display_url": "pic.twitter.com/Oym5476zIY",
+						"expanded_url": "https://twitter.com/PublicDomainRev/status/1477287187377004548/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 514,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 847,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 847,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 203307838,
+				"id_str": "203307838",
+				"name": "Public Domain Review",
+				"screen_name": "PublicDomainRev",
+				"location": "",
+				"description": "Exploring curious and compelling works from the history of art, literature, and ideas. (“Magnificent ... a model of digital curation” — The Guardian)",
+				"url": "http://t.co/Hzr7n1zZS4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hzr7n1zZS4",
+								"expanded_url": "http://publicdomainreview.org",
+								"display_url": "publicdomainreview.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67644,
+				"friends_count": 1618,
+				"listed_count": 1969,
+				"created_at": "Sat Oct 16 00:18:28 +0000 2010",
+				"favourites_count": 2687,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11087,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826480742372872192/Oqvr42Ky_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826480742372872192/Oqvr42Ky_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203307838/1624005693",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 564,
+			"favorite_count": 1211,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big day https://t.co/JpwfIQXrHD https://t.co/nVxgUIbZVk"
+	},
+	{
+		"created_at": "Sat Jan 01 13:59:31 +0000 2022",
+		"id": 1477255879439405000,
+		"id_str": "1477278313169235973",
+		"full_text": "Happy new year here’s Xander Bogaerts and a very real ski jump https://t.co/S3xc2j6dQu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477255853078159400,
+					"id_str": "1477255853078159360",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIBEXx0XIAAQilP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIBEXx0XIAAQilP.jpg",
+					"url": "https://t.co/S3xc2j6dQu",
+					"display_url": "pic.twitter.com/S3xc2j6dQu",
+					"expanded_url": "https://twitter.com/OverTheMonster/status/1477255879439405058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477255853078159400,
+					"id_str": "1477255853078159360",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIBEXx0XIAAQilP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIBEXx0XIAAQilP.jpg",
+					"url": "https://t.co/S3xc2j6dQu",
+					"display_url": "pic.twitter.com/S3xc2j6dQu",
+					"expanded_url": "https://twitter.com/OverTheMonster/status/1477255879439405058/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FIBEXx0XIAAQilP.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21119272,
+			"id_str": "21119272",
+			"name": "OverTheMonster",
+			"screen_name": "OverTheMonster",
+			"location": "Boston, Massachusetts",
+			"description": "An unofficial Red Sox blog. Tweets from Matt Collins & the occasional robot. Ask questions at otmmailbag@gmail.com",
+			"url": "https://t.co/3iNEMMat4o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3iNEMMat4o",
+							"expanded_url": "http://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19578,
+			"friends_count": 301,
+			"listed_count": 921,
+			"created_at": "Tue Feb 17 19:17:06 +0000 2009",
+			"favourites_count": 1349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21119272/1566005171",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy new year here’s Xander Bogaerts and a very real ski jump https://t.co/S3xc2j6dQu"
+	},
+	{
 		"created_at": "Sat Jan 01 02:25:13 +0000 2022",
 		"id": 1477103586890989600,
 		"id_str": "1477103586890989570",
