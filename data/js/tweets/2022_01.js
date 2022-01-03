@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 02 20:12:30 +0000 2022",
+		"id": 1477702777791033300,
+		"id_str": "1477734567658373133",
+		"full_text": "Every NFT guy looks at video games and thinks “what if you could own Mario’s hat” and everyone else goes “are you fucking stupid and high?”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7961342,
+			"id_str": "7961342",
+			"name": "chris person",
+			"screen_name": "Papapishu",
+			"location": "gameing",
+			"description": "hi, gamers. i make a show called Highlight Reel. back it on Patreon. send your gaming clips to clips@highlightreel.info YT: https://t.co/7uOmRE0qF6",
+			"url": "https://t.co/BS2KtFvNEv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BS2KtFvNEv",
+							"expanded_url": "http://patreon.com/highlightreel",
+							"display_url": "patreon.com/highlightreel",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7uOmRE0qF6",
+							"expanded_url": "http://youtube.com/c/highlightreel",
+							"display_url": "youtube.com/c/highlightreel",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28030,
+			"friends_count": 1005,
+			"listed_count": 373,
+			"created_at": "Sat Aug 04 21:42:43 +0000 2007",
+			"favourites_count": 92138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202986929194782720/2Lz5qc3D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202986929194782720/2Lz5qc3D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7961342/1637028969",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3370,
+		"favorite_count": 37760,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Every NFT guy looks at video games and thinks “what if you could own Mario’s hat” and everyone else goes “are you fucking stupid and high?”"
+	},
+	{
 		"created_at": "Sat Jan 01 21:43:07 +0000 2022",
 		"id": 1477394986010390500,
 		"id_str": "1477394986010390542",
