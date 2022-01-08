@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 20:54:49 +0000 2022",
+		"id": 1479557156319936500,
+		"id_str": "1479557156319936512",
+		"full_text": "https://t.co/GrixKxIBVv https://t.co/aPSZi5gbs1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GrixKxIBVv",
+					"expanded_url": "https://twitter.com/baseballcosmo/status/1479428600604819459",
+					"display_url": "twitter.com/baseballcosmo/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479557146169819100,
+					"id_str": "1479557146169819140",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIhxYqpXwAQBPAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIhxYqpXwAQBPAR.jpg",
+					"url": "https://t.co/aPSZi5gbs1",
+					"display_url": "pic.twitter.com/aPSZi5gbs1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1479557156319936512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479557146169819100,
+					"id_str": "1479557146169819140",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIhxYqpXwAQBPAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIhxYqpXwAQBPAR.jpg",
+					"url": "https://t.co/aPSZi5gbs1",
+					"display_url": "pic.twitter.com/aPSZi5gbs1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1479557156319936512/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FIhxYqpXwAQBPAR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster Data Analyst @Northeastern. mike@mikecarlucci.org  @l_kyllonen is my better half",
+			"url": "https://t.co/UP6Tioajoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UP6Tioajoz",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4367,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1479428600604819500,
+		"quoted_status_id_str": "1479428600604819459",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GrixKxIBVv",
+			"expanded": "https://twitter.com/baseballcosmo/status/1479428600604819459",
+			"display": "twitter.com/baseballcosmo/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 07 12:23:59 +0000 2022",
+			"id": 1479428600604819500,
+			"id_str": "1479428600604819459",
+			"full_text": "Based on Koji Uehara’s interview with Seiya Suzuki, that just dropped, it sounds more and more like the Boston Red Sox are the front runners for Suzuki.\n\nKoji: “You’re going to Boston, right?”\nSeiya: “Uh…I can’t quite disclose that yet.”\n\nI will translate the segment tomorrow.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1363752037263925200,
+				"id_str": "1363752037263925248",
+				"name": "Yakyu Cosmopolitan",
+				"screen_name": "baseballcosmo",
+				"location": "",
+				"description": "Japanese baseball YouTuber",
+				"url": "https://t.co/cClb5qWNM6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cClb5qWNM6",
+								"expanded_url": "https://www.youtube.com/channel/UCQ-h38YMayZAB3U2bRpKQyg",
+								"display_url": "youtube.com/channel/UCQ-h3…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 380,
+				"friends_count": 54,
+				"listed_count": 4,
+				"created_at": "Mon Feb 22 07:26:56 +0000 2021",
+				"favourites_count": 1514,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 752,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1402518686078959617/Sx6WsCHl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402518686078959617/Sx6WsCHl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363752037263925248/1623221487",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 156,
+			"favorite_count": 1236,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GrixKxIBVv https://t.co/aPSZi5gbs1"
+	},
+	{
 		"created_at": "Thu Jan 06 14:04:20 +0000 2022",
 		"id": 1479091468107235300,
 		"id_str": "1479091468107235336",
