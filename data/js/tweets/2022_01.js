@@ -1,6 +1,1057 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 13 21:02:50 +0000 2022",
+		"id": 1481731893905313800,
+		"id_str": "1481733502060187658",
+		"full_text": "https://t.co/kMcrkXAQa0 https://t.co/EzWUrqfQnl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kMcrkXAQa0",
+					"expanded_url": "https://twitter.com/ShaneSalmonson/status/1481711148684750852",
+					"display_url": "twitter.com/ShaneSalmonson…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481731886300942300,
+					"id_str": "1481731886300942342",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJArTM9WUAYmTOy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJArTM9WUAYmTOy.jpg",
+					"url": "https://t.co/EzWUrqfQnl",
+					"display_url": "pic.twitter.com/EzWUrqfQnl",
+					"expanded_url": "https://twitter.com/GlobeChadFinn/status/1481731893905313799/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481731886300942300,
+					"id_str": "1481731886300942342",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJArTM9WUAYmTOy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJArTM9WUAYmTOy.jpg",
+					"url": "https://t.co/EzWUrqfQnl",
+					"display_url": "pic.twitter.com/EzWUrqfQnl",
+					"expanded_url": "https://twitter.com/GlobeChadFinn/status/1481731893905313799/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FJArTM9WUAYmTOy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19968995,
+			"id_str": "19968995",
+			"name": "Chad Finn",
+			"screen_name": "GlobeChadFinn",
+			"location": "I’m always home, I’m uncool.",
+			"description": "Columns: The Boston Globe, https://t.co/5AOx8XEu5h. Media: Globe. Origin: Shipbuilder, Black Bear. Apologist for: Hobson, Nomar, The Brothers Drew.",
+			"url": "https://t.co/3Kbdvbl6qv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Kbdvbl6qv",
+							"expanded_url": "https://www.bostonglobe.com/staff/finn",
+							"display_url": "bostonglobe.com/staff/finn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5AOx8XEu5h",
+							"expanded_url": "http://Boston.com",
+							"display_url": "Boston.com",
+							"indices": [
+								27,
+								50
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39362,
+			"friends_count": 3808,
+			"listed_count": 1404,
+			"created_at": "Tue Feb 03 13:04:16 +0000 2009",
+			"favourites_count": 127460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1473823025749495808/viFAyame_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1473823025749495808/viFAyame_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19968995/1398782986",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1481711148684750800,
+		"quoted_status_id_str": "1481711148684750852",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kMcrkXAQa0",
+			"expanded": "https://twitter.com/ShaneSalmonson/status/1481711148684750852",
+			"display": "twitter.com/ShaneSalmonson…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 13 19:34:01 +0000 2022",
+			"id": 1481711148684750800,
+			"id_str": "1481711148684750852",
+			"full_text": "@AnthonyLiselli @gregvanriper @GlobeChadFinn Did you know: from 2003 to the end of his career, Jeter racked up -162 Defensive Runs Saved. The worst ever.",
+			"truncated": false,
+			"display_text_range": [
+				45,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AnthonyLiselli",
+						"name": "Anthony Liselli",
+						"id": 95538005,
+						"id_str": "95538005",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "gregvanriper",
+						"name": "Greg Van Riper",
+						"id": 2246839314,
+						"id_str": "2246839314",
+						"indices": [
+							16,
+							29
+						]
+					},
+					{
+						"screen_name": "GlobeChadFinn",
+						"name": "Chad Finn",
+						"id": 19968995,
+						"id_str": "19968995",
+						"indices": [
+							30,
+							44
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1481710443622064000,
+			"in_reply_to_status_id_str": "1481710443622064128",
+			"in_reply_to_user_id": 95538005,
+			"in_reply_to_user_id_str": "95538005",
+			"in_reply_to_screen_name": "AnthonyLiselli",
+			"user": {
+				"id": 414638797,
+				"id_str": "414638797",
+				"name": "Shane Salmonson",
+				"screen_name": "ShaneSalmonson",
+				"location": "MA",
+				"description": "Huge sports fan. Avid sports card and memorabilia collector. Contributor: https://t.co/zxC6dXA40P. #CheapWaxWednesday",
+				"url": "https://t.co/lZzMfbe3mf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lZzMfbe3mf",
+								"expanded_url": "http://www.cheapwaxwednesday.com",
+								"display_url": "cheapwaxwednesday.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zxC6dXA40P",
+								"expanded_url": "http://Beckett.com",
+								"display_url": "Beckett.com",
+								"indices": [
+									74,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2906,
+				"friends_count": 2449,
+				"listed_count": 37,
+				"created_at": "Thu Nov 17 09:23:45 +0000 2011",
+				"favourites_count": 49806,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28985,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1300966573470035970/cMlAx2To_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300966573470035970/cMlAx2To_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/414638797/1540826566",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/kMcrkXAQa0 https://t.co/EzWUrqfQnl"
+	},
+	{
+		"created_at": "Thu Jan 13 16:59:00 +0000 2022",
+		"id": 1481672136720887800,
+		"id_str": "1481672136720887810",
+		"full_text": "Right. The Reserved List cards are valuable because of rarity of the specific printing. cc: @MtgPearl @wizards_magic https://t.co/ZQolNpscmq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MtgPearl",
+					"name": "Players for Ethical Abolishment of Reserve List",
+					"id": 1397251809589203000,
+					"id_str": "1397251809589202945",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"screen_name": "wizards_magic",
+					"name": "Magic: The Gathering",
+					"id": 204870137,
+					"id_str": "204870137",
+					"indices": [
+						102,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZQolNpscmq",
+					"expanded_url": "https://twitter.com/pleasantkenobi/status/1481658596429496321",
+					"display_url": "twitter.com/pleasantkenobi…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1481658596429496300,
+		"quoted_status_id_str": "1481658596429496321",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZQolNpscmq",
+			"expanded": "https://twitter.com/pleasantkenobi/status/1481658596429496321",
+			"display": "twitter.com/pleasantkenobi…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 13 16:05:11 +0000 2022",
+			"id": 1481658596429496300,
+			"id_str": "1481658596429496321",
+			"full_text": "Can Magic The Gathering be both a collectible trading card game, and an accessible game?\n\nIn today's video, I talk about just that.\n\nhttps://t.co/hdrilCD4hf https://t.co/VMa8fpvCMQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hdrilCD4hf",
+						"expanded_url": "https://youtu.be/nzif7p_PPEk",
+						"display_url": "youtu.be/nzif7p_PPEk",
+						"indices": [
+							133,
+							156
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1481658589127352300,
+						"id_str": "1481658589127352320",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/FI_oovtXoAAO4Bp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FI_oovtXoAAO4Bp.jpg",
+						"url": "https://t.co/VMa8fpvCMQ",
+						"display_url": "pic.twitter.com/VMa8fpvCMQ",
+						"expanded_url": "https://twitter.com/PleasantKenobi/status/1481658596429496321/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1481658589127352300,
+						"id_str": "1481658589127352320",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/FI_oovtXoAAO4Bp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FI_oovtXoAAO4Bp.jpg",
+						"url": "https://t.co/VMa8fpvCMQ",
+						"display_url": "pic.twitter.com/VMa8fpvCMQ",
+						"expanded_url": "https://twitter.com/PleasantKenobi/status/1481658596429496321/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 242434140,
+				"id_str": "242434140",
+				"name": "PleasantKenobi",
+				"screen_name": "PleasantKenobi",
+				"location": "UK",
+				"description": "CFB sponsored MTG YouTuber and Twitch Streamer. Most milkable man in esports He/Him Socials: https://t.co/Ve6MpJGi40\nBusiness enq: PleasantKenobi@gmail.com",
+				"url": "https://t.co/jYMdir7XG4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jYMdir7XG4",
+								"expanded_url": "https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1kw",
+								"display_url": "youtube.com/channel/UC_b07…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ve6MpJGi40",
+								"expanded_url": "http://wlo.link/@PleasantKenobi",
+								"display_url": "wlo.link/@PleasantKenobi",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 30404,
+				"friends_count": 491,
+				"listed_count": 127,
+				"created_at": "Mon Jan 24 19:41:13 +0000 2011",
+				"favourites_count": 33307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47232,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1370557306627317761/QIbiaMjH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370557306627317761/QIbiaMjH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/242434140/1610555770",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 363,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Right. The Reserved List cards are valuable because of rarity of the specific printing. cc: @MtgPearl @wizards_magic https://t.co/ZQolNpscmq"
+	},
+	{
+		"created_at": "Thu Jan 13 15:35:33 +0000 2022",
+		"id": 1481553453474361300,
+		"id_str": "1481651136322936833",
+		"full_text": "Piet Mondrian was a bit rubbish at Wordle. https://t.co/2VMhwS0HVk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481553198825541600,
+					"id_str": "1481553198825541637",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FI-IyOPXEAUs4gL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI-IyOPXEAUs4gL.jpg",
+					"url": "https://t.co/2VMhwS0HVk",
+					"display_url": "pic.twitter.com/2VMhwS0HVk",
+					"expanded_url": "https://twitter.com/StephenMcGann/status/1481553453474361347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481553198825541600,
+					"id_str": "1481553198825541637",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FI-IyOPXEAUs4gL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI-IyOPXEAUs4gL.jpg",
+					"url": "https://t.co/2VMhwS0HVk",
+					"display_url": "pic.twitter.com/2VMhwS0HVk",
+					"expanded_url": "https://twitter.com/StephenMcGann/status/1481553453474361347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 237753770,
+			"id_str": "237753770",
+			"name": "Stephen McGann💙",
+			"screen_name": "StephenMcGann",
+			"location": "Cambridge, UK",
+			"description": "Doctor Turner in #CallTheMidwife - order the new CTM anniversary book here! https://t.co/TEy4OCxiWL  - also science communicator, author, spouse and parent.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TEy4OCxiWL",
+							"expanded_url": "https://amzn.to/3lz5ZLZ",
+							"display_url": "amzn.to/3lz5ZLZ",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 95321,
+			"friends_count": 2693,
+			"listed_count": 262,
+			"created_at": "Thu Jan 13 15:12:26 +0000 2011",
+			"favourites_count": 28582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245830311193305088/0uVWnQkm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245830311193305088/0uVWnQkm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/237753770/1574206593",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 471,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Piet Mondrian was a bit rubbish at Wordle. https://t.co/2VMhwS0HVk"
+	},
+	{
+		"created_at": "Thu Jan 13 15:00:09 +0000 2022",
+		"id": 1481642226719416300,
+		"id_str": "1481642226719416330",
+		"full_text": "@Bill_TPA Right!?!?? Like, this guy?!?! Him?!?! https://t.co/MDBDU2MyR6",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bill_TPA",
+					"name": "Bill",
+					"id": 66672175,
+					"id_str": "66672175",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481642219278798800,
+					"id_str": "1481642219278798852",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FI_Zv5RVkAQGS4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FI_Zv5RVkAQGS4l.jpg",
+					"url": "https://t.co/MDBDU2MyR6",
+					"display_url": "pic.twitter.com/MDBDU2MyR6",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1481642226719416330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 208,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 208,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481642219278798800,
+					"id_str": "1481642219278798852",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FI_Zv5RVkAQGS4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FI_Zv5RVkAQGS4l.jpg",
+					"url": "https://t.co/MDBDU2MyR6",
+					"display_url": "pic.twitter.com/MDBDU2MyR6",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1481642226719416330/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 208,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 208,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							75,
+							52
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FI_Zv5RVkAQGS4l.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1481619070512472000,
+		"in_reply_to_status_id_str": "1481619070512472066",
+		"in_reply_to_user_id": 66672175,
+		"in_reply_to_user_id_str": "66672175",
+		"in_reply_to_screen_name": "Bill_TPA",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Bill_TPA Right!?!?? Like, this guy?!?! Him?!?! https://t.co/MDBDU2MyR6"
+	},
+	{
 		"created_at": "Wed Jan 12 13:30:13 +0000 2022",
 		"id": 1481257208260272000,
 		"id_str": "1481257208260272130",
