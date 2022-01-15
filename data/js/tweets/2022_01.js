@@ -1,6 +1,951 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 14 23:30:41 +0000 2022",
+		"id": 1482133095100952600,
+		"id_str": "1482133095100952579",
+		"full_text": "Batman’s a scientist! https://t.co/vriUWWl78u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vriUWWl78u",
+					"expanded_url": "https://twitter.com/thesimpsons/status/1482049966273142789",
+					"display_url": "twitter.com/thesimpsons/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1482049966273142800,
+		"quoted_status_id_str": "1482049966273142789",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vriUWWl78u",
+			"expanded": "https://twitter.com/thesimpsons/status/1482049966273142789",
+			"display": "twitter.com/thesimpsons/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 14 18:00:21 +0000 2022",
+			"id": 1482049966273142800,
+			"id_str": "1482049966273142789",
+			"full_text": "Good morning to everyone but especially @ConanOBrien on this 28th anniversary of Marge vs. the Monorail. https://t.co/03sIVMozxy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ConanOBrien",
+						"name": "Conan O'Brien",
+						"id": 115485051,
+						"id_str": "115485051",
+						"indices": [
+							40,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1482049888011624400,
+						"id_str": "1482049888011624459",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/FJFMlklWUAEhRY8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJFMlklWUAEhRY8.jpg",
+						"url": "https://t.co/03sIVMozxy",
+						"display_url": "pic.twitter.com/03sIVMozxy",
+						"expanded_url": "https://twitter.com/TheSimpsons/status/1482049966273142789/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1482049888011624400,
+						"id_str": "1482049888011624459",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/FJFMlklWUAEhRY8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJFMlklWUAEhRY8.jpg",
+						"url": "https://t.co/03sIVMozxy",
+						"display_url": "pic.twitter.com/03sIVMozxy",
+						"expanded_url": "https://twitter.com/TheSimpsons/status/1482049966273142789/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 35914,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1482049888011624459/vid/720x720/9zIRka4pfMTZfboB.mp4?tag=14"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1482049888011624459/vid/320x320/TVz4q0D4IwxFGcjm.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1482049888011624459/pl/pZL6E9bq6QbsjAD1.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1482049888011624459/vid/540x540/zqTyx18wRstlJEoV.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Monorail Conductor Aptitude Test | Season 4 Ep. 12 | THE SIMPSONS",
+							"description": "",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755953153,
+				"id_str": "755953153",
+				"name": "The Simpsons",
+				"screen_name": "TheSimpsons",
+				"location": "Animation on FOX",
+				"description": "Official Twitter for #TheSimpsons. Season 33 airs Sundays at 8/7c on FOX. Watch anytime on FOX NOW & Hulu.",
+				"url": "https://t.co/8UAsUyqTod",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8UAsUyqTod",
+								"expanded_url": "http://fox.tv/thesimpsonstw",
+								"display_url": "fox.tv/thesimpsonstw",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1133155,
+				"friends_count": 718,
+				"listed_count": 1991,
+				"created_at": "Mon Aug 13 22:24:33 +0000 2012",
+				"favourites_count": 16304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20783,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0069A4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1469031248161034240/aJANGxIu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469031248161034240/aJANGxIu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755953153/1639079318",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 238,
+			"favorite_count": 1453,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Batman’s a scientist! https://t.co/vriUWWl78u"
+	},
+	{
+		"created_at": "Fri Jan 14 16:40:03 +0000 2022",
+		"id": 1482029756652695600,
+		"id_str": "1482029756652695555",
+		"full_text": "Boston Red Sox Depth Chart: What’ll be Garrett Whitlock’s role? - Over the Monster https://t.co/mR4jCdcpFf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mR4jCdcpFf",
+					"expanded_url": "https://bit.ly/3ttaP3c",
+					"display_url": "bit.ly/3ttaP3c",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Boston Red Sox Depth Chart: What’ll be Garrett Whitlock’s role? - Over the Monster https://t.co/mR4jCdcpFf"
+	},
+	{
+		"created_at": "Fri Jan 14 16:00:58 +0000 2022",
+		"id": 1482019920443592700,
+		"id_str": "1482019920443592708",
+		"full_text": "I’d rather have the Finnish day https://t.co/dyqvUNzIHp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dyqvUNzIHp",
+					"expanded_url": "https://twitter.com/dhtoomey/status/1481747171842183173",
+					"display_url": "twitter.com/dhtoomey/statu…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1481747171842183200,
+		"quoted_status_id_str": "1481747171842183173",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dyqvUNzIHp",
+			"expanded": "https://twitter.com/dhtoomey/status/1481747171842183173",
+			"display": "twitter.com/dhtoomey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 13 21:57:09 +0000 2022",
+			"id": 1481747171842183200,
+			"id_str": "1481747171842183173",
+			"full_text": "What Finland thinks an American workday looks like\n\nfor @morningbrew https://t.co/Il78ZC9Mvq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MorningBrew",
+						"name": "Morning Brew ☕️",
+						"id": 3092541736,
+						"id_str": "3092541736",
+						"indices": [
+							56,
+							68
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1481746699215384600,
+						"id_str": "1481746699215384584",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1481746699215384584/pu/img/59jw1sipdNYLeFcz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1481746699215384584/pu/img/59jw1sipdNYLeFcz.jpg",
+						"url": "https://t.co/Il78ZC9Mvq",
+						"display_url": "pic.twitter.com/Il78ZC9Mvq",
+						"expanded_url": "https://twitter.com/dhtoomey/status/1481747171842183173/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 3092541736,
+						"source_user_id_str": "3092541736"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1481746699215384600,
+						"id_str": "1481746699215384584",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1481746699215384584/pu/img/59jw1sipdNYLeFcz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1481746699215384584/pu/img/59jw1sipdNYLeFcz.jpg",
+						"url": "https://t.co/Il78ZC9Mvq",
+						"display_url": "pic.twitter.com/Il78ZC9Mvq",
+						"expanded_url": "https://twitter.com/dhtoomey/status/1481747171842183173/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 3092541736,
+						"source_user_id_str": "3092541736",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 71083,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1481746699215384584/pu/pl/2j6kWA0ir-LDT0Hg.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1481746699215384584/pu/vid/480x852/xh7091xDT20NLqrD.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1481746699215384584/pu/vid/720x1280/5kyuhPIsFZqRPk_x.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1481746699215384584/pu/vid/320x568/ntVLRWFPkPDuWJh3.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 3092541736,
+								"id_str": "3092541736",
+								"name": "Morning Brew ☕️",
+								"screen_name": "MorningBrew",
+								"location": "New York, NY",
+								"description": "The latest news from Wall St. to Silicon Valley. Informative, witty, and everything you need to start your day. ☕️",
+								"url": "https://t.co/TqvggZWfkD",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/TqvggZWfkD",
+												"expanded_url": "https://www.morningbrew.com/",
+												"display_url": "morningbrew.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 318397,
+								"friends_count": 1612,
+								"listed_count": 2174,
+								"created_at": "Mon Mar 16 18:43:25 +0000 2015",
+								"favourites_count": 16662,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 18709,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1455160127921836042/kTevLUlq_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455160127921836042/kTevLUlq_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3092541736/1635772185",
+								"profile_link_color": "005AB6",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 774402860947677200,
+				"id_str": "774402860947677184",
+				"name": "Dan Toomey",
+				"screen_name": "dhtoomey",
+				"location": "",
+				"description": "nearly hilarious @morningbrew IG, TikTok: @dhtoomey management: my mom",
+				"url": "https://t.co/pKptFpCBAr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pKptFpCBAr",
+								"expanded_url": "https://linktr.ee/dantoomey",
+								"display_url": "linktr.ee/dantoomey",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18608,
+				"friends_count": 998,
+				"listed_count": 89,
+				"created_at": "Sat Sep 10 00:23:24 +0000 2016",
+				"favourites_count": 5508,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5177,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410759046265638913/OZu1lwC5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410759046265638913/OZu1lwC5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/774402860947677184/1623800160",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1556,
+			"favorite_count": 9298,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’d rather have the Finnish day https://t.co/dyqvUNzIHp"
+	},
+	{
+		"created_at": "Fri Jan 14 13:30:20 +0000 2022",
+		"id": 1481982012026142700,
+		"id_str": "1481982012026142723",
+		"full_text": "OTM Open Thread 1/14: It is Friday, TGIF https://t.co/xVIqUDR34R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xVIqUDR34R",
+					"expanded_url": "https://www.overthemonster.com/2022/1/14/22883017/otm-open-thread-1-14-it-is-friday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/1/14/2288…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 1/14: It is Friday, TGIF https://t.co/xVIqUDR34R"
+	},
+	{
 		"created_at": "Thu Jan 13 21:02:50 +0000 2022",
 		"id": 1481731893905313800,
 		"id_str": "1481733502060187658",
