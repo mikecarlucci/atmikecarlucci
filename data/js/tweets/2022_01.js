@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 15 21:28:01 +0000 2022",
+		"id": 1482464613052596200,
+		"id_str": "1482464613052596230",
+		"full_text": "https://t.co/p9B8nvZDTz https://t.co/gAzhz2CH0N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p9B8nvZDTz",
+					"expanded_url": "https://twitter.com/alexspeier/status/1482452584120168456",
+					"display_url": "twitter.com/alexspeier/sta…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482464606534656000,
+					"id_str": "1482464606534656003",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJLFtIiWYAMUpAk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJLFtIiWYAMUpAk.jpg",
+					"url": "https://t.co/gAzhz2CH0N",
+					"display_url": "pic.twitter.com/gAzhz2CH0N",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1482464613052596230/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482464606534656000,
+					"id_str": "1482464606534656003",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJLFtIiWYAMUpAk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJLFtIiWYAMUpAk.jpg",
+					"url": "https://t.co/gAzhz2CH0N",
+					"display_url": "pic.twitter.com/gAzhz2CH0N",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1482464613052596230/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 188,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							215,
+							94
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FJLFtIiWYAMUpAk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1482452584120168400,
+		"quoted_status_id_str": "1482452584120168456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p9B8nvZDTz",
+			"expanded": "https://twitter.com/alexspeier/status/1482452584120168456",
+			"display": "twitter.com/alexspeier/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 15 20:40:13 +0000 2022",
+			"id": 1482452584120168400,
+			"id_str": "1482452584120168456",
+			"full_text": "Just a thought… Encarnacion is the first player in the Red Sox organization who was born after the 2004 World Series. https://t.co/qXlkMFWJEv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qXlkMFWJEv",
+						"expanded_url": "https://twitter.com/alexspeier/status/1482390100537495553",
+						"display_url": "twitter.com/alexspeier/sta…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45027357,
+				"id_str": "45027357",
+				"name": "Alex Speier",
+				"screen_name": "alexspeier",
+				"location": "My Living Room, MA",
+				"description": "Boston Globe; Author of “Homegrown” (https://t.co/YVLNd5sihs); Recipient of Desus & Mero shoutout; Moonlights on NESN as Stat Masterson",
+				"url": "https://t.co/t01be56tdn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t01be56tdn",
+								"expanded_url": "https://www.bostonglobe.com/sports/baseball/redsox/?p1=BGMenu_Sections",
+								"display_url": "bostonglobe.com/sports/basebal…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YVLNd5sihs",
+								"expanded_url": "https://www.indiebound.org/book/9780062943569",
+								"display_url": "indiebound.org/book/978006294…",
+								"indices": [
+									37,
+									60
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 70710,
+				"friends_count": 1146,
+				"listed_count": 2364,
+				"created_at": "Fri Jun 05 23:23:05 +0000 2009",
+				"favourites_count": 3471,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48794,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1A1A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827632389023227905/9C0ClX9K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827632389023227905/9C0ClX9K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45027357/1616435130",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1482390100537495600,
+			"quoted_status_id_str": "1482390100537495553",
+			"quoted_status_permalink": {
+				"url": "https://t.co/qXlkMFWJEv",
+				"expanded": "https://twitter.com/alexspeier/status/1482390100537495553",
+				"display": "twitter.com/alexspeier/sta…"
+			},
+			"retweet_count": 26,
+			"favorite_count": 387,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/p9B8nvZDTz https://t.co/gAzhz2CH0N"
+	},
+	{
 		"created_at": "Fri Jan 14 23:30:41 +0000 2022",
 		"id": 1482133095100952600,
 		"id_str": "1482133095100952579",
