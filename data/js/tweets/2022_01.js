@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 16 22:46:56 +0000 2022",
+		"id": 1482846861123858400,
+		"id_str": "1482846861123858435",
+		"full_text": "Inception https://t.co/I7K6cue8hE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I7K6cue8hE",
+					"expanded_url": "https://twitter.com/thatericalper/status/1482812410608160776",
+					"display_url": "twitter.com/thatericalper/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1482812410608160800,
+		"quoted_status_id_str": "1482812410608160776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I7K6cue8hE",
+			"expanded": "https://twitter.com/thatericalper/status/1482812410608160776",
+			"display": "twitter.com/thatericalper/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 16 20:30:02 +0000 2022",
+			"id": 1482812410608160800,
+			"id_str": "1482812410608160776",
+			"full_text": "What is that one movie everyone has seen except for you?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22018221,
+				"id_str": "22018221",
+				"name": "Eric Alper 🎧",
+				"screen_name": "ThatEricAlper",
+				"location": "Toronto",
+				"description": "Freelance Music Publicist. SiriusXM Host. Shameless Idealist. Lifelong Musicaholic. I talk about Music News in the Media. Eric@ThatEricAlper.com",
+				"url": "https://t.co/yyQlWgX2YH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yyQlWgX2YH",
+								"expanded_url": "https://ThatEricAlper.com",
+								"display_url": "ThatEricAlper.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 791758,
+				"friends_count": 265505,
+				"listed_count": 5142,
+				"created_at": "Thu Feb 26 15:08:31 +0000 2009",
+				"favourites_count": 207,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 76886,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1258864159195873280/OZZlL3VJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258864159195873280/OZZlL3VJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22018221/1530493821",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 547,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inception https://t.co/I7K6cue8hE"
+	},
+	{
+		"created_at": "Sun Jan 16 21:39:26 +0000 2022",
+		"id": 1482800409089609700,
+		"id_str": "1482829874809249796",
+		"full_text": "This is one of my all-time favorite Star Trek quotes: https://t.co/ZDPAsGIcPD https://t.co/ooRbApOiSz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZDPAsGIcPD",
+					"expanded_url": "https://twitter.com/startrek/status/1482729364752154632",
+					"display_url": "twitter.com/startrek/statu…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482800405562249200,
+					"id_str": "1482800405562249217",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FJP3HNZX0AEJG-n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJP3HNZX0AEJG-n.jpg",
+					"url": "https://t.co/ooRbApOiSz",
+					"display_url": "pic.twitter.com/ooRbApOiSz",
+					"expanded_url": "https://twitter.com/MarkDStrauss/status/1482800409089609730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482800405562249200,
+					"id_str": "1482800405562249217",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FJP3HNZX0AEJG-n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJP3HNZX0AEJG-n.jpg",
+					"url": "https://t.co/ooRbApOiSz",
+					"display_url": "pic.twitter.com/ooRbApOiSz",
+					"expanded_url": "https://twitter.com/MarkDStrauss/status/1482800409089609730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 514564994,
+			"id_str": "514564994",
+			"name": "Mark Strauss",
+			"screen_name": "MarkDStrauss",
+			"location": "Sol III",
+			"description": "Writer/Editor. “Just a kid from Brooklyn.”",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5298,
+			"friends_count": 4418,
+			"listed_count": 137,
+			"created_at": "Sun Mar 04 17:30:03 +0000 2012",
+			"favourites_count": 26024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093560934390525954/baIaNO-u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093560934390525954/baIaNO-u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/514564994/1401562090",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1482729364752154600,
+		"quoted_status_id_str": "1482729364752154632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZDPAsGIcPD",
+			"expanded": "https://twitter.com/startrek/status/1482729364752154632",
+			"display": "twitter.com/startrek/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 16 15:00:02 +0000 2022",
+			"id": 1482729364752154600,
+			"id_str": "1482729364752154632",
+			"full_text": "Star Trek: Voyager premiered on this day in #TrekHistory. Share your favorite #StarTrekVOY moments in celebration! ✨ #StarTrek https://t.co/5gtKvXwNG8 https://t.co/KFBDkcAa5b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TrekHistory",
+						"indices": [
+							44,
+							56
+						]
+					},
+					{
+						"text": "StarTrekVOY",
+						"indices": [
+							78,
+							90
+						]
+					},
+					{
+						"text": "StarTrek",
+						"indices": [
+							117,
+							126
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5gtKvXwNG8",
+						"expanded_url": "http://bit.ly/STVoyagerSeries",
+						"display_url": "bit.ly/STVoyagerSeries",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1482102252500406300,
+						"id_str": "1482102252500406285",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJF8JWkX0A0MI5U.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJF8JWkX0A0MI5U.jpg",
+						"url": "https://t.co/KFBDkcAa5b",
+						"display_url": "pic.twitter.com/KFBDkcAa5b",
+						"expanded_url": "https://twitter.com/StarTrek/status/1482729364752154632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 348,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1482102252500406300,
+						"id_str": "1482102252500406285",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJF8JWkX0A0MI5U.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJF8JWkX0A0MI5U.jpg",
+						"url": "https://t.co/KFBDkcAa5b",
+						"display_url": "pic.twitter.com/KFBDkcAa5b",
+						"expanded_url": "https://twitter.com/StarTrek/status/1482729364752154632/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 348,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 348,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								29
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FJF8JWkX0A0MI5U.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130491582,
+				"id_str": "130491582",
+				"name": "Star Trek",
+				"screen_name": "StarTrek",
+				"location": "",
+				"description": "Welcome to the official Star Trek Twitter! 🖖",
+				"url": "https://t.co/gJ1kmWeR1i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gJ1kmWeR1i",
+								"expanded_url": "http://www.StarTrek.com",
+								"display_url": "StarTrek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 515128,
+				"friends_count": 1123,
+				"listed_count": 4218,
+				"created_at": "Wed Apr 07 12:53:57 +0000 2010",
+				"favourites_count": 26231,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43237,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1281226720410992641/0hR3QibV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281226720410992641/0hR3QibV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130491582/1629239464",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 395,
+			"favorite_count": 1787,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 24,
+		"favorite_count": 240,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is one of my all-time favorite Star Trek quotes: https://t.co/ZDPAsGIcPD https://t.co/ooRbApOiSz"
+	},
+	{
 		"created_at": "Sat Jan 15 21:28:01 +0000 2022",
 		"id": 1482464613052596200,
 		"id_str": "1482464613052596230",
