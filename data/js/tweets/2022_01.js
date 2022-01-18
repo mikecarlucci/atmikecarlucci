@@ -1,6 +1,919 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 02:37:59 +0000 2022",
+		"id": 1483249619119313000,
+		"id_str": "1483267394353119240",
+		"full_text": "Nomar could still hit .300 in the big leagues, he just doesn’t feel like it. https://t.co/dUJadwxEqU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dUJadwxEqU",
+					"expanded_url": "https://twitter.com/tmorgan985/status/1483247597078949893",
+					"display_url": "twitter.com/tmorgan985/sta…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113136762,
+			"id_str": "113136762",
+			"name": "Michael Hurley",
+			"screen_name": "michaelFhurley",
+			"location": "",
+			"description": "I cover sports for @wbz in Boston. If there's one thing I know in this life, we are beggars all.",
+			"url": "https://t.co/HHKiLi5MfP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HHKiLi5MfP",
+							"expanded_url": "http://boston.cbslocal.com/tag/michael-hurley/",
+							"display_url": "boston.cbslocal.com/tag/michael-hu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31951,
+			"friends_count": 282,
+			"listed_count": 700,
+			"created_at": "Wed Feb 10 20:44:52 +0000 2010",
+			"favourites_count": 21479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 127315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDE8E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1466053911022874628/kremaYjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466053911022874628/kremaYjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113136762/1623425469",
+			"profile_link_color": "005596",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "696565",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483247597078950000,
+		"quoted_status_id_str": "1483247597078949893",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dUJadwxEqU",
+			"expanded": "https://twitter.com/tmorgan985/status/1483247597078949893",
+			"display": "twitter.com/tmorgan985/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 18 01:19:19 +0000 2022",
+			"id": 1483247597078950000,
+			"id_str": "1483247597078949893",
+			"full_text": "Hey @tylermilliken_ … here is what a HOF caliber ball player who won Rookie of the Year in 1997 REALLY looks like. I don’t see no cameras on Scott Rolen. https://t.co/F9MXbsLgEA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tylermilliken_",
+						"name": "Tyler Milliken",
+						"id": 2169298901,
+						"id_str": "2169298901",
+						"indices": [
+							4,
+							19
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1483247590481215500,
+						"id_str": "1483247590481215493",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/FJWN0zCWQAUyeSG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJWN0zCWQAUyeSG.jpg",
+						"url": "https://t.co/F9MXbsLgEA",
+						"display_url": "pic.twitter.com/F9MXbsLgEA",
+						"expanded_url": "https://twitter.com/TMorgan985/status/1483247597078949893/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 314,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 947,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1483247590481215500,
+						"id_str": "1483247590481215493",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/FJWN0zCWQAUyeSG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJWN0zCWQAUyeSG.jpg",
+						"url": "https://t.co/F9MXbsLgEA",
+						"display_url": "pic.twitter.com/F9MXbsLgEA",
+						"expanded_url": "https://twitter.com/TMorgan985/status/1483247597078949893/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 314,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 947,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 350891373,
+				"id_str": "350891373",
+				"name": "Tom Morgan",
+				"screen_name": "TMorgan985",
+				"location": "Boston, MA",
+				"description": "T-Bone. Producer @ZoAndBertrand.. M-F 10am-2pm 📻:@985TheSportsHub, 📺: @NBCSBoston.",
+				"url": "https://t.co/T1YvrHyN12",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T1YvrHyN12",
+								"expanded_url": "https://985thesportshub.com/shows/zolak-bertrand/",
+								"display_url": "985thesportshub.com/shows/zolak-be…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2977,
+				"friends_count": 616,
+				"listed_count": 22,
+				"created_at": "Mon Aug 08 13:34:19 +0000 2011",
+				"favourites_count": 1203,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2130,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1437119229929697281/JxpDljyR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437119229929697281/JxpDljyR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350891373/1532035263",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 128,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nomar could still hit .300 in the big leagues, he just doesn’t feel like it. https://t.co/dUJadwxEqU"
+	},
+	{
+		"created_at": "Tue Jan 18 01:56:23 +0000 2022",
+		"id": 1483256924627951600,
+		"id_str": "1483256924627951622",
+		"full_text": "Coco Crisp: the fastest member of Red Sox Nation https://t.co/6e7FFOXNjY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6e7FFOXNjY",
+					"expanded_url": "https://twitter.com/dougherty_jesse/status/1483228670634430466",
+					"display_url": "twitter.com/dougherty_jess…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483228670634430500,
+		"quoted_status_id_str": "1483228670634430466",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6e7FFOXNjY",
+			"expanded": "https://twitter.com/dougherty_jesse/status/1483228670634430466",
+			"display": "twitter.com/dougherty_jess…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 18 00:04:06 +0000 2022",
+			"id": 1483228670634430500,
+			"id_str": "1483228670634430466",
+			"full_text": "Some player development hires by the Nationals, per people with knowledge of the situation: Coco Crisp will be the new outfield/base-running coordinator and Bill Mueller the new quality control coordinator (a restored role for 2022).",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 738125232,
+				"id_str": "738125232",
+				"name": "Jesse Dougherty",
+				"screen_name": "dougherty_jesse",
+				"location": "Washington, D.C.",
+				"description": "Nationals beat writer for @washingtonpost. he/him. Author of BUZZ SAW.",
+				"url": "https://t.co/sXGulJ6ofH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sXGulJ6ofH",
+								"expanded_url": "https://www.washingtonpost.com/sports/",
+								"display_url": "washingtonpost.com/sports/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24980,
+				"friends_count": 751,
+				"listed_count": 838,
+				"created_at": "Sun Aug 05 06:35:05 +0000 2012",
+				"favourites_count": 44817,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54447,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191783215201181696/XGn7hLrN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191783215201181696/XGn7hLrN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/738125232/1596644277",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 272,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coco Crisp: the fastest member of Red Sox Nation https://t.co/6e7FFOXNjY"
+	},
+	{
+		"created_at": "Mon Jan 17 16:26:05 +0000 2022",
+		"id": 1483110012759146500,
+		"id_str": "1483113404214747142",
+		"full_text": "This is bonkers. https://t.co/6JbS4wgW8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6JbS4wgW8c",
+					"expanded_url": "https://twitter.com/JayCuda/status/1483099739612753926",
+					"display_url": "twitter.com/JayCuda/status…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17845694,
+			"id_str": "17845694",
+			"name": "Al Yellon",
+			"screen_name": "bleedcubbieblue",
+			"location": "Chicago",
+			"description": "Bleed Cubbie Blue is SB Nation's Chicago Cubs community.\n\nSome tweets during games from this account will be from Ashley MacLennan (@90feetfromhome), signed AM",
+			"url": "https://t.co/UVt9sjxrc5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UVt9sjxrc5",
+							"expanded_url": "http://www.bleedcubbieblue.com",
+							"display_url": "bleedcubbieblue.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16486,
+			"friends_count": 754,
+			"listed_count": 851,
+			"created_at": "Wed Dec 03 19:31:22 +0000 2008",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "77777F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869200145774247936/IH3q6Ipc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869200145774247936/IH3q6Ipc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17845694/1398439181",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "0D3281",
+			"profile_text_color": "FF000B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483099739612754000,
+		"quoted_status_id_str": "1483099739612753926",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6JbS4wgW8c",
+			"expanded": "https://twitter.com/JayCuda/status/1483099739612753926",
+			"display": "twitter.com/JayCuda/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 17 15:31:47 +0000 2022",
+			"id": 1483099739612754000,
+			"id_str": "1483099739612753926",
+			"full_text": "Record in last 3,470 games\n\nCubs            1,735 - 1,735\nWhite Sox   1,735 - 1,735",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 256542540,
+				"id_str": "256542540",
+				"name": "Jay Cuda",
+				"screen_name": "JayCuda",
+				"location": "Chicago ",
+				"description": "I post about #WhiteSox & MLB statistics ⚾@Stathead • 32 • Golfer ⛳️ Woodworker 🪚• MSU '11 Civil engineering • Drones",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1791,
+				"friends_count": 1402,
+				"listed_count": 19,
+				"created_at": "Wed Feb 23 15:15:27 +0000 2011",
+				"favourites_count": 1106,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4617,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1444273883515920388/5xk7Dztw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444273883515920388/5xk7Dztw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/256542540/1628368883",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 199,
+			"favorite_count": 1538,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is bonkers. https://t.co/6JbS4wgW8c"
+	},
+	{
+		"created_at": "Mon Jan 17 13:49:17 +0000 2022",
+		"id": 1483073946866143200,
+		"id_str": "1483073946866143234",
+		"full_text": "Looked it up and nope nope nope that would be a nightmare https://t.co/hFG8beqv6V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hFG8beqv6V",
+					"expanded_url": "https://twitter.com/awards_watch/status/1482172720422875136",
+					"display_url": "twitter.com/awards_watch/s…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 694,
+			"listed_count": 49,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 102534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1482172720422875100,
+		"quoted_status_id_str": "1482172720422875136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hFG8beqv6V",
+			"expanded": "https://twitter.com/awards_watch/status/1482172720422875136",
+			"display": "twitter.com/awards_watch/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 15 02:08:08 +0000 2022",
+			"id": 1482172720422875100,
+			"id_str": "1482172720422875136",
+			"full_text": "The highest grossing movie from your birth year is how your 2022 will play out",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1544473543,
+				"id_str": "1544473543",
+				"name": "Erik Anderson",
+				"screen_name": "awards_watch",
+				"location": "San Francisco, CA",
+				"description": "Founder/EIC of AwardsWatch | Tracking & predicting Oscars/Emmys/SAG and more | 🍅 | he/him | Member: @DorianAwards @ICSfilm | 🏳️‍🌈 | #BLM | #StopAsianHate",
+				"url": "https://t.co/w4qxomAZO2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w4qxomAZO2",
+								"expanded_url": "http://awardswatch.com",
+								"display_url": "awardswatch.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21089,
+				"friends_count": 4770,
+				"listed_count": 265,
+				"created_at": "Tue Jun 25 00:56:38 +0000 2013",
+				"favourites_count": 29883,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 90410,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1442237872598257664/kzc2zQ4W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442237872598257664/kzc2zQ4W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1544473543/1641522360",
+				"profile_link_color": "998500",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 284,
+			"favorite_count": 3998,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looked it up and nope nope nope that would be a nightmare https://t.co/hFG8beqv6V"
+	},
+	{
 		"created_at": "Sun Jan 16 22:46:56 +0000 2022",
 		"id": 1482846861123858400,
 		"id_str": "1482846861123858435",
