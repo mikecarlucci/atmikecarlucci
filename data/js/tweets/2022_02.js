@@ -1,6 +1,1262 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 09 01:57:01 +0000 2022",
+		"id": 1491229618481016800,
+		"id_str": "1491229618481016833",
+		"full_text": "@Brandon_Warne Pedro\nWakefield\nMatsuzaka\nArroyo\nCy Young",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Brandon_Warne",
+					"name": "Brandon Warne",
+					"id": 2986640033,
+					"id_str": "2986640033",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1491184227425083400,
+		"in_reply_to_status_id_str": "1491184227425083394",
+		"in_reply_to_user_id": 2986640033,
+		"in_reply_to_user_id_str": "2986640033",
+		"in_reply_to_screen_name": "Brandon_Warne",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4352,
+			"friends_count": 686,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "et",
+		"text": "@Brandon_Warne Pedro\nWakefield\nMatsuzaka\nArroyo\nCy Young"
+	},
+	{
+		"created_at": "Tue Feb 08 14:19:47 +0000 2022",
+		"id": 1491054153833271300,
+		"id_str": "1491054153833271296",
+		"full_text": "Thank you @Twitter for the notation so we know he's celebrating https://t.co/gvX8nTlZVf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491053938572996600,
+					"id_str": "1491053938572996615",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FLFJqD2XMAcpQhQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLFJqD2XMAcpQhQ.png",
+					"url": "https://t.co/gvX8nTlZVf",
+					"display_url": "pic.twitter.com/gvX8nTlZVf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1491054153833271296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 91,
+							"h": 91,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 342,
+							"h": 91,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 342,
+							"h": 91,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 342,
+							"h": 91,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491053938572996600,
+					"id_str": "1491053938572996615",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FLFJqD2XMAcpQhQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLFJqD2XMAcpQhQ.png",
+					"url": "https://t.co/gvX8nTlZVf",
+					"display_url": "pic.twitter.com/gvX8nTlZVf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1491054153833271296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 91,
+							"h": 91,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 342,
+							"h": 91,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 342,
+							"h": 91,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 342,
+							"h": 91,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4352,
+			"friends_count": 686,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @Twitter for the notation so we know he's celebrating https://t.co/gvX8nTlZVf"
+	},
+	{
+		"created_at": "Tue Feb 08 14:05:31 +0000 2022",
+		"id": 1491050564947710000,
+		"id_str": "1491050564947709952",
+		"full_text": "@MtgPearl @Wizards @Hasbro The influx of Duel Masters players though who will learn about the rich history of Lotus and Library… 🤣",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MtgPearl",
+					"name": "Players for Ethical Abolishment of Reserve List",
+					"id": 1397251809589203000,
+					"id_str": "1397251809589202945",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Wizards",
+					"name": "Wizards of the Coast",
+					"id": 2990124384,
+					"id_str": "2990124384",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "Hasbro",
+					"name": "Hasbro",
+					"id": 78482616,
+					"id_str": "78482616",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1491044898241671200,
+		"in_reply_to_status_id_str": "1491044898241671169",
+		"in_reply_to_user_id": 1397251809589203000,
+		"in_reply_to_user_id_str": "1397251809589202945",
+		"in_reply_to_screen_name": "MtgPearl",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4352,
+			"friends_count": 686,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MtgPearl @Wizards @Hasbro The influx of Duel Masters players though who will learn about the rich history of Lotus and Library… 🤣"
+	},
+	{
+		"created_at": "Tue Feb 08 14:04:43 +0000 2022",
+		"id": 1491044898241671200,
+		"id_str": "1491050361569701889",
+		"full_text": "There’s absolutely no downside to accessible EDH, Legacy, and Vintage. Product potential is huge. These formats could also do a lot to kick start #mtg OP after several years on life support. This shareholder wants to know why @wizards and @Hasbro are leaving money on the table? https://t.co/EOYbwQPcZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mtg",
+					"indices": [
+						146,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wizards",
+					"name": "Wizards of the Coast",
+					"id": 2990124384,
+					"id_str": "2990124384",
+					"indices": [
+						226,
+						234
+					]
+				},
+				{
+					"screen_name": "Hasbro",
+					"name": "Hasbro",
+					"id": 78482616,
+					"id_str": "78482616",
+					"indices": [
+						239,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EOYbwQPcZB",
+					"expanded_url": "https://twitter.com/foilornithopter/status/1490925160647761925",
+					"display_url": "twitter.com/foilornithopte…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1397251809589203000,
+			"id_str": "1397251809589202945",
+			"name": "Players for Ethical Abolishment of Reserve List",
+			"screen_name": "MtgPearl",
+			"location": "",
+			"description": "Players supporting the ethical abolishment of the #mtg Reserve List. Demand @hasbro and @wizards_magic take action now.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 932,
+			"listed_count": 3,
+			"created_at": "Tue May 25 18:02:56 +0000 2021",
+			"favourites_count": 576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397252218663940099/Mh38U-Rn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397252218663940099/Mh38U-Rn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1397251809589202945/1637417080",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490925160647762000,
+		"quoted_status_id_str": "1490925160647761925",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EOYbwQPcZB",
+			"expanded": "https://twitter.com/foilornithopter/status/1490925160647761925",
+			"display": "twitter.com/foilornithopte…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 08 05:47:13 +0000 2022",
+			"id": 1490925160647762000,
+			"id_str": "1490925160647761925",
+			"full_text": "@T1GlistenerElf @Jake_FitzSimons @MtgPearl I guess what I’m getting at is I want to PLAY magic... this pandemic is stressful... I hate slabbed cards, I want you to crack your lotus, play that dual (so I can wasteland it.), tabernacle an elves player...etc I think too many people forget this is a game and ment to be fun.",
+			"truncated": false,
+			"display_text_range": [
+				43,
+				321
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "T1GlistenerElf",
+						"name": "T1GlistenerElf, Doctor of Phyrexian History",
+						"id": 146235390,
+						"id_str": "146235390",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "Jake_FitzSimons",
+						"name": "Jake FitzSimons",
+						"id": 777874926933909500,
+						"id_str": "777874926933909508",
+						"indices": [
+							16,
+							32
+						]
+					},
+					{
+						"screen_name": "MtgPearl",
+						"name": "Players for Ethical Abolishment of Reserve List",
+						"id": 1397251809589203000,
+						"id_str": "1397251809589202945",
+						"indices": [
+							33,
+							42
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1490923982836891600,
+			"in_reply_to_status_id_str": "1490923982836891649",
+			"in_reply_to_user_id": 803044747631796200,
+			"in_reply_to_user_id_str": "803044747631796224",
+			"in_reply_to_screen_name": "foilornithopter",
+			"user": {
+				"id": 803044747631796200,
+				"id_str": "803044747631796224",
+				"name": "Foil Ornithopter",
+				"screen_name": "foilornithopter",
+				"location": "",
+				"description": "MTG & other Trading card games | Gacha Gamer | Promoting a Positive Gaming Environment that is Censorship Free.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 108,
+				"friends_count": 361,
+				"listed_count": 3,
+				"created_at": "Mon Nov 28 01:16:02 +0000 2016",
+				"favourites_count": 10197,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2598,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854037233849913344/SOlJ4izT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854037233849913344/SOlJ4izT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/803044747631796224/1605406512",
+				"profile_link_color": "8AD1BA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s absolutely no downside to accessible EDH, Legacy, and Vintage. Product potential is huge. These formats could also do a lot to kick start #mtg OP after several years on life support. This shareholder wants to know why @wizards and @Hasbro are leaving money on the table? https://t.co/EOYbwQPcZB"
+	},
+	{
+		"created_at": "Tue Feb 08 13:59:04 +0000 2022",
+		"id": 1491048942221475800,
+		"id_str": "1491048942221475844",
+		"full_text": "@Kevin_Goldstein I’ve wondered if teams are looking for “back office” people that are tracking data and findings somewhere, defining the internal systems/metrics/language and understanding if not always doing analytics themselves.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kevin_Goldstein",
+					"name": "Kevin Goldstein",
+					"id": 661313,
+					"id_str": "661313",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1490856596024529000,
+		"in_reply_to_status_id_str": "1490856596024528896",
+		"in_reply_to_user_id": 661313,
+		"in_reply_to_user_id_str": "661313",
+		"in_reply_to_screen_name": "Kevin_Goldstein",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4352,
+			"friends_count": 686,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Kevin_Goldstein I’ve wondered if teams are looking for “back office” people that are tracking data and findings somewhere, defining the internal systems/metrics/language and understanding if not always doing analytics themselves."
+	},
+	{
+		"created_at": "Tue Feb 08 13:30:10 +0000 2022",
+		"id": 1491041666819571700,
+		"id_str": "1491041666819571715",
+		"full_text": "OTM Open Thread 2/8: It is Tuesday and let’s hope for news day? https://t.co/SaP5xISbBz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SaP5xISbBz",
+					"expanded_url": "https://www.overthemonster.com/2022/2/8/22922803/otm-open-thread-2-8-it-is-tuesday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/2/8/22922…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4352,
+			"friends_count": 686,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 2/8: It is Tuesday and let’s hope for news day? https://t.co/SaP5xISbBz"
+	},
+	{
+		"created_at": "Tue Feb 08 13:29:03 +0000 2022",
+		"id": 1491041387760205800,
+		"id_str": "1491041387760205828",
+		"full_text": "@TolarianCollege Don’t worry: they can print all those cards for another game instead! Introduce players to the rich history of MTG https://t.co/akPezKweHV",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TolarianCollege",
+					"name": "Tolarian Community College",
+					"id": 2442432306,
+					"id_str": "2442432306",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/akPezKweHV",
+					"expanded_url": "https://twitter.com/starcityben/status/1490711660134342660",
+					"display_url": "twitter.com/starcityben/st…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1490891211204292600,
+		"in_reply_to_status_id_str": "1490891211204292608",
+		"in_reply_to_user_id": 2442432306,
+		"in_reply_to_user_id_str": "2442432306",
+		"in_reply_to_screen_name": "TolarianCollege",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4352,
+			"friends_count": 686,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490711660134342700,
+		"quoted_status_id_str": "1490711660134342660",
+		"quoted_status_permalink": {
+			"url": "https://t.co/akPezKweHV",
+			"expanded": "https://twitter.com/starcityben/status/1490711660134342660",
+			"display": "twitter.com/starcityben/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 07 15:38:50 +0000 2022",
+			"id": 1490711660134342700,
+			"id_str": "1490711660134342660",
+			"full_text": "Duel Masters (a game made by Wizards of the Coast) is celebrating their 20th Anniversary with a series of MTG-themed cards. These cards have Duel Masters backs, Duel Masters stats, but use the old MTG border. They include Black Lotus, Nicol Bolas, and Sliver Queen! #MTG https://t.co/8HHdoC0MoL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MTG",
+						"indices": [
+							266,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1490711645034844200,
+						"id_str": "1490711645034844165",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FLASV9DXEAUwKhh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLASV9DXEAUwKhh.jpg",
+						"url": "https://t.co/8HHdoC0MoL",
+						"display_url": "pic.twitter.com/8HHdoC0MoL",
+						"expanded_url": "https://twitter.com/StarCityBen/status/1490711660134342660/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 650,
+								"h": 908,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 908,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1490711645034844200,
+						"id_str": "1490711645034844165",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FLASV9DXEAUwKhh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLASV9DXEAUwKhh.jpg",
+						"url": "https://t.co/8HHdoC0MoL",
+						"display_url": "pic.twitter.com/8HHdoC0MoL",
+						"expanded_url": "https://twitter.com/StarCityBen/status/1490711660134342660/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 650,
+								"h": 908,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 908,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1490711645009686500,
+						"id_str": "1490711645009686534",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FLASV89XMAYYsYy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLASV89XMAYYsYy.jpg",
+						"url": "https://t.co/8HHdoC0MoL",
+						"display_url": "pic.twitter.com/8HHdoC0MoL",
+						"expanded_url": "https://twitter.com/StarCityBen/status/1490711660134342660/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 650,
+								"h": 908,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 908,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1490711645018067000,
+						"id_str": "1490711645018066949",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FLASV8_XEAUCQf2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLASV8_XEAUCQf2.jpg",
+						"url": "https://t.co/8HHdoC0MoL",
+						"display_url": "pic.twitter.com/8HHdoC0MoL",
+						"expanded_url": "https://twitter.com/StarCityBen/status/1490711660134342660/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29992758,
+				"id_str": "29992758",
+				"name": "Ben Bleiweiss",
+				"screen_name": "StarCityBen",
+				"location": "Roanoke, VA",
+				"description": "General Manager of Sales @starcitygames. Considered the father of MTG finance writing, published author, and father/husband. He/Him.",
+				"url": "https://t.co/jm7nHzktZU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jm7nHzktZU",
+								"expanded_url": "http://starcitygames.com",
+								"display_url": "starcitygames.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4441,
+				"friends_count": 269,
+				"listed_count": 72,
+				"created_at": "Thu Apr 09 14:23:31 +0000 2009",
+				"favourites_count": 4367,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8743,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182673916470484992/3esN9ywn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182673916470484992/3esN9ywn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29992758/1578434860",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 589,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TolarianCollege Don’t worry: they can print all those cards for another game instead! Introduce players to the rich history of MTG https://t.co/akPezKweHV"
+	},
+	{
 		"created_at": "Tue Feb 08 00:36:38 +0000 2022",
 		"id": 1490847002418380800,
 		"id_str": "1490847002418380800",
