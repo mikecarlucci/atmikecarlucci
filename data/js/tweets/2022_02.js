@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 20:22:59 +0000 2022",
+		"id": 1493668312215023600,
+		"id_str": "1493682271395667971",
+		"full_text": "I command you to read: This thread on minor league conditions and what's holding back improvements. https://t.co/nPAZblgxSK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nPAZblgxSK",
+					"expanded_url": "https://twitter.com/jaseidler/status/1493660139806769152",
+					"display_url": "twitter.com/jaseidler/stat…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96690588,
+			"id_str": "96690588",
+			"name": "Russell A. Carleton",
+			"screen_name": "pizzacutter4",
+			"location": "Atlanta, GA",
+			"description": "Author of \"The Shift\" from @TriumphBooks  (https://t.co/1fHmnNhz7g). Contributor to @baseballpro. Quad-A Sabermetrician. He/Him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1fHmnNhz7g",
+							"expanded_url": "http://amzn.to/2xeCIiT",
+							"display_url": "amzn.to/2xeCIiT",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6894,
+			"friends_count": 1414,
+			"listed_count": 342,
+			"created_at": "Mon Dec 14 04:08:57 +0000 2009",
+			"favourites_count": 1181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118611556017823744/qyr4eBiR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118611556017823744/qyr4eBiR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96690588/1517367835",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493660139806769200,
+		"quoted_status_id_str": "1493660139806769152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nPAZblgxSK",
+			"expanded": "https://twitter.com/jaseidler/status/1493660139806769152",
+			"display": "twitter.com/jaseidler/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 15 18:55:02 +0000 2022",
+			"id": 1493660139806769200,
+			"id_str": "1493660139806769152",
+			"full_text": "I did a presentation at SaberSeminar three and a half years ago with @jeffpaternostro about ways to improve the minors; one of our main points was player development was being inhibited by food and housing insecurity, poor acculturation, etc.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jeffpaternostro",
+						"name": "Jeffrey Paternostro",
+						"id": 276672049,
+						"id_str": "276672049",
+						"indices": [
+							69,
+							85
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 696035028036382700,
+				"id_str": "696035028036382720",
+				"name": "Jarrett Seidler",
+				"screen_name": "jaseidler",
+				"location": "New Jersey (he/him)",
+				"description": "Senior prospect writer and evaluation coordinator at @baseballpro, podcast co-host at @forallyoukids, opinions on this hellsite entirely mine",
+				"url": "https://t.co/3XCoRGnZUR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3XCoRGnZUR",
+								"expanded_url": "https://www.baseballprospectus.com/author/jarrett_seidler/",
+								"display_url": "baseballprospectus.com/author/jarrett…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4193,
+				"friends_count": 782,
+				"listed_count": 153,
+				"created_at": "Sat Feb 06 18:17:37 +0000 2016",
+				"favourites_count": 10533,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42938,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330673349014528000/gNGsfHYR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330673349014528000/gNGsfHYR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/696035028036382720/1468962586",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I command you to read: This thread on minor league conditions and what's holding back improvements. https://t.co/nPAZblgxSK"
+	},
+	{
+		"created_at": "Tue Feb 15 15:31:35 +0000 2022",
+		"id": 1493608936590782500,
+		"id_str": "1493608936590782464",
+		"full_text": "This is a weirdly specific IP disclaimer for essentially an ad on the main D+ account about a chipmunk detective movie. https://t.co/csNdbIUSam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/csNdbIUSam",
+					"expanded_url": "https://twitter.com/disneyplus/status/1493602712335917065",
+					"display_url": "twitter.com/disneyplus/sta…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4353,
+			"friends_count": 687,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493602712335917000,
+		"quoted_status_id_str": "1493602712335917065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/csNdbIUSam",
+			"expanded": "https://twitter.com/disneyplus/status/1493602712335917065",
+			"display": "twitter.com/disneyplus/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 15 15:06:51 +0000 2022",
+			"id": 1493602712335917000,
+			"id_str": "1493602712335917065",
+			"full_text": "It's not a reboot. It's a comeback.\n \nChip 'n Dale: #RescueRangers, an all-new, never-done-before, completely 100% Original movie (based on pre-existing IP owned by Disney), streaming May 20 on #DisneyPlus. https://t.co/tlsCzElKjC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RescueRangers",
+						"indices": [
+							52,
+							66
+						]
+					},
+					{
+						"text": "DisneyPlus",
+						"indices": [
+							194,
+							205
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1493602666349539300,
+						"id_str": "1493602666349539336",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/FLpXtitXMAguSd1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLpXtitXMAguSd1.jpg",
+						"url": "https://t.co/tlsCzElKjC",
+						"display_url": "pic.twitter.com/tlsCzElKjC",
+						"expanded_url": "https://twitter.com/disneyplus/status/1493602712335917065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 961,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1640,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1493602666349539300,
+						"id_str": "1493602666349539336",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/FLpXtitXMAguSd1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLpXtitXMAguSd1.jpg",
+						"url": "https://t.co/tlsCzElKjC",
+						"display_url": "pic.twitter.com/tlsCzElKjC",
+						"expanded_url": "https://twitter.com/disneyplus/status/1493602712335917065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 961,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1640,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 985916593065476100,
+				"id_str": "985916593065476096",
+				"name": "Disney+",
+				"screen_name": "disneyplus",
+				"location": "",
+				"description": "Celebrate the stories you love. #DisneyPlus",
+				"url": "https://t.co/ZLXG5Qcfms",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZLXG5Qcfms",
+								"expanded_url": "http://DisneyPlus.com",
+								"display_url": "DisneyPlus.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3239414,
+				"friends_count": 224,
+				"listed_count": 5033,
+				"created_at": "Mon Apr 16 16:23:28 +0000 2018",
+				"favourites_count": 1601,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36304,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487488412382683136/zGEQnPJp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487488412382683136/zGEQnPJp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985916593065476096/1643702405",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1322,
+			"favorite_count": 7568,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a weirdly specific IP disclaimer for essentially an ad on the main D+ account about a chipmunk detective movie. https://t.co/csNdbIUSam"
+	},
+	{
+		"created_at": "Tue Feb 15 13:30:02 +0000 2022",
+		"id": 1493578348383121400,
+		"id_str": "1493578348383121410",
+		"full_text": "OTM Open Thread 2/15: It is Tuesday and cold https://t.co/82PUUwW2bo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/82PUUwW2bo",
+					"expanded_url": "https://www.overthemonster.com/2022/2/15/22934137/otm-open-thread-2-15-it-is-tuesday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/2/15/2293…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern.   @l_kyllonen is my better half",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4353,
+			"friends_count": 687,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 2/15: It is Tuesday and cold https://t.co/82PUUwW2bo"
+	},
+	{
 		"created_at": "Tue Feb 15 01:39:41 +0000 2022",
 		"id": 1493399584650977300,
 		"id_str": "1493399584650977283",
