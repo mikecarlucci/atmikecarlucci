@@ -1,6 +1,1114 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 18:21:04 +0000 2022",
+		"id": 1495460288820179000,
+		"id_str": "1495463531478667266",
+		"full_text": "#OTD in 1992, @TheSimpsons' \"Homer at the Bat\" episode aired for the first time. #SABR members, download your free e-book copy of \"Nuclear Powered Baseball,\" our book celebrating this classic episode: https://t.co/S1ifisPcmI https://t.co/RfE1kYNdEj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OTD",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "SABR",
+					"indices": [
+						81,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheSimpsons",
+					"name": "The Simpsons",
+					"id": 755953153,
+					"id_str": "755953153",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S1ifisPcmI",
+					"expanded_url": "https://sabr.org/latest/sabr-digital-library-nuclear-powered-baseball-articles-inspired-by-the-simpsons-episode-homer-at-the-bat/",
+					"display_url": "sabr.org/latest/sabr-di…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495460286446243800,
+					"id_str": "1495460286446243842",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FMDxNQ1VEAI19e6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMDxNQ1VEAI19e6.jpg",
+					"url": "https://t.co/RfE1kYNdEj",
+					"display_url": "pic.twitter.com/RfE1kYNdEj",
+					"expanded_url": "https://twitter.com/sabr/status/1495460288820178944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495460286446243800,
+					"id_str": "1495460286446243842",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FMDxNQ1VEAI19e6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMDxNQ1VEAI19e6.jpg",
+					"url": "https://t.co/RfE1kYNdEj",
+					"display_url": "pic.twitter.com/RfE1kYNdEj",
+					"expanded_url": "https://twitter.com/sabr/status/1495460288820178944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18104452,
+			"id_str": "18104452",
+			"name": "SABR",
+			"screen_name": "sabr",
+			"location": "Phoenix, Arizona",
+			"description": "The Society for American Baseball Research is open to all baseball fans. Visit us at https://t.co/dBDJrZqP1B. Tweets by SABR's Director of Editorial Content.",
+			"url": "https://t.co/dBDJrZqP1B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dBDJrZqP1B",
+							"expanded_url": "http://sabr.org",
+							"display_url": "sabr.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dBDJrZqP1B",
+							"expanded_url": "http://sabr.org",
+							"display_url": "sabr.org",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 69852,
+			"friends_count": 5039,
+			"listed_count": 1695,
+			"created_at": "Sat Dec 13 20:35:00 +0000 2008",
+			"favourites_count": 30748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00801A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/691930343524405248/BrghZ69y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/691930343524405248/BrghZ69y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18104452/1453508625",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "00801A",
+			"profile_sidebar_fill_color": "E3E6E4",
+			"profile_text_color": "171717",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 50,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OTD in 1992, @TheSimpsons' \"Homer at the Bat\" episode aired for the first time. #SABR members, download your free e-book copy of \"Nuclear Powered Baseball,\" our book celebrating this classic episode: https://t.co/S1ifisPcmI https://t.co/RfE1kYNdEj"
+	},
+	{
+		"created_at": "Sun Feb 20 16:42:48 +0000 2022",
+		"id": 1495371336373448700,
+		"id_str": "1495438800465674264",
+		"full_text": "@TheHyyyype https://t.co/qtFM3CxZxK",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheHyyyype",
+					"name": "the hype",
+					"id": 242906748,
+					"id_str": "242906748",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495371289661476900,
+					"id_str": "1495371289661476867",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FMCgQ9-XEAMk-Hq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMCgQ9-XEAMk-Hq.jpg",
+					"url": "https://t.co/qtFM3CxZxK",
+					"display_url": "pic.twitter.com/qtFM3CxZxK",
+					"expanded_url": "https://twitter.com/FarrasUzma/status/1495371336373448704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495371289661476900,
+					"id_str": "1495371289661476867",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FMCgQ9-XEAMk-Hq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMCgQ9-XEAMk-Hq.jpg",
+					"url": "https://t.co/qtFM3CxZxK",
+					"display_url": "pic.twitter.com/qtFM3CxZxK",
+					"expanded_url": "https://twitter.com/FarrasUzma/status/1495371336373448704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1495136300638351400,
+		"in_reply_to_status_id_str": "1495136300638351361",
+		"in_reply_to_user_id": 242906748,
+		"in_reply_to_user_id_str": "242906748",
+		"in_reply_to_screen_name": "TheHyyyype",
+		"user": {
+			"id": 1478654004406096000,
+			"id_str": "1478654004406095872",
+			"name": "FarrasUzma 🇮🇩 how did issue 14 come in yt ",
+			"screen_name": "FarrasUzma",
+			"location": "Sector B-801Y",
+			"description": "Farras/Far | She/her | Fanimonstar | BoBoiBoy Comic faces collector | Cat pic collector (add them BBB hat) | I RT a lot\n\nI always keep my pfp as a cute Thornie",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21,
+			"friends_count": 96,
+			"listed_count": 0,
+			"created_at": "Wed Jan 05 09:07:24 +0000 2022",
+			"favourites_count": 2721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1480198124882862084/B0-hHHnG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1480198124882862084/B0-hHHnG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1478654004406095872/1644309480",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 547,
+		"favorite_count": 5210,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TheHyyyype https://t.co/qtFM3CxZxK"
+	},
+	{
+		"created_at": "Sun Feb 20 13:41:47 +0000 2022",
+		"id": 1495393246075400200,
+		"id_str": "1495393246075400194",
+		"full_text": "https://t.co/CYHlTDVnOm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495393240685686800,
+					"id_str": "1495393240685686784",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMC0Or6XMAALg_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMC0Or6XMAALg_l.jpg",
+					"url": "https://t.co/CYHlTDVnOm",
+					"display_url": "pic.twitter.com/CYHlTDVnOm",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1495393246075400194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495393240685686800,
+					"id_str": "1495393240685686784",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMC0Or6XMAALg_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMC0Or6XMAALg_l.jpg",
+					"url": "https://t.co/CYHlTDVnOm",
+					"display_url": "pic.twitter.com/CYHlTDVnOm",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1495393246075400194/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							43
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FMC0Or6XMAALg_l.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4355,
+			"friends_count": 688,
+			"listed_count": 0,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/CYHlTDVnOm"
+	},
+	{
+		"created_at": "Sun Feb 20 13:30:01 +0000 2022",
+		"id": 1495390286469550000,
+		"id_str": "1495390286469550082",
+		"full_text": "OTM Open Thread 2/20: It is Sunday, Sunday, Sunday! https://t.co/0l97Danrgv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0l97Danrgv",
+					"expanded_url": "https://www.overthemonster.com/2022/2/20/22942805/otm-open-thread-2-20-it-is-sunday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/2/20/2294…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4355,
+			"friends_count": 688,
+			"listed_count": 0,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 2/20: It is Sunday, Sunday, Sunday! https://t.co/0l97Danrgv"
+	},
+	{
+		"created_at": "Sun Feb 20 13:01:42 +0000 2022",
+		"id": 1495383158048628700,
+		"id_str": "1495383158048628742",
+		"full_text": "@AndyMPatrick https://t.co/yO8sjVu1r1",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndyMPatrick",
+					"name": "Andrew Patrick",
+					"id": 44835530,
+					"id_str": "44835530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495383152520487000,
+					"id_str": "1495383152520486922",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMCrDekWYAoz9TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMCrDekWYAoz9TX.jpg",
+					"url": "https://t.co/yO8sjVu1r1",
+					"display_url": "pic.twitter.com/yO8sjVu1r1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1495383158048628742/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495383152520487000,
+					"id_str": "1495383152520486922",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMCrDekWYAoz9TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMCrDekWYAoz9TX.jpg",
+					"url": "https://t.co/yO8sjVu1r1",
+					"display_url": "pic.twitter.com/yO8sjVu1r1",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1495383158048628742/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FMCrDekWYAoz9TX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1495257314672087000,
+		"in_reply_to_status_id_str": "1495257314672087040",
+		"in_reply_to_user_id": 44835530,
+		"in_reply_to_user_id_str": "44835530",
+		"in_reply_to_screen_name": "AndyMPatrick",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4355,
+			"friends_count": 688,
+			"listed_count": 0,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@AndyMPatrick https://t.co/yO8sjVu1r1"
+	},
+	{
+		"created_at": "Sun Feb 20 04:36:20 +0000 2022",
+		"id": 1495255977498755000,
+		"id_str": "1495255977498755074",
+		"full_text": "Heavy https://t.co/d3RNPWSdSy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d3RNPWSdSy",
+					"expanded_url": "https://twitter.com/oed/status/436198872055316480",
+					"display_url": "twitter.com/oed/status/436…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4355,
+			"friends_count": 688,
+			"listed_count": 0,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 436198872055316500,
+		"quoted_status_id_str": "436198872055316480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d3RNPWSdSy",
+			"expanded": "https://twitter.com/oed/status/436198872055316480",
+			"display": "twitter.com/oed/status/436…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 19 18:01:29 +0000 2014",
+			"id": 436198872055316500,
+			"id_str": "436198872055316480",
+			"full_text": "‘Back to the Future’ provides the OED's earliest ex. of ‘hello’ implying that a person is not paying attention: http://t.co/HDy2RP7WuZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "http://t.co/HDy2RP7WuZ",
+						"expanded_url": "http://oxford.ly/N957vf",
+						"display_url": "oxford.ly/N957vf",
+						"indices": [
+							112,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 126002546,
+				"id_str": "126002546",
+				"name": "The OED",
+				"screen_name": "OED",
+				"location": "",
+				"description": "The Oxford English Dictionary is the definitive record of the English language, featuring 600,000 words, 3 million quotations, and over 1,000 years of English.",
+				"url": "http://t.co/mBtplfKdju",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/mBtplfKdju",
+								"expanded_url": "http://www.oed.com/",
+								"display_url": "oed.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 208906,
+				"friends_count": 427,
+				"listed_count": 3001,
+				"created_at": "Wed Mar 24 14:47:12 +0000 2010",
+				"favourites_count": 3382,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13067,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000066",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118169229184962561/ESCMBvmZ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118169229184962561/ESCMBvmZ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/126002546/1556100697",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 246,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Heavy https://t.co/d3RNPWSdSy"
+	},
+	{
 		"created_at": "Fri Feb 18 18:32:01 +0000 2022",
 		"id": 1494741508557320200,
 		"id_str": "1494741508557320192",
