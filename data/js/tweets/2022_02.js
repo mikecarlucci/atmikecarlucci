@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 02:10:04 +0000 2022",
+		"id": 1495931833791533000,
+		"id_str": "1495943946127691779",
+		"full_text": "\"just as shampoo could coexist with conditioner in a single bottle, &amp; even as a spoon &amp; a fork could be combined into one piece of cutlery, so had hostess contrived a doughnut that contains up to 70mg of caffeine\" https://t.co/GgCFHXPzEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GgCFHXPzEN",
+					"expanded_url": "https://twitter.com/thetimes/status/1495869862132031495",
+					"display_url": "twitter.com/thetimes/statu…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22581994,
+			"id_str": "22581994",
+			"name": "alexandra j. roberts",
+			"screen_name": "lexlanham",
+			"location": "boston & nh",
+			"description": "law professor teaching & writing on trademarks, entertainment law, contracts, false advertising, influencers, & law/literature at @unhlaw & @uofnh. she/her.",
+			"url": "https://t.co/rQJzOFCU6Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rQJzOFCU6Y",
+							"expanded_url": "https://law.unh.edu/person/alexandra-j-roberts",
+							"display_url": "law.unh.edu/person/alexand…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13415,
+			"friends_count": 5913,
+			"listed_count": 252,
+			"created_at": "Tue Mar 03 04:05:16 +0000 2009",
+			"favourites_count": 102526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727475343787982848/YUP4lXDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22581994/1601944342",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1495869862132031500,
+		"quoted_status_id_str": "1495869862132031495",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GgCFHXPzEN",
+			"expanded": "https://twitter.com/thetimes/status/1495869862132031495",
+			"display": "twitter.com/thetimes/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 21 21:15:41 +0000 2022",
+			"id": 1495869862132031500,
+			"id_str": "1495869862132031495",
+			"full_text": "Baker meets US demand for doughnuts containing almost as much caffeine as a small coffee ☕  https://t.co/m5z6sQYsvj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/m5z6sQYsvj",
+						"expanded_url": "https://www.thetimes.co.uk/article/it-gives-you-rings-the-caffeine-doughnut-with-a-kick-like-coffee-8jx6823bl?utm_medium=Social&utm_source=Twitter#Echobox=1645473476",
+						"display_url": "thetimes.co.uk/article/it-giv…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6107422,
+				"id_str": "6107422",
+				"name": "The Times",
+				"screen_name": "thetimes",
+				"location": "London",
+				"description": "The best of our journalism.\nSubscribe here: https://t.co/Kq4ItERnQC\nSpeak to our customer service team: https://t.co/VIDSflmdIL",
+				"url": "http://t.co/GAsNZkMcoP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/GAsNZkMcoP",
+								"expanded_url": "http://www.thetimes.co.uk",
+								"display_url": "thetimes.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Kq4ItERnQC",
+								"expanded_url": "http://thetim.es/subscribe",
+								"display_url": "thetim.es/subscribe",
+								"indices": [
+									44,
+									67
+								]
+							},
+							{
+								"url": "https://t.co/VIDSflmdIL",
+								"expanded_url": "http://thetimes.co.uk/livechat",
+								"display_url": "thetimes.co.uk/livechat",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1648019,
+				"friends_count": 789,
+				"listed_count": 13259,
+				"created_at": "Thu May 17 13:35:19 +0000 2007",
+				"favourites_count": 2244,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 247094,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EFEFEF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273572997614440450/ULkR08Er_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273572997614440450/ULkR08Er_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6107422/1627548246",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"just as shampoo could coexist with conditioner in a single bottle, &amp; even as a spoon &amp; a fork could be combined into one piece of cutlery, so had hostess contrived a doughnut that contains up to 70mg of caffeine\" https://t.co/GgCFHXPzEN"
+	},
+	{
+		"created_at": "Mon Feb 21 13:30:10 +0000 2022",
+		"id": 1495752708225179600,
+		"id_str": "1495752708225179654",
+		"full_text": "OTM Open Thread 2/21: It is Monday and the start of a promising week https://t.co/01v3bxnVdM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/01v3bxnVdM",
+					"expanded_url": "https://www.overthemonster.com/2022/2/21/22943851/otm-open-thread-2-21-it-is-monday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/2/21/2294…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4358,
+			"friends_count": 688,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 103877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 2/21: It is Monday and the start of a promising week https://t.co/01v3bxnVdM"
+	},
+	{
 		"created_at": "Sun Feb 20 18:21:04 +0000 2022",
 		"id": 1495460288820179000,
 		"id_str": "1495463531478667266",
