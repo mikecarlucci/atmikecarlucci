@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 17:46:33 +0000 2022",
+		"id": 1498328295162757000,
+		"id_str": "1498353947374985218",
+		"full_text": "*cracks knuckles, ready to make the worst tweet of his time*\n\nAh, so now he's willing to change positions. https://t.co/1ZE0VXPzcI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1ZE0VXPzcI",
+					"expanded_url": "https://twitter.com/CraigMish/status/1498326610210172930",
+					"display_url": "twitter.com/CraigMish/stat…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21119272,
+			"id_str": "21119272",
+			"name": "OverTheMonster",
+			"screen_name": "OverTheMonster",
+			"location": "Boston, Massachusetts",
+			"description": "An unofficial Red Sox blog. Tweets from Matt Collins & the occasional robot. Ask questions at otmmailbag@gmail.com",
+			"url": "https://t.co/3iNEMMat4o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3iNEMMat4o",
+							"expanded_url": "http://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19666,
+			"friends_count": 300,
+			"listed_count": 926,
+			"created_at": "Tue Feb 17 19:17:06 +0000 2009",
+			"favourites_count": 1363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21119272/1566005171",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498326610210173000,
+		"quoted_status_id_str": "1498326610210172930",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1ZE0VXPzcI",
+			"expanded": "https://twitter.com/CraigMish/status/1498326610210172930",
+			"display": "twitter.com/CraigMish/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 28 15:57:56 +0000 2022",
+			"id": 1498326610210173000,
+			"id_str": "1498326610210172930",
+			"full_text": "Derek Jeter and the Miami Marlins have decided to mutually part ways. He will step down as CEO effective immediately per sources.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57556407,
+				"id_str": "57556407",
+				"name": "Craig Mish",
+				"screen_name": "CraigMish",
+				"location": "Florida, USA",
+				"description": "@sportsgrid 12-1 EST @Marlins podcast @swingsandmishes @heraldsports Senior Baseball Contributor @mlbnetwork contributor",
+				"url": "https://t.co/CPi6hako4n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CPi6hako4n",
+								"expanded_url": "http://craigmish.com",
+								"display_url": "craigmish.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33047,
+				"friends_count": 1267,
+				"listed_count": 777,
+				"created_at": "Fri Jul 17 04:52:57 +0000 2009",
+				"favourites_count": 7786,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33230,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1466448323846590470/wg1Xb1Ge_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466448323846590470/wg1Xb1Ge_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57556407/1513293904",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 900,
+			"favorite_count": 3822,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 35,
+		"favorite_count": 322,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*cracks knuckles, ready to make the worst tweet of his time*\n\nAh, so now he's willing to change positions. https://t.co/1ZE0VXPzcI"
+	},
+	{
+		"created_at": "Mon Feb 28 16:03:08 +0000 2022",
+		"id": 1498327918774206500,
+		"id_str": "1498327918774206467",
+		"full_text": "https://t.co/B76jiiVQdt https://t.co/vKp0OVKSyF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B76jiiVQdt",
+					"expanded_url": "https://twitter.com/craigmish/status/1498326610210172930",
+					"display_url": "twitter.com/craigmish/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1498327912482848800,
+					"id_str": "1498327912482848775",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMshTESXwAc95hX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMshTESXwAc95hX.jpg",
+					"url": "https://t.co/vKp0OVKSyF",
+					"display_url": "pic.twitter.com/vKp0OVKSyF",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1498327918774206467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498327912482848800,
+					"id_str": "1498327912482848775",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMshTESXwAc95hX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMshTESXwAc95hX.jpg",
+					"url": "https://t.co/vKp0OVKSyF",
+					"display_url": "pic.twitter.com/vKp0OVKSyF",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1498327918774206467/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							122
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FMshTESXwAc95hX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4358,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 104202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498326610210173000,
+		"quoted_status_id_str": "1498326610210172930",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B76jiiVQdt",
+			"expanded": "https://twitter.com/craigmish/status/1498326610210172930",
+			"display": "twitter.com/craigmish/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 28 15:57:56 +0000 2022",
+			"id": 1498326610210173000,
+			"id_str": "1498326610210172930",
+			"full_text": "Derek Jeter and the Miami Marlins have decided to mutually part ways. He will step down as CEO effective immediately per sources.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57556407,
+				"id_str": "57556407",
+				"name": "Craig Mish",
+				"screen_name": "CraigMish",
+				"location": "Florida, USA",
+				"description": "@sportsgrid 12-1 EST @Marlins podcast @swingsandmishes @heraldsports Senior Baseball Contributor @mlbnetwork contributor",
+				"url": "https://t.co/CPi6hako4n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CPi6hako4n",
+								"expanded_url": "http://craigmish.com",
+								"display_url": "craigmish.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33047,
+				"friends_count": 1267,
+				"listed_count": 777,
+				"created_at": "Fri Jul 17 04:52:57 +0000 2009",
+				"favourites_count": 7786,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33230,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1466448323846590470/wg1Xb1Ge_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466448323846590470/wg1Xb1Ge_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57556407/1513293904",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 900,
+			"favorite_count": 3822,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/B76jiiVQdt https://t.co/vKp0OVKSyF"
+	},
+	{
 		"created_at": "Sun Feb 27 20:27:04 +0000 2022",
 		"id": 1498031951634124800,
 		"id_str": "1498031951634124805",
