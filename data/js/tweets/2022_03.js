@@ -1,6 +1,901 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 23:18:26 +0000 2022",
+		"id": 1499521508841902000,
+		"id_str": "1499524631249707013",
+		"full_text": "If somebody wanted to kill baseball, they're doing a pretty good job of it. I think of so many happy afternoons and evenings at the ballpark with friends and family, many long gone. It makes me livid, but even more sorrowful. How dare they ruin such a beautiful game.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36711022,
+			"id_str": "36711022",
+			"name": "Dan Rather",
+			"screen_name": "DanRather",
+			"location": "New York, NY",
+			"description": "Journalist, storyteller, lifelong reader. Texan by birth and by choice. Author of STEADY https://t.co/X9tSkEFrIv and WHAT UNITES US #WhatUnitesUs",
+			"url": "https://t.co/uhwukTnxTm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uhwukTnxTm",
+							"expanded_url": "http://algonquin.com/whatunitesus",
+							"display_url": "algonquin.com/whatunitesus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/X9tSkEFrIv",
+							"expanded_url": "http://steady.substack.com",
+							"display_url": "steady.substack.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2415714,
+			"friends_count": 1040,
+			"listed_count": 8499,
+			"created_at": "Thu Apr 30 16:56:13 +0000 2009",
+			"favourites_count": 11245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/649334374278807552/sUX0LOaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/649334374278807552/sUX0LOaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36711022/1446650131",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1560,
+		"favorite_count": 14861,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If somebody wanted to kill baseball, they're doing a pretty good job of it. I think of so many happy afternoons and evenings at the ballpark with friends and family, many long gone. It makes me livid, but even more sorrowful. How dare they ruin such a beautiful game."
+	},
+	{
+		"created_at": "Thu Mar 03 16:36:50 +0000 2022",
+		"id": 1499423565610840000,
+		"id_str": "1499423565610840065",
+		"full_text": "@SurvivingGrady So much material for the @ecktionary!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SurvivingGrady",
+					"name": "Red",
+					"id": 22878740,
+					"id_str": "22878740",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ecktionary",
+					"name": "The Ecktionary",
+					"id": 1026126299931312100,
+					"id_str": "1026126299931312128",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1499421324497805300,
+		"in_reply_to_status_id_str": "1499421324497805312",
+		"in_reply_to_user_id": 22878740,
+		"in_reply_to_user_id_str": "22878740",
+		"in_reply_to_screen_name": "SurvivingGrady",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 104336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SurvivingGrady So much material for the @ecktionary!"
+	},
+	{
+		"created_at": "Thu Mar 03 16:14:07 +0000 2022",
+		"id": 1499417850146181000,
+		"id_str": "1499417850146181120",
+		"full_text": "In the office…fridge has a mood https://t.co/oIK7y8B0jZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499417844450222000,
+					"id_str": "1499417844450222087",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FM8AldRWYAc28Ln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM8AldRWYAc28Ln.jpg",
+					"url": "https://t.co/oIK7y8B0jZ",
+					"display_url": "pic.twitter.com/oIK7y8B0jZ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1499417850146181120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499417844450222000,
+					"id_str": "1499417844450222087",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FM8AldRWYAc28Ln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM8AldRWYAc28Ln.jpg",
+					"url": "https://t.co/oIK7y8B0jZ",
+					"display_url": "pic.twitter.com/oIK7y8B0jZ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1499417850146181120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 104336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the office…fridge has a mood https://t.co/oIK7y8B0jZ"
+	},
+	{
+		"created_at": "Thu Mar 03 14:17:57 +0000 2022",
+		"id": 1499388614949568500,
+		"id_str": "1499388614949568512",
+		"full_text": "Apple finally releasing a Strategema board https://t.co/gZoh4FPpSR https://t.co/3qjiRY8Mcf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gZoh4FPpSR",
+					"expanded_url": "https://twitter.com/arstechnica/status/1499143510485868544",
+					"display_url": "twitter.com/arstechnica/st…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1499388450914463700,
+					"id_str": "1499388450914463746",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7l2h0UcAIM1Aa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FM7l2h0UcAIM1Aa.png",
+					"url": "https://t.co/3qjiRY8Mcf",
+					"display_url": "pic.twitter.com/3qjiRY8Mcf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1499388614949568512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499388450914463700,
+					"id_str": "1499388450914463746",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7l2h0UcAIM1Aa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FM7l2h0UcAIM1Aa.png",
+					"url": "https://t.co/3qjiRY8Mcf",
+					"display_url": "pic.twitter.com/3qjiRY8Mcf",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1499388614949568512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 104336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1499143510485868500,
+		"quoted_status_id_str": "1499143510485868544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gZoh4FPpSR",
+			"expanded": "https://twitter.com/arstechnica/status/1499143510485868544",
+			"display": "twitter.com/arstechnica/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 02 22:04:00 +0000 2022",
+			"id": 1499143510485868500,
+			"id_str": "1499143510485868544",
+			"full_text": "Apple's next hardware event is on March 8th—here's what's rumored to be announced.\nhttps://t.co/naptWkUiCd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/naptWkUiCd",
+						"expanded_url": "https://trib.al/HiYng6f",
+						"display_url": "trib.al/HiYng6f",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717313,
+				"id_str": "717313",
+				"name": "Ars Technica",
+				"screen_name": "arstechnica",
+				"location": "NYC - Boston - Chicago - SF",
+				"description": "Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.",
+				"url": "http://t.co/Ul1NPoX9hd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ul1NPoX9hd",
+								"expanded_url": "http://arstechnica.com",
+								"display_url": "arstechnica.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1152679,
+				"friends_count": 1340,
+				"listed_count": 28165,
+				"created_at": "Sun Jan 28 01:58:49 +0000 2007",
+				"favourites_count": 8484,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 124683,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "201F25",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717313/1407516523",
+				"profile_link_color": "FF5B00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apple finally releasing a Strategema board https://t.co/gZoh4FPpSR https://t.co/3qjiRY8Mcf"
+	},
+	{
+		"created_at": "Thu Mar 03 13:45:55 +0000 2022",
+		"id": 1499380550397694000,
+		"id_str": "1499380550397693955",
+		"full_text": "Ok @startrek Lower Decks is easily my favorite Trek since TNG. https://t.co/x5bq8CBgmp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StarTrek",
+					"name": "Star Trek",
+					"id": 130491582,
+					"id_str": "130491582",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499380456487153700,
+					"id_str": "1499380456487153665",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FM7elMQUcAE-TC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FM7elMQUcAE-TC7.jpg",
+					"url": "https://t.co/x5bq8CBgmp",
+					"display_url": "pic.twitter.com/x5bq8CBgmp",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1499380550397693955/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499380456487153700,
+					"id_str": "1499380456487153665",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FM7elMQUcAE-TC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FM7elMQUcAE-TC7.jpg",
+					"url": "https://t.co/x5bq8CBgmp",
+					"display_url": "pic.twitter.com/x5bq8CBgmp",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1499380550397693955/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							121
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FM7elMQUcAE-TC7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster, Data Analyst @Northeastern. @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kO9un",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kO9un",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 104336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ok @startrek Lower Decks is easily my favorite Trek since TNG. https://t.co/x5bq8CBgmp"
+	},
+	{
 		"created_at": "Wed Mar 02 22:33:14 +0000 2022",
 		"id": 1499150868800852000,
 		"id_str": "1499150868800851970",
