@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 00:11:31 +0000 2022",
+		"id": 1503161866780123100,
+		"id_str": "1503161866780123140",
+		"full_text": "https://t.co/fzzmLle3TD https://t.co/BpJvITNZGg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fzzmLle3TD",
+					"expanded_url": "https://twitter.com/joshgerben/status/1502986826943975425",
+					"display_url": "twitter.com/joshgerben/sta…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1503161855736692700,
+					"id_str": "1503161855736692736",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FNxNvmMaQAAN_WU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNxNvmMaQAAN_WU.jpg",
+					"url": "https://t.co/BpJvITNZGg",
+					"display_url": "pic.twitter.com/BpJvITNZGg",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1503161866780123140/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503161855736692700,
+					"id_str": "1503161855736692736",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FNxNvmMaQAAN_WU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNxNvmMaQAAN_WU.jpg",
+					"url": "https://t.co/BpJvITNZGg",
+					"display_url": "pic.twitter.com/BpJvITNZGg",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1503161866780123140/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							107
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FNxNvmMaQAAN_WU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4358,
+			"friends_count": 692,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 104751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1502986826943975400,
+		"quoted_status_id_str": "1502986826943975425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fzzmLle3TD",
+			"expanded": "https://twitter.com/joshgerben/status/1502986826943975425",
+			"display": "twitter.com/joshgerben/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 13 12:35:58 +0000 2022",
+			"id": 1502986826943975400,
+			"id_str": "1502986826943975425",
+			"full_text": "Russia has authorized the stealing of intellectual property rights of businesses from \"unfriendly countries.\"\n\nPeppa Pig is an early victim. \n\nA Russian court has ruled that the cartoon character can be used by others without punishment.\n\n#Russia\n\nhttps://t.co/OeHwD2CxFN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Russia",
+						"indices": [
+							239,
+							246
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OeHwD2CxFN",
+						"expanded_url": "https://news.sky.com/story/ukraine-war-russia-targets-peppa-pig-in-retaliation-for-sanctions-amid-battle-over-cartoon-characters-trademark-12564846",
+						"display_url": "news.sky.com/story/ukraine-…",
+						"indices": [
+							248,
+							271
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 245130690,
+				"id_str": "245130690",
+				"name": "Josh Gerben",
+				"screen_name": "JoshGerben",
+				"location": "Washington, DC",
+				"description": "Trademark attorney • Founder of Gerben Intellectual Property • 7,000+ trademarks registered for clients • Seen on @CNBC @CNN @NPR @ESPN • Contributor @Boardroom",
+				"url": "https://t.co/EhpjtRRsuS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EhpjtRRsuS",
+								"expanded_url": "http://www.gerbenlaw.com",
+								"display_url": "gerbenlaw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8413,
+				"friends_count": 155,
+				"listed_count": 90,
+				"created_at": "Sun Jan 30 23:33:15 +0000 2011",
+				"favourites_count": 1440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2193,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080550204766674944/jn0MFXjr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080550204766674944/jn0MFXjr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/245130690/1572636068",
+				"profile_link_color": "185485",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/fzzmLle3TD https://t.co/BpJvITNZGg"
+	},
+	{
+		"created_at": "Sun Mar 13 12:58:01 +0000 2022",
+		"id": 1502992375014215700,
+		"id_str": "1502992375014215686",
+		"full_text": "OTM Open Thread 3/13: It is a suddenly exciting Sunday https://t.co/yaJzTaGuwm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yaJzTaGuwm",
+					"expanded_url": "https://www.overthemonster.com/2022/3/13/22974642/otm-open-thread-3-13-it-is-sunday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/3/13/2297…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4358,
+			"friends_count": 692,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 104751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 3/13: It is a suddenly exciting Sunday https://t.co/yaJzTaGuwm"
+	},
+	{
 		"created_at": "Sun Mar 13 01:23:21 +0000 2022",
 		"id": 1502817558394806300,
 		"id_str": "1502817558394806272",
