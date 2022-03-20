@@ -1,6 +1,1053 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 20 02:26:45 +0000 2022",
+		"id": 1505370227281956900,
+		"id_str": "1505370227281956866",
+		"full_text": "“Ban the mitt!” 😂 https://t.co/HbDlIyhwqE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HbDlIyhwqE",
+					"expanded_url": "https://twitter.com/jimfrombaseball/status/1505297169808605184",
+					"display_url": "twitter.com/jimfrombasebal…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 695,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 105078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1505297169808605200,
+		"quoted_status_id_str": "1505297169808605184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HbDlIyhwqE",
+			"expanded": "https://twitter.com/jimfrombaseball/status/1505297169808605184",
+			"display": "twitter.com/jimfrombasebal…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 19 21:36:27 +0000 2022",
+			"id": 1505297169808605200,
+			"id_str": "1505297169808605184",
+			"full_text": "In 1907 the lack of hitting was blamed on the baseball mitt:\n\"Who is there who has not noticed game after game how the infielder can block the hottest of driven balls and throw out a man after it? Turner blocked a ball that he could never have caught, by the help of the mitt!” https://t.co/qFhEf89F4F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1505296212316070000,
+						"id_str": "1505296212316069895",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FOPi7gDXIAcKBXU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOPi7gDXIAcKBXU.jpg",
+						"url": "https://t.co/qFhEf89F4F",
+						"display_url": "pic.twitter.com/qFhEf89F4F",
+						"expanded_url": "https://twitter.com/Jimfrombaseball/status/1505297169808605184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 354,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 354,
+								"h": 336,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 354,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1505296212316070000,
+						"id_str": "1505296212316069895",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FOPi7gDXIAcKBXU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOPi7gDXIAcKBXU.jpg",
+						"url": "https://t.co/qFhEf89F4F",
+						"display_url": "pic.twitter.com/qFhEf89F4F",
+						"expanded_url": "https://twitter.com/Jimfrombaseball/status/1505297169808605184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 354,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 354,
+								"h": 336,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 354,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1505296235225395200,
+						"id_str": "1505296235225395207",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FOPi81ZXsAcP555.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOPi81ZXsAcP555.jpg",
+						"url": "https://t.co/qFhEf89F4F",
+						"display_url": "pic.twitter.com/qFhEf89F4F",
+						"expanded_url": "https://twitter.com/Jimfrombaseball/status/1505297169808605184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 240,
+								"h": 297,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 240,
+								"h": 297,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 240,
+								"h": 297,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 731624499112771600,
+				"id_str": "731624499112771585",
+				"name": "Jim Koenigsberger",
+				"screen_name": "Jimfrombaseball",
+				"location": "St. Catharines, Ontario",
+				"description": "Coach,Mentor,Motivator,Teacher. OBA Board,Comp-Dev-Coach, Master Coach, USA Baseball ,SportAus, Stanford Med, FSU Med School, BSAC Fellow, Proudly Nick`s Dad.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2693,
+				"friends_count": 2821,
+				"listed_count": 3,
+				"created_at": "Sat May 14 23:17:28 +0000 2016",
+				"favourites_count": 9909,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2225,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1429943371854921733/9ttXWIlf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429943371854921733/9ttXWIlf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/731624499112771585/1629759790",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Ban the mitt!” 😂 https://t.co/HbDlIyhwqE"
+	},
+	{
+		"created_at": "Sun Mar 20 02:15:44 +0000 2022",
+		"id": 1505367454356287500,
+		"id_str": "1505367454356287493",
+		"full_text": "@octonion Back to the Future. At the end of the first one even Biff has his own car detailing service and is happy for George getting published.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "octonion",
+					"name": "Christopher D. Long (Крістофер Д. Лонг)",
+					"id": 77810367,
+					"id_str": "77810367",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1505364182555713500,
+		"in_reply_to_status_id_str": "1505364182555713540",
+		"in_reply_to_user_id": 77810367,
+		"in_reply_to_user_id_str": "77810367",
+		"in_reply_to_screen_name": "octonion",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 695,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 105078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@octonion Back to the Future. At the end of the first one even Biff has his own car detailing service and is happy for George getting published."
+	},
+	{
+		"created_at": "Sat Mar 19 16:13:37 +0000 2022",
+		"id": 1505215928103055400,
+		"id_str": "1505215928103055364",
+		"full_text": "Time for #SABRanalytics day 3…some interesting stuff on the schedule! https://t.co/snoMrcBZI4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SABRanalytics",
+					"indices": [
+						9,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/snoMrcBZI4",
+					"expanded_url": "https://twitter.com/sabr/status/1505212752289169408",
+					"display_url": "twitter.com/sabr/status/15…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 695,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 105078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1505212752289169400,
+		"quoted_status_id_str": "1505212752289169408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/snoMrcBZI4",
+			"expanded": "https://twitter.com/sabr/status/1505212752289169408",
+			"display": "twitter.com/sabr/status/15…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 19 16:01:00 +0000 2022",
+			"id": 1505212752289169400,
+			"id_str": "1505212752289169408",
+			"full_text": "We'll open today's #SABRanalytics session with a  panel on @Biomec_Baseball with @GeorgiaGiblin of @tigers, @ethanstewart14 of @Reds, @Megan_Stewart19 of @Brewers and @bnaks808 of @Stanford_BSC. https://t.co/nbwf6SULkO https://t.co/kijPvHniTy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SABRanalytics",
+						"indices": [
+							19,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Biomec_Baseball",
+						"name": "The American Baseball Biomechanics Society",
+						"id": 1251904583305232400,
+						"id_str": "1251904583305232385",
+						"indices": [
+							59,
+							75
+						]
+					},
+					{
+						"screen_name": "GeorgiaGiblin",
+						"name": "Georgia Giblin",
+						"id": 66569521,
+						"id_str": "66569521",
+						"indices": [
+							81,
+							95
+						]
+					},
+					{
+						"screen_name": "tigers",
+						"name": "Detroit Tigers",
+						"id": 30008146,
+						"id_str": "30008146",
+						"indices": [
+							99,
+							106
+						]
+					},
+					{
+						"screen_name": "ethanstewart14",
+						"name": "Ethan Stewart, M.S.",
+						"id": 47375018,
+						"id_str": "47375018",
+						"indices": [
+							108,
+							123
+						]
+					},
+					{
+						"screen_name": "Reds",
+						"name": "Cincinnati Reds",
+						"id": 35006336,
+						"id_str": "35006336",
+						"indices": [
+							127,
+							132
+						]
+					},
+					{
+						"screen_name": "Megan_Stewart19",
+						"name": "Megan Stewart",
+						"id": 1337913312173056000,
+						"id_str": "1337913312173056003",
+						"indices": [
+							134,
+							150
+						]
+					},
+					{
+						"screen_name": "Brewers",
+						"name": "Milwaukee Brewers",
+						"id": 52824038,
+						"id_str": "52824038",
+						"indices": [
+							154,
+							162
+						]
+					},
+					{
+						"screen_name": "bnaks808",
+						"name": "Bryson Nakamura",
+						"id": 246330078,
+						"id_str": "246330078",
+						"indices": [
+							167,
+							176
+						]
+					},
+					{
+						"screen_name": "Stanford_BSC",
+						"name": "Stanford Baseball Science Core",
+						"id": 1461444096526979000,
+						"id_str": "1461444096526979078",
+						"indices": [
+							180,
+							193
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nbwf6SULkO",
+						"expanded_url": "https://sabr.org/analytics/schedule",
+						"display_url": "sabr.org/analytics/sche…",
+						"indices": [
+							195,
+							218
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1504962531139338200,
+						"id_str": "1504962531139338241",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FOKzcszVQAEkrMj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOKzcszVQAEkrMj.jpg",
+						"url": "https://t.co/kijPvHniTy",
+						"display_url": "pic.twitter.com/kijPvHniTy",
+						"expanded_url": "https://twitter.com/sabr/status/1505212752289169408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 475,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 475,
+								"h": 650,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 475,
+								"h": 650,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1504962531139338200,
+						"id_str": "1504962531139338241",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FOKzcszVQAEkrMj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOKzcszVQAEkrMj.jpg",
+						"url": "https://t.co/kijPvHniTy",
+						"display_url": "pic.twitter.com/kijPvHniTy",
+						"expanded_url": "https://twitter.com/sabr/status/1505212752289169408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 475,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 475,
+								"h": 650,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 475,
+								"h": 650,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18104452,
+				"id_str": "18104452",
+				"name": "SABR",
+				"screen_name": "sabr",
+				"location": "Phoenix, Arizona",
+				"description": "The Society for American Baseball Research is open to all baseball fans. Visit us at https://t.co/dBDJrZqP1B. Tweets by SABR's Director of Editorial Content.",
+				"url": "https://t.co/dBDJrZqP1B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dBDJrZqP1B",
+								"expanded_url": "http://sabr.org",
+								"display_url": "sabr.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dBDJrZqP1B",
+								"expanded_url": "http://sabr.org",
+								"display_url": "sabr.org",
+								"indices": [
+									85,
+									108
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 70261,
+				"friends_count": 5049,
+				"listed_count": 1707,
+				"created_at": "Sat Dec 13 20:35:00 +0000 2008",
+				"favourites_count": 31090,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46026,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00801A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691930343524405248/BrghZ69y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691930343524405248/BrghZ69y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18104452/1453508625",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "00801A",
+				"profile_sidebar_fill_color": "E3E6E4",
+				"profile_text_color": "171717",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Time for #SABRanalytics day 3…some interesting stuff on the schedule! https://t.co/snoMrcBZI4"
+	},
+	{
+		"created_at": "Sat Mar 19 16:03:20 +0000 2022",
+		"id": 1505213342096502800,
+		"id_str": "1505213342096502789",
+		"full_text": "@ConsultSNAPS Ready to have biomechanics talk go way over my head :)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConsultSNAPS",
+					"name": "Allison Levin (she/her)",
+					"id": 2377725936,
+					"id_str": "2377725936",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1505212795423531000,
+		"in_reply_to_status_id_str": "1505212795423531008",
+		"in_reply_to_user_id": 2377725936,
+		"in_reply_to_user_id_str": "2377725936",
+		"in_reply_to_screen_name": "ConsultSNAPS",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 695,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 105078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ConsultSNAPS Ready to have biomechanics talk go way over my head :)"
+	},
+	{
+		"created_at": "Sat Mar 19 16:01:32 +0000 2022",
+		"id": 1505212888960622600,
+		"id_str": "1505212888960622593",
+		"full_text": "@HighHeatStats Twins win World Series",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HighHeatStats",
+					"name": "High Heat Stats",
+					"id": 403764053,
+					"id_str": "403764053",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1505210355605246000,
+		"in_reply_to_status_id_str": "1505210355605245959",
+		"in_reply_to_user_id": 403764053,
+		"in_reply_to_user_id_str": "403764053",
+		"in_reply_to_screen_name": "HighHeatStats",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 695,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 105078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HighHeatStats Twins win World Series"
+	},
+	{
 		"created_at": "Sat Mar 19 02:50:32 +0000 2022",
 		"id": 1505013827041173500,
 		"id_str": "1505013827041173505",
