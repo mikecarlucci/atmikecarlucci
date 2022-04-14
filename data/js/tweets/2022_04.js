@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 22:52:18 +0000 2022",
+		"id": 1514374118891786200,
+		"id_str": "1514375956231766021",
+		"full_text": "https://t.co/uhWJefysLY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514346669692919800,
+					"id_str": "1514346669692919815",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FQQKRdHXoAcTVG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQQKRdHXoAcTVG6.jpg",
+					"url": "https://t.co/uhWJefysLY",
+					"display_url": "pic.twitter.com/uhWJefysLY",
+					"expanded_url": "https://twitter.com/WholesomeMeme/status/1514374118891786245/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514346669692919800,
+					"id_str": "1514346669692919815",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FQQKRdHXoAcTVG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQQKRdHXoAcTVG6.jpg",
+					"url": "https://t.co/uhWJefysLY",
+					"display_url": "pic.twitter.com/uhWJefysLY",
+					"expanded_url": "https://twitter.com/WholesomeMeme/status/1514374118891786245/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762799939395158000,
+			"id_str": "762799939395158016",
+			"name": "WholesomeMemes",
+			"screen_name": "WholesomeMeme",
+			"location": "Ontario, Canada",
+			"description": "🇨🇦   We post memes, comics, wholesome stuff & anything we like. We sell original shirts https://t.co/Upa2OFOAJk. We stand for peace everywhere for everyone.",
+			"url": "https://t.co/1yKH0Uk1Kq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1yKH0Uk1Kq",
+							"expanded_url": "http://www.wholesomememes.com",
+							"display_url": "wholesomememes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Upa2OFOAJk",
+							"expanded_url": "http://wholesomememes.com",
+							"display_url": "wholesomememes.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2591641,
+			"friends_count": 237,
+			"listed_count": 4372,
+			"created_at": "Mon Aug 08 23:57:32 +0000 2016",
+			"favourites_count": 202159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1411016646815358978/H8kX0hfw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1411016646815358978/H8kX0hfw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762799939395158016/1641146361",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2634,
+		"favorite_count": 20713,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/uhWJefysLY"
+	},
+	{
+		"created_at": "Wed Apr 13 14:25:39 +0000 2022",
+		"id": 1514201371712503800,
+		"id_str": "1514248455786577937",
+		"full_text": "it's canon that the enterprise had a bowling alley.\ntherefore, the bridge crew had friday night bowling matches. https://t.co/Wsiz5vxPpS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514201363059597300,
+					"id_str": "1514201363059597315",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FQOGHfuUYAM4uSb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQOGHfuUYAM4uSb.jpg",
+					"url": "https://t.co/Wsiz5vxPpS",
+					"display_url": "pic.twitter.com/Wsiz5vxPpS",
+					"expanded_url": "https://twitter.com/jerichojessart/status/1514201371712503811/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514201363059597300,
+					"id_str": "1514201363059597315",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FQOGHfuUYAM4uSb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQOGHfuUYAM4uSb.jpg",
+					"url": "https://t.co/Wsiz5vxPpS",
+					"display_url": "pic.twitter.com/Wsiz5vxPpS",
+					"expanded_url": "https://twitter.com/jerichojessart/status/1514201371712503811/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514201363080568800,
+					"id_str": "1514201363080568832",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FQOGHfzUYAAS_-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQOGHfzUYAAS_-W.jpg",
+					"url": "https://t.co/Wsiz5vxPpS",
+					"display_url": "pic.twitter.com/Wsiz5vxPpS",
+					"expanded_url": "https://twitter.com/jerichojessart/status/1514201371712503811/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514201363466502100,
+					"id_str": "1514201363466502147",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FQOGHhPVQAMcIvA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQOGHhPVQAMcIvA.jpg",
+					"url": "https://t.co/Wsiz5vxPpS",
+					"display_url": "pic.twitter.com/Wsiz5vxPpS",
+					"expanded_url": "https://twitter.com/jerichojessart/status/1514201371712503811/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514201365081256000,
+					"id_str": "1514201365081255938",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FQOGHnQUcAI9bEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQOGHnQUcAI9bEH.jpg",
+					"url": "https://t.co/Wsiz5vxPpS",
+					"display_url": "pic.twitter.com/Wsiz5vxPpS",
+					"expanded_url": "https://twitter.com/jerichojessart/status/1514201371712503811/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 441468112,
+			"id_str": "441468112",
+			"name": "jess, bowling enthusiast",
+			"screen_name": "jerichojessart",
+			"location": "sydney, australia (she/her)",
+			"description": "jess | 23 | artist | autistic | maker of stickers | currently super into star trek 🏳️‍🌈 currently living in the enterprise's bowling alley",
+			"url": "https://t.co/Y94Viru4Et",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y94Viru4Et",
+							"expanded_url": "http://linktr.ee/jerichojess",
+							"display_url": "linktr.ee/jerichojess",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 640,
+			"friends_count": 336,
+			"listed_count": 4,
+			"created_at": "Tue Dec 20 03:49:19 +0000 2011",
+			"favourites_count": 48524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502157138197553158/-6YToneZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502157138197553158/-6YToneZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/441468112/1649067268",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 299,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it's canon that the enterprise had a bowling alley.\ntherefore, the bridge crew had friday night bowling matches. https://t.co/Wsiz5vxPpS"
+	},
+	{
+		"created_at": "Wed Apr 13 12:30:09 +0000 2022",
+		"id": 1514219389436014600,
+		"id_str": "1514219389436014592",
+		"full_text": "OTM Open Thread 4/13: It is Wednesday  🐪 https://t.co/hRgSaILsPt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hRgSaILsPt",
+					"expanded_url": "https://www.overthemonster.com/2022/4/13/23022992/otm-open-thread-4-13-it-is-wednesday?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/4/13/2302…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4362,
+			"friends_count": 693,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 106067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 4/13: It is Wednesday  🐪 https://t.co/hRgSaILsPt"
+	},
+	{
 		"created_at": "Wed Apr 13 00:36:38 +0000 2022",
 		"id": 1514039826181496800,
 		"id_str": "1514039826181496841",
