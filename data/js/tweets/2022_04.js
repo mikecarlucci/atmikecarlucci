@@ -1,6 +1,971 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 03:02:29 +0000 2022",
+		"id": 1518787570200682500,
+		"id_str": "1518787570200682496",
+		"full_text": "8.5 million now https://t.co/n6c5VLlKwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n6c5VLlKwN",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/724735301386670080",
+					"display_url": "twitter.com/mikecarlucci/s…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4363,
+			"friends_count": 690,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 106394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 724735301386670100,
+		"quoted_status_id_str": "724735301386670080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n6c5VLlKwN",
+			"expanded": "https://twitter.com/mikecarlucci/status/724735301386670080",
+			"display": "twitter.com/mikecarlucci/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 25 23:02:15 +0000 2016",
+			"id": 724735301386670100,
+			"id_str": "724735301386670080",
+			"full_text": "This kazoo cover of The Final Countdown has over 6 million views. https://t.co/gGMMOrG219",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gGMMOrG219",
+						"expanded_url": "https://www.youtube.com/watch?v=XAg5KjnAhuU",
+						"display_url": "youtube.com/watch?v=XAg5Kj…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90161583,
+				"id_str": "90161583",
+				"name": "Mike Carlucci",
+				"screen_name": "mikecarlucci",
+				"location": "Boston, MA",
+				"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+				"url": "https://t.co/u2JL5kNBEP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u2JL5kNBEP",
+								"expanded_url": "https://www.overthemonster.com",
+								"display_url": "overthemonster.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4363,
+				"friends_count": 690,
+				"listed_count": 48,
+				"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+				"favourites_count": 106394,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19609,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+				"profile_link_color": "0A0AFF",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EDE8ED",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "8.5 million now https://t.co/n6c5VLlKwN"
+	},
+	{
+		"created_at": "Mon Apr 25 20:53:56 +0000 2022",
+		"id": 1518577974144032800,
+		"id_str": "1518694823192059904",
+		"full_text": "If they can afford to buy Twitter, they can afford to pay their fair share in taxes. RT if you’re ready for @potus’ Billionaire Minimum Income Tax.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "POTUS",
+					"name": "President Biden",
+					"id": 1349149096909668400,
+					"id_str": "1349149096909668363",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2293131060,
+			"id_str": "2293131060",
+			"name": "Katherine Clark",
+			"screen_name": "RepKClark",
+			"location": "MA-5 & Washington, D.C. ",
+			"description": "Assistant Speaker of the U.S. House. Proudly representing the people of #MA5. #ChildCareIsInfrastructure tweeter. Defender of women, kids & justice. She/Her",
+			"url": "https://t.co/HI39qS1coO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HI39qS1coO",
+							"expanded_url": "http://katherineclark.house.gov",
+							"display_url": "katherineclark.house.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93754,
+			"friends_count": 1822,
+			"listed_count": 1460,
+			"created_at": "Wed Jan 15 18:53:47 +0000 2014",
+			"favourites_count": 6735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081192713003839488/kKs1xi9b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2293131060/1625071462",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 699,
+		"favorite_count": 1713,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If they can afford to buy Twitter, they can afford to pay their fair share in taxes. RT if you’re ready for @potus’ Billionaire Minimum Income Tax."
+	},
+	{
+		"created_at": "Mon Apr 25 19:19:13 +0000 2022",
+		"id": 1518667746879418400,
+		"id_str": "1518670987402919936",
+		"full_text": "RT this before Musk bans it https://t.co/mhx1eLyn4C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mhx1eLyn4C",
+					"expanded_url": "https://twitter.com/Toadsanime/status/1515046000490131464",
+					"display_url": "twitter.com/Toadsanime/sta…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1518667631494148000,
+		"in_reply_to_status_id_str": "1518667631494148098",
+		"in_reply_to_user_id": 116534927,
+		"in_reply_to_user_id_str": "116534927",
+		"in_reply_to_screen_name": "Toadsanime",
+		"user": {
+			"id": 116534927,
+			"id_str": "116534927",
+			"name": "Ryan Brown 🎮🇺🇦",
+			"screen_name": "Toadsanime",
+			"location": "ryan@superraregames.com",
+			"description": "Game news curator • @SuperRareGames head PR + creator of Mixtape • Words @DailyMirror, seen @BBC • @BAFTAGames 20-22 jury • Indies & physical • he/him, gay af",
+			"url": "https://t.co/fGpMqKdohu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fGpMqKdohu",
+							"expanded_url": "https://bit.ly/SRGMixtapeV1",
+							"display_url": "bit.ly/SRGMixtapeV1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21678,
+			"friends_count": 2003,
+			"listed_count": 295,
+			"created_at": "Mon Feb 22 20:27:31 +0000 2010",
+			"favourites_count": 204365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 224947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502610453716946953/7Z2G8K0f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502610453716946953/7Z2G8K0f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116534927/1648421625",
+			"profile_link_color": "FF3F05",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1515046000490131500,
+		"quoted_status_id_str": "1515046000490131464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mhx1eLyn4C",
+			"expanded": "https://twitter.com/Toadsanime/status/1515046000490131464",
+			"display": "twitter.com/Toadsanime/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 15 19:14:49 +0000 2022",
+			"id": 1515046000490131500,
+			"id_str": "1515046000490131464",
+			"full_text": "My fave Elon Musk moment is when the UN said 2% of just his wealth could solve world hunger for the year, which he condescendingly asked for a detailed plan on and then promptly ignored it entirely when they supplied it. 👍",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116534927,
+				"id_str": "116534927",
+				"name": "Ryan Brown 🎮🇺🇦",
+				"screen_name": "Toadsanime",
+				"location": "ryan@superraregames.com",
+				"description": "Game news curator • @SuperRareGames head PR + creator of Mixtape • Words @DailyMirror, seen @BBC • @BAFTAGames 20-22 jury • Indies & physical • he/him, gay af",
+				"url": "https://t.co/fGpMqKdohu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fGpMqKdohu",
+								"expanded_url": "https://bit.ly/SRGMixtapeV1",
+								"display_url": "bit.ly/SRGMixtapeV1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21678,
+				"friends_count": 2003,
+				"listed_count": 295,
+				"created_at": "Mon Feb 22 20:27:31 +0000 2010",
+				"favourites_count": 204365,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 224947,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1502610453716946953/7Z2G8K0f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502610453716946953/7Z2G8K0f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116534927/1648421625",
+				"profile_link_color": "FF3F05",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 318,
+			"favorite_count": 858,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 61,
+		"favorite_count": 118,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RT this before Musk bans it https://t.co/mhx1eLyn4C"
+	},
+	{
+		"created_at": "Mon Apr 25 17:04:53 +0000 2022",
+		"id": 1518637180851310600,
+		"id_str": "1518637180851310593",
+		"full_text": "@molly_knight Wait until Musk buys Gofundme",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "molly_knight",
+					"name": "Molly Knight",
+					"id": 45882011,
+					"id_str": "45882011",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1518635023506624500,
+		"in_reply_to_status_id_str": "1518635023506624512",
+		"in_reply_to_user_id": 45882011,
+		"in_reply_to_user_id_str": "45882011",
+		"in_reply_to_screen_name": "molly_knight",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4363,
+			"friends_count": 690,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 106394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@molly_knight Wait until Musk buys Gofundme"
+	},
+	{
+		"created_at": "Mon Apr 25 14:47:24 +0000 2022",
+		"id": 1518591516033253400,
+		"id_str": "1518602581513281537",
+		"full_text": "Hey Commodore fans, I scanned this for you and uploaded to @internetarchive https://t.co/kFSbOHJuOH https://t.co/yCquQAwbns",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "internetarchive",
+					"name": "Internet Archive",
+					"id": 18957805,
+					"id_str": "18957805",
+					"indices": [
+						59,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kFSbOHJuOH",
+					"expanded_url": "https://archive.org/details/Commodore_Buyers_Guide_Volume_5",
+					"display_url": "archive.org/details/Commod…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1518591316485050400,
+					"id_str": "1518591316485050368",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FRMewaoVkAAn4Sp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRMewaoVkAAn4Sp.jpg",
+					"url": "https://t.co/yCquQAwbns",
+					"display_url": "pic.twitter.com/yCquQAwbns",
+					"expanded_url": "https://twitter.com/KaySavetz/status/1518591516033253377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1258,
+							"h": 1966,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518591316485050400,
+					"id_str": "1518591316485050368",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FRMewaoVkAAn4Sp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRMewaoVkAAn4Sp.jpg",
+					"url": "https://t.co/yCquQAwbns",
+					"display_url": "pic.twitter.com/yCquQAwbns",
+					"expanded_url": "https://twitter.com/KaySavetz/status/1518591516033253377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1258,
+							"h": 1966,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4949561,
+			"id_str": "4949561",
+			"name": "Kay Savetz",
+			"screen_name": "KaySavetz",
+			"location": "Portland(ish), Oregon",
+			"description": "Amateur Atari historian, professional web publisher. Voice on https://t.co/Cr2F92Bbgt and https://t.co/fPTTKAcKy1",
+			"url": "https://t.co/JPa8fsl0DY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JPa8fsl0DY",
+							"expanded_url": "https://savetz.com",
+							"display_url": "savetz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cr2F92Bbgt",
+							"expanded_url": "http://ataripodcast.com",
+							"display_url": "ataripodcast.com",
+							"indices": [
+								62,
+								85
+							]
+						},
+						{
+							"url": "https://t.co/fPTTKAcKy1",
+							"expanded_url": "http://monsterfeet.com/grue/",
+							"display_url": "monsterfeet.com/grue/",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5240,
+			"friends_count": 1521,
+			"listed_count": 129,
+			"created_at": "Tue Apr 17 03:40:36 +0000 2007",
+			"favourites_count": 50802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275495884050989057/iwBAyr-B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275495884050989057/iwBAyr-B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4949561/1557792426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 74,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey Commodore fans, I scanned this for you and uploaded to @internetarchive https://t.co/kFSbOHJuOH https://t.co/yCquQAwbns"
+	},
+	{
+		"created_at": "Mon Apr 25 13:29:06 +0000 2022",
+		"id": 1518582877801402400,
+		"id_str": "1518582877801402368",
+		"full_text": "@estesexpress Ok, done.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "estesexpress",
+					"name": "estesexpress",
+					"id": 56791023,
+					"id_str": "56791023",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1518572407665143800,
+		"in_reply_to_status_id_str": "1518572407665143808",
+		"in_reply_to_user_id": 56791023,
+		"in_reply_to_user_id_str": "56791023",
+		"in_reply_to_screen_name": "estesexpress",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4363,
+			"friends_count": 690,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 106394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@estesexpress Ok, done."
+	},
+	{
 		"created_at": "Mon Apr 25 02:49:47 +0000 2022",
 		"id": 1518421989853216800,
 		"id_str": "1518421989853216768",
