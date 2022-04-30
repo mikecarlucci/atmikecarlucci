@@ -1,6 +1,720 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 29 22:35:03 +0000 2022",
+		"id": 1520033894933962800,
+		"id_str": "1520169822851588098",
+		"full_text": "The generation that could buy a house with a part time job and went to college for $5K sure likes to tell everyone how difficult it was to pay back their student loans.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15978244,
+			"id_str": "15978244",
+			"name": "Steve Hofstetter",
+			"screen_name": "SteveHofstetter",
+			"location": "Pittsburgh, PA",
+			"description": "6th lead in Lifetime's “Psycho Yoga Instructor“ and Nobel Peace Prize nominee. Human 1st, comedian 2nd. #LFGM",
+			"url": "https://t.co/DhyjaBrAbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DhyjaBrAbV",
+							"expanded_url": "https://www.stevehofstetter.com/Connect/",
+							"display_url": "stevehofstetter.com/Connect/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181899,
+			"friends_count": 9185,
+			"listed_count": 1158,
+			"created_at": "Mon Aug 25 05:29:34 +0000 2008",
+			"favourites_count": 113354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 39243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341797589981622273/j-WuOSDl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341797589981622273/j-WuOSDl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15978244/1651023664",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13481,
+		"favorite_count": 89692,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The generation that could buy a house with a part time job and went to college for $5K sure likes to tell everyone how difficult it was to pay back their student loans."
+	},
+	{
+		"created_at": "Fri Apr 29 15:30:20 +0000 2022",
+		"id": 1520062938173816800,
+		"id_str": "1520062938173816833",
+		"full_text": "🤔 https://t.co/qckA9fRuE5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qckA9fRuE5",
+					"expanded_url": "https://twitter.com/ChrisCotillo/status/1520060334165352448",
+					"display_url": "twitter.com/ChrisCotillo/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 687,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 106541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1520060334165352400,
+		"quoted_status_id_str": "1520060334165352448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qckA9fRuE5",
+			"expanded": "https://twitter.com/ChrisCotillo/status/1520060334165352448",
+			"display": "twitter.com/ChrisCotillo/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 29 15:19:59 +0000 2022",
+			"id": 1520060334165352400,
+			"id_str": "1520060334165352448",
+			"full_text": "Source: Red Sox have designated Travis Shaw for assignment.\n\nFranchy Cordero a natural fit to join the team in Baltimore today.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 340696305,
+				"id_str": "340696305",
+				"name": "Chris Cotillo",
+				"screen_name": "ChrisCotillo",
+				"location": "Boston, MA",
+				"description": "Red Sox beat writer, https://t.co/0JhHSIgu0l. Last name rhymes with pillow. Go Heels.",
+				"url": "https://t.co/yMqgmmClD7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yMqgmmClD7",
+								"expanded_url": "http://www.masslive.com/redsox/",
+								"display_url": "masslive.com/redsox/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0JhHSIgu0l",
+								"expanded_url": "http://MassLive.com",
+								"display_url": "MassLive.com",
+								"indices": [
+									21,
+									44
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 51121,
+				"friends_count": 2759,
+				"listed_count": 1794,
+				"created_at": "Sat Jul 23 03:33:33 +0000 2011",
+				"favourites_count": 14472,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 76613,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "101010",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418363173162430464/O6Wcfca9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418363173162430464/O6Wcfca9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/340696305/1632757842",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D2CDCB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 148,
+			"favorite_count": 2008,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤔 https://t.co/qckA9fRuE5"
+	},
+	{
+		"created_at": "Fri Apr 29 13:59:31 +0000 2022",
+		"id": 1520040083822456800,
+		"id_str": "1520040083822456832",
+		"full_text": "https://t.co/c3GyxUB6HX https://t.co/7Y92rHDktI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c3GyxUB6HX",
+					"expanded_url": "https://twitter.com/cbouzy/status/1520039724039258122",
+					"display_url": "twitter.com/cbouzy/status/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1520040078403326000,
+					"id_str": "1520040078403325952",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FRhEZdWWUAA-L_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FRhEZdWWUAA-L_Q.jpg",
+					"url": "https://t.co/7Y92rHDktI",
+					"display_url": "pic.twitter.com/7Y92rHDktI",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1520040083822456832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1520040078403326000,
+					"id_str": "1520040078403325952",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FRhEZdWWUAA-L_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FRhEZdWWUAA-L_Q.jpg",
+					"url": "https://t.co/7Y92rHDktI",
+					"display_url": "pic.twitter.com/7Y92rHDktI",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1520040083822456832/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FRhEZdWWUAA-L_Q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 687,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 106541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1520039724039258000,
+		"quoted_status_id_str": "1520039724039258122",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c3GyxUB6HX",
+			"expanded": "https://twitter.com/cbouzy/status/1520039724039258122",
+			"display": "twitter.com/cbouzy/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 29 13:58:05 +0000 2022",
+			"id": 1520039724039258000,
+			"id_str": "1520039724039258122",
+			"full_text": "To secure funding from banks, Elon Musk told bankers, he would grow Twitter's revenue by charging third-party websites if they wanted to embed or quote verified users. I am starting to think Elon doesn't know what he is doing.\nhttps://t.co/fkoHRz7Nfl https://t.co/LdMPfiuFun",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fkoHRz7Nfl",
+						"expanded_url": "https://www.reuters.com/business/musk-told-banks-he-will-rein-twitter-pay-make-money-tweets-sources-2022-04-29/",
+						"display_url": "reuters.com/business/musk-…",
+						"indices": [
+							227,
+							250
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1520039721791012900,
+						"id_str": "1520039721791012864",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/FRhEEs3WQAA0ysu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRhEEs3WQAA0ysu.jpg",
+						"url": "https://t.co/LdMPfiuFun",
+						"display_url": "pic.twitter.com/LdMPfiuFun",
+						"expanded_url": "https://twitter.com/cbouzy/status/1520039724039258122/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 779,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 935,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1520039721791012900,
+						"id_str": "1520039721791012864",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/FRhEEs3WQAA0ysu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRhEEs3WQAA0ysu.jpg",
+						"url": "https://t.co/LdMPfiuFun",
+						"display_url": "pic.twitter.com/LdMPfiuFun",
+						"expanded_url": "https://twitter.com/cbouzy/status/1520039724039258122/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 779,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 935,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2502466327,
+				"id_str": "2502466327",
+				"name": "Christopher Bouzy",
+				"screen_name": "cbouzy",
+				"location": "United States",
+				"description": "When I was 9, I started coding on a Mattel Aquarius computer. I developed several products in my 20s & 30s, and then in 2018 I launched https://t.co/G4goHGzB5f",
+				"url": "https://t.co/xjIQQaDQ6B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xjIQQaDQ6B",
+								"expanded_url": "https://botsentinel.com/newsroom/press",
+								"display_url": "botsentinel.com/newsroom/press",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/G4goHGzB5f",
+								"expanded_url": "http://BotSentinel.com",
+								"display_url": "BotSentinel.com",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 88942,
+				"friends_count": 2475,
+				"listed_count": 632,
+				"created_at": "Sat May 17 20:31:40 +0000 2014",
+				"favourites_count": 112050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 36682,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1425756349074481157/WsBLWd6T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425756349074481157/WsBLWd6T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2502466327/1593442933",
+				"profile_link_color": "2A7996",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 110,
+			"favorite_count": 449,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/c3GyxUB6HX https://t.co/7Y92rHDktI"
+	},
+	{
 		"created_at": "Fri Apr 29 02:52:51 +0000 2022",
 		"id": 1519872310647341000,
 		"id_str": "1519872310647341056",
