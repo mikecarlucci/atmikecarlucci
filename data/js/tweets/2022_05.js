@@ -1,6 +1,708 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 14 22:45:50 +0000 2022",
+		"id": 1525608351169659000,
+		"id_str": "1525608351169658880",
+		"full_text": "@twins Is it still possible to get custom shirts that look like the jersey? I want to get Baldelli 5 that looks like this (Nike) and not the alternate design (fanatics) https://t.co/FXx6wodeTd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twins",
+					"name": "Minnesota Twins",
+					"id": 39397148,
+					"id_str": "39397148",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FXx6wodeTd",
+					"expanded_url": "https://www.mlbshop.com/minnesota-twins/mens-minnesota-twins-max-kepler-nike-navy-name-and-number-t-shirt/t-36227651+p-7028336714824+z-9-2633092268?_ref=p-SRP:m-GRID:i-r1c2:po-5",
+					"display_url": "mlbshop.com/minnesota-twin…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 39397148,
+		"in_reply_to_user_id_str": "39397148",
+		"in_reply_to_screen_name": "Twins",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 692,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 107092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@twins Is it still possible to get custom shirts that look like the jersey? I want to get Baldelli 5 that looks like this (Nike) and not the alternate design (fanatics) https://t.co/FXx6wodeTd"
+	},
+	{
+		"created_at": "Sat May 14 16:56:47 +0000 2022",
+		"id": 1525520512264323000,
+		"id_str": "1525520512264323074",
+		"full_text": "Dying 🤣 https://t.co/IuMWXQdM9J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IuMWXQdM9J",
+					"expanded_url": "https://twitter.com/baldridgecpa/status/1525276552900100097",
+					"display_url": "twitter.com/baldridgecpa/s…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 692,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 107092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1525276552900100000,
+		"quoted_status_id_str": "1525276552900100097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IuMWXQdM9J",
+			"expanded": "https://twitter.com/baldridgecpa/status/1525276552900100097",
+			"display": "twitter.com/baldridgecpa/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 14 00:47:23 +0000 2022",
+			"id": 1525276552900100000,
+			"id_str": "1525276552900100097",
+			"full_text": "The only remaining stablecoin https://t.co/GlHNLvGsTp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1525276549230039000,
+						"id_str": "1525276549230039040",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/FSre8LUXEAAbo1e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSre8LUXEAAbo1e.jpg",
+						"url": "https://t.co/GlHNLvGsTp",
+						"display_url": "pic.twitter.com/GlHNLvGsTp",
+						"expanded_url": "https://twitter.com/baldridgecpa/status/1525276552900100097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 875,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 875,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 496,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1525276549230039000,
+						"id_str": "1525276549230039040",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/FSre8LUXEAAbo1e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSre8LUXEAAbo1e.jpg",
+						"url": "https://t.co/GlHNLvGsTp",
+						"display_url": "pic.twitter.com/GlHNLvGsTp",
+						"expanded_url": "https://twitter.com/baldridgecpa/status/1525276552900100097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 875,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 875,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 496,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2983149350,
+				"id_str": "2983149350",
+				"name": "Mitchell Baldridge",
+				"screen_name": "baldridgecpa",
+				"location": "Houston, TX",
+				"description": "Texas CFP® CPA focused on family and helping HNW (30 - 500MM) investors and business owners preserve and grow wealth. Tweets are not tax or investment advice.",
+				"url": "https://t.co/QSqaNgmXXh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QSqaNgmXXh",
+								"expanded_url": "https://linktr.ee/baldridgecpa",
+								"display_url": "linktr.ee/baldridgecpa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44308,
+				"friends_count": 1233,
+				"listed_count": 727,
+				"created_at": "Wed Jan 14 18:11:40 +0000 2015",
+				"favourites_count": 18190,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4756,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1464766027514929158/pou6zlKo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1464766027514929158/pou6zlKo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2983149350/1622593305",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14220,
+			"favorite_count": 149310,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dying 🤣 https://t.co/IuMWXQdM9J"
+	},
+	{
+		"created_at": "Sat May 14 15:07:11 +0000 2022",
+		"id": 1525492928688398300,
+		"id_str": "1525492928688398337",
+		"full_text": "My favorite holiday https://t.co/Bi8L6yvKUE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bi8L6yvKUE",
+					"expanded_url": "https://twitter.com/mbta_cr/status/1525490371697991680",
+					"display_url": "twitter.com/mbta_cr/status…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 692,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 107092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1525490371697991700,
+		"quoted_status_id_str": "1525490371697991680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Bi8L6yvKUE",
+			"expanded": "https://twitter.com/mbta_cr/status/1525490371697991680",
+			"display": "twitter.com/mbta_cr/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 14 14:57:01 +0000 2022",
+			"id": 1525490371697991700,
+			"id_str": "1525490371697991680",
+			"full_text": "🚆 Happy #NationalTrainDay! Are you planning to travel by train today? Share with us below where you're going! https://t.co/qEM45GsO4k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalTrainDay",
+						"indices": [
+							8,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1525490369202372600,
+						"id_str": "1525490369202372609",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/FSuhaIyWQAEhrIa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSuhaIyWQAEhrIa.jpg",
+						"url": "https://t.co/qEM45GsO4k",
+						"display_url": "pic.twitter.com/qEM45GsO4k",
+						"expanded_url": "https://twitter.com/MBTA_CR/status/1525490371697991680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1525490369202372600,
+						"id_str": "1525490369202372609",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/FSuhaIyWQAEhrIa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSuhaIyWQAEhrIa.jpg",
+						"url": "https://t.co/qEM45GsO4k",
+						"display_url": "pic.twitter.com/qEM45GsO4k",
+						"expanded_url": "https://twitter.com/MBTA_CR/status/1525490371697991680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2535372901,
+				"id_str": "2535372901",
+				"name": "MBTA Commuter Rail",
+				"screen_name": "MBTA_CR",
+				"location": "Boston",
+				"description": "Official service info & updates for Boston region's Commuter Rail by Keolis. Monitored M-F (5a-11p) & Sat/Sun (6:30a-8p) 📞: 617-222-3200 🆘: 617-222-1212",
+				"url": "https://t.co/MzTveHw5QR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MzTveHw5QR",
+								"expanded_url": "http://mbta.com",
+								"display_url": "mbta.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37038,
+				"friends_count": 337,
+				"listed_count": 407,
+				"created_at": "Fri May 30 15:58:05 +0000 2014",
+				"favourites_count": 3679,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 200651,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145483295620325376/r08_uNgl_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145483295620325376/r08_uNgl_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2535372901/1648467480",
+				"profile_link_color": "80276C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My favorite holiday https://t.co/Bi8L6yvKUE"
+	},
+	{
 		"created_at": "Sat May 14 00:07:35 +0000 2022",
 		"id": 1525266536705011700,
 		"id_str": "1525266536705011712",
