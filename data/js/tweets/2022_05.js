@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 29 20:20:20 +0000 2022",
+		"id": 1531007554511376400,
+		"id_str": "1531007554511376384",
+		"full_text": "A few of those look ok https://t.co/nNU8TtwOAr https://t.co/PKjYrE22Jm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nNU8TtwOAr",
+					"expanded_url": "https://twitter.com/janellecshane/status/1530988224864063488",
+					"display_url": "twitter.com/janellecshane/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1531007548379304000,
+					"id_str": "1531007548379303936",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FT87QO2XEAAuM3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FT87QO2XEAAuM3u.jpg",
+					"url": "https://t.co/PKjYrE22Jm",
+					"display_url": "pic.twitter.com/PKjYrE22Jm",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1531007554511376384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531007548379304000,
+					"id_str": "1531007548379303936",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FT87QO2XEAAuM3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FT87QO2XEAAuM3u.jpg",
+					"url": "https://t.co/PKjYrE22Jm",
+					"display_url": "pic.twitter.com/PKjYrE22Jm",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1531007554511376384/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							6,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FT87QO2XEAAuM3u.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4368,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 107752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1530988224864063500,
+		"quoted_status_id_str": "1530988224864063488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nNU8TtwOAr",
+			"expanded": "https://twitter.com/janellecshane/status/1530988224864063488",
+			"display": "twitter.com/janellecshane/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 29 19:03:31 +0000 2022",
+			"id": 1530988224864063500,
+			"id_str": "1530988224864063488",
+			"full_text": "I used GPT-3 to generate some new donuts, and then I used its descriptions to draw some of my favorites.\nhttps://t.co/KwAd5prLkh https://t.co/tZcpXHNukR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KwAd5prLkh",
+						"expanded_url": "https://www.aiweirdness.com/ai-generated-donuts/",
+						"display_url": "aiweirdness.com/ai-generated-d…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1530966484385640400,
+						"id_str": "1530966484385640449",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/FT8V5_jVsAE-l0M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FT8V5_jVsAE-l0M.jpg",
+						"url": "https://t.co/tZcpXHNukR",
+						"display_url": "pic.twitter.com/tZcpXHNukR",
+						"expanded_url": "https://twitter.com/JanelleCShane/status/1530988224864063488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1727,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1012,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 573,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1530966484385640400,
+						"id_str": "1530966484385640449",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/FT8V5_jVsAE-l0M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FT8V5_jVsAE-l0M.jpg",
+						"url": "https://t.co/tZcpXHNukR",
+						"display_url": "pic.twitter.com/tZcpXHNukR",
+						"expanded_url": "https://twitter.com/JanelleCShane/status/1530988224864063488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1727,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1012,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 573,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2460047754,
+				"id_str": "2460047754",
+				"name": "Janelle Shane",
+				"screen_name": "JanelleCShane",
+				"location": "Boulder, CO",
+				"description": "I write https://t.co/WNB8L0jc17. My book \"You Look Like a Thing and I Love You\" is out now! Research Scientist in optics. she/her. https://t.co/cC9JEun7YH",
+				"url": "https://t.co/iVNLPmoctS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iVNLPmoctS",
+								"expanded_url": "http://janelleshane.com",
+								"display_url": "janelleshane.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WNB8L0jc17",
+								"expanded_url": "http://aiweirdness.com",
+								"display_url": "aiweirdness.com",
+								"indices": [
+									8,
+									31
+								]
+							},
+							{
+								"url": "https://t.co/cC9JEun7YH",
+								"expanded_url": "http://wandering.shop/@janellecshane",
+								"display_url": "wandering.shop/@janellecshane",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 42467,
+				"friends_count": 1066,
+				"listed_count": 805,
+				"created_at": "Wed Apr 23 17:53:28 +0000 2014",
+				"favourites_count": 19768,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18648,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097971290617503744/_wUJUS1c_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097971290617503744/_wUJUS1c_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2460047754/1572993588",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 242,
+			"favorite_count": 979,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few of those look ok https://t.co/nNU8TtwOAr https://t.co/PKjYrE22Jm"
+	},
+	{
 		"created_at": "Sat May 28 19:42:01 +0000 2022",
 		"id": 1530635524716781600,
 		"id_str": "1530635524716781570",
