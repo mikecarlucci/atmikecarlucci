@@ -1,6 +1,1159 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 21:30:02 +0000 2022",
+		"id": 1532837034880123000,
+		"id_str": "1532837034880122880",
+		"full_text": "🤔 https://t.co/X0WiCR3Q5v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X0WiCR3Q5v",
+					"expanded_url": "https://twitter.com/katiemo61/status/1532833705965789186",
+					"display_url": "twitter.com/katiemo61/stat…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4369,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 107949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532833705965789200,
+		"quoted_status_id_str": "1532833705965789186",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X0WiCR3Q5v",
+			"expanded": "https://twitter.com/katiemo61/status/1532833705965789186",
+			"display": "twitter.com/katiemo61/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 03 21:16:48 +0000 2022",
+			"id": 1532833705965789200,
+			"id_str": "1532833705965789186",
+			"full_text": "Jarren Duran is not with the WooSox tonight and manager Chad Tracy indicated he may be joining the Red Sox shortly.\n\nDuran has reached base in 29 straight games in Triple-A.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103698546,
+				"id_str": "103698546",
+				"name": "Katie Morrison",
+				"screen_name": "KatieMo61",
+				"location": "Worcester, MA",
+				"description": "@WooSox for @masslivesports / freelance photog for hire for sports & more / unabashed Celtics fan. Find me with my face behind a camera https://t.co/WwHBjvFaa3",
+				"url": "https://t.co/ETaRNuvey3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ETaRNuvey3",
+								"expanded_url": "https://www.instagram.com/photosbyKMO",
+								"display_url": "instagram.com/photosbyKMO",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WwHBjvFaa3",
+								"expanded_url": "http://photosbyKMO.com",
+								"display_url": "photosbyKMO.com",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2164,
+				"friends_count": 2632,
+				"listed_count": 83,
+				"created_at": "Sun Jan 10 23:43:35 +0000 2010",
+				"favourites_count": 24092,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16146,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1441282148674138120/gP_1Mc8S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441282148674138120/gP_1Mc8S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103698546/1631135285",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "CE7834",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 420,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤔 https://t.co/X0WiCR3Q5v"
+	},
+	{
+		"created_at": "Fri Jun 03 15:07:10 +0000 2022",
+		"id": 1532740681550135300,
+		"id_str": "1532740681550135296",
+		"full_text": "@RodCarew_29 https://t.co/UYX0O7VQZE",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RodCarew_29",
+					"name": "Rod Carew",
+					"id": 1371866918777331700,
+					"id_str": "1371866918777331716",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UYX0O7VQZE",
+					"expanded_url": "https://youtu.be/KCBFjmtLgSI",
+					"display_url": "youtu.be/KCBFjmtLgSI",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1532432265598230500,
+		"in_reply_to_status_id_str": "1532432265598230528",
+		"in_reply_to_user_id": 1371866918777331700,
+		"in_reply_to_user_id_str": "1371866918777331716",
+		"in_reply_to_screen_name": "RodCarew_29",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4369,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 107949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@RodCarew_29 https://t.co/UYX0O7VQZE"
+	},
+	{
+		"created_at": "Fri Jun 03 14:34:53 +0000 2022",
+		"id": 1532732559683092500,
+		"id_str": "1532732559683092483",
+		"full_text": "@MtgPearl @wizards_magic I’ve played since 97 and I’ve got some duals, a wheel, cradle from a pack, and a few other good RL cards but I guess I was supposed to invest back then to every play with the iconic brand cards",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MtgPearl",
+					"name": "Players for Ethical Abolishment of Reserve List",
+					"id": 1397251809589203000,
+					"id_str": "1397251809589202945",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "wizards_magic",
+					"name": "Magic: The Gathering",
+					"id": 204870137,
+					"id_str": "204870137",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1532715623104536600,
+		"in_reply_to_status_id_str": "1532715623104536576",
+		"in_reply_to_user_id": 1397251809589203000,
+		"in_reply_to_user_id_str": "1397251809589202945",
+		"in_reply_to_screen_name": "MtgPearl",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4369,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 107949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MtgPearl @wizards_magic I’ve played since 97 and I’ve got some duals, a wheel, cradle from a pack, and a few other good RL cards but I guess I was supposed to invest back then to every play with the iconic brand cards"
+	},
+	{
+		"created_at": "Fri Jun 03 14:33:17 +0000 2022",
+		"id": 1532732156983779300,
+		"id_str": "1532732156983779330",
+		"full_text": "So glad I live in a better city (Boston) with a better mayor @wutrain https://t.co/prp1MBBW65",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wutrain",
+					"name": "Michelle Wu 吳弭",
+					"id": 20659868,
+					"id_str": "20659868",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/prp1MBBW65",
+					"expanded_url": "https://twitter.com/abc7ny/status/1532418025290440706",
+					"display_url": "twitter.com/abc7ny/status/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Red Sox writer @OverTheMonster / Data Analyst @northeastern @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4369,
+			"friends_count": 689,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 107949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532418025290440700,
+		"quoted_status_id_str": "1532418025290440706",
+		"quoted_status_permalink": {
+			"url": "https://t.co/prp1MBBW65",
+			"expanded": "https://twitter.com/abc7ny/status/1532418025290440706",
+			"display": "twitter.com/abc7ny/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 02 17:45:02 +0000 2022",
+			"id": 1532418025290440700,
+			"id_str": "1532418025290440706",
+			"full_text": "Mayor Adams sends stern letter to NYC employees: 'You are required to report to work in person' https://t.co/aPENRnl3MI https://t.co/7Hbrknxkgr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aPENRnl3MI",
+						"expanded_url": "https://7ny.tv/3Q8nv8u",
+						"display_url": "7ny.tv/3Q8nv8u",
+						"indices": [
+							96,
+							119
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1532418023440756700,
+						"id_str": "1532418023440756736",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/FUQ-Er6XsAAzJaf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUQ-Er6XsAAzJaf.jpg",
+						"url": "https://t.co/7Hbrknxkgr",
+						"display_url": "pic.twitter.com/7Hbrknxkgr",
+						"expanded_url": "https://twitter.com/ABC7NY/status/1532418025290440706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1532418023440756700,
+						"id_str": "1532418023440756736",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/FUQ-Er6XsAAzJaf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUQ-Er6XsAAzJaf.jpg",
+						"url": "https://t.co/7Hbrknxkgr",
+						"display_url": "pic.twitter.com/7Hbrknxkgr",
+						"expanded_url": "https://twitter.com/ABC7NY/status/1532418025290440706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16715398,
+				"id_str": "16715398",
+				"name": "Eyewitness News",
+				"screen_name": "ABC7NY",
+				"location": "New York City",
+				"description": "New York's #1 news, Channel 7 Eyewitness News. WABC-TV. Comments & photos shared here or using #abc7NY could be used on any ABC platforms.",
+				"url": "https://t.co/jfhEMrUXM9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jfhEMrUXM9",
+								"expanded_url": "http://abc7ny.com",
+								"display_url": "abc7ny.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 741954,
+				"friends_count": 29511,
+				"listed_count": 3994,
+				"created_at": "Mon Oct 13 02:33:46 +0000 2008",
+				"favourites_count": 7772,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 381337,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910523413705510913/8qZNWUOQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910523413705510913/8qZNWUOQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16715398/1502890618",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 241,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So glad I live in a better city (Boston) with a better mayor @wutrain https://t.co/prp1MBBW65"
+	},
+	{
+		"created_at": "Fri Jun 03 14:30:01 +0000 2022",
+		"id": 1532715623104536600,
+		"id_str": "1532731336024379392",
+		"full_text": "Kinda infuriating that @wizards_magic uses RL cards to sell and promote current products/clients but pinky swears with some old boy’s club whiners to never make them available to players. Can you imagine any other company doing this? #mtg https://t.co/tQ3y5cMgEI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mtg",
+					"indices": [
+						234,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wizards_magic",
+					"name": "Magic: The Gathering",
+					"id": 204870137,
+					"id_str": "204870137",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tQ3y5cMgEI",
+					"expanded_url": "https://twitter.com/col_amazonian/status/1532402717733359616",
+					"display_url": "twitter.com/col_amazonian/…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1397251809589203000,
+			"id_str": "1397251809589202945",
+			"name": "Players for Ethical Abolishment of Reserve List",
+			"screen_name": "MtgPearl",
+			"location": "",
+			"description": "Players supporting the ethical abolishment of the #mtg Reserve List. Demand @hasbro and @wizards_magic take action now.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 778,
+			"friends_count": 1112,
+			"listed_count": 2,
+			"created_at": "Tue May 25 18:02:56 +0000 2021",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397252218663940099/Mh38U-Rn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397252218663940099/Mh38U-Rn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1397251809589202945/1637417080",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532402717733359600,
+		"quoted_status_id_str": "1532402717733359616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tQ3y5cMgEI",
+			"expanded": "https://twitter.com/col_amazonian/status/1532402717733359616",
+			"display": "twitter.com/col_amazonian/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 02 16:44:13 +0000 2022",
+			"id": 1532402717733359600,
+			"id_str": "1532402717733359616",
+			"full_text": "what???\n\nMox Pearl is apparently in Arena. https://t.co/WSb14fYCNC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				42
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1532402691967705000,
+						"id_str": "1532402691967705089",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/FUQwIRuWYAEKHW-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUQwIRuWYAEKHW-.jpg",
+						"url": "https://t.co/WSb14fYCNC",
+						"display_url": "pic.twitter.com/WSb14fYCNC",
+						"expanded_url": "https://twitter.com/coL_Amazonian/status/1532402717733359616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1532402691967705000,
+						"id_str": "1532402691967705089",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/FUQwIRuWYAEKHW-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUQwIRuWYAEKHW-.jpg",
+						"url": "https://t.co/WSb14fYCNC",
+						"display_url": "pic.twitter.com/WSb14fYCNC",
+						"expanded_url": "https://twitter.com/coL_Amazonian/status/1532402717733359616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4113137997,
+				"id_str": "4113137997",
+				"name": "Amy the Amazonian",
+				"screen_name": "coL_Amazonian",
+				"location": "Boston, MA",
+				"description": "Everything enthusiast, twitch partnered streamer, engineer, and card gamer. she/her/they/them  ✉️ amyzonian@gmail.com",
+				"url": "https://t.co/mGCEBPzY68",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mGCEBPzY68",
+								"expanded_url": "https://www.twitch.tv/amazonian/",
+								"display_url": "twitch.tv/amazonian/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18239,
+				"friends_count": 336,
+				"listed_count": 131,
+				"created_at": "Wed Nov 04 16:30:15 +0000 2015",
+				"favourites_count": 58069,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30660,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1461923239072993286/Z1Xy6t63_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461923239072993286/Z1Xy6t63_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4113137997/1597269410",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 480,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kinda infuriating that @wizards_magic uses RL cards to sell and promote current products/clients but pinky swears with some old boy’s club whiners to never make them available to players. Can you imagine any other company doing this? #mtg https://t.co/tQ3y5cMgEI"
+	},
+	{
+		"created_at": "Fri Jun 03 14:29:41 +0000 2022",
+		"id": 1532022057927680000,
+		"id_str": "1532731249110011908",
+		"full_text": "workers in europe: i will be taking the summer off because i need a little suntan\n\nworkers in america: i will be using one of my 3 paid vacation days to undergo open heart surgery",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55633995,
+			"id_str": "55633995",
+			"name": "trash jones",
+			"screen_name": "jzux",
+			"location": "Brooklyn, NY",
+			"description": "oy vey",
+			"url": "https://t.co/Hpm7kuUJ9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hpm7kuUJ9R",
+							"expanded_url": "http://www.instagram.com/gadzucks",
+							"display_url": "instagram.com/gadzucks",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68697,
+			"friends_count": 811,
+			"listed_count": 165,
+			"created_at": "Fri Jul 10 18:48:02 +0000 2009",
+			"favourites_count": 19815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304589362051645441/Yo_o5yi5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304589362051645441/Yo_o5yi5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55633995/1608664425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19450,
+		"favorite_count": 173004,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "workers in europe: i will be taking the summer off because i need a little suntan\n\nworkers in america: i will be using one of my 3 paid vacation days to undergo open heart surgery"
+	},
+	{
 		"created_at": "Fri Jun 03 00:50:13 +0000 2022",
 		"id": 1532525023268839400,
 		"id_str": "1532525023268839439",
