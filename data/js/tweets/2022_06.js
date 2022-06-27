@@ -1,6 +1,599 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 03:03:32 +0000 2022",
+		"id": 1541255883769929700,
+		"id_str": "1541255883769929729",
+		"full_text": "C. Sneak out in the middle of the night https://t.co/OCPPCMNgFr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OCPPCMNgFr",
+					"expanded_url": "https://twitter.com/themuppets/status/614562538085289984",
+					"display_url": "twitter.com/themuppets/sta…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4364,
+			"friends_count": 657,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 108815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 614562538085290000,
+		"quoted_status_id_str": "614562538085289984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OCPPCMNgFr",
+			"expanded": "https://twitter.com/themuppets/status/614562538085289984",
+			"display": "twitter.com/themuppets/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 26 22:35:01 +0000 2015",
+			"id": 614562538085290000,
+			"id_str": "614562538085289984",
+			"full_text": "♫ Well welcome home to Happiness Hotel! ♫ \n\nThe Great Muppet Caper checked into theaters on this day in 1981! http://t.co/Z1zDvOOKbh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 614562538009854000,
+						"id_str": "614562538009853952",
+						"indices": [
+							110,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/CIddX0pXAAAwNtF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CIddX0pXAAAwNtF.jpg",
+						"url": "http://t.co/Z1zDvOOKbh",
+						"display_url": "pic.twitter.com/Z1zDvOOKbh",
+						"expanded_url": "https://twitter.com/TheMuppets/status/614562538085289984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 651,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 432,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 614562538009854000,
+						"id_str": "614562538009853952",
+						"indices": [
+							110,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/CIddX0pXAAAwNtF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CIddX0pXAAAwNtF.jpg",
+						"url": "http://t.co/Z1zDvOOKbh",
+						"display_url": "pic.twitter.com/Z1zDvOOKbh",
+						"expanded_url": "https://twitter.com/TheMuppets/status/614562538085289984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 651,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 432,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78767466,
+				"id_str": "78767466",
+				"name": "The Muppets",
+				"screen_name": "TheMuppets",
+				"location": "",
+				"description": "Welcome to the official home of The Muppets on Twitter!",
+				"url": "https://t.co/pNWvW0ky85",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pNWvW0ky85",
+								"expanded_url": "http://disney.com/Muppets",
+								"display_url": "disney.com/Muppets",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 422302,
+				"friends_count": 184,
+				"listed_count": 3762,
+				"created_at": "Thu Oct 01 01:38:59 +0000 2009",
+				"favourites_count": 409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4810,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4A913C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455168699401396232/pJai13i8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455168699401396232/pJai13i8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78767466/1635774230",
+				"profile_link_color": "2E8A07",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 159,
+			"favorite_count": 358,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "C. Sneak out in the middle of the night https://t.co/OCPPCMNgFr"
+	},
+	{
+		"created_at": "Sun Jun 26 22:54:52 +0000 2022",
+		"id": 1541193306071306200,
+		"id_str": "1541193306071306240",
+		"full_text": "https://t.co/fBMKfJE1wy https://t.co/PkNt60Ydii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fBMKfJE1wy",
+					"expanded_url": "https://youtu.be/ufSQMXLO95w",
+					"display_url": "youtu.be/ufSQMXLO95w",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/PkNt60Ydii",
+					"expanded_url": "https://twitter.com/sofieballgame/status/1541164864340742144",
+					"display_url": "twitter.com/sofieballgame/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4364,
+			"friends_count": 657,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 108815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1541164864340742100,
+		"quoted_status_id_str": "1541164864340742144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PkNt60Ydii",
+			"expanded": "https://twitter.com/sofieballgame/status/1541164864340742144",
+			"display": "twitter.com/sofieballgame/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 26 21:01:51 +0000 2022",
+			"id": 1541164864340742100,
+			"id_str": "1541164864340742144",
+			"full_text": "I just ordered a pizza for Jesse Winker from @MountainMikes Pizza in Anaheim. You deserve it big guy @Mariners https://t.co/AymUQvQ3r9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MountainMikes",
+						"name": "Mountain Mike's Pizza",
+						"id": 459507399,
+						"id_str": "459507399",
+						"indices": [
+							45,
+							59
+						]
+					},
+					{
+						"screen_name": "Mariners",
+						"name": "Seattle Mariners",
+						"id": 41488578,
+						"id_str": "41488578",
+						"indices": [
+							101,
+							110
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1541164861736067000,
+						"id_str": "1541164861736067073",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/FWNRRrwXoAE8O1T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWNRRrwXoAE8O1T.jpg",
+						"url": "https://t.co/AymUQvQ3r9",
+						"display_url": "pic.twitter.com/AymUQvQ3r9",
+						"expanded_url": "https://twitter.com/sofieballgame/status/1541164864340742144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1030,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1030,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1541164861736067000,
+						"id_str": "1541164861736067073",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/FWNRRrwXoAE8O1T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWNRRrwXoAE8O1T.jpg",
+						"url": "https://t.co/AymUQvQ3r9",
+						"display_url": "pic.twitter.com/AymUQvQ3r9",
+						"expanded_url": "https://twitter.com/sofieballgame/status/1541164864340742144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1030,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1030,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17909003,
+				"id_str": "17909003",
+				"name": "Sofie 🏳️‍🌈",
+				"screen_name": "sofieballgame",
+				"location": "in the stands by the bullpen",
+				"description": "Mariners and Minor League Baseball. Taller than she looks on TV.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2386,
+				"friends_count": 932,
+				"listed_count": 66,
+				"created_at": "Fri Dec 05 21:46:54 +0000 2008",
+				"favourites_count": 15018,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6178,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C881F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1531763292816949249/0X8PVEhF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531763292816949249/0X8PVEhF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17909003/1655432988",
+				"profile_link_color": "1C8B85",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1073,
+			"favorite_count": 8086,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/fBMKfJE1wy https://t.co/PkNt60Ydii"
+	},
+	{
 		"created_at": "Sun Jun 26 01:48:47 +0000 2022",
 		"id": 1540874683146444800,
 		"id_str": "1540874683146444801",
@@ -16,7 +609,7 @@ Grailbird.data.tweets_2022_06 =
 			"user_mentions": [
 				{
 					"screen_name": "MinorLeagueBall",
-					"name": "John Sickels 🇺🇸😷 🏳️‍🌈🇺🇦",
+					"name": "John Sickels 🇺🇸😷 🏳️🌈🇺🇦",
 					"id": 97260950,
 					"id_str": "97260950",
 					"indices": [
