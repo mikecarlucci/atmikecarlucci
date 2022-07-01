@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 30 20:55:22 +0000 2022",
+		"id": 1542612784873177000,
+		"id_str": "1542612784873177088",
+		"full_text": "🤔 that looks more promising than that Toronto series https://t.co/5mgDfwLyMa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5mgDfwLyMa",
+					"expanded_url": "https://twitter.com/bleedcubbieblue/status/1542606554616270849",
+					"display_url": "twitter.com/bleedcubbieblu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 658,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1542606554616270800,
+		"quoted_status_id_str": "1542606554616270849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5mgDfwLyMa",
+			"expanded": "https://twitter.com/bleedcubbieblue/status/1542606554616270849",
+			"display": "twitter.com/bleedcubbieblu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 30 20:30:37 +0000 2022",
+			"id": 1542606554616270800,
+			"id_str": "1542606554616270849",
+			"full_text": "#Cubs vs #RedSox probable pitchers this weekend...\n\nFriday: Adrian Sampson vs. Rich Hill\nSaturday: Alec Mills vs. Josh Winckowski\nSunday: Keegan Thompson vs. TBD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Cubs",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "RedSox",
+						"indices": [
+							9,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17845694,
+				"id_str": "17845694",
+				"name": "Al Yellon",
+				"screen_name": "bleedcubbieblue",
+				"location": "Chicago",
+				"description": "Bleed Cubbie Blue is SB Nation's Chicago Cubs community.\n\nSome tweets during games from this account will be from Ashley MacLennan (@90feetfromhome), signed AM",
+				"url": "https://t.co/UVt9sjxrc5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UVt9sjxrc5",
+								"expanded_url": "http://www.bleedcubbieblue.com",
+								"display_url": "bleedcubbieblue.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16540,
+				"friends_count": 782,
+				"listed_count": 850,
+				"created_at": "Wed Dec 03 19:31:22 +0000 2008",
+				"favourites_count": 39,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 60078,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "77777F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869200145774247936/IH3q6Ipc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869200145774247936/IH3q6Ipc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17845694/1398439181",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "0D3281",
+				"profile_text_color": "FF000B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🤔 that looks more promising than that Toronto series https://t.co/5mgDfwLyMa"
+	},
+	{
+		"created_at": "Thu Jun 30 14:06:44 +0000 2022",
+		"id": 1542509949204385800,
+		"id_str": "1542509949204385793",
+		"full_text": "@aten Careful or they’ll say you’re NGMI 🤣",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aten",
+					"name": "ED ATEN 😷🇺🇸🌲",
+					"id": 15809746,
+					"id_str": "15809746",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1542507561483509800,
+		"in_reply_to_status_id_str": "1542507561483509766",
+		"in_reply_to_user_id": 15809746,
+		"in_reply_to_user_id_str": "15809746",
+		"in_reply_to_screen_name": "aten",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 658,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aten Careful or they’ll say you’re NGMI 🤣"
+	},
+	{
 		"created_at": "Thu Jun 30 01:16:42 +0000 2022",
 		"id": 1542316162414952400,
 		"id_str": "1542316162414952449",
