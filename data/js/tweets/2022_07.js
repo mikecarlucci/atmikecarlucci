@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 02 14:30:17 +0000 2022",
+		"id": 1543240650086285300,
+		"id_str": "1543240650086285312",
+		"full_text": "Practically Doug Mirabelli https://t.co/uY2xuj7zzZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uY2xuj7zzZ",
+					"expanded_url": "https://twitter.com/gbharchives/status/1543240181150617600",
+					"display_url": "twitter.com/gbharchives/st…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 658,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1543240181150617600,
+		"quoted_status_id_str": "1543240181150617600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uY2xuj7zzZ",
+			"expanded": "https://twitter.com/gbharchives/status/1543240181150617600",
+			"display": "twitter.com/gbharchives/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 02 14:28:25 +0000 2022",
+			"id": 1543240181150617600,
+			"id_str": "1543240181150617600",
+			"full_text": ".@TheBostonPops conductor Arthur Fiedler makes his way to the #FourthofJuly concert on the Esplanade, via @bostonpolice, circa 1978. https://t.co/3jqHNWneDY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FourthofJuly",
+						"indices": [
+							62,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheBostonPops",
+						"name": "Boston Pops",
+						"id": 323949107,
+						"id_str": "323949107",
+						"indices": [
+							1,
+							15
+						]
+					},
+					{
+						"screen_name": "bostonpolice",
+						"name": "Boston Police Dept.",
+						"id": 19185333,
+						"id_str": "19185333",
+						"indices": [
+							106,
+							119
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1543235395307147300,
+						"id_str": "1543235395307147264",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543235395307147264/pu/img/E_K_Iz55qZqzZP-v.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543235395307147264/pu/img/E_K_Iz55qZqzZP-v.jpg",
+						"url": "https://t.co/3jqHNWneDY",
+						"display_url": "pic.twitter.com/3jqHNWneDY",
+						"expanded_url": "https://twitter.com/GBHArchives/status/1543240181150617600/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 630,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 630,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 630,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1543235395307147300,
+						"id_str": "1543235395307147264",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543235395307147264/pu/img/E_K_Iz55qZqzZP-v.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543235395307147264/pu/img/E_K_Iz55qZqzZP-v.jpg",
+						"url": "https://t.co/3jqHNWneDY",
+						"display_url": "pic.twitter.com/3jqHNWneDY",
+						"expanded_url": "https://twitter.com/GBHArchives/status/1543240181150617600/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 630,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 630,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 630,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								21,
+								16
+							],
+							"duration_millis": 98836,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1543235395307147264/pu/vid/472x360/S10X2Eoz330Aevpl.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1543235395307147264/pu/vid/354x270/6KOQcM_cMIQXZP56.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1543235395307147264/pu/pl/Z7A_YB7ygdP0bZbq.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1543235395307147264/pu/vid/630x480/ZyJzA4LPtczC4395.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1046874017242714100,
+				"id_str": "1046874017242714119",
+				"name": "GBH Archives",
+				"screen_name": "GBHArchives",
+				"location": "Boston, MA",
+				"description": "Every day a surprise from the @gbh Archives.",
+				"url": "https://t.co/aJk5z809Ut",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aJk5z809Ut",
+								"expanded_url": "http://www.openvault.wgbh.org",
+								"display_url": "openvault.wgbh.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24204,
+				"friends_count": 148,
+				"listed_count": 102,
+				"created_at": "Mon Oct 01 21:26:30 +0000 2018",
+				"favourites_count": 4231,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1580,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1300798067537588224/Rqc6DVzv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300798067537588224/Rqc6DVzv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1046874017242714119/1605624590",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 155,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Practically Doug Mirabelli https://t.co/uY2xuj7zzZ"
+	},
+	{
+		"created_at": "Sat Jul 02 14:27:17 +0000 2022",
+		"id": 1543239893920383000,
+		"id_str": "1543239893920382977",
+		"full_text": "@MLB @RedSox @Cubs Fenway https://t.co/E3K2BBsApG",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MLB",
+					"name": "MLB",
+					"id": 18479513,
+					"id_str": "18479513",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"screen_name": "RedSox",
+					"name": "Red Sox",
+					"id": 40918816,
+					"id_str": "40918816",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"screen_name": "Cubs",
+					"name": "Chicago Cubs",
+					"id": 41144996,
+					"id_str": "41144996",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543239883455697000,
+					"id_str": "1543239883455696901",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FWqwf2CXkAUgJWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWqwf2CXkAUgJWa.jpg",
+					"url": "https://t.co/E3K2BBsApG",
+					"display_url": "pic.twitter.com/E3K2BBsApG",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1543239893920382977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 466,
+							"h": 268,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 466,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 466,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543239883455697000,
+					"id_str": "1543239883455696901",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FWqwf2CXkAUgJWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWqwf2CXkAUgJWa.jpg",
+					"url": "https://t.co/E3K2BBsApG",
+					"display_url": "pic.twitter.com/E3K2BBsApG",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1543239893920382977/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 466,
+							"h": 268,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 466,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 466,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							233,
+							134
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FWqwf2CXkAUgJWa.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1543239570350903300,
+		"in_reply_to_status_id_str": "1543239570350903296",
+		"in_reply_to_user_id": 18479513,
+		"in_reply_to_user_id_str": "18479513",
+		"in_reply_to_screen_name": "MLB",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 658,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "cy",
+		"text": "@MLB @RedSox @Cubs Fenway https://t.co/E3K2BBsApG"
+	},
+	{
 		"created_at": "Fri Jul 01 21:15:14 +0000 2022",
 		"id": 1542980171719901200,
 		"id_str": "1542980171719901185",
