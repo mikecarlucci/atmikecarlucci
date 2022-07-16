@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 01:01:57 +0000 2022",
+		"id": 1548110654065635300,
+		"id_str": "1548110654065635340",
+		"full_text": "That one turned out ok https://t.co/U08fUaTwW8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U08fUaTwW8",
+					"expanded_url": "https://twitter.com/19thcenturybucs/status/1548097522882580480",
+					"display_url": "twitter.com/19thcenturybuc…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 659,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1548097522882580500,
+		"quoted_status_id_str": "1548097522882580480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/U08fUaTwW8",
+			"expanded": "https://twitter.com/19thcenturybucs/status/1548097522882580480",
+			"display": "twitter.com/19thcenturybuc…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 16 00:09:46 +0000 2022",
+			"id": 1548097522882580500,
+			"id_str": "1548097522882580480",
+			"full_text": "Every once in a while, I like to make sure @LeonardGMartin knows his creation Is still in place. \n\nNormally try to keep my toe out of the shot, though\n#ExpoPark #AlleghenyCity https://t.co/UENmWPlUeZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ExpoPark",
+						"indices": [
+							151,
+							160
+						]
+					},
+					{
+						"text": "AlleghenyCity",
+						"indices": [
+							161,
+							175
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LeonardGMartin",
+						"name": "Len Martin",
+						"id": 720774198574993400,
+						"id_str": "720774198574993408",
+						"indices": [
+							43,
+							58
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1548097498853478400,
+						"id_str": "1548097498853478402",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FXvyeRjVEAIJOx6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXvyeRjVEAIJOx6.jpg",
+						"url": "https://t.co/UENmWPlUeZ",
+						"display_url": "pic.twitter.com/UENmWPlUeZ",
+						"expanded_url": "https://twitter.com/19thCenturyBucs/status/1548097522882580480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1759,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1031,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1548097498853478400,
+						"id_str": "1548097498853478402",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FXvyeRjVEAIJOx6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXvyeRjVEAIJOx6.jpg",
+						"url": "https://t.co/UENmWPlUeZ",
+						"display_url": "pic.twitter.com/UENmWPlUeZ",
+						"expanded_url": "https://twitter.com/19thCenturyBucs/status/1548097522882580480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1759,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1031,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1375128823176556500,
+				"id_str": "1375128823176556547",
+				"name": "19th Century Bucs",
+				"screen_name": "19thCenturyBucs",
+				"location": "Pittsburgh, PA",
+				"description": "Appreciation account for Victorian Era base ball in and of SW PA. Muddy microfilm and tangents galore. #SABR dues paid each year, through no fault of theirs.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 396,
+				"friends_count": 651,
+				"listed_count": 4,
+				"created_at": "Thu Mar 25 16:54:08 +0000 2021",
+				"favourites_count": 5816,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1320,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1534670063386693632/zmdv0669_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534670063386693632/zmdv0669_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1375128823176556547/1654729262",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That one turned out ok https://t.co/U08fUaTwW8"
+	},
+	{
+		"created_at": "Fri Jul 15 20:20:19 +0000 2022",
+		"id": 1548039782508335000,
+		"id_str": "1548039782508335105",
+		"full_text": "Your good news update, for a change https://t.co/QFxx0QTTbu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QFxx0QTTbu",
+					"expanded_url": "https://www.overthemonster.com/2022/7/15/23198107/your-good-news-update-eovaldi-pivetta-sale?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/7/15/2319…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 659,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your good news update, for a change https://t.co/QFxx0QTTbu"
+	},
+	{
+		"created_at": "Fri Jul 15 15:02:44 +0000 2022",
+		"id": 1547959856673394700,
+		"id_str": "1547959856673394691",
+		"full_text": "@GavinVerhey It’s kind of amazing to think Temporal Spring at that same cost was pretty interesting 🤣 https://t.co/z6cU3t1Arn",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinVerhey",
+					"name": "Gavin Verhey",
+					"id": 172153520,
+					"id_str": "172153520",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547959851912810500,
+					"id_str": "1547959851912810501",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FXt1SKvUUAU6Aq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXt1SKvUUAU6Aq2.jpg",
+					"url": "https://t.co/z6cU3t1Arn",
+					"display_url": "pic.twitter.com/z6cU3t1Arn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1547959856673394691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 773,
+							"h": 1089,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 1089,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547959851912810500,
+					"id_str": "1547959851912810501",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FXt1SKvUUAU6Aq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXt1SKvUUAU6Aq2.jpg",
+					"url": "https://t.co/z6cU3t1Arn",
+					"display_url": "pic.twitter.com/z6cU3t1Arn",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1547959856673394691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 773,
+							"h": 1089,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 1089,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1547928189342691300,
+		"in_reply_to_status_id_str": "1547928189342691329",
+		"in_reply_to_user_id": 172153520,
+		"in_reply_to_user_id_str": "172153520",
+		"in_reply_to_screen_name": "GavinVerhey",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 659,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GavinVerhey It’s kind of amazing to think Temporal Spring at that same cost was pretty interesting 🤣 https://t.co/z6cU3t1Arn"
+	},
+	{
 		"created_at": "Thu Jul 14 21:07:26 +0000 2022",
 		"id": 1547689250254073900,
 		"id_str": "1547689250254073856",
