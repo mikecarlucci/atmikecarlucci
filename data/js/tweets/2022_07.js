@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 01:29:25 +0000 2022",
+		"id": 1549929507871662000,
+		"id_str": "1549929507871662082",
+		"full_text": "@BCB_Sara Cello you’ve got a bass!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BCB_Sara",
+					"name": "Sara Sanchez",
+					"id": 78725208,
+					"id_str": "78725208",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549922707961258000,
+		"in_reply_to_status_id_str": "1549922707961257984",
+		"in_reply_to_user_id": 78725208,
+		"in_reply_to_user_id_str": "78725208",
+		"in_reply_to_screen_name": "BCB_Sara",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BCB_Sara Cello you’ve got a bass!"
+	},
+	{
+		"created_at": "Wed Jul 20 17:39:20 +0000 2022",
+		"id": 1549811206474514400,
+		"id_str": "1549811206474514433",
+		"full_text": "@JasonEAlt @TheProxyGuy Wheel of Fortune that was relatively cheap until \"investors\" bought all the copies up to price gouge.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonEAlt",
+					"name": "Jason Alt in Bellevue 7/20-26",
+					"id": 562329884,
+					"id_str": "562329884",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TheProxyGuy",
+					"name": "TheProxyGuy",
+					"id": 82815982,
+					"id_str": "82815982",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549475290484719600,
+		"in_reply_to_status_id_str": "1549475290484719619",
+		"in_reply_to_user_id": 562329884,
+		"in_reply_to_user_id_str": "562329884",
+		"in_reply_to_screen_name": "JasonEAlt",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JasonEAlt @TheProxyGuy Wheel of Fortune that was relatively cheap until \"investors\" bought all the copies up to price gouge."
+	},
+	{
+		"created_at": "Wed Jul 20 17:36:30 +0000 2022",
+		"id": 1549810493354717200,
+		"id_str": "1549810493354717184",
+		"full_text": "It's either players or \"investors\" and at some point people will just buy the the knockoffs that are indistinguishable. Just drop the Reserved List and print the game pieces people want. \n@wizards_magic @Hasbro @maro254 https://t.co/puAenmQO5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wizards_magic",
+					"name": "Magic: The Gathering",
+					"id": 204870137,
+					"id_str": "204870137",
+					"indices": [
+						188,
+						202
+					]
+				},
+				{
+					"screen_name": "Hasbro",
+					"name": "Hasbro",
+					"id": 78482616,
+					"id_str": "78482616",
+					"indices": [
+						203,
+						210
+					]
+				},
+				{
+					"screen_name": "maro254",
+					"name": "Mark Rosewater",
+					"id": 14817235,
+					"id_str": "14817235",
+					"indices": [
+						211,
+						219
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549810048301277200,
+					"id_str": "1549810048301277185",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FYIIBxZUIAEPWxl.png",
+					"media_url_https": "https://pbs.twimg.com/media/FYIIBxZUIAEPWxl.png",
+					"url": "https://t.co/puAenmQO5b",
+					"display_url": "pic.twitter.com/puAenmQO5b",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1549810493354717184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 282,
+							"h": 101,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 282,
+							"h": 101,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 101,
+							"h": 101,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 282,
+							"h": 101,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549810048301277200,
+					"id_str": "1549810048301277185",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FYIIBxZUIAEPWxl.png",
+					"media_url_https": "https://pbs.twimg.com/media/FYIIBxZUIAEPWxl.png",
+					"url": "https://t.co/puAenmQO5b",
+					"display_url": "pic.twitter.com/puAenmQO5b",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1549810493354717184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 282,
+							"h": 101,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 282,
+							"h": 101,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 101,
+							"h": 101,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 282,
+							"h": 101,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's either players or \"investors\" and at some point people will just buy the the knockoffs that are indistinguishable. Just drop the Reserved List and print the game pieces people want. \n@wizards_magic @Hasbro @maro254 https://t.co/puAenmQO5b"
+	},
+	{
+		"created_at": "Wed Jul 20 16:17:10 +0000 2022",
+		"id": 1549790530095091700,
+		"id_str": "1549790530095091713",
+		"full_text": "@tigers @MLBONFOX The creepy voice really took it to another level",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tigers",
+					"name": "Detroit Tigers",
+					"id": 30008146,
+					"id_str": "30008146",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "MLBONFOX",
+					"name": "FOX Sports: MLB",
+					"id": 22819823,
+					"id_str": "22819823",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549616356710047700,
+		"in_reply_to_status_id_str": "1549616356710047744",
+		"in_reply_to_user_id": 30008146,
+		"in_reply_to_user_id_str": "30008146",
+		"in_reply_to_screen_name": "tigers",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tigers @MLBONFOX The creepy voice really took it to another level"
+	},
+	{
+		"created_at": "Wed Jul 20 15:24:50 +0000 2022",
+		"id": 1549777359716470800,
+		"id_str": "1549777359716470789",
+		"full_text": "@90feetfromhome Yeah.  It’s a luxurious (still wasteful)  perk for a group. It’s insane for 30 teams to do for the ASG mostly for one guy each",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "90feetfromhome",
+					"name": "Ashley MacLennan",
+					"id": 776786543377645600,
+					"id_str": "776786543377645572",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549775276460183600,
+		"in_reply_to_status_id_str": "1549775276460183558",
+		"in_reply_to_user_id": 776786543377645600,
+		"in_reply_to_user_id_str": "776786543377645572",
+		"in_reply_to_screen_name": "90feetfromhome",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@90feetfromhome Yeah.  It’s a luxurious (still wasteful)  perk for a group. It’s insane for 30 teams to do for the ASG mostly for one guy each"
+	},
+	{
 		"created_at": "Wed Jul 20 01:55:45 +0000 2022",
 		"id": 1549573747593576400,
 		"id_str": "1549573747593576449",
