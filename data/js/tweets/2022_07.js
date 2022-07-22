@@ -1,6 +1,1374 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 22 00:07:04 +0000 2022",
+		"id": 1550271171773567000,
+		"id_str": "1550271171773566977",
+		"full_text": "@DevJake Monkeys paw curls…it’s a rental 😂",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DevJake",
+					"name": "@devjake",
+					"id": 380413408,
+					"id_str": "380413408",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1550228937384525800,
+		"in_reply_to_status_id_str": "1550228937384525831",
+		"in_reply_to_user_id": 380413408,
+		"in_reply_to_user_id_str": "380413408",
+		"in_reply_to_screen_name": "DevJake",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DevJake Monkeys paw curls…it’s a rental 😂"
+	},
+	{
+		"created_at": "Thu Jul 21 23:51:55 +0000 2022",
+		"id": 1550267356613673000,
+		"id_str": "1550267356613672963",
+		"full_text": "@DylanWa68690046 https://t.co/nsD4jzkZZ4",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DylanWa68690046",
+					"name": "The Question Lotus",
+					"id": 1354557827944226800,
+					"id_str": "1354557827944226816",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550267350590668800,
+					"id_str": "1550267350590668800",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FYOn8RLXwAA2UwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FYOn8RLXwAA2UwD.jpg",
+					"url": "https://t.co/nsD4jzkZZ4",
+					"display_url": "pic.twitter.com/nsD4jzkZZ4",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1550267356613672963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 194,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550267350590668800,
+					"id_str": "1550267350590668800",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FYOn8RLXwAA2UwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FYOn8RLXwAA2UwD.jpg",
+					"url": "https://t.co/nsD4jzkZZ4",
+					"display_url": "pic.twitter.com/nsD4jzkZZ4",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1550267356613672963/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 194,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							200,
+							97
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FYOn8RLXwAA2UwD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549947891334189000,
+		"in_reply_to_status_id_str": "1549947891334189062",
+		"in_reply_to_user_id": 1354557827944226800,
+		"in_reply_to_user_id_str": "1354557827944226816",
+		"in_reply_to_screen_name": "DylanWa68690046",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@DylanWa68690046 https://t.co/nsD4jzkZZ4"
+	},
+	{
+		"created_at": "Thu Jul 21 23:17:06 +0000 2022",
+		"id": 1550258598399320000,
+		"id_str": "1550258598399320066",
+		"full_text": "Ooooo https://t.co/rflabDS11n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rflabDS11n",
+					"expanded_url": "https://twitter.com/disneyplus/status/1550248000835944452",
+					"display_url": "twitter.com/disneyplus/sta…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1550248000835944400,
+		"quoted_status_id_str": "1550248000835944452",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rflabDS11n",
+			"expanded": "https://twitter.com/disneyplus/status/1550248000835944452",
+			"display": "twitter.com/disneyplus/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 21 22:35:00 +0000 2022",
+			"id": 1550248000835944400,
+			"id_str": "1550248000835944452",
+			"full_text": "National Treasure: Edge of History, an Original series, is streaming soon only on #DisneyPlus. #NationalTreasureSeries https://t.co/MMM4DX3PiF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DisneyPlus",
+						"indices": [
+							82,
+							93
+						]
+					},
+					{
+						"text": "NationalTreasureSeries",
+						"indices": [
+							95,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1550208245515423700,
+						"id_str": "1550208245515423744",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/FYNyL5nUEAAIYD3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYNyL5nUEAAIYD3.jpg",
+						"url": "https://t.co/MMM4DX3PiF",
+						"display_url": "pic.twitter.com/MMM4DX3PiF",
+						"expanded_url": "https://twitter.com/disneyplus/status/1550248000835944452/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1649,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 548,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 966,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1550208245515423700,
+						"id_str": "1550208245515423744",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/FYNyL5nUEAAIYD3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYNyL5nUEAAIYD3.jpg",
+						"url": "https://t.co/MMM4DX3PiF",
+						"display_url": "pic.twitter.com/MMM4DX3PiF",
+						"expanded_url": "https://twitter.com/disneyplus/status/1550248000835944452/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1649,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 548,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 966,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 985916593065476100,
+				"id_str": "985916593065476096",
+				"name": "Disney+",
+				"screen_name": "disneyplus",
+				"location": "",
+				"description": "Celebrate the stories you love. #DisneyPlus",
+				"url": "https://t.co/ZLXG5Qcfms",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZLXG5Qcfms",
+								"expanded_url": "http://DisneyPlus.com",
+								"display_url": "DisneyPlus.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4328290,
+				"friends_count": 249,
+				"listed_count": 5798,
+				"created_at": "Mon Apr 16 16:23:28 +0000 2018",
+				"favourites_count": 1924,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40290,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487488412382683136/zGEQnPJp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487488412382683136/zGEQnPJp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985916593065476096/1656691448",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1495,
+			"favorite_count": 4269,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qst",
+		"text": "Ooooo https://t.co/rflabDS11n"
+	},
+	{
+		"created_at": "Thu Jul 21 23:11:24 +0000 2022",
+		"id": 1550257162512994300,
+		"id_str": "1550257162512994304",
+		"full_text": "@MtgPearl So for the people who compute X many rares are these additional not those numbers or were Legends cards slightly more scarce than print run would presume with these in a warehouse?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MtgPearl",
+					"name": "Players for Ethical Abolishment of Reserve List",
+					"id": 1397251809589203000,
+					"id_str": "1397251809589202945",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1550248535215448000,
+		"in_reply_to_status_id_str": "1550248535215448065",
+		"in_reply_to_user_id": 1397251809589203000,
+		"in_reply_to_user_id_str": "1397251809589202945",
+		"in_reply_to_screen_name": "MtgPearl",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MtgPearl So for the people who compute X many rares are these additional not those numbers or were Legends cards slightly more scarce than print run would presume with these in a warehouse?"
+	},
+	{
+		"created_at": "Thu Jul 21 22:09:46 +0000 2022",
+		"id": 1550241652618526700,
+		"id_str": "1550241652618526720",
+		"full_text": "lol collector boosters only sigh https://t.co/Sl36OmxDtx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sl36OmxDtx",
+					"expanded_url": "https://twitter.com/wizards_magic/status/1550235744802902016",
+					"display_url": "twitter.com/wizards_magic/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1550235744802902000,
+		"quoted_status_id_str": "1550235744802902016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sl36OmxDtx",
+			"expanded": "https://twitter.com/wizards_magic/status/1550235744802902016",
+			"display": "twitter.com/wizards_magic/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 21 21:46:18 +0000 2022",
+			"id": 1550235744802902000,
+			"id_str": "1550235744802902016",
+			"full_text": "We're kicking off our 30 year anniversary celebration with something legendary... when you open a #MTGDominaria Collector Booster you might find a card from the 1994 set, Legends! https://t.co/SjTgiMUBHn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MTGDominaria",
+						"indices": [
+							98,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1550235683138183200,
+						"id_str": "1550235683138183168",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/FYOLMQSXkAEbjU3.png",
+						"media_url_https": "https://pbs.twimg.com/media/FYOLMQSXkAEbjU3.png",
+						"url": "https://t.co/SjTgiMUBHn",
+						"display_url": "pic.twitter.com/SjTgiMUBHn",
+						"expanded_url": "https://twitter.com/wizards_magic/status/1550235744802902016/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 405,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 405,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1550235683138183200,
+						"id_str": "1550235683138183168",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/FYOLMQSXkAEbjU3.png",
+						"media_url_https": "https://pbs.twimg.com/media/FYOLMQSXkAEbjU3.png",
+						"url": "https://t.co/SjTgiMUBHn",
+						"display_url": "pic.twitter.com/SjTgiMUBHn",
+						"expanded_url": "https://twitter.com/wizards_magic/status/1550235744802902016/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 405,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 405,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 32031,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1550235683138183168/vid/1280x720/GyVkYZShjc5H0KoX.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1550235683138183168/vid/640x360/s2ci20ThBCbRRnV5.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1550235683138183168/vid/480x270/U2AFhyYPmlxeqAsk.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1550235683138183168/pl/iPKGF5N3A56fgnfZ.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "#MTGDominaria | Uncovering Lost Legends",
+							"description": "Learn the unlikely story behind one of the most exciting additions to a Magic set ever.",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://youtu.be/KybMoTSxnIc"
+								}
+							},
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 204870137,
+				"id_str": "204870137",
+				"name": "Magic: The Gathering",
+				"screen_name": "wizards_magic",
+				"location": "Seattle, WA",
+				"description": "The official account for Magic: The Gathering. Find your local store at https://t.co/pqwQlM0PgT",
+				"url": "https://t.co/jnhbmpelgO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jnhbmpelgO",
+								"expanded_url": "http://magicthegathering.com",
+								"display_url": "magicthegathering.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pqwQlM0PgT",
+								"expanded_url": "http://locator.wizards.com",
+								"display_url": "locator.wizards.com",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 325484,
+				"friends_count": 228,
+				"listed_count": 2069,
+				"created_at": "Tue Oct 19 16:59:14 +0000 2010",
+				"favourites_count": 5527,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22053,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537465537311043584/tDMjTilp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537465537311043584/tDMjTilp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/204870137/1655395324",
+				"profile_link_color": "32164B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0D7E0",
+				"profile_text_color": "1F1E1F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 104,
+			"favorite_count": 633,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lol collector boosters only sigh https://t.co/Sl36OmxDtx"
+	},
+	{
+		"created_at": "Thu Jul 21 20:29:10 +0000 2022",
+		"id": 1549949701629378600,
+		"id_str": "1550216334625185792",
+		"full_text": "Gumby and his band play “Reptilia” by The Strokes https://t.co/NDalDDHejb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549949664245563400,
+					"id_str": "1549949664245563392",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549949664245563392/pu/img/jhp8ucYrWikANGyp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549949664245563392/pu/img/jhp8ucYrWikANGyp.jpg",
+					"url": "https://t.co/NDalDDHejb",
+					"display_url": "pic.twitter.com/NDalDDHejb",
+					"expanded_url": "https://twitter.com/GumbysBand/status/1549949701629378561/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549949664245563400,
+					"id_str": "1549949664245563392",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549949664245563392/pu/img/jhp8ucYrWikANGyp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549949664245563392/pu/img/jhp8ucYrWikANGyp.jpg",
+					"url": "https://t.co/NDalDDHejb",
+					"display_url": "pic.twitter.com/NDalDDHejb",
+					"expanded_url": "https://twitter.com/GumbysBand/status/1549949701629378561/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"duration_millis": 47614,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549949664245563392/pu/vid/404x270/IJqF2FzjpoPKX2FQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549949664245563392/pu/vid/480x320/8phuR8eDoSjW_jP3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1549949664245563392/pu/pl/ErnNePC9DpDiBnx3.m3u8?tag=12&container=fmp4&v=397"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1547992573934899200,
+			"id_str": "1547992573934899200",
+			"name": "Gumby’s Band Playing Different Songs",
+			"screen_name": "GumbysBand",
+			"location": "",
+			"description": "Gumby and his band perform for you! DMs are open for requests with a screenshot of a $5 or more donation to an abortion fund.",
+			"url": "https://t.co/8pPRcpJjXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8pPRcpJjXk",
+							"expanded_url": "https://www.thecut.com/article/donate-abortion-fund-roe-v-wade-how-to-help.html",
+							"display_url": "thecut.com/article/donate…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2994,
+			"friends_count": 2,
+			"listed_count": 5,
+			"created_at": "Fri Jul 15 17:12:53 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1549380823052390400/9uLKYxYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1549380823052390400/9uLKYxYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1547992573934899200/1658236160",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 961,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gumby and his band play “Reptilia” by The Strokes https://t.co/NDalDDHejb"
+	},
+	{
+		"created_at": "Thu Jul 21 14:04:37 +0000 2022",
+		"id": 1550119559616548900,
+		"id_str": "1550119559616548865",
+		"full_text": "OTM Open Thread 7/21: It is Thursday and there are some games that aren’t the Red Sox https://t.co/UwAu1FfbND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UwAu1FfbND",
+					"expanded_url": "https://www.overthemonster.com/2022/7/21/23272648/otm-open-thread-7-21-it-is-thursday-yankees-astros-giants-dodgers?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/7/21/2327…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Journalist @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half    📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 109747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 7/21: It is Thursday and there are some games that aren’t the Red Sox https://t.co/UwAu1FfbND"
+	},
+	{
 		"created_at": "Thu Jul 21 01:29:25 +0000 2022",
 		"id": 1549929507871662000,
 		"id_str": "1549929507871662082",
