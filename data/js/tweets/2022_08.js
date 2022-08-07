@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 01:41:58 +0000 2022",
+		"id": 1555605772117098500,
+		"id_str": "1556093257964306437",
+		"full_text": "The 2004 ALCS remains the gift that keeps on giving. https://t.co/T9VKVXaZ2V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555604880877883400,
+					"id_str": "1555604880877883398",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FZaeZa-XEAY3iYP.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZaeZa-XEAY3iYP.png",
+					"url": "https://t.co/T9VKVXaZ2V",
+					"display_url": "pic.twitter.com/T9VKVXaZ2V",
+					"expanded_url": "https://twitter.com/SurvivingGrady/status/1555605772117098497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 874,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 874,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555604880877883400,
+					"id_str": "1555604880877883398",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FZaeZa-XEAY3iYP.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZaeZa-XEAY3iYP.png",
+					"url": "https://t.co/T9VKVXaZ2V",
+					"display_url": "pic.twitter.com/T9VKVXaZ2V",
+					"expanded_url": "https://twitter.com/SurvivingGrady/status/1555605772117098497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 874,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 874,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22878740,
+			"id_str": "22878740",
+			"name": "Red",
+			"screen_name": "SurvivingGrady",
+			"location": "West Roxbury, MA",
+			"description": "Red Sox blogger. Freelance drinker. Comic book reader. Boston baseball enjoyer. Into vinyl and Mark Bellhorn. Merch at https://t.co/fST9LdwmWK | IG: SurvivingGrady",
+			"url": "https://t.co/nVsFEAWMNk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nVsFEAWMNk",
+							"expanded_url": "http://www.survivinggrady.com",
+							"display_url": "survivinggrady.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fST9LdwmWK",
+							"expanded_url": "http://soxaddicts.com",
+							"display_url": "soxaddicts.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30220,
+			"friends_count": 2668,
+			"listed_count": 741,
+			"created_at": "Thu Mar 05 04:16:44 +0000 2009",
+			"favourites_count": 178639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 52240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616803292941676544/LlcK7eD1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616803292941676544/LlcK7eD1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22878740/1629834934",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 6731,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 2004 ALCS remains the gift that keeps on giving. https://t.co/T9VKVXaZ2V"
+	},
+	{
 		"created_at": "Fri Aug 05 23:23:33 +0000 2022",
 		"id": 1555696037083418600,
 		"id_str": "1555696037083418624",
