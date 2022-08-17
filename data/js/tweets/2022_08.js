@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 02:18:23 +0000 2022",
+		"id": 1559704375311868000,
+		"id_str": "1559726302910898176",
+		"full_text": "I see Austin Brice is on the hill for Pittsburgh. Here's my favorite photo of him. That's John Schreiber in the ballon animal costume, btw. https://t.co/z0VkVNc28E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559704276645077000,
+					"id_str": "1559704276645076994",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FaUuxqQWYAIwFOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaUuxqQWYAIwFOz.jpg",
+					"url": "https://t.co/z0VkVNc28E",
+					"display_url": "pic.twitter.com/z0VkVNc28E",
+					"expanded_url": "https://twitter.com/KatieMo61/status/1559704375311867908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559704276645077000,
+					"id_str": "1559704276645076994",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FaUuxqQWYAIwFOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaUuxqQWYAIwFOz.jpg",
+					"url": "https://t.co/z0VkVNc28E",
+					"display_url": "pic.twitter.com/z0VkVNc28E",
+					"expanded_url": "https://twitter.com/KatieMo61/status/1559704375311867908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103698546,
+			"id_str": "103698546",
+			"name": "Katie Morrison",
+			"screen_name": "KatieMo61",
+			"location": "Worcester, MA",
+			"description": "@WooSox ✍️ and 📸 for @masslivesports  \nFreelance photog for hire for sports & anything else. \nFind me with my face behind a camera https://t.co/WwHBjvFaa3",
+			"url": "https://t.co/ETaRNuvey3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ETaRNuvey3",
+							"expanded_url": "https://www.instagram.com/photosbyKMO",
+							"display_url": "instagram.com/photosbyKMO",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WwHBjvFaa3",
+							"expanded_url": "http://photosbyKMO.com",
+							"display_url": "photosbyKMO.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2725,
+			"friends_count": 2677,
+			"listed_count": 94,
+			"created_at": "Sun Jan 10 23:43:35 +0000 2010",
+			"favourites_count": 24631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1441282148674138120/gP_1Mc8S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441282148674138120/gP_1Mc8S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103698546/1631135285",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "F0A830",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "CE7834",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I see Austin Brice is on the hill for Pittsburgh. Here's my favorite photo of him. That's John Schreiber in the ballon animal costume, btw. https://t.co/z0VkVNc28E"
+	},
+	{
+		"created_at": "Tue Aug 16 23:06:33 +0000 2022",
+		"id": 1559678024768962600,
+		"id_str": "1559678024768962570",
+		"full_text": "Game 117: Red Sox at Pirates with the return of Kiké! https://t.co/GR7Gt03Y1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GR7Gt03Y1z",
+					"expanded_url": "https://www.overthemonster.com/2022/8/16/23308943/game-117-red-sox-at-pirates-pivetta?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/8/16/2330…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 110576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Game 117: Red Sox at Pirates with the return of Kiké! https://t.co/GR7Gt03Y1z"
+	},
+	{
+		"created_at": "Tue Aug 16 19:18:45 +0000 2022",
+		"id": 1559620699123327000,
+		"id_str": "1559620699123326976",
+		"full_text": "Rusney! https://t.co/d14Pn5987U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d14Pn5987U",
+					"expanded_url": "https://twitter.com/brendan_camp/status/1559620004290740239",
+					"display_url": "twitter.com/brendan_camp/s…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4361,
+			"friends_count": 661,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 110576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1559620004290740200,
+		"quoted_status_id_str": "1559620004290740239",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d14Pn5987U",
+			"expanded": "https://twitter.com/brendan_camp/status/1559620004290740239",
+			"display": "twitter.com/brendan_camp/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 16 19:16:00 +0000 2022",
+			"id": 1559620004290740200,
+			"id_str": "1559620004290740239",
+			"full_text": "Rusney Castillo was making his MLB debut the last time the Red Sox played in Pittsburgh.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2211372475,
+				"id_str": "2211372475",
+				"name": "Brendan Campbell",
+				"screen_name": "brendan_camp",
+				"location": "Boston, MA",
+				"description": "Writer for https://t.co/qJSHdIcJwc, @OverTheMonster, and @SoxProspects. Also host a podcast called Podding the Red Sox. #BoltUp",
+				"url": "https://t.co/MFEUg9EGXY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MFEUg9EGXY",
+								"expanded_url": "https://podcasts.apple.com/us/podcast/podding-the-red-sox/id1547914652",
+								"display_url": "podcasts.apple.com/us/podcast/pod…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qJSHdIcJwc",
+								"expanded_url": "http://bloggingtheredsox.com",
+								"display_url": "bloggingtheredsox.com",
+								"indices": [
+									11,
+									34
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 921,
+				"friends_count": 700,
+				"listed_count": 33,
+				"created_at": "Sat Nov 23 21:28:48 +0000 2013",
+				"favourites_count": 26573,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24610,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1376061985457111041/r8FiiNjG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376061985457111041/r8FiiNjG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2211372475/1653346435",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Rusney! https://t.co/d14Pn5987U"
+	},
+	{
 		"created_at": "Mon Aug 15 19:48:05 +0000 2022",
 		"id": 1559265693920628700,
 		"id_str": "1559265693920628736",
