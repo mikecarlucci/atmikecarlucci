@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 00:03:23 +0000 2022",
+		"id": 1575634235062243300,
+		"id_str": "1575637393943580673",
+		"full_text": "How good was Ted Williams?  \n\nJoe DiMaggio during his hitting streak: .408/.463/.717/1.181\n\nTed Williams during DiMaggio’s hitting streak: .412/.540/.684/1.224 https://t.co/3YWghRozDD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575634230457032700,
+					"id_str": "1575634230457032704",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd3G_ApWYAAlU0d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd3G_ApWYAAlU0d.jpg",
+					"url": "https://t.co/3YWghRozDD",
+					"display_url": "pic.twitter.com/3YWghRozDD",
+					"expanded_url": "https://twitter.com/nut_history/status/1575634235062243328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 930,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1700,
+							"h": 1317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575634230457032700,
+					"id_str": "1575634230457032704",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd3G_ApWYAAlU0d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd3G_ApWYAAlU0d.jpg",
+					"url": "https://t.co/3YWghRozDD",
+					"display_url": "pic.twitter.com/3YWghRozDD",
+					"expanded_url": "https://twitter.com/nut_history/status/1575634235062243328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 930,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1700,
+							"h": 1317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1021070377357795300,
+			"id_str": "1021070377357795328",
+			"name": "BaseballHistoryNut",
+			"screen_name": "nut_history",
+			"location": "Polo Grounds",
+			"description": "Baseball History Nut *I do not claim to own any of these images* 🇨🇦. Slowly building a card collection   Contact: BaseballHistoryNut@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120247,
+			"friends_count": 1880,
+			"listed_count": 614,
+			"created_at": "Sun Jul 22 16:32:03 +0000 2018",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021073778258788352/uaLsjtXF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021073778258788352/uaLsjtXF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1021070377357795328/1532278019",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 2025,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How good was Ted Williams?  \n\nJoe DiMaggio during his hitting streak: .408/.463/.717/1.181\n\nTed Williams during DiMaggio’s hitting streak: .412/.540/.684/1.224 https://t.co/3YWghRozDD"
+	},
+	{
 		"created_at": "Wed Sep 28 20:06:23 +0000 2022",
 		"id": 1575215362924486700,
 		"id_str": "1575215362924486656",
