@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 20:20:44 +0000 2022",
+		"id": 1579918204968632300,
+		"id_str": "1579930018313953280",
+		"full_text": "https://t.co/LKzFAHtdaH\n\n#trademarks https://t.co/wsS93Xc5Co",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "trademarks",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LKzFAHtdaH",
+					"expanded_url": "https://tsdr.uspto.gov/#caseNumber=74608295&caseType=SERIAL_NO&searchType=statusSearch",
+					"display_url": "tsdr.uspto.gov/#caseNumber=74…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579918125620809700,
+					"id_str": "1579918125620809728",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Fez_KhvUUAANYM0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fez_KhvUUAANYM0.jpg",
+					"url": "https://t.co/wsS93Xc5Co",
+					"display_url": "pic.twitter.com/wsS93Xc5Co",
+					"expanded_url": "https://twitter.com/TimberlakeLaw/status/1579918204968632320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 959,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2038,
+							"h": 1628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579918125620809700,
+					"id_str": "1579918125620809728",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Fez_KhvUUAANYM0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fez_KhvUUAANYM0.jpg",
+					"url": "https://t.co/wsS93Xc5Co",
+					"display_url": "pic.twitter.com/wsS93Xc5Co",
+					"expanded_url": "https://twitter.com/TimberlakeLaw/status/1579918204968632320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 959,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2038,
+							"h": 1628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 787249747,
+			"id_str": "787249747",
+			"name": "Trademarks Are Magic",
+			"screen_name": "TimberlakeLaw",
+			"location": "ed@timberlakelaw.com",
+			"description": "Exploring what #trademarks #distinctiveness is @UNHLaw. Former Trademark Examiner @uspto. Board Certified Specialist in Trademark Law. https://t.co/j8TuZCJdj3",
+			"url": "https://t.co/Z4YD9IaJk1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z4YD9IaJk1",
+							"expanded_url": "http://timberlakelaw.com/",
+							"display_url": "timberlakelaw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/j8TuZCJdj3",
+							"expanded_url": "http://clarity.fm/edtimberlake",
+							"display_url": "clarity.fm/edtimberlake",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8083,
+			"friends_count": 1862,
+			"listed_count": 246,
+			"created_at": "Tue Aug 28 15:27:42 +0000 2012",
+			"favourites_count": 76896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "727480",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829750170480959490/qkDvbbPQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829750170480959490/qkDvbbPQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/787249747/1398695930",
+			"profile_link_color": "2A5DDE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "https://t.co/LKzFAHtdaH\n\n#trademarks https://t.co/wsS93Xc5Co"
+	},
+	{
 		"created_at": "Mon Oct 10 16:08:29 +0000 2022",
 		"id": 1579504150181994500,
 		"id_str": "1579504150181994496",
