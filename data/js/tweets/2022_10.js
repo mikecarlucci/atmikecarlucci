@@ -1,6 +1,691 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 19:10:41 +0000 2022",
+		"id": 1580999551498219500,
+		"id_str": "1580999551498219520",
+		"full_text": "I’d like to get off this ride now https://t.co/VAwo4aGhlB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VAwo4aGhlB",
+					"expanded_url": "https://twitter.com/arstechnica/status/1580997126862958592",
+					"display_url": "twitter.com/arstechnica/st…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4354,
+			"friends_count": 663,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580997126862958600,
+		"quoted_status_id_str": "1580997126862958592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VAwo4aGhlB",
+			"expanded": "https://twitter.com/arstechnica/status/1580997126862958592",
+			"display": "twitter.com/arstechnica/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 19:01:03 +0000 2022",
+			"id": 1580997126862958600,
+			"id_str": "1580997126862958592",
+			"full_text": "BA.5 is finally fading—sublineages BQ.1 and BQ.1.1 rise from variant stew https://t.co/dMBe5HEmc5 by @BethMarieMole",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BethMarieMole",
+						"name": "Beth Marie Mole",
+						"id": 380722931,
+						"id_str": "380722931",
+						"indices": [
+							101,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dMBe5HEmc5",
+						"expanded_url": "https://arstechnica.com/science/2022/10/ba-5-is-finally-fading-sublineages-bq-1-and-bq-1-1-rise-from-variant-stew/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social",
+						"display_url": "arstechnica.com/science/2022/1…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://arstechnica.com\" rel=\"nofollow\">Ars tweetbot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717313,
+				"id_str": "717313",
+				"name": "Ars Technica",
+				"screen_name": "arstechnica",
+				"location": "NYC - Boston - Chicago - SF",
+				"description": "Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.",
+				"url": "http://t.co/Ul1NPoX9hd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ul1NPoX9hd",
+								"expanded_url": "http://arstechnica.com",
+								"display_url": "arstechnica.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1166584,
+				"friends_count": 1343,
+				"listed_count": 28068,
+				"created_at": "Sun Jan 28 01:58:49 +0000 2007",
+				"favourites_count": 8429,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 133202,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "201F25",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717313/1407516523",
+				"profile_link_color": "FF5B00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’d like to get off this ride now https://t.co/VAwo4aGhlB"
+	},
+	{
+		"created_at": "Fri Oct 14 16:34:23 +0000 2022",
+		"id": 1580960220234121200,
+		"id_str": "1580960220234121222",
+		"full_text": "Wow “difference between cities before sewers were invented and cities with modern sewer systems”\n\nYeah that’s a big upgrade https://t.co/y1XtLxmTCF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y1XtLxmTCF",
+					"expanded_url": "https://twitter.com/galvinalmanza/status/1580735238719696896",
+					"display_url": "twitter.com/galvinalmanza/…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4354,
+			"friends_count": 663,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580735238719697000,
+		"quoted_status_id_str": "1580735238719696896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y1XtLxmTCF",
+			"expanded": "https://twitter.com/galvinalmanza/status/1580735238719696896",
+			"display": "twitter.com/galvinalmanza/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 01:40:24 +0000 2022",
+			"id": 1580735238719697000,
+			"id_str": "1580735238719696896",
+			"full_text": "One thing I really like about this article is that it points out that that we could overhaul our indoor air systems and it would be basically the difference between cities before sewers were invented and cities with modern sewer systems.\n\nYay air sewers\n\nhttps://t.co/v9AKTlAXjV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v9AKTlAXjV",
+						"expanded_url": "https://www.theatlantic.com/science/archive/2022/10/pandemic-n95-mask-protection-shortcomings-indoor-air-quality/671723/",
+						"display_url": "theatlantic.com/science/archiv…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1087717031724625900,
+				"id_str": "1087717031724625920",
+				"name": "Emily Galvin-Almanza",
+				"screen_name": "GalvinAlmanza",
+				"location": "Massachusetts, USA she/ella",
+				"description": "Founder & ED @PFJ_USA; formerly @TheAppeal, @3StrikesProject & @BronxDefenders; relentless lawyer; can drive a truck/trailer rig through places you shouldn't",
+				"url": "https://t.co/HOnn16BErc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HOnn16BErc",
+								"expanded_url": "http://www.partnersforjustice.org",
+								"display_url": "partnersforjustice.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47235,
+				"friends_count": 7729,
+				"listed_count": 306,
+				"created_at": "Tue Jan 22 14:22:03 +0000 2019",
+				"favourites_count": 47986,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23128,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1519305214238638081/TSlOSBo3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1519305214238638081/TSlOSBo3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1087717031724625920/1658899149",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 88,
+			"favorite_count": 299,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow “difference between cities before sewers were invented and cities with modern sewer systems”\n\nYeah that’s a big upgrade https://t.co/y1XtLxmTCF"
+	},
+	{
+		"created_at": "Fri Oct 14 15:24:24 +0000 2022",
+		"id": 1580942606909182000,
+		"id_str": "1580942606909181952",
+		"full_text": "@SenMarkey Thank you @SenMarkey &amp; @SenWarren!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenMarkey",
+					"name": "Ed Markey",
+					"id": 21406834,
+					"id_str": "21406834",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SenMarkey",
+					"name": "Ed Markey",
+					"id": 21406834,
+					"id_str": "21406834",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "SenWarren",
+					"name": "Elizabeth Warren",
+					"id": 970207298,
+					"id_str": "970207298",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580941129859879000,
+		"in_reply_to_status_id_str": "1580941129859878912",
+		"in_reply_to_user_id": 21406834,
+		"in_reply_to_user_id_str": "21406834",
+		"in_reply_to_screen_name": "SenMarkey",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4354,
+			"friends_count": 663,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SenMarkey Thank you @SenMarkey &amp; @SenWarren!"
+	},
+	{
+		"created_at": "Fri Oct 14 14:56:23 +0000 2022",
+		"id": 1580935555415953400,
+		"id_str": "1580935555415953408",
+		"full_text": "OTM Open Thread 10/14: It is Friday https://t.co/Wt7o3O9kva",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wt7o3O9kva",
+					"expanded_url": "https://www.overthemonster.com/2022/10/14/23404409/otm-open-thread-10-14-it-is-friday-dodgers?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2022/10/14/234…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4354,
+			"friends_count": 663,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OTM Open Thread 10/14: It is Friday https://t.co/Wt7o3O9kva"
+	},
+	{
 		"created_at": "Thu Oct 13 18:03:27 +0000 2022",
 		"id": 1580620244195807200,
 		"id_str": "1580620244195807232",
