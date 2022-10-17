@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 15:25:34 +0000 2022",
+		"id": 1581667674802659300,
+		"id_str": "1581667674802659330",
+		"full_text": "The only real answer to this is fewer playoff rounds which basically no one wants. Until then…enjoy the chaos and hope it’s not your team. https://t.co/xBIW3LrgvI https://t.co/xwx4TGwNSH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xBIW3LrgvI",
+					"expanded_url": "https://twitter.com/JoeNBC/status/1581626129068150784",
+					"display_url": "twitter.com/JoeNBC/status/…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581667663796904000,
+					"id_str": "1581667663796903936",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FfM2XDVWIAAeZkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FfM2XDVWIAAeZkx.jpg",
+					"url": "https://t.co/xwx4TGwNSH",
+					"display_url": "pic.twitter.com/xwx4TGwNSH",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1581667674802659330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581667663796904000,
+					"id_str": "1581667663796903936",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FfM2XDVWIAAeZkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FfM2XDVWIAAeZkx.jpg",
+					"url": "https://t.co/xwx4TGwNSH",
+					"display_url": "pic.twitter.com/xwx4TGwNSH",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1581667674802659330/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FfM2XDVWIAAeZkx.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4353,
+			"friends_count": 662,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581626129068150800,
+		"quoted_status_id_str": "1581626129068150784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xBIW3LrgvI",
+			"expanded": "https://twitter.com/JoeNBC/status/1581626129068150784",
+			"display": "twitter.com/JoeNBC/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 16 12:40:29 +0000 2022",
+			"id": 1581626129068150800,
+			"id_str": "1581626129068150784",
+			"full_text": "MLB’s new playoff system is a train wreck. Division winners like the Dodgers, Braves, Cardinals, and Yankees should only be driven from the playoffs after losing a best-of-seven series. \nALREADY OUT\nDodgers— 111 wins\nBraves— 101 wins\nMets— 101 wins",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21619519,
+				"id_str": "21619519",
+				"name": "Joe Scarborough",
+				"screen_name": "JoeNBC",
+				"location": "USA ",
+				"description": "Send Her Victorious",
+				"url": "https://t.co/Yj1EiU05Zt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yj1EiU05Zt",
+								"expanded_url": "https://www.nps.gov/linc/learn/historyculture/lincoln-second-inaugural.htm",
+								"display_url": "nps.gov/linc/learn/his…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2808535,
+				"friends_count": 847,
+				"listed_count": 12120,
+				"created_at": "Mon Feb 23 01:23:24 +0000 2009",
+				"favourites_count": 1590,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56967,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7A0B0B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1571752941937201158/wKvQe0td_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571752941937201158/wKvQe0td_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21619519/1663966608",
+				"profile_link_color": "191514",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FDFCFC",
+				"profile_text_color": "181010",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 192,
+			"favorite_count": 2119,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The only real answer to this is fewer playoff rounds which basically no one wants. Until then…enjoy the chaos and hope it’s not your team. https://t.co/xBIW3LrgvI https://t.co/xwx4TGwNSH"
+	},
+	{
+		"created_at": "Sun Oct 16 15:21:59 +0000 2022",
+		"id": 1581661489416392700,
+		"id_str": "1581666772595314690",
+		"full_text": "https://t.co/rTxgfsD45M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581661483724787700,
+					"id_str": "1581661483724787712",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FfMwvUxVUAA17yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfMwvUxVUAA17yi.jpg",
+					"url": "https://t.co/rTxgfsD45M",
+					"display_url": "pic.twitter.com/rTxgfsD45M",
+					"expanded_url": "https://twitter.com/19fredlynn/status/1581661489416392706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 952,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2041,
+							"h": 1619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581661483724787700,
+					"id_str": "1581661483724787712",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FfMwvUxVUAA17yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfMwvUxVUAA17yi.jpg",
+					"url": "https://t.co/rTxgfsD45M",
+					"display_url": "pic.twitter.com/rTxgfsD45M",
+					"expanded_url": "https://twitter.com/19fredlynn/status/1581661489416392706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 952,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2041,
+							"h": 1619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 222655578,
+			"id_str": "222655578",
+			"name": "Fred Lynn",
+			"screen_name": "19fredlynn",
+			"location": "California",
+			"description": "The official site of Fred Lynn, Major League Baseball player for 17 years. Trojan for life.... sometime golfer and fisherman. Shoutouts @ https://t.co/uwo82VVIVX",
+			"url": "https://t.co/4l0DSYydui",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4l0DSYydui",
+							"expanded_url": "http://www.fredlynn.net",
+							"display_url": "fredlynn.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uwo82VVIVX",
+							"expanded_url": "http://cameo.com/fredlynn",
+							"display_url": "cameo.com/fredlynn",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22990,
+			"friends_count": 610,
+			"listed_count": 148,
+			"created_at": "Sat Dec 04 01:44:19 +0000 2010",
+			"favourites_count": 2154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "062738",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894220074084581382/yeF52duK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894220074084581382/yeF52duK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/222655578/1503605501",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 433,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/rTxgfsD45M"
+	},
+	{
 		"created_at": "Sun Oct 16 02:35:15 +0000 2022",
 		"id": 1581473259111211000,
 		"id_str": "1581473820417740800",
