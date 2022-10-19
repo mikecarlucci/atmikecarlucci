@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 13:22:16 +0000 2022",
+		"id": 1582344498134528000,
+		"id_str": "1582361422113124354",
+		"full_text": "At the time, I was too exhausted (mentally and physically), hungover and bleary-eyed to appreciate it as I collapsed to the floor in relief. But “he can keep on running to New York” is pretty iconic. \nhttps://t.co/00px3hEcxD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582343867046793200,
+					"id_str": "1582343867046793217",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582343867046793217/pu/img/njShUaqjWn4xSDqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582343867046793217/pu/img/njShUaqjWn4xSDqS.jpg",
+					"url": "https://t.co/00px3hEcxD",
+					"display_url": "pic.twitter.com/00px3hEcxD",
+					"expanded_url": "https://twitter.com/soxtures/status/1582343936613371906/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1582343936613372000,
+					"source_status_id_str": "1582343936613371906",
+					"source_user_id": 1367110576024002600,
+					"source_user_id_str": "1367110576024002560"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582343867046793200,
+					"id_str": "1582343867046793217",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582343867046793217/pu/img/njShUaqjWn4xSDqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582343867046793217/pu/img/njShUaqjWn4xSDqS.jpg",
+					"url": "https://t.co/00px3hEcxD",
+					"display_url": "pic.twitter.com/00px3hEcxD",
+					"expanded_url": "https://twitter.com/soxtures/status/1582343936613371906/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1582343936613372000,
+					"source_status_id_str": "1582343936613371906",
+					"source_user_id": 1367110576024002600,
+					"source_user_id_str": "1367110576024002560",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41898,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582343867046793217/pu/vid/640x360/PtAQhv3J-Ohu-6bT.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582343867046793217/pu/vid/480x270/ORRNokMFAZY_yiGC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1582343867046793217/pu/pl/BvhhdZWPgSSmOSG8.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1367110576024002600,
+							"id_str": "1367110576024002560",
+							"name": "Darnell McDonald Moving Pictures, Inc",
+							"screen_name": "soxtures",
+							"location": "",
+							"description": "hi. (also: not actually Darnell McDonald)",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 96,
+							"friends_count": 2,
+							"listed_count": 5,
+							"created_at": "Wed Mar 03 13:52:27 +0000 2021",
+							"favourites_count": 46,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 130,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1367212219453308928/ZjP_i4NF_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367212219453308928/ZjP_i4NF_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1367110576024002560/1614803908",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22878740,
+			"id_str": "22878740",
+			"name": "Red",
+			"screen_name": "SurvivingGrady",
+			"location": "West Roxbury, MA",
+			"description": "Red Sox blogger. Freelance drinker. Comic book reader. Boston baseball enjoyer. Into vinyl and Mark Bellhorn. Merch at https://t.co/fST9LdwmWK | IG: SurvivingGrady",
+			"url": "https://t.co/nVsFEAWMNk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nVsFEAWMNk",
+							"expanded_url": "http://www.survivinggrady.com",
+							"display_url": "survivinggrady.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fST9LdwmWK",
+							"expanded_url": "http://soxaddicts.com",
+							"display_url": "soxaddicts.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31553,
+			"friends_count": 2689,
+			"listed_count": 745,
+			"created_at": "Thu Mar 05 04:16:44 +0000 2009",
+			"favourites_count": 182093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 52872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616803292941676544/LlcK7eD1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616803292941676544/LlcK7eD1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22878740/1629834934",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 942,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the time, I was too exhausted (mentally and physically), hungover and bleary-eyed to appreciate it as I collapsed to the floor in relief. But “he can keep on running to New York” is pretty iconic. \nhttps://t.co/00px3hEcxD"
+	},
+	{
 		"created_at": "Mon Oct 17 13:24:08 +0000 2022",
 		"id": 1581999502202114000,
 		"id_str": "1581999502202114048",
