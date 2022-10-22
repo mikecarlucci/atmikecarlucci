@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 15:39:53 +0000 2022",
+		"id": 1583483217553723400,
+		"id_str": "1583483217553723392",
+		"full_text": "Astros fans 🤝 fans of the Yankees losing https://t.co/3aMMjpNwSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3aMMjpNwSV",
+					"expanded_url": "https://twitter.com/BizballMaury/status/1583465484472975360",
+					"display_url": "twitter.com/BizballMaury/s…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4352,
+			"friends_count": 662,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583465484472975400,
+		"quoted_status_id_str": "1583465484472975360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3aMMjpNwSV",
+			"expanded": "https://twitter.com/BizballMaury/status/1583465484472975360",
+			"display": "twitter.com/BizballMaury/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 21 14:29:25 +0000 2022",
+			"id": 1583465484472975400,
+			"id_str": "1583465484472975360",
+			"full_text": "Tale of the tape through two games of the ALCS:\n\nAstros: 15 hits, 8 strikeouts\nYankees: 9 hits, 30 strikeouts\n\nThe Yankees are going to get swept at this rate.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32817728,
+				"id_str": "32817728",
+				"name": "Maury Brown",
+				"screen_name": "BizballMaury",
+				"location": "Portland, OR",
+				"description": "Senior Contributor @Forbes | BBWAA | prior: @BaseballPro @USAToday @BaseballAmerica @FanGraphs @Variety | #SportsBiz | Bizball LLC | Guitar  @ShootToThrillNW",
+				"url": "https://t.co/zU08RbBpEr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zU08RbBpEr",
+								"expanded_url": "http://www.forbes.com/sites/maurybrown/",
+								"display_url": "forbes.com/sites/maurybro…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24174,
+				"friends_count": 11089,
+				"listed_count": 1238,
+				"created_at": "Sat Apr 18 06:47:55 +0000 2009",
+				"favourites_count": 53356,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 175482,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "040404",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1582922832253968385/D08M-o4E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582922832253968385/D08M-o4E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32817728/1593354635",
+				"profile_link_color": "2E2E2E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1D1E16",
+				"profile_text_color": "040404",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Astros fans 🤝 fans of the Yankees losing https://t.co/3aMMjpNwSV"
+	},
+	{
 		"created_at": "Thu Oct 20 20:52:39 +0000 2022",
 		"id": 1583082040932475000,
 		"id_str": "1583199541024542720",
@@ -106,7 +315,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Brodsky",
 			"screen_name": "a_drewsky",
 			"location": "New York, NY",
-			"description": "likes trains, pastries, and attention | he/him 🏳️‍🌈",
+			"description": "likes trains, pastries, and attention | he/him 🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
