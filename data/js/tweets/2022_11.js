@@ -1,6 +1,813 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 03 01:46:21 +0000 2022",
+		"id": 1587984493771636700,
+		"id_str": "1587984493771636736",
+		"full_text": "Nomah! https://t.co/tAArBQNWTZ https://t.co/MR1YnteBKb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tAArBQNWTZ",
+					"expanded_url": "https://twitter.com/baseballtwit/status/1587955145840754689",
+					"display_url": "twitter.com/baseballtwit/s…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1587984490256810000,
+					"id_str": "1587984490256809985",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FgmnevqWQAEQbGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgmnevqWQAEQbGI.jpg",
+					"url": "https://t.co/MR1YnteBKb",
+					"display_url": "pic.twitter.com/MR1YnteBKb",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1587984493771636736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587984490256810000,
+					"id_str": "1587984490256809985",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FgmnevqWQAEQbGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgmnevqWQAEQbGI.jpg",
+					"url": "https://t.co/MR1YnteBKb",
+					"display_url": "pic.twitter.com/MR1YnteBKb",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1587984493771636736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4350,
+			"friends_count": 661,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1587955145840754700,
+		"quoted_status_id_str": "1587955145840754689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tAArBQNWTZ",
+			"expanded": "https://twitter.com/baseballtwit/status/1587955145840754689",
+			"display": "twitter.com/baseballtwit/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 02 23:49:44 +0000 2022",
+			"id": 1587955145840754700,
+			"id_str": "1587955145840754689",
+			"full_text": "Want to vote for the Contemporary Baseball Era Hall of Fame ballot in between innings? Here’s 100+ names. I’d appreciate it if you shared it so we get the biggest reach possible. Happy voting! https://t.co/l2Xqi6g97O",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/l2Xqi6g97O",
+						"expanded_url": "https://forms.gle/Sstq8oWEjhMEpuCL9",
+						"display_url": "forms.gle/Sstq8oWEjhMEpu…",
+						"indices": [
+							193,
+							216
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18292847,
+				"id_str": "18292847",
+				"name": "Adam Darowski",
+				"screen_name": "baseballtwit",
+				"location": "Rehoboth, MA",
+				"description": "Director of Product for @sports_ref (@stathead @baseball_ref @fbref etc) ⚾️ @SABR Member, history nerd ⚽️ @BVB obsessed 📈 Made @HallOfStats He/Him",
+				"url": "https://t.co/NGG8TawT4h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NGG8TawT4h",
+								"expanded_url": "http://baseball-reference.com",
+								"display_url": "baseball-reference.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5691,
+				"friends_count": 682,
+				"listed_count": 266,
+				"created_at": "Sun Dec 21 21:04:01 +0000 2008",
+				"favourites_count": 18820,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34144,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9999C1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1492646806282461186/yRlEhjgo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492646806282461186/yRlEhjgo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18292847/1656259316",
+				"profile_link_color": "000064",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Nomah! https://t.co/tAArBQNWTZ https://t.co/MR1YnteBKb"
+	},
+	{
+		"created_at": "Thu Nov 03 01:37:10 +0000 2022",
+		"id": 1587955145840754700,
+		"id_str": "1587982183041564672",
+		"full_text": "Want to vote for the Contemporary Baseball Era Hall of Fame ballot in between innings? Here’s 100+ names. I’d appreciate it if you shared it so we get the biggest reach possible. Happy voting! https://t.co/l2Xqi6g97O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l2Xqi6g97O",
+					"expanded_url": "https://forms.gle/Sstq8oWEjhMEpuCL9",
+					"display_url": "forms.gle/Sstq8oWEjhMEpu…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18292847,
+			"id_str": "18292847",
+			"name": "Adam Darowski",
+			"screen_name": "baseballtwit",
+			"location": "Rehoboth, MA",
+			"description": "Director of Product for @sports_ref (@stathead @baseball_ref @fbref etc) ⚾️ @SABR Member, history nerd ⚽️ @BVB obsessed 📈 Made @HallOfStats He/Him",
+			"url": "https://t.co/NGG8TawT4h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NGG8TawT4h",
+							"expanded_url": "http://baseball-reference.com",
+							"display_url": "baseball-reference.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5691,
+			"friends_count": 682,
+			"listed_count": 266,
+			"created_at": "Sun Dec 21 21:04:01 +0000 2008",
+			"favourites_count": 18820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9999C1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1492646806282461186/yRlEhjgo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492646806282461186/yRlEhjgo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18292847/1656259316",
+			"profile_link_color": "000064",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to vote for the Contemporary Baseball Era Hall of Fame ballot in between innings? Here’s 100+ names. I’d appreciate it if you shared it so we get the biggest reach possible. Happy voting! https://t.co/l2Xqi6g97O"
+	},
+	{
+		"created_at": "Wed Nov 02 20:50:01 +0000 2022",
+		"id": 1587909921571590100,
+		"id_str": "1587909921571590146",
+		"full_text": "@MeghanChayka Can someone become GeoCities? 🤣",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeghanChayka",
+					"name": "Meghan Chayka",
+					"id": 23163698,
+					"id_str": "23163698",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1587884895946551300,
+		"in_reply_to_status_id_str": "1587884895946551297",
+		"in_reply_to_user_id": 23163698,
+		"in_reply_to_user_id_str": "23163698",
+		"in_reply_to_screen_name": "MeghanChayka",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4350,
+			"friends_count": 661,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MeghanChayka Can someone become GeoCities? 🤣"
+	},
+	{
+		"created_at": "Wed Nov 02 20:01:04 +0000 2022",
+		"id": 1587884445847392300,
+		"id_str": "1587897599171993600",
+		"full_text": "We are realizing that forums were better than having the whole internet in one big room.\n\nIt was way better to have each individual forum/house have individual rooms moderated by harassed, depressed middle aged weirdos than have the one giant chamber managed by tech gurus.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27477803,
+			"id_str": "27477803",
+			"name": "dr. pombus bucatini",
+			"screen_name": "robertjbennett",
+			"location": "Austin, TX",
+			"description": "~~~NATIONAL /clap emoticon/ BESTSELLING /clap emoticon/ WRITER~~~ and vocal admirer of fat babies, im talkin the real chunky monkeys",
+			"url": "https://t.co/rgMPcizGhl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rgMPcizGhl",
+							"expanded_url": "http://www.robertjacksonbennett.com",
+							"display_url": "robertjacksonbennett.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6386,
+			"friends_count": 355,
+			"listed_count": 250,
+			"created_at": "Sun Mar 29 18:46:42 +0000 2009",
+			"favourites_count": 61938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062023616915636224/SU0ptMxI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062023616915636224/SU0ptMxI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27477803/1653425869",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are realizing that forums were better than having the whole internet in one big room.\n\nIt was way better to have each individual forum/house have individual rooms moderated by harassed, depressed middle aged weirdos than have the one giant chamber managed by tech gurus."
+	},
+	{
+		"created_at": "Wed Nov 02 19:56:33 +0000 2022",
+		"id": 1587896463882846200,
+		"id_str": "1587896463882846209",
+		"full_text": "@HerrLizzie Sorry George…he’d be like https://t.co/TGgAuFLSGG",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HerrLizzie",
+					"name": "Moms for letting teachers do their damned jobs",
+					"id": 303484451,
+					"id_str": "303484451",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1587896449458749400,
+					"id_str": "1587896449458749440",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FglXaGIXwAAoUfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FglXaGIXwAAoUfz.jpg",
+					"url": "https://t.co/TGgAuFLSGG",
+					"display_url": "pic.twitter.com/TGgAuFLSGG",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1587896463882846209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 298,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587896449458749400,
+					"id_str": "1587896449458749440",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FglXaGIXwAAoUfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FglXaGIXwAAoUfz.jpg",
+					"url": "https://t.co/TGgAuFLSGG",
+					"display_url": "pic.twitter.com/TGgAuFLSGG",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1587896463882846209/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 298,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							200,
+							149
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FglXaGIXwAAoUfz.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1587893352510406700,
+		"in_reply_to_status_id_str": "1587893352510406656",
+		"in_reply_to_user_id": 303484451,
+		"in_reply_to_user_id_str": "303484451",
+		"in_reply_to_screen_name": "HerrLizzie",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4350,
+			"friends_count": 661,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@HerrLizzie Sorry George…he’d be like https://t.co/TGgAuFLSGG"
+	},
+	{
 		"created_at": "Tue Nov 01 16:53:43 +0000 2022",
 		"id": 1587488063776870400,
 		"id_str": "1587488063776870400",
