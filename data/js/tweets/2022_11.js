@@ -1,6 +1,1213 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 02:07:25 +0000 2022",
+		"id": 1589432091519094800,
+		"id_str": "1589439349002997761",
+		"full_text": "Just eat it, eat it, eat it, eat it\nHere’s a song I’ve parodied it\n\n(Weird Al complying with new Twitter rules)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40931468,
+			"id_str": "40931468",
+			"name": "Noah Garfinkel",
+			"screen_name": "NoahGarfinkel",
+			"location": "Los Angeles, CA",
+			"description": "Writer -- Single Parents, President Show, New Girl, Kroll Show, Workaholics.",
+			"url": "https://t.co/9EzVxHHkYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9EzVxHHkYR",
+							"expanded_url": "http://www.instagram.com/noahgarfinkel",
+							"display_url": "instagram.com/noahgarfinkel",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43815,
+			"friends_count": 1174,
+			"listed_count": 332,
+			"created_at": "Mon May 18 18:20:21 +0000 2009",
+			"favourites_count": 22294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439275629199855616/VKWWY0u8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439275629199855616/VKWWY0u8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40931468/1616622512",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 212,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Just eat it, eat it, eat it, eat it\nHere’s a song I’ve parodied it\n\n(Weird Al complying with new Twitter rules)"
+	},
+	{
+		"created_at": "Sun Nov 06 18:41:47 +0000 2022",
+		"id": 1589327202080141300,
+		"id_str": "1589327202080141313",
+		"full_text": "@AdamDubbin https://t.co/fvVAEA7IUO",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamDubbin",
+					"name": "🐊 Adam Dubbin 🐅",
+					"id": 2418002112,
+					"id_str": "2418002112",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fvVAEA7IUO",
+					"expanded_url": "https://memes.getyarn.io/yarn-clip/6c37b573-7d17-4151-b78e-4464ac7d0e3b/gif#DX5y_xSk.copy",
+					"display_url": "memes.getyarn.io/yarn-clip/6c37…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589324813381738500,
+		"in_reply_to_status_id_str": "1589324813381738497",
+		"in_reply_to_user_id": 2418002112,
+		"in_reply_to_user_id_str": "2418002112",
+		"in_reply_to_screen_name": "AdamDubbin",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4350,
+			"friends_count": 661,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@AdamDubbin https://t.co/fvVAEA7IUO"
+	},
+	{
+		"created_at": "Sun Nov 06 18:29:34 +0000 2022",
+		"id": 1589324126208295000,
+		"id_str": "1589324126208294913",
+		"full_text": "No, I don’t think I’m in mood yet https://t.co/aFinpQ36BN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589324117634850800,
+					"id_str": "1589324117634850817",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg5p3UiWIAErI5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg5p3UiWIAErI5T.jpg",
+					"url": "https://t.co/aFinpQ36BN",
+					"display_url": "pic.twitter.com/aFinpQ36BN",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1589324126208294913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589324117634850800,
+					"id_str": "1589324117634850817",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg5p3UiWIAErI5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg5p3UiWIAErI5T.jpg",
+					"url": "https://t.co/aFinpQ36BN",
+					"display_url": "pic.twitter.com/aFinpQ36BN",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1589324126208294913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4350,
+			"friends_count": 661,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No, I don’t think I’m in mood yet https://t.co/aFinpQ36BN"
+	},
+	{
+		"created_at": "Sun Nov 06 18:17:19 +0000 2022",
+		"id": 1589321044686680000,
+		"id_str": "1589321044686680065",
+		"full_text": "https://t.co/kDxqjZuBIw https://t.co/NBYmqTenHD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kDxqjZuBIw",
+					"expanded_url": "https://twitter.com/design_law/status/1589301584558579712",
+					"display_url": "twitter.com/design_law/sta…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589321031319175200,
+					"id_str": "1589321031319175170",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fg5nDrHWQAIGaoi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fg5nDrHWQAIGaoi.jpg",
+					"url": "https://t.co/NBYmqTenHD",
+					"display_url": "pic.twitter.com/NBYmqTenHD",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1589321044686680065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589321031319175200,
+					"id_str": "1589321031319175170",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fg5nDrHWQAIGaoi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fg5nDrHWQAIGaoi.jpg",
+					"url": "https://t.co/NBYmqTenHD",
+					"display_url": "pic.twitter.com/NBYmqTenHD",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1589321044686680065/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fg5nDrHWQAIGaoi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4350,
+			"friends_count": 661,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1589301584558579700,
+		"quoted_status_id_str": "1589301584558579712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kDxqjZuBIw",
+			"expanded": "https://twitter.com/design_law/status/1589301584558579712",
+			"display": "twitter.com/design_law/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 06 17:00:00 +0000 2022",
+			"id": 1589301584558579700,
+			"id_str": "1589301584558579712",
+			"full_text": "D20,122 - issued in 1890 for a design for a \"Laundry Wagon.\" #DesignPatents https://t.co/Fg6hQn9PvS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DesignPatents",
+						"indices": [
+							61,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1584258124986437600,
+						"id_str": "1584258124986437635",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/FfxqXvRX0AMOfC8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfxqXvRX0AMOfC8.jpg",
+						"url": "https://t.co/Fg6hQn9PvS",
+						"display_url": "pic.twitter.com/Fg6hQn9PvS",
+						"expanded_url": "https://twitter.com/design_law/status/1589301584558579712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1862,
+								"h": 1262,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 813,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1584258124986437600,
+						"id_str": "1584258124986437635",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/FfxqXvRX0AMOfC8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfxqXvRX0AMOfC8.jpg",
+						"url": "https://t.co/Fg6hQn9PvS",
+						"display_url": "pic.twitter.com/Fg6hQn9PvS",
+						"expanded_url": "https://twitter.com/design_law/status/1589301584558579712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1862,
+								"h": 1262,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 813,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 771489602,
+				"id_str": "771489602",
+				"name": "Sarah Burstein",
+				"screen_name": "design_law",
+				"location": "",
+				"description": "Art major turned law professor. Teaching at @Suffolk_Law. Researching & writing about design patents. Coauthor of @PatentLawBook. @design_law@mastodon.social",
+				"url": "https://t.co/ksQOJ4ffGb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ksQOJ4ffGb",
+								"expanded_url": "https://www.suffolk.edu/academics/faculty/s/a/sarah-burstein",
+								"display_url": "suffolk.edu/academics/facu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19990,
+				"friends_count": 5540,
+				"listed_count": 323,
+				"created_at": "Tue Aug 21 13:13:54 +0000 2012",
+				"favourites_count": 137226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 49744,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775314273912311809/t07J03C2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775314273912311809/t07J03C2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/771489602/1534338936",
+				"profile_link_color": "8E236B",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/kDxqjZuBIw https://t.co/NBYmqTenHD"
+	},
+	{
+		"created_at": "Sun Nov 06 17:55:55 +0000 2022",
+		"id": 1589315659707478000,
+		"id_str": "1589315659707478016",
+		"full_text": "@psychologistpod Pineapple sighting 🍍 https://t.co/3ZufoXSKhj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "psychologistpod",
+					"name": "The Psychologists Are In Podcast",
+					"id": 1456309045019615200,
+					"id_str": "1456309045019615234",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3ZufoXSKhj",
+					"expanded_url": "https://twitter.com/kfile/status/1589313149135900672",
+					"display_url": "twitter.com/kfile/status/1…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1456309045019615200,
+		"in_reply_to_user_id_str": "1456309045019615234",
+		"in_reply_to_screen_name": "psychologistpod",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4350,
+			"friends_count": 661,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1589313149135900700,
+		"quoted_status_id_str": "1589313149135900672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3ZufoXSKhj",
+			"expanded": "https://twitter.com/kfile/status/1589313149135900672",
+			"display": "twitter.com/kfile/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 06 17:45:57 +0000 2022",
+			"id": 1589313149135900700,
+			"id_str": "1589313149135900672",
+			"full_text": "Most unique runners I saw today. Guy with a Lee Zeldin sign and man with pineapple on his head. https://t.co/mESltiQmmq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1589313136724787200,
+						"id_str": "1589313136724787200",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/Fg5f4JdXwAAHodu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fg5f4JdXwAAHodu.jpg",
+						"url": "https://t.co/mESltiQmmq",
+						"display_url": "pic.twitter.com/mESltiQmmq",
+						"expanded_url": "https://twitter.com/KFILE/status/1589313149135900672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1589313136724787200,
+						"id_str": "1589313136724787200",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/Fg5f4JdXwAAHodu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fg5f4JdXwAAHodu.jpg",
+						"url": "https://t.co/mESltiQmmq",
+						"display_url": "pic.twitter.com/mESltiQmmq",
+						"expanded_url": "https://twitter.com/KFILE/status/1589313149135900672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1589313136720593000,
+						"id_str": "1589313136720592902",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/Fg5f4JcXwAY8TPB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fg5f4JcXwAY8TPB.jpg",
+						"url": "https://t.co/mESltiQmmq",
+						"display_url": "pic.twitter.com/mESltiQmmq",
+						"expanded_url": "https://twitter.com/KFILE/status/1589313149135900672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1633,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 542,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 957,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 326255267,
+				"id_str": "326255267",
+				"name": "andrew kaczynski",
+				"screen_name": "KFILE",
+				"location": "$2.8 million raised for DFCI",
+				"description": "CNN reporter🎗Beans & Tali's dad. Founder of @TeamBeansFund, funding cures for infant brain cancer for Beans’ legacy. Andrew.w.Kaczynski@gmail.com 🇦🇱 🇵🇱",
+				"url": "https://t.co/Si6GeycxvV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Si6GeycxvV",
+								"expanded_url": "http://TeamBeansNYC.com",
+								"display_url": "TeamBeansNYC.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 440018,
+				"friends_count": 8213,
+				"listed_count": 6812,
+				"created_at": "Wed Jun 29 16:44:57 +0000 2011",
+				"favourites_count": 85806,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12729,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1578403619598204928/PX6MyjOb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578403619598204928/PX6MyjOb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326255267/1653057452",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@psychologistpod Pineapple sighting 🍍 https://t.co/3ZufoXSKhj"
+	},
+	{
+		"created_at": "Sun Nov 06 15:16:31 +0000 2022",
+		"id": 1589074533994336300,
+		"id_str": "1589275542578397185",
+		"full_text": "Twitter: “You sign up for Twitter and start tweeting.”\n\nMastodon: “In order to use Mastodon, you must face three challenges. First, is the Path of God: Only the penitent man shall pass. Second, is the Word of God: Only in the footsteps of God, shall he proceed. Third, is the Brea",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31422711,
+			"id_str": "31422711",
+			"name": "Frank Pallotta",
+			"screen_name": "frankpallotta",
+			"location": "New York City",
+			"description": "Entertainment Business Reporter at @CNN. / Fan of motion pictures. / Pie enthusiast. / Suffering supporter of the New York Metropolitans. #LGM",
+			"url": "https://t.co/3eqn1gZddm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3eqn1gZddm",
+							"expanded_url": "https://www.cnn.com/profiles/frank-pallotta",
+							"display_url": "cnn.com/profiles/frank…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22221,
+			"friends_count": 699,
+			"listed_count": 529,
+			"created_at": "Wed Apr 15 14:42:58 +0000 2009",
+			"favourites_count": 40976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350866868484136964/00pnAAJT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350866868484136964/00pnAAJT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31422711/1540211622",
+			"profile_link_color": "D5251A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EACFAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1248,
+		"favorite_count": 7542,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Twitter: “You sign up for Twitter and start tweeting.”\n\nMastodon: “In order to use Mastodon, you must face three challenges. First, is the Path of God: Only the penitent man shall pass. Second, is the Word of God: Only in the footsteps of God, shall he proceed. Third, is the Brea"
+	},
+	{
 		"created_at": "Sat Nov 05 15:42:03 +0000 2022",
 		"id": 1588919580986163200,
 		"id_str": "1588919580986163202",
