@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 14:10:59 +0000 2022",
+		"id": 1590346214683263000,
+		"id_str": "1590346214683262976",
+		"full_text": "Very clear who is @verified vs Official https://t.co/itMQejbM7X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verified",
+					"name": "Twitter Verified",
+					"id": 63796828,
+					"id_str": "63796828",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590346210451275800,
+					"id_str": "1590346210451275779",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FhILc8_WQAMfDUG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhILc8_WQAMfDUG.jpg",
+					"url": "https://t.co/itMQejbM7X",
+					"display_url": "pic.twitter.com/itMQejbM7X",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1590346214683262976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1059,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590346210451275800,
+					"id_str": "1590346210451275779",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FhILc8_WQAMfDUG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhILc8_WQAMfDUG.jpg",
+					"url": "https://t.co/itMQejbM7X",
+					"display_url": "pic.twitter.com/itMQejbM7X",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1590346214683262976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1059,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1590346210455453700,
+					"id_str": "1590346210455453697",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FhILc9AWAAE1br7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhILc9AWAAE1br7.jpg",
+					"url": "https://t.co/itMQejbM7X",
+					"display_url": "pic.twitter.com/itMQejbM7X",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1590346214683262976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1590346210455556000,
+					"id_str": "1590346210455556096",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FhILc9AXkAABkp3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhILc9AXkAABkp3.jpg",
+					"url": "https://t.co/itMQejbM7X",
+					"display_url": "pic.twitter.com/itMQejbM7X",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1590346214683262976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4348,
+			"friends_count": 645,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very clear who is @verified vs Official https://t.co/itMQejbM7X"
+	},
+	{
+		"created_at": "Wed Nov 09 12:57:36 +0000 2022",
+		"id": 1590327747129536500,
+		"id_str": "1590327747129536513",
+		"full_text": "@GlobeChadFinn They were so informative though…I’d never even heard of Chris Pappas and he’s apparently a shadow king ruling the country!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GlobeChadFinn",
+					"name": "Chad Finn",
+					"id": 19968995,
+					"id_str": "19968995",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1590321028311359500,
+		"in_reply_to_status_id_str": "1590321028311359489",
+		"in_reply_to_user_id": 19968995,
+		"in_reply_to_user_id_str": "19968995",
+		"in_reply_to_screen_name": "GlobeChadFinn",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4348,
+			"friends_count": 645,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GlobeChadFinn They were so informative though…I’d never even heard of Chris Pappas and he’s apparently a shadow king ruling the country!"
+	},
+	{
+		"created_at": "Wed Nov 09 12:18:28 +0000 2022",
+		"id": 1590193796662595600,
+		"id_str": "1590317897712570369",
+		"full_text": "Yankovic bump. https://t.co/jOoebmKzS6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jOoebmKzS6",
+					"expanded_url": "https://twitter.com/chartdata/status/1590193083022704640",
+					"display_url": "twitter.com/chartdata/stat…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147623032,
+			"id_str": "147623032",
+			"name": "Hunter Felt",
+			"screen_name": "HunterFelt",
+			"location": "Brighton MA",
+			"description": "Attempted Comedy. Sports/Music/Politics/Superheroes @GuardianUS contributor. Celtics talk for @ForbesSports. Genderqueer. email: hunter@hunterfelt.com.",
+			"url": "https://t.co/UjVELcU1Hg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UjVELcU1Hg",
+							"expanded_url": "https://www.patreon.com/hunterfelt?fan_landing=true",
+							"display_url": "patreon.com/hunterfelt?fan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2790,
+			"friends_count": 1779,
+			"listed_count": 115,
+			"created_at": "Mon May 24 16:26:20 +0000 2010",
+			"favourites_count": 91873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/516454602888073216/P5iHm94q_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/516454602888073216/P5iHm94q_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147623032/1596889080",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1590193083022704600,
+		"quoted_status_id_str": "1590193083022704640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jOoebmKzS6",
+			"expanded": "https://twitter.com/chartdata/status/1590193083022704640",
+			"display": "twitter.com/chartdata/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 09 04:02:30 +0000 2022",
+			"id": 1590193083022704600,
+			"id_str": "1590193083022704640",
+			"full_text": ".@Madonna has now surpassed 5 billion total streams on Spotify across all credits. She's the first female artist debuting in the 1980s to achieve this milestone.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Madonna",
+						"name": "Madonna",
+						"id": 512700138,
+						"id_str": "512700138",
+						"indices": [
+							1,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744260935527735300,
+				"id_str": "744260935527735296",
+				"name": "chart data",
+				"screen_name": "chartdata",
+				"location": "turn on notifications",
+				"description": "music charts, awards, industry news and more in real time | contact@chartdata.org https://t.co/rvXVCB5jir | Super Follow/Community for Requests",
+				"url": "https://t.co/VHd4DXWNUt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VHd4DXWNUt",
+								"expanded_url": "http://chartdata.org",
+								"display_url": "chartdata.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rvXVCB5jir",
+								"expanded_url": "http://linktr.ee/chartdata",
+								"display_url": "linktr.ee/chartdata",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1765878,
+				"friends_count": 758,
+				"listed_count": 3628,
+				"created_at": "Sat Jun 18 20:10:09 +0000 2016",
+				"favourites_count": 3689,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 118801,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1342086006149791750/Ar0drcXS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342086006149791750/Ar0drcXS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744260935527735296/1601471660",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 303,
+			"favorite_count": 2736,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yankovic bump. https://t.co/jOoebmKzS6"
+	},
+	{
 		"created_at": "Tue Nov 08 21:32:12 +0000 2022",
 		"id": 1590094861184606200,
 		"id_str": "1590094861184606208",
