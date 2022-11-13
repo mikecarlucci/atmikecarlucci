@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 13 02:28:53 +0000 2022",
+		"id": 1591619077281382400,
+		"id_str": "1591619077281382400",
+		"full_text": "@Bill_TPA But he’s saying it’s super important and only I can help! https://t.co/GuwFijDpw9",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bill_TPA",
+					"name": "Bill_TPA@mastodon.social",
+					"id": 66672175,
+					"id_str": "66672175",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591619070746574800,
+					"id_str": "1591619070746574849",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FhaRHLGWQAErmCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FhaRHLGWQAErmCa.jpg",
+					"url": "https://t.co/GuwFijDpw9",
+					"display_url": "pic.twitter.com/GuwFijDpw9",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1591619077281382400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 264,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 264,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591619070746574800,
+					"id_str": "1591619070746574849",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FhaRHLGWQAErmCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FhaRHLGWQAErmCa.jpg",
+					"url": "https://t.co/GuwFijDpw9",
+					"display_url": "pic.twitter.com/GuwFijDpw9",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1591619077281382400/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 264,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 264,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FhaRHLGWQAErmCa.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1591606713802948600,
+		"in_reply_to_status_id_str": "1591606713802948608",
+		"in_reply_to_user_id": 66672175,
+		"in_reply_to_user_id_str": "66672175",
+		"in_reply_to_screen_name": "Bill_TPA",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "Mike Carlucci",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4347,
+			"friends_count": 645,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 112957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824221611960176641/-9PsagQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Bill_TPA But he’s saying it’s super important and only I can help! https://t.co/GuwFijDpw9"
+	},
+	{
 		"created_at": "Fri Nov 11 19:54:51 +0000 2022",
 		"id": 1591157529106874400,
 		"id_str": "1591157529106874368",
