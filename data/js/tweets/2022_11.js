@@ -1,6 +1,762 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 03:08:29 +0000 2022",
+		"id": 1595615308357800000,
+		"id_str": "1595615308357799937",
+		"full_text": "@wizards_magic https://t.co/OXwLSTpJyZ",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wizards_magic",
+					"name": "Magic: The Gathering",
+					"id": 204870137,
+					"id_str": "204870137",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595615302699651000,
+					"id_str": "1595615302699651073",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FiTDqfOXEAEl-Yb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FiTDqfOXEAEl-Yb.jpg",
+					"url": "https://t.co/OXwLSTpJyZ",
+					"display_url": "pic.twitter.com/OXwLSTpJyZ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1595615308357799937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 322,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595615302699651000,
+					"id_str": "1595615302699651073",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FiTDqfOXEAEl-Yb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FiTDqfOXEAEl-Yb.jpg",
+					"url": "https://t.co/OXwLSTpJyZ",
+					"display_url": "pic.twitter.com/OXwLSTpJyZ",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1595615308357799937/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 322,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 322,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							161
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FiTDqfOXEAEl-Yb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1595583089660821500,
+		"in_reply_to_status_id_str": "1595583089660821504",
+		"in_reply_to_user_id": 204870137,
+		"in_reply_to_user_id_str": "204870137",
+		"in_reply_to_screen_name": "wizards_magic",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@mastodon.social",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4343,
+			"friends_count": 644,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@wizards_magic https://t.co/OXwLSTpJyZ"
+	},
+	{
+		"created_at": "Wed Nov 23 23:30:27 +0000 2022",
+		"id": 1595560438128943000,
+		"id_str": "1595560438128943104",
+		"full_text": "@BenLBuchanan We can only hope",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BenLBuchanan",
+					"name": "Ben Buchanan",
+					"id": 98832951,
+					"id_str": "98832951",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1595559174431133700,
+		"in_reply_to_status_id_str": "1595559174431133698",
+		"in_reply_to_user_id": 98832951,
+		"in_reply_to_user_id_str": "98832951",
+		"in_reply_to_screen_name": "BenLBuchanan",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@mastodon.social",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4343,
+			"friends_count": 644,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BenLBuchanan We can only hope"
+	},
+	{
+		"created_at": "Wed Nov 23 18:45:34 +0000 2022",
+		"id": 1595488745327059000,
+		"id_str": "1595488745327058945",
+		"full_text": "Pretty sure this is a Harry Potter villain https://t.co/HdEcOhfzlG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HdEcOhfzlG",
+					"expanded_url": "https://twitter.com/ChrisCotillo/status/1595488020161085451",
+					"display_url": "twitter.com/ChrisCotillo/s…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@mastodon.social",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4343,
+			"friends_count": 644,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1595488020161085400,
+		"quoted_status_id_str": "1595488020161085451",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HdEcOhfzlG",
+			"expanded": "https://twitter.com/ChrisCotillo/status/1595488020161085451",
+			"display": "twitter.com/ChrisCotillo/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 23 18:42:41 +0000 2022",
+			"id": 1595488020161085400,
+			"id_str": "1595488020161085451",
+			"full_text": "Another free agent signing for the Red Sox and this one is for the all-name team. Boston has signed former Cubs outfielder Narciso Crook to a minor league deal.\n\nhttps://t.co/0UnGFlzpUV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0UnGFlzpUV",
+						"expanded_url": "https://www.masslive.com/redsox/2022/11/red-sox-sign-narciso-crook-former-cubs-of-to-minor-league-deal.html",
+						"display_url": "masslive.com/redsox/2022/11…",
+						"indices": [
+							162,
+							185
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 340696305,
+				"id_str": "340696305",
+				"name": "Chris Cotillo",
+				"screen_name": "ChrisCotillo",
+				"location": "Boston, MA",
+				"description": "Red Sox beat writer, https://t.co/zU4Ing9rG8.\n\nLast name rhymes with pillow. Go Heels.",
+				"url": "https://t.co/dOJdvpnXqX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dOJdvpnXqX",
+								"expanded_url": "http://www.masslive.com/redsox/",
+								"display_url": "masslive.com/redsox/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zU4Ing9rG8",
+								"expanded_url": "http://MassLive.com",
+								"display_url": "MassLive.com",
+								"indices": [
+									21,
+									44
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 55054,
+				"friends_count": 2824,
+				"listed_count": 1845,
+				"created_at": "Sat Jul 23 03:33:33 +0000 2011",
+				"favourites_count": 15435,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 81438,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "101010",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418363173162430464/O6Wcfca9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418363173162430464/O6Wcfca9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/340696305/1632757842",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D2CDCB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pretty sure this is a Harry Potter villain https://t.co/HdEcOhfzlG"
+	},
+	{
+		"created_at": "Wed Nov 23 17:40:22 +0000 2022",
+		"id": 1595472337738023000,
+		"id_str": "1595472337738022912",
+		"full_text": "Embrace and extend! https://t.co/sIWFc83rC7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sIWFc83rC7",
+					"expanded_url": "https://twitter.com/shanselman/status/1595177845093183488",
+					"display_url": "twitter.com/shanselman/sta…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@mastodon.social",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4343,
+			"friends_count": 644,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1595177845093183500,
+		"quoted_status_id_str": "1595177845093183488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sIWFc83rC7",
+			"expanded": "https://twitter.com/shanselman/status/1595177845093183488",
+			"display": "twitter.com/shanselman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 22 22:10:09 +0000 2022",
+			"id": 1595177845093183500,
+			"id_str": "1595177845093183488",
+			"full_text": "This is MASSIVE. The Windows Subsystem for Linux in the Microsoft Store is now generally available on Windows 10 and 11! Windows 10 users can now run Linux GUI apps natively! https://t.co/U1uZBPl4mj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U1uZBPl4mj",
+						"expanded_url": "https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-in-the-microsoft-store-is-now-generally-available-on-windows-10-and-11/",
+						"display_url": "devblogs.microsoft.com/commandline/th…",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5676102,
+				"id_str": "5676102",
+				"name": "Scott Hanselman",
+				"screen_name": "shanselman",
+				"location": "Portland, Oregon",
+				"description": "Code, OSS, STEM, Beyoncé, 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇿🇼#T1D,@Hanselminutes inclusive tech podcast! MSFT Developer Division Community #DevRel🐹🌮YouTube+TikTok My opinions",
+				"url": "https://t.co/j1IR1zhcCe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j1IR1zhcCe",
+								"expanded_url": "https://hachyderm.io/@shanselman",
+								"display_url": "hachyderm.io/@shanselman",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 308548,
+				"friends_count": 10537,
+				"listed_count": 8521,
+				"created_at": "Tue May 01 05:55:26 +0000 2007",
+				"favourites_count": 159137,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78392,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D1CDC1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5676102/1398280381",
+				"profile_link_color": "72412C",
+				"profile_sidebar_border_color": "B8AA9C",
+				"profile_sidebar_fill_color": "B8AA9C",
+				"profile_text_color": "696969",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1517,
+			"favorite_count": 7853,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Embrace and extend! https://t.co/sIWFc83rC7"
+	},
+	{
 		"created_at": "Tue Nov 22 21:37:33 +0000 2022",
 		"id": 1595169640367460400,
 		"id_str": "1595169640367460384",
