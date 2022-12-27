@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 26 18:58:07 +0000 2022",
+		"id": 1607450705513844700,
+		"id_str": "1607450705513844737",
+		"full_text": "That man? Little Bobby Tables https://t.co/ndysDEGNRN https://t.co/ti55iNbowO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ndysDEGNRN",
+					"expanded_url": "https://xkcd.com/327/",
+					"display_url": "xkcd.com/327/",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/ti55iNbowO",
+					"expanded_url": "https://twitter.com/mmcphate/status/1607444637240672263",
+					"display_url": "twitter.com/mmcphate/statu…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@mastodon.social",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@mastodon.social",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4339,
+			"friends_count": 639,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1607444637240672300,
+		"quoted_status_id_str": "1607444637240672263",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ti55iNbowO",
+			"expanded": "https://twitter.com/mmcphate/status/1607444637240672263",
+			"display": "twitter.com/mmcphate/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 26 18:34:01 +0000 2022",
+			"id": 1607444637240672300,
+			"id_str": "1607444637240672263",
+			"full_text": "In 1979, a Los Angeles man decided to get a personalized license plate — and ended up with 2,500 parking tickets. \n\nIn an attempt to get a vanity plate, Robert Barbour ended up with one that read \"NO PLATE.\" DMV computers handed him a giant headache.\n\nhttps://t.co/oV7vFJJYc3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oV7vFJJYc3",
+						"expanded_url": "https://www.californiasun.co/2500-parking-tickets-one-mans-battle-with-the-dmv/",
+						"display_url": "californiasun.co/2500-parking-t…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11136082,
+				"id_str": "11136082",
+				"name": "California Sun",
+				"screen_name": "mmcphate",
+				"location": "California, USA",
+				"description": "Must-read stories about the Golden State, delivered daily to your inbox. Sign up: https://t.co/IuNB8rqs7T",
+				"url": "https://t.co/bTRUYfHeCY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bTRUYfHeCY",
+								"expanded_url": "http://www.californiasun.co",
+								"display_url": "californiasun.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IuNB8rqs7T",
+								"expanded_url": "http://californiasun.co",
+								"display_url": "californiasun.co",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16087,
+				"friends_count": 10340,
+				"listed_count": 348,
+				"created_at": "Thu Dec 13 18:08:10 +0000 2007",
+				"favourites_count": 13239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13232,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6479E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11136082/1528743412",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That man? Little Bobby Tables https://t.co/ndysDEGNRN https://t.co/ti55iNbowO"
+	},
+	{
 		"created_at": "Sun Dec 25 00:28:06 +0000 2022",
 		"id": 1606808973344215000,
 		"id_str": "1606808973344215044",
