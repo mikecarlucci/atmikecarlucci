@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 28 21:12:15 +0000 2022",
+		"id": 1608209235879288800,
+		"id_str": "1608209235879288834",
+		"full_text": "So… @rianjohnson Knives Out 3: The Great Muppet Caper 2: Electric Boogaloo? https://t.co/Agkh1WwIZA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rianjohnson",
+					"name": "Rian Johnson",
+					"id": 25629019,
+					"id_str": "25629019",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Agkh1WwIZA",
+					"expanded_url": "https://twitter.com/cevangelista413/status/1608141969150312449",
+					"display_url": "twitter.com/cevangelista41…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4339,
+			"friends_count": 639,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1608141969150312400,
+		"quoted_status_id_str": "1608141969150312449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Agkh1WwIZA",
+			"expanded": "https://twitter.com/cevangelista413/status/1608141969150312449",
+			"display": "twitter.com/cevangelista41…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 28 16:44:57 +0000 2022",
+			"id": 1608141969150312400,
+			"id_str": "1608141969150312449",
+			"full_text": "[Benoit Blanc voice] Hells bells these Muppets have gotten themselves into some sort of great caper.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83323069,
+				"id_str": "83323069",
+				"name": "Chris Evangelista",
+				"screen_name": "cevangelista413",
+				"location": "Dracula’s Castle",
+				"description": "Editor & Chief Film Critic @slashfilm / @spielberg2k host / Member @criticschoice / I love you but I’ve chosen movies. / Not doing well.",
+				"url": "https://t.co/mfeb9qssaM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mfeb9qssaM",
+								"expanded_url": "https://linktr.ee/Cevangelista413",
+								"display_url": "linktr.ee/Cevangelista413",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27287,
+				"friends_count": 2863,
+				"listed_count": 312,
+				"created_at": "Sun Oct 18 08:09:51 +0000 2009",
+				"favourites_count": 29166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33933,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1587461910345179137/_0jM7yKh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587461910345179137/_0jM7yKh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83323069/1666062692",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1938,
+			"favorite_count": 18472,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So… @rianjohnson Knives Out 3: The Great Muppet Caper 2: Electric Boogaloo? https://t.co/Agkh1WwIZA"
+	},
+	{
+		"created_at": "Wed Dec 28 16:40:16 +0000 2022",
+		"id": 1608140788827029500,
+		"id_str": "1608140788827029506",
+		"full_text": "@scott_bush It’s a low key fear to need air and not have cash, use the station ATM at a $5 fee, buy a candy bar, and then have to get the attendant to give change in quarters 😂",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scott_bush",
+					"name": "Scott Bush",
+					"id": 17888100,
+					"id_str": "17888100",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1608133292666003500,
+		"in_reply_to_status_id_str": "1608133292666003457",
+		"in_reply_to_user_id": 17888100,
+		"in_reply_to_user_id_str": "17888100",
+		"in_reply_to_screen_name": "scott_bush",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4339,
+			"friends_count": 639,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scott_bush It’s a low key fear to need air and not have cash, use the station ATM at a $5 fee, buy a candy bar, and then have to get the attendant to give change in quarters 😂"
+	},
+	{
+		"created_at": "Wed Dec 28 14:38:23 +0000 2022",
+		"id": 1608110116133298200,
+		"id_str": "1608110116133298178",
+		"full_text": "@SurvivingGrady Red Sox Nation https://t.co/uWsgBJoHG8",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SurvivingGrady",
+					"name": "Red",
+					"id": 22878740,
+					"id_str": "22878740",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1608110108004728800,
+					"id_str": "1608110108004728832",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FlEnn4NWQAANJt-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FlEnn4NWQAANJt-.jpg",
+					"url": "https://t.co/uWsgBJoHG8",
+					"display_url": "pic.twitter.com/uWsgBJoHG8",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1608110116133298178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1608110108004728800,
+					"id_str": "1608110108004728832",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FlEnn4NWQAANJt-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FlEnn4NWQAANJt-.jpg",
+					"url": "https://t.co/uWsgBJoHG8",
+					"display_url": "pic.twitter.com/uWsgBJoHG8",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1608110116133298178/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FlEnn4NWQAANJt-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1608098364541014000,
+		"in_reply_to_status_id_str": "1608098364541014018",
+		"in_reply_to_user_id": 22878740,
+		"in_reply_to_user_id_str": "22878740",
+		"in_reply_to_screen_name": "SurvivingGrady",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4339,
+			"friends_count": 639,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SurvivingGrady Red Sox Nation https://t.co/uWsgBJoHG8"
+	},
+	{
 		"created_at": "Tue Dec 27 21:17:16 +0000 2022",
 		"id": 1607848109039845400,
 		"id_str": "1607848109039845376",
