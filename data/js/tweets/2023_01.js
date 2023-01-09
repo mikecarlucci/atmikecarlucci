@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 08 21:20:58 +0000 2023",
+		"id": 1612197694486847500,
+		"id_str": "1612197694486847488",
+		"full_text": "Kermit - Mr. Fantastic \nFozzie - Johnny Storm\nMs. Piggy - Sue Storm\nGonzo - The Thing\n\nI’m all in. https://t.co/evCklGuXRj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/evCklGuXRj",
+					"expanded_url": "https://twitter.com/historymuppet/status/1612193864244428800",
+					"display_url": "twitter.com/historymuppet/…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4338,
+			"friends_count": 639,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1612193864244428800,
+		"quoted_status_id_str": "1612193864244428800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/evCklGuXRj",
+			"expanded": "https://twitter.com/historymuppet/status/1612193864244428800",
+			"display": "twitter.com/historymuppet/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 08 21:05:45 +0000 2023",
+			"id": 1612193864244428800,
+			"id_str": "1612193864244428800",
+			"full_text": "It is time. https://t.co/KWHCrHOrH7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				11
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1612193861232693200,
+						"id_str": "1612193861232693248",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/Fl-pxmfXEAAIMVY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fl-pxmfXEAAIMVY.jpg",
+						"url": "https://t.co/KWHCrHOrH7",
+						"display_url": "pic.twitter.com/KWHCrHOrH7",
+						"expanded_url": "https://twitter.com/HistoryMuppet/status/1612193864244428800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1194,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1284,
+								"h": 1290,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1612193861232693200,
+						"id_str": "1612193861232693248",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/Fl-pxmfXEAAIMVY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fl-pxmfXEAAIMVY.jpg",
+						"url": "https://t.co/KWHCrHOrH7",
+						"display_url": "pic.twitter.com/KWHCrHOrH7",
+						"expanded_url": "https://twitter.com/HistoryMuppet/status/1612193864244428800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1194,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1284,
+								"h": 1290,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1612193861220159500,
+						"id_str": "1612193861220159492",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/Fl-pxmcX0AQOhWf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fl-pxmcX0AQOhWf.jpg",
+						"url": "https://t.co/KWHCrHOrH7",
+						"display_url": "pic.twitter.com/KWHCrHOrH7",
+						"expanded_url": "https://twitter.com/HistoryMuppet/status/1612193864244428800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 728,
+								"h": 728,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 728,
+								"h": 728,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1049365727705288700,
+				"id_str": "1049365727705288704",
+				"name": "🎉 Muppet History 🎊",
+				"screen_name": "HistoryMuppet",
+				"location": "",
+				"description": "FAN PAGE dedicated to continuing the spirit and silliness of Jim Henson! Created and Operated by @HalfHearted_JG Business: MuppetHistory@outlook.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 269529,
+				"friends_count": 1703,
+				"listed_count": 905,
+				"created_at": "Mon Oct 08 18:27:40 +0000 2018",
+				"favourites_count": 53306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25098,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1608622687227625473/DXJmPVDo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608622687227625473/DXJmPVDo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049365727705288704/1672360521",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 407,
+			"favorite_count": 3154,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kermit - Mr. Fantastic \nFozzie - Johnny Storm\nMs. Piggy - Sue Storm\nGonzo - The Thing\n\nI’m all in. https://t.co/evCklGuXRj"
+	},
+	{
 		"created_at": "Sun Jan 08 02:32:48 +0000 2023",
 		"id": 1611913783341117400,
 		"id_str": "1611913783341117440",
