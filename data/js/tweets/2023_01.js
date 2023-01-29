@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 29 00:32:11 +0000 2023",
+		"id": 1619493575435358200,
+		"id_str": "1619493575435358208",
+		"full_text": "Strong “my passion is graphic design” vibes https://t.co/mUJHdLG8BH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mUJHdLG8BH",
+					"expanded_url": "https://twitter.com/shawn_spradling/status/1619048785837182978",
+					"display_url": "twitter.com/shawn_spradlin…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4339,
+			"friends_count": 642,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1619048785837183000,
+		"quoted_status_id_str": "1619048785837182978",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mUJHdLG8BH",
+			"expanded": "https://twitter.com/shawn_spradling/status/1619048785837182978",
+			"display": "twitter.com/shawn_spradlin…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 27 19:04:45 +0000 2023",
+			"id": 1619048785837183000,
+			"id_str": "1619048785837182978",
+			"full_text": "Italia 🇮🇹 https://t.co/Ptd4Ftvims",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1619048781688848400,
+						"id_str": "1619048781688848411",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/FngESfKXwBsOB6c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FngESfKXwBsOB6c.jpg",
+						"url": "https://t.co/Ptd4Ftvims",
+						"display_url": "pic.twitter.com/Ptd4Ftvims",
+						"expanded_url": "https://twitter.com/Shawn_Spradling/status/1619048785837182978/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 779,
+								"h": 664,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 779,
+								"h": 664,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1619048781688848400,
+						"id_str": "1619048781688848411",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/FngESfKXwBsOB6c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FngESfKXwBsOB6c.jpg",
+						"url": "https://t.co/Ptd4Ftvims",
+						"display_url": "pic.twitter.com/Ptd4Ftvims",
+						"expanded_url": "https://twitter.com/Shawn_Spradling/status/1619048785837182978/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 779,
+								"h": 664,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 779,
+								"h": 664,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1619048778442637300,
+			"in_reply_to_status_id_str": "1619048778442637312",
+			"in_reply_to_user_id": 1240106948,
+			"in_reply_to_user_id_str": "1240106948",
+			"in_reply_to_screen_name": "Shawn_Spradling",
+			"user": {
+				"id": 1240106948,
+				"id_str": "1240106948",
+				"name": "Shawn",
+				"screen_name": "Shawn_Spradling",
+				"location": "",
+				"description": "Independent daily coverage of any and all things World Baseball Classic (WBC) and international baseball | Host of “WBC Central” Podcast 🎙️",
+				"url": "https://t.co/e1aDxcdTUW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e1aDxcdTUW",
+								"expanded_url": "http://www.tiktok.com/@shawnspradling",
+								"display_url": "tiktok.com/@shawnspradling",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5019,
+				"friends_count": 655,
+				"listed_count": 37,
+				"created_at": "Sun Mar 03 23:50:12 +0000 2013",
+				"favourites_count": 40693,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12022,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1593619936571580421/1YccpzIN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1593619936571580421/1YccpzIN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1240106948/1667451619",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF200",
+				"profile_text_color": "FF385F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Strong “my passion is graphic design” vibes https://t.co/mUJHdLG8BH"
+	},
+	{
 		"created_at": "Fri Jan 27 21:03:39 +0000 2023",
 		"id": 1619078709213798400,
 		"id_str": "1619078709213798417",
