@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 06 17:25:12 +0000 2023",
+		"id": 1632793217459519500,
+		"id_str": "1632794469807411200",
+		"full_text": "Was it firing everyone https://t.co/QmduDut5O0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QmduDut5O0",
+					"expanded_url": "https://twitter.com/TwitterSupport/status/1632792942262747136",
+					"display_url": "twitter.com/TwitterSupport…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145773567,
+			"id_str": "145773567",
+			"name": "Silvia Killingsworth",
+			"screen_name": "silviakillings",
+			"location": "New York, NY",
+			"description": "Patron Saint of early bedtimes. Shadow editor. Good noticer.",
+			"url": "https://t.co/RMDGlf9nEu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RMDGlf9nEu",
+							"expanded_url": "https://tinyurl.com/36jr9zu2",
+							"display_url": "tinyurl.com/36jr9zu2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20275,
+			"friends_count": 999,
+			"listed_count": 427,
+			"created_at": "Wed May 19 21:07:31 +0000 2010",
+			"favourites_count": 63235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1516148748187017223/7ZTDb4Qa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1516148748187017223/7ZTDb4Qa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145773567/1483993059",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1632792942262747100,
+		"quoted_status_id_str": "1632792942262747136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QmduDut5O0",
+			"expanded": "https://twitter.com/TwitterSupport/status/1632792942262747136",
+			"display": "twitter.com/TwitterSupport…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 06 17:19:07 +0000 2023",
+			"id": 1632792942262747100,
+			"id_str": "1632792942262747136",
+			"full_text": "Some parts of Twitter may not be working as expected right now. We made an internal change that had some unintended consequences. We’re working on this now and will share an update when it’s fixed.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17874544,
+				"id_str": "17874544",
+				"name": "Twitter Support",
+				"screen_name": "TwitterSupport",
+				"location": "Twitter HQ",
+				"description": "Here to help. 💙",
+				"url": "https://t.co/heEvRrl4yN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/heEvRrl4yN",
+								"expanded_url": "https://help.twitter.com",
+								"display_url": "help.twitter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7271870,
+				"friends_count": 23,
+				"listed_count": 15654,
+				"created_at": "Thu Dec 04 18:51:57 +0000 2008",
+				"favourites_count": 537,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 84571,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1620746252",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5258,
+			"favorite_count": 12025,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5687,
+		"favorite_count": 41480,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Was it firing everyone https://t.co/QmduDut5O0"
+	},
+	{
 		"created_at": "Sun Mar 05 15:50:38 +0000 2023",
 		"id": 1632408285742616600,
 		"id_str": "1632408285742616577",
