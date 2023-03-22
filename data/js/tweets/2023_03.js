@@ -1,6 +1,1108 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 21 21:23:40 +0000 2023",
+		"id": 1638290300937330700,
+		"id_str": "1638290300937330692",
+		"full_text": "Introduce yourself with four spaceships https://t.co/tdeXBM3mVT https://t.co/R36tR03F9k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tdeXBM3mVT",
+					"expanded_url": "https://twitter.com/arka_voltchek/status/1637393060794335234",
+					"display_url": "twitter.com/arka_voltchek/…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1638290295673561000,
+					"id_str": "1638290295673561092",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FrxgWAiXoAQsnOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrxgWAiXoAQsnOA.jpg",
+					"url": "https://t.co/R36tR03F9k",
+					"display_url": "pic.twitter.com/R36tR03F9k",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1638290300937330692/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 224,
+							"h": 172,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 224,
+							"h": 172,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 224,
+							"h": 172,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638290295673561000,
+					"id_str": "1638290295673561092",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FrxgWAiXoAQsnOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrxgWAiXoAQsnOA.jpg",
+					"url": "https://t.co/R36tR03F9k",
+					"display_url": "pic.twitter.com/R36tR03F9k",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1638290300937330692/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 224,
+							"h": 172,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 224,
+							"h": 172,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 224,
+							"h": 172,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1638290295690342400,
+					"id_str": "1638290295690342406",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FrxgWAmXsAYZRKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrxgWAmXsAYZRKZ.jpg",
+					"url": "https://t.co/R36tR03F9k",
+					"display_url": "pic.twitter.com/R36tR03F9k",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1638290300937330692/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 615,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 615,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1638290295686156300,
+					"id_str": "1638290295686156289",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FrxgWAlX0AEikFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrxgWAlX0AEikFq.jpg",
+					"url": "https://t.co/R36tR03F9k",
+					"display_url": "pic.twitter.com/R36tR03F9k",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1638290300937330692/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1638290295681941500,
+					"id_str": "1638290295681941505",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FrxgWAkXgAE7Tgm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrxgWAkXgAE7Tgm.jpg",
+					"url": "https://t.co/R36tR03F9k",
+					"display_url": "pic.twitter.com/R36tR03F9k",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1638290300937330692/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1655,
+							"h": 930,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4335,
+			"friends_count": 642,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1637393060794335200,
+		"quoted_status_id_str": "1637393060794335234",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tdeXBM3mVT",
+			"expanded": "https://twitter.com/arka_voltchek/status/1637393060794335234",
+			"display": "twitter.com/arka_voltchek/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 19 09:58:21 +0000 2023",
+			"id": 1637393060794335200,
+			"id_str": "1637393060794335234",
+			"full_text": "Introduce yourself in four starships https://t.co/gCLvFduFAp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1637393055345983500,
+						"id_str": "1637393055345983488",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FrkwTv2WwAAo1Uh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FrkwTv2WwAAo1Uh.jpg",
+						"url": "https://t.co/gCLvFduFAp",
+						"display_url": "pic.twitter.com/gCLvFduFAp",
+						"expanded_url": "https://twitter.com/Arka_Voltchek/status/1637393060794335234/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1637393055345983500,
+						"id_str": "1637393055345983488",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FrkwTv2WwAAo1Uh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FrkwTv2WwAAo1Uh.jpg",
+						"url": "https://t.co/gCLvFduFAp",
+						"display_url": "pic.twitter.com/gCLvFduFAp",
+						"expanded_url": "https://twitter.com/Arka_Voltchek/status/1637393060794335234/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1637393055345959000,
+						"id_str": "1637393055345958913",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FrkwTv2WYAEB_K6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FrkwTv2WYAEB_K6.jpg",
+						"url": "https://t.co/gCLvFduFAp",
+						"display_url": "pic.twitter.com/gCLvFduFAp",
+						"expanded_url": "https://twitter.com/Arka_Voltchek/status/1637393060794335234/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1637393055350239200,
+						"id_str": "1637393055350239232",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FrkwTv3XsAANWwC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FrkwTv3XsAANWwC.jpg",
+						"url": "https://t.co/gCLvFduFAp",
+						"display_url": "pic.twitter.com/gCLvFduFAp",
+						"expanded_url": "https://twitter.com/Arka_Voltchek/status/1637393060794335234/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 570,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 570,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 570,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1637393055341768700,
+						"id_str": "1637393055341768707",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FrkwTv1WcAMPLrv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FrkwTv1WcAMPLrv.jpg",
+						"url": "https://t.co/gCLvFduFAp",
+						"display_url": "pic.twitter.com/gCLvFduFAp",
+						"expanded_url": "https://twitter.com/Arka_Voltchek/status/1637393060794335234/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 298766611,
+				"id_str": "298766611",
+				"name": "Mathieu Bourdin",
+				"screen_name": "Arka_Voltchek",
+				"location": "Paris",
+				"description": "Aéronautique, défense, relations internationales et trucs randoms. Accessoirement, pilote.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1192,
+				"friends_count": 398,
+				"listed_count": 23,
+				"created_at": "Sat May 14 22:13:25 +0000 2011",
+				"favourites_count": 37777,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25752,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1353685198/eline1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353685198/eline1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/298766611/1633788757",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 68,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Introduce yourself with four spaceships https://t.co/tdeXBM3mVT https://t.co/R36tR03F9k"
+	},
+	{
+		"created_at": "Tue Mar 21 17:04:34 +0000 2023",
+		"id": 1638225095478100000,
+		"id_str": "1638225095478099969",
+		"full_text": "@seanlahman Spotting those raccoons!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seanlahman",
+					"name": "Sean Lahman",
+					"id": 16629256,
+					"id_str": "16629256",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1638223273820299300,
+		"in_reply_to_status_id_str": "1638223273820299281",
+		"in_reply_to_user_id": 16629256,
+		"in_reply_to_user_id_str": "16629256",
+		"in_reply_to_screen_name": "seanlahman",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4335,
+			"friends_count": 642,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@seanlahman Spotting those raccoons!"
+	},
+	{
+		"created_at": "Tue Mar 21 14:41:18 +0000 2023",
+		"id": 1637994691768492000,
+		"id_str": "1638189042838716417",
+		"full_text": "I wish Remy were here to pronounce his name “Yoshider.” https://t.co/9SgVOhcbxg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9SgVOhcbxg",
+					"expanded_url": "https://twitter.com/JeffPassan/status/1637994270014488578",
+					"display_url": "twitter.com/JeffPassan/sta…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19968995,
+			"id_str": "19968995",
+			"name": "Chad Finn",
+			"screen_name": "GlobeChadFinn",
+			"location": "I’m always home, I’m uncool.",
+			"description": "Columns: The Boston Globe, https://t.co/5AOx8XEu5h. Origin: Shipbuilder, Black Bear. Apologist for: Hobson, Nomar, The Brothers Drew.  Book: https://t.co/ENX6vb8N0n",
+			"url": "https://t.co/3Kbdvbl6qv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Kbdvbl6qv",
+							"expanded_url": "https://www.bostonglobe.com/staff/finn",
+							"display_url": "bostonglobe.com/staff/finn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5AOx8XEu5h",
+							"expanded_url": "http://Boston.com",
+							"display_url": "Boston.com",
+							"indices": [
+								27,
+								50
+							]
+						},
+						{
+							"url": "https://t.co/ENX6vb8N0n",
+							"expanded_url": "https://tinyurl.com/mpvw8cth",
+							"display_url": "tinyurl.com/mpvw8cth",
+							"indices": [
+								141,
+								164
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40819,
+			"friends_count": 4059,
+			"listed_count": 1440,
+			"created_at": "Tue Feb 03 13:04:16 +0000 2009",
+			"favourites_count": 145053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1473823025749495808/viFAyame_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1473823025749495808/viFAyame_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19968995/1398782986",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1637994270014488600,
+		"quoted_status_id_str": "1637994270014488578",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9SgVOhcbxg",
+			"expanded": "https://twitter.com/JeffPassan/status/1637994270014488578",
+			"display": "twitter.com/JeffPassan/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 21 01:47:21 +0000 2023",
+			"id": 1637994270014488600,
+			"id_str": "1637994270014488578",
+			"full_text": "Masataka Yoshida is going to be very good for the Boston Red Sox this year.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33857883,
+				"id_str": "33857883",
+				"name": "Jeff Passan",
+				"screen_name": "JeffPassan",
+				"location": "Kansas City",
+				"description": "ESPN. I bomb atomically.",
+				"url": "https://t.co/Jx78UHUsKj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Jx78UHUsKj",
+								"expanded_url": "http://espn.com",
+								"display_url": "espn.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1040859,
+				"friends_count": 162,
+				"listed_count": 11116,
+				"created_at": "Tue Apr 21 09:16:28 +0000 2009",
+				"favourites_count": 15,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 36938,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1634328286930010112/SAKTy_pK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1634328286930010112/SAKTy_pK_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1137,
+			"favorite_count": 11765,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 68,
+		"favorite_count": 1522,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wish Remy were here to pronounce his name “Yoshider.” https://t.co/9SgVOhcbxg"
+	},
+	{
+		"created_at": "Tue Mar 21 14:03:34 +0000 2023",
+		"id": 1638179545558978600,
+		"id_str": "1638179545558978560",
+		"full_text": "@destiny_lugardo https://t.co/8K4Do0UuSu",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "destiny_lugardo",
+					"name": "Destiny Lugardo",
+					"id": 1169364496009314300,
+					"id_str": "1169364496009314305",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1638179538848067600,
+					"id_str": "1638179538848067587",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Frv7nHNaMAM-Shm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Frv7nHNaMAM-Shm.jpg",
+					"url": "https://t.co/8K4Do0UuSu",
+					"display_url": "pic.twitter.com/8K4Do0UuSu",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1638179545558978560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 192,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 192,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638179538848067600,
+					"id_str": "1638179538848067587",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Frv7nHNaMAM-Shm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Frv7nHNaMAM-Shm.jpg",
+					"url": "https://t.co/8K4Do0UuSu",
+					"display_url": "pic.twitter.com/8K4Do0UuSu",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1638179545558978560/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 192,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 192,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 192,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Frv7nHNaMAM-Shm.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1638175606105063400,
+		"in_reply_to_status_id_str": "1638175606105063424",
+		"in_reply_to_user_id": 1169364496009314300,
+		"in_reply_to_user_id_str": "1169364496009314305",
+		"in_reply_to_screen_name": "destiny_lugardo",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4335,
+			"friends_count": 642,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@destiny_lugardo https://t.co/8K4Do0UuSu"
+	},
+	{
 		"created_at": "Mon Mar 20 20:32:09 +0000 2023",
 		"id": 1637914950378070000,
 		"id_str": "1637914950378070017",
