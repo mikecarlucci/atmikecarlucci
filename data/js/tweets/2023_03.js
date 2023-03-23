@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 23 01:29:17 +0000 2023",
+		"id": 1638714501976699000,
+		"id_str": "1638714501976698880",
+		"full_text": "Amazingly not Return to Oz https://t.co/yuITWiZW6t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yuITWiZW6t",
+					"expanded_url": "https://twitter.com/madscientistff/status/1638672273967030274",
+					"display_url": "twitter.com/madscientistff…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4333,
+			"friends_count": 642,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1638672273967030300,
+		"quoted_status_id_str": "1638672273967030274",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yuITWiZW6t",
+			"expanded": "https://twitter.com/madscientistff/status/1638672273967030274",
+			"display": "twitter.com/madscientistff…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 22 22:41:29 +0000 2023",
+			"id": 1638672273967030300,
+			"id_str": "1638672273967030274",
+			"full_text": "What movie traumatized you as a kid?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 779078642831859700,
+				"id_str": "779078642831859712",
+				"name": "Damien Scott",
+				"screen_name": "MadScientistFF",
+				"location": "Clarksville, TN",
+				"description": "I Ask Questions that you want to answer. I trust you're not Googling.\nStay Positive! Stay Motivated! Stay Focused!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38503,
+				"friends_count": 15467,
+				"listed_count": 42,
+				"created_at": "Thu Sep 22 22:03:17 +0000 2016",
+				"favourites_count": 177113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 205855,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1609788102955999233/roHfD4Ov_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609788102955999233/roHfD4Ov_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/779078642831859712/1672638392",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 537,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazingly not Return to Oz https://t.co/yuITWiZW6t"
+	},
+	{
+		"created_at": "Wed Mar 22 19:44:26 +0000 2023",
+		"id": 1638627718186123300,
+		"id_str": "1638627718186123264",
+		"full_text": "@bleeinternets It’s not a street the Jedi will tell you about",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bleeinternets",
+					"name": "Brandon Lee, but alive",
+					"id": 40502375,
+					"id_str": "40502375",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1638626442211631000,
+		"in_reply_to_status_id_str": "1638626442211631132",
+		"in_reply_to_user_id": 40502375,
+		"in_reply_to_user_id_str": "40502375",
+		"in_reply_to_screen_name": "bleeinternets",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4333,
+			"friends_count": 642,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bleeinternets It’s not a street the Jedi will tell you about"
+	},
+	{
+		"created_at": "Wed Mar 22 16:06:22 +0000 2023",
+		"id": 1638539552196272000,
+		"id_str": "1638572836892672002",
+		"full_text": "humanity: let’s develop AI to automate mundane tasks so we can focus on our collective creativity \n\nAI techbros: let’s develop AI to automate creative tasks so we can focus on the gig economy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816069769577173000,
+			"id_str": "816069769577172992",
+			"name": "April King",
+			"screen_name": "CubeApril",
+			"location": "Pig’s Eye, MN",
+			"description": "Irreverent and Cube-loving Rakdos. Created during a @maro254 doubling experiment. Chief Hamster Wheel Operator at @scryfall. NSFW stuff at @LewdApril. She/her.",
+			"url": "https://t.co/OCI35g9M7o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OCI35g9M7o",
+							"expanded_url": "https://octodon.social/@CubeApril",
+							"display_url": "octodon.social/@CubeApril",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31609,
+			"friends_count": 375,
+			"listed_count": 215,
+			"created_at": "Mon Jan 02 23:52:49 +0000 2017",
+			"favourites_count": 180110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1574859444231540741/Iv-UWU1T_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1574859444231540741/Iv-UWU1T_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816069769577172992/1660682829",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 391,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "humanity: let’s develop AI to automate mundane tasks so we can focus on our collective creativity \n\nAI techbros: let’s develop AI to automate creative tasks so we can focus on the gig economy"
+	},
+	{
+		"created_at": "Wed Mar 22 16:05:36 +0000 2023",
+		"id": 1638377030570987500,
+		"id_str": "1638572645930156037",
+		"full_text": "Having Ohtani and Trout and finishing below .500 is like losing the Tour de France even though they let you use a motorcycle.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44929255,
+			"id_str": "44929255",
+			"name": "Dan Szymborski",
+			"screen_name": "DSzymborski",
+			"location": "Basement Office/Lair",
+			"description": "Senior Writer for FanGraphs, ESPN contributor, data consultant, ZiPSetician, gamer, talkative, exasperated/ing, possibly the worst. BBWAA, Digital Dandy.",
+			"url": "https://t.co/6i1akJcQWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6i1akJcQWg",
+							"expanded_url": "https://www.fangraphs.com/blogs/author/dszymborski/",
+							"display_url": "fangraphs.com/blogs/author/d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46138,
+			"friends_count": 4255,
+			"listed_count": 1688,
+			"created_at": "Fri Jun 05 16:24:03 +0000 2009",
+			"favourites_count": 22033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 161334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0B243B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1605852901200601093/aj_KaaBd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1605852901200601093/aj_KaaBd_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 546,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Having Ohtani and Trout and finishing below .500 is like losing the Tour de France even though they let you use a motorcycle."
+	},
+	{
 		"created_at": "Tue Mar 21 21:23:40 +0000 2023",
 		"id": 1638290300937330700,
 		"id_str": "1638290300937330692",
