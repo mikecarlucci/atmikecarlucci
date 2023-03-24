@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 23 15:32:03 +0000 2023",
+		"id": 1638922072213553200,
+		"id_str": "1638926591236657153",
+		"full_text": "Found this niche local coffee shop bout to try it out https://t.co/JUqUgdD6dc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1638922048851308500,
+					"id_str": "1638922048851308544",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr6e64hWcAAPrSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr6e64hWcAAPrSZ.jpg",
+					"url": "https://t.co/JUqUgdD6dc",
+					"display_url": "pic.twitter.com/JUqUgdD6dc",
+					"expanded_url": "https://twitter.com/UnfilteredNerd/status/1638922072213553156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638922048851308500,
+					"id_str": "1638922048851308544",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr6e64hWcAAPrSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr6e64hWcAAPrSZ.jpg",
+					"url": "https://t.co/JUqUgdD6dc",
+					"display_url": "pic.twitter.com/JUqUgdD6dc",
+					"expanded_url": "https://twitter.com/UnfilteredNerd/status/1638922072213553156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1088153496396939300,
+			"id_str": "1088153496396939266",
+			"name": "Unfiltered Nerd 🛩️ PAX East",
+			"screen_name": "UnfilteredNerd",
+			"location": "",
+			"description": "gamer, stoolie, and #BillsMafia. that's a bout it.",
+			"url": "https://t.co/ccRP6n5JHJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ccRP6n5JHJ",
+							"expanded_url": "http://twitch.tv/unfilterednerd",
+							"display_url": "twitch.tv/unfilterednerd",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 962,
+			"friends_count": 972,
+			"listed_count": 7,
+			"created_at": "Wed Jan 23 19:16:25 +0000 2019",
+			"favourites_count": 18883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1610627025953325056/qovNN7oL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1610627025953325056/qovNN7oL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088153496396939266/1625756004",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Found this niche local coffee shop bout to try it out https://t.co/JUqUgdD6dc"
+	},
+	{
 		"created_at": "Thu Mar 23 01:29:17 +0000 2023",
 		"id": 1638714501976699000,
 		"id_str": "1638714501976698880",
