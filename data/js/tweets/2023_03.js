@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 13:29:21 +0000 2023",
+		"id": 1639620488031862800,
+		"id_str": "1639620488031862786",
+		"full_text": "Happy 20th birthday to the Stanley Tucci classic (and confirmed baseball movie) The Core  cc: @EWPod https://t.co/zLUuDsVYKz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EWPod",
+					"name": "Effectively Wild Pod",
+					"id": 2882400794,
+					"id_str": "2882400794",
+					"indices": [
+						94,
+						100
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1639620475327316000,
+					"id_str": "1639620475327315975",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FsEaIp5XgAc4sKg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FsEaIp5XgAc4sKg.jpg",
+					"url": "https://t.co/zLUuDsVYKz",
+					"display_url": "pic.twitter.com/zLUuDsVYKz",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1639620488031862786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1639620475327316000,
+					"id_str": "1639620475327315975",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FsEaIp5XgAc4sKg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FsEaIp5XgAc4sKg.jpg",
+					"url": "https://t.co/zLUuDsVYKz",
+					"display_url": "pic.twitter.com/zLUuDsVYKz",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1639620488031862786/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FsEaIp5XgAc4sKg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4331,
+			"friends_count": 642,
+			"listed_count": 47,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 20th birthday to the Stanley Tucci classic (and confirmed baseball movie) The Core  cc: @EWPod https://t.co/zLUuDsVYKz"
+	},
+	{
+		"created_at": "Sat Mar 25 13:20:17 +0000 2023",
+		"id": 1639233873841201200,
+		"id_str": "1639618207559327744",
+		"full_text": "I wrote “I am alive” on a piece of paper, and placed it into a photocopier. What I saw next has shocking implications",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1471021,
+			"id_str": "1471021",
+			"name": "Avery Edison",
+			"screen_name": "aedison",
+			"location": "Liverpool, UK",
+			"description": "Comedian(ish) • You can support me at https://t.co/db0PlmJI5P • Or check me out on onlyfans https://t.co/UJuklUlV50 • Trans woman (she/her)",
+			"url": "https://t.co/UNQqgXDK80",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UNQqgXDK80",
+							"expanded_url": "http://averyedison.com",
+							"display_url": "averyedison.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/db0PlmJI5P",
+							"expanded_url": "http://patreon.com/aedison",
+							"display_url": "patreon.com/aedison",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/UJuklUlV50",
+							"expanded_url": "https://onlyfans.com/averyedison",
+							"display_url": "onlyfans.com/averyedison",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 54285,
+			"friends_count": 322,
+			"listed_count": 1122,
+			"created_at": "Mon Mar 19 04:26:41 +0000 2007",
+			"favourites_count": 245542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024216122533527557/lzssv94z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024216122533527557/lzssv94z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1471021/1576230642",
+			"profile_link_color": "43293E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5257,
+		"favorite_count": 48382,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I wrote “I am alive” on a piece of paper, and placed it into a photocopier. What I saw next has shocking implications"
+	},
+	{
 		"created_at": "Fri Mar 24 12:48:15 +0000 2023",
 		"id": 1639247755599310800,
 		"id_str": "1639247755599310850",
