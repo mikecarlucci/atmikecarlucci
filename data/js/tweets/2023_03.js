@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 31 13:42:41 +0000 2023",
+		"id": 1641787178513576000,
+		"id_str": "1641798169057951751",
+		"full_text": "How old is baseball? Evidence that it predates Doubleday: https://t.co/bSJoVBqaQk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1641786951748444200,
+					"id_str": "1641786951748444162",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FsjMiLfWYAI0iiW.png",
+					"media_url_https": "https://pbs.twimg.com/media/FsjMiLfWYAI0iiW.png",
+					"url": "https://t.co/bSJoVBqaQk",
+					"display_url": "pic.twitter.com/bSJoVBqaQk",
+					"expanded_url": "https://twitter.com/thorn_john/status/1641787178513575938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 543,
+							"h": 414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 543,
+							"h": 414,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1641786951748444200,
+					"id_str": "1641786951748444162",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FsjMiLfWYAI0iiW.png",
+					"media_url_https": "https://pbs.twimg.com/media/FsjMiLfWYAI0iiW.png",
+					"url": "https://t.co/bSJoVBqaQk",
+					"display_url": "pic.twitter.com/bSJoVBqaQk",
+					"expanded_url": "https://twitter.com/thorn_john/status/1641787178513575938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 543,
+							"h": 414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 543,
+							"h": 414,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 435820478,
+			"id_str": "435820478",
+			"name": "John Thorn",
+			"screen_name": "thorn_john",
+			"location": "Catskill, NY",
+			"description": "John Thorn is the Official Historian for Major League Baseball. His views are his own.",
+			"url": "http://t.co/sCY6nRHWgA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/sCY6nRHWgA",
+							"expanded_url": "http://ourgame.mlblogs.com",
+							"display_url": "ourgame.mlblogs.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29568,
+			"friends_count": 2042,
+			"listed_count": 734,
+			"created_at": "Tue Dec 13 13:42:26 +0000 2011",
+			"favourites_count": 40811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/581535032550010881/9XIFb9Li_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/581535032550010881/9XIFb9Li_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/435820478/1565824983",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 1314,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How old is baseball? Evidence that it predates Doubleday: https://t.co/bSJoVBqaQk"
+	},
+	{
 		"created_at": "Fri Mar 31 00:32:26 +0000 2023",
 		"id": 1641599297526415400,
 		"id_str": "1641599297526415363",
