@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 23:58:41 +0000 2023",
+		"id": 1648476171217272800,
+		"id_str": "1648476171217272835",
+		"full_text": "Make Way for Ducklings: Red Sox Edition https://t.co/v5q4mSmaoc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1648476166737760300,
+					"id_str": "1648476166737760258",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FuCQVvMaEAImoYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuCQVvMaEAImoYa.jpg",
+					"url": "https://t.co/v5q4mSmaoc",
+					"display_url": "pic.twitter.com/v5q4mSmaoc",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1648476171217272835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648476166737760300,
+					"id_str": "1648476166737760258",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FuCQVvMaEAImoYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuCQVvMaEAImoYa.jpg",
+					"url": "https://t.co/v5q4mSmaoc",
+					"display_url": "pic.twitter.com/v5q4mSmaoc",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1648476171217272835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4317,
+			"friends_count": 648,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make Way for Ducklings: Red Sox Edition https://t.co/v5q4mSmaoc"
+	},
+	{
+		"created_at": "Tue Apr 18 22:48:09 +0000 2023",
+		"id": 1648458422092980200,
+		"id_str": "1648458422092980226",
+		"full_text": "Game 18: Twins at Red Sox https://t.co/7l44Vr9PMt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7l44Vr9PMt",
+					"expanded_url": "https://www.overthemonster.com/2023/4/18/23688850/game-18-twins-at-red-sox-grey-sale?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2023/4/18/2368…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4317,
+			"friends_count": 648,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Game 18: Twins at Red Sox https://t.co/7l44Vr9PMt"
+	},
+	{
+		"created_at": "Tue Apr 18 20:10:18 +0000 2023",
+		"id": 1648319302494191600,
+		"id_str": "1648418699811102722",
+		"full_text": "If you didn't have one of these cups in your kitchen growing up, did you even Southeastern New England? https://t.co/w4ewqJFfvP https://t.co/lSVf3MvtP6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w4ewqJFfvP",
+					"expanded_url": "https://twitter.com/RocRedWings/status/1648299622853406721",
+					"display_url": "twitter.com/RocRedWings/st…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1648319275243896800,
+					"id_str": "1648319275243896834",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FuABpc1XgAI1ohr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuABpc1XgAI1ohr.jpg",
+					"url": "https://t.co/lSVf3MvtP6",
+					"display_url": "pic.twitter.com/lSVf3MvtP6",
+					"expanded_url": "https://twitter.com/OverTheMonster/status/1648319302494191617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648319275243896800,
+					"id_str": "1648319275243896834",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FuABpc1XgAI1ohr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuABpc1XgAI1ohr.jpg",
+					"url": "https://t.co/lSVf3MvtP6",
+					"display_url": "pic.twitter.com/lSVf3MvtP6",
+					"expanded_url": "https://twitter.com/OverTheMonster/status/1648319302494191617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21119272,
+			"id_str": "21119272",
+			"name": "OverTheMonster",
+			"screen_name": "OverTheMonster",
+			"location": "Boston, Massachusetts",
+			"description": "The only fun Red Sox website. Part of SB Nation's MLB network. David Ortiz is the best DH there ever was or will be.",
+			"url": "https://t.co/LE29Sqn6HB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LE29Sqn6HB",
+							"expanded_url": "http://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20372,
+			"friends_count": 367,
+			"listed_count": 953,
+			"created_at": "Tue Feb 17 19:17:06 +0000 2009",
+			"favourites_count": 1863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 110143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859034070294159360/HXUQo4oS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21119272/1566005171",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1648299622853406700,
+		"quoted_status_id_str": "1648299622853406721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w4ewqJFfvP",
+			"expanded": "https://twitter.com/RocRedWings/status/1648299622853406721",
+			"display": "twitter.com/RocRedWings/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 18 12:17:08 +0000 2023",
+			"id": 1648299622853406700,
+			"id_str": "1648299622853406721",
+			"full_text": "42 years ago, we played in the longest professional baseball game of all time! https://t.co/07Rv174PEy https://t.co/85ZV4UrpRj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/07Rv174PEy",
+						"expanded_url": "https://twitter.com/i/web/status/1648299622853406721",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1648298697430630400,
+						"id_str": "1648298697430630401",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Ft_u7qgXgAECEOH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ft_u7qgXgAECEOH.jpg",
+						"url": "https://t.co/85ZV4UrpRj",
+						"display_url": "pic.twitter.com/85ZV4UrpRj",
+						"expanded_url": "https://twitter.com/RocRedWings/status/1648299622853406721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1648298697430630400,
+						"id_str": "1648298697430630401",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Ft_u7qgXgAECEOH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ft_u7qgXgAECEOH.jpg",
+						"url": "https://t.co/85ZV4UrpRj",
+						"display_url": "pic.twitter.com/85ZV4UrpRj",
+						"expanded_url": "https://twitter.com/RocRedWings/status/1648299622853406721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1648298697459990500,
+						"id_str": "1648298697459990529",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Ft_u7qnXgAEtVKc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ft_u7qnXgAEtVKc.jpg",
+						"url": "https://t.co/85ZV4UrpRj",
+						"display_url": "pic.twitter.com/85ZV4UrpRj",
+						"expanded_url": "https://twitter.com/RocRedWings/status/1648299622853406721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 137843672,
+				"id_str": "137843672",
+				"name": "Rochester Red Wings",
+				"screen_name": "RocRedWings",
+				"location": "Innovative Field, Rochester NY",
+				"description": "Official Twitter of the Rochester Red Wings runs on @dunkindonuts | Triple-A Affiliate of the @Nationals",
+				"url": "https://t.co/Xiw1erIFYP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xiw1erIFYP",
+								"expanded_url": "https://linktr.ee/rocredwings",
+								"display_url": "linktr.ee/rocredwings",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53877,
+				"friends_count": 480,
+				"listed_count": 502,
+				"created_at": "Tue Apr 27 23:05:10 +0000 2010",
+				"favourites_count": 22026,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39418,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1646696582690029571/sPaIYHoi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1646696582690029571/sPaIYHoi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/137843672/1678286060",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "707070",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "00d65e664ac70544",
+				"url": "https://api.twitter.com/1.1/geo/id/00d65e664ac70544.json",
+				"place_type": "city",
+				"name": "East Rochester",
+				"full_name": "East Rochester, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.524981,
+								43.0745728
+							],
+							[
+								-77.454465,
+								43.0745728
+							],
+							[
+								-77.454465,
+								43.12448
+							],
+							[
+								-77.524981,
+								43.12448
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 351,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 79,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you didn't have one of these cups in your kitchen growing up, did you even Southeastern New England? https://t.co/w4ewqJFfvP https://t.co/lSVf3MvtP6"
+	},
+	{
 		"created_at": "Mon Apr 17 14:33:22 +0000 2023",
 		"id": 1647971516460531700,
 		"id_str": "1647971516460531712",
