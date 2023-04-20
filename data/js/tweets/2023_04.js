@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 22:10:14 +0000 2023",
+		"id": 1648809390378569700,
+		"id_str": "1648811268487118848",
+		"full_text": "If you or a loved one have ever been the victim of having to search your inbox for a lost attachment, you may wish to vote on this thread: \n\nhttps://t.co/RWBu1X301A https://t.co/4X2fSc8H4C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RWBu1X301A",
+					"expanded_url": "https://feedbackportal.microsoft.com/feedback/idea/3f89a688-74bd-ed11-83ff-002248273995",
+					"display_url": "feedbackportal.microsoft.com/feedback/idea/…",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/4X2fSc8H4C",
+					"expanded_url": "https://twitter.com/VeryBadLlama/status/1584661366853758976",
+					"display_url": "twitter.com/VeryBadLlama/s…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1527409664425709600,
+			"id_str": "1527409664425709568",
+			"name": "Tessa Molnar",
+			"screen_name": "TessaVMolnar",
+			"location": "New York, NY",
+			"description": "Interests (inter alia 🤓 ): #legaltech ⚖️, #iplaw, #trademarks ®️, and #ai 🤖 Director of Sales & Client Success at @huski_ai",
+			"url": "https://t.co/5nTsF5yyho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5nTsF5yyho",
+							"expanded_url": "https://calendly.com/tessa-m/",
+							"display_url": "calendly.com/tessa-m/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439,
+			"friends_count": 248,
+			"listed_count": 5,
+			"created_at": "Thu May 19 22:04:53 +0000 2022",
+			"favourites_count": 2820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1636020522168221704/qG-XG0op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1636020522168221704/qG-XG0op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1527409664425709568/1678768172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584661366853759000,
+		"quoted_status_id_str": "1584661366853758976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4X2fSc8H4C",
+			"expanded": "https://twitter.com/VeryBadLlama/status/1584661366853758976",
+			"display": "twitter.com/VeryBadLlama/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 24 21:41:26 +0000 2022",
+			"id": 1584661366853759000,
+			"id_str": "1584661366853758976",
+			"full_text": "outlook: I'm the most powerful office tool ever made. I can search every email you've ever received and keep track of the meetings you have six months from now\n\nme: I would like to still view an attachment after someone replies to the email \n\noutlook: [confused hissing]",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 460887584,
+				"id_str": "460887584",
+				"name": "Janel Comeau",
+				"screen_name": "VeryBadLlama",
+				"location": "Halifax, Canada",
+				"description": "Writer, comedian, illustrator, and international woman of mystery. Co-host of @fatfrenchfab. Sworn enemy of the Swedish Yule Goat. Words: @cracked @TheBeaverton",
+				"url": "https://t.co/gB1d5lEGan",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gB1d5lEGan",
+								"expanded_url": "https://linktr.ee/allwitnobrevity",
+								"display_url": "linktr.ee/allwitnobrevity",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41167,
+				"friends_count": 1596,
+				"listed_count": 224,
+				"created_at": "Wed Jan 11 07:06:20 +0000 2012",
+				"favourites_count": 85385,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20564,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805630734983524352/sid3OF8b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805630734983524352/sid3OF8b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/460887584/1386042971",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3513,
+			"favorite_count": 47365,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you or a loved one have ever been the victim of having to search your inbox for a lost attachment, you may wish to vote on this thread: \n\nhttps://t.co/RWBu1X301A https://t.co/4X2fSc8H4C"
+	},
+	{
+		"created_at": "Wed Apr 19 22:08:10 +0000 2023",
+		"id": 1648810746707320800,
+		"id_str": "1648810746707320832",
+		"full_text": "Game 19: Twins at Red Sox https://t.co/u9ZxtyeGoR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u9ZxtyeGoR",
+					"expanded_url": "https://www.overthemonster.com/2023/4/19/23690349/game-19-twins-at-red-sox-kluber-ryan?utm_campaign=mikecarlucci&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "overthemonster.com/2023/4/19/2369…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4317,
+			"friends_count": 648,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Game 19: Twins at Red Sox https://t.co/u9ZxtyeGoR"
+	},
+	{
 		"created_at": "Tue Apr 18 23:58:41 +0000 2023",
 		"id": 1648476171217272800,
 		"id_str": "1648476171217272835",
