@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 12 01:50:36 +0000 2023",
+		"id": 1656839259435970600,
+		"id_str": "1656839259435970561",
+		"full_text": "@mattsaunders https://t.co/Kxk2dXPqJ6",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattsaunders",
+					"name": "Matt Saunders (In His Custard Era)",
+					"id": 14425577,
+					"id_str": "14425577",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1656839253018706000,
+					"id_str": "1656839253018705921",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fv5GhbYagAExk6l.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fv5GhbYagAExk6l.jpg",
+					"url": "https://t.co/Kxk2dXPqJ6",
+					"display_url": "pic.twitter.com/Kxk2dXPqJ6",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1656839259435970561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1656839253018706000,
+					"id_str": "1656839253018705921",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fv5GhbYagAExk6l.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fv5GhbYagAExk6l.jpg",
+					"url": "https://t.co/Kxk2dXPqJ6",
+					"display_url": "pic.twitter.com/Kxk2dXPqJ6",
+					"expanded_url": "https://twitter.com/mikecarlucci/status/1656839259435970561/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fv5GhbYagAExk6l.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1656715146931077000,
+		"in_reply_to_status_id_str": "1656715146931077126",
+		"in_reply_to_user_id": 14425577,
+		"in_reply_to_user_id_str": "14425577",
+		"in_reply_to_screen_name": "mattsaunders",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4315,
+			"friends_count": 654,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@mattsaunders https://t.co/Kxk2dXPqJ6"
+	},
+	{
+		"created_at": "Fri May 12 01:49:46 +0000 2023",
+		"id": 1656839050177962000,
+		"id_str": "1656839050177961984",
+		"full_text": "@RealSamSchultz Would there be a minimum? Or just “anything between Aragorn in Fellowship to Aragorn with the King Beard”?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RealSamSchultz",
+					"name": "sam.csv",
+					"id": 383481779,
+					"id_str": "383481779",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1656832886434332700,
+		"in_reply_to_status_id_str": "1656832886434332672",
+		"in_reply_to_user_id": 383481779,
+		"in_reply_to_user_id_str": "383481779",
+		"in_reply_to_screen_name": "RealSamSchultz",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4315,
+			"friends_count": 654,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RealSamSchultz Would there be a minimum? Or just “anything between Aragorn in Fellowship to Aragorn with the King Beard”?"
+	},
+	{
 		"created_at": "Wed May 10 22:18:57 +0000 2023",
 		"id": 1656423606392606700,
 		"id_str": "1656423606392606720",
