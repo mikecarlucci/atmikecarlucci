@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sat May 13 22:20:04 +0000 2023",
+		"id": 1657511050072273000,
+		"id_str": "1657511050072272903",
+		"full_text": "@danlehnermusic HELLO GUYS https://t.co/22fN3aFP3O",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danlehnermusic",
+					"name": "cowboy postbop (Dan Lehner)",
+					"id": 1278537414198407200,
+					"id_str": "1278537414198407168",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/22fN3aFP3O",
+					"expanded_url": "https://twitter.com/shockproofbeats/status/992006545473966082?s=46&t=HuVzERnKkHEGUXgJU_dYVg",
+					"display_url": "twitter.com/shockproofbeat…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1656316616810872800,
+		"in_reply_to_status_id_str": "1656316616810872832",
+		"in_reply_to_user_id": 1278537414198407200,
+		"in_reply_to_user_id_str": "1278537414198407168",
+		"in_reply_to_screen_name": "danlehnermusic",
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4313,
+			"friends_count": 654,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 113981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 992006545473966100,
+		"quoted_status_id_str": "992006545473966082",
+		"quoted_status_permalink": {
+			"url": "https://t.co/22fN3aFP3O",
+			"expanded": "https://twitter.com/shockproofbeats/status/992006545473966082?s=46&t=HuVzERnKkHEGUXgJU_dYVg",
+			"display": "twitter.com/shockproofbeat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 03 11:42:45 +0000 2018",
+			"id": 992006545473966100,
+			"id_str": "992006545473966082",
+			"full_text": "Got my days wrong and ended up alone in a room with my boss and the President of Ireland while I was on ketamine. https://t.co/gSjPY8WjKL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gSjPY8WjKL",
+						"expanded_url": "https://twitter.com/b3ta/status/992000687935557632",
+						"display_url": "twitter.com/b3ta/status/99…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111449829,
+				"id_str": "111449829",
+				"name": "The author, Séamas O'Reilly",
+				"screen_name": "shockproofbeats",
+				"location": "Buy my book here:",
+				"description": "https://t.co/k3k74yhtih\nFmr drinks-dispenser to Mary McAleese. Get Did Ye Hear Mammy Died? now at https://t.co/YXIONYzN66",
+				"url": "https://t.co/YXIONYzN66",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YXIONYzN66",
+								"expanded_url": "http://mammybook.com",
+								"display_url": "mammybook.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/k3k74yhtih",
+								"expanded_url": "https://mastodon.ie/@shockproofbeats",
+								"display_url": "mastodon.ie/@shockproofbea…",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/YXIONYzN66",
+								"expanded_url": "http://mammybook.com",
+								"display_url": "mammybook.com",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 95393,
+				"friends_count": 3949,
+				"listed_count": 358,
+				"created_at": "Thu Feb 04 23:52:53 +0000 2010",
+				"favourites_count": 32260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35037,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1282765412539695104/4Z-HDQsh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282765412539695104/4Z-HDQsh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111449829/1669224360",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 992000687935557600,
+			"quoted_status_id_str": "992000687935557632",
+			"quoted_status_permalink": {
+				"url": "https://t.co/gSjPY8WjKL",
+				"expanded": "https://twitter.com/b3ta/status/992000687935557632",
+				"display": "twitter.com/b3ta/status/99…"
+			},
+			"retweet_count": 26729,
+			"favorite_count": 102985,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@danlehnermusic HELLO GUYS https://t.co/22fN3aFP3O"
+	},
+	{
 		"created_at": "Fri May 12 22:14:26 +0000 2023",
 		"id": 1657147245819576300,
 		"id_str": "1657147245819576322",
