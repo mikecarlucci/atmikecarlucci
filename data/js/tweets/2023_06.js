@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 01:51:59 +0000 2023",
+		"id": 1666261690013425700,
+		"id_str": "1666261690013425666",
+		"full_text": "You hate toe see it. https://t.co/eBrkBU9PaP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eBrkBU9PaP",
+					"expanded_url": "https://twitter.com/bnightengale/status/1666260553541775360",
+					"display_url": "twitter.com/bnightengale/s…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90161583,
+			"id_str": "90161583",
+			"name": "mikecarlucci@journa.host",
+			"screen_name": "mikecarlucci",
+			"location": "Boston, MA",
+			"description": "Writer at SBNation's @OverTheMonster | Data Analyst @northeastern | @l_kyllonen is my better half 📧: mike@mikecarlucci.org | @mikecarlucci@journa.host",
+			"url": "https://t.co/u2JL5kNBEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u2JL5kNBEP",
+							"expanded_url": "https://www.overthemonster.com",
+							"display_url": "overthemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4307,
+			"friends_count": 654,
+			"listed_count": 48,
+			"created_at": "Sun Nov 15 13:32:20 +0000 2009",
+			"favourites_count": 114102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594471376072724482/Pm9H00sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90161583/1637537262",
+			"profile_link_color": "0A0AFF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EDE8ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1666260553541775400,
+		"quoted_status_id_str": "1666260553541775360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eBrkBU9PaP",
+			"expanded": "https://twitter.com/bnightengale/status/1666260553541775360",
+			"display": "twitter.com/bnightengale/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 07 01:47:28 +0000 2023",
+			"id": 1666260553541775400,
+			"id_str": "1666260553541775360",
+			"full_text": "#Yankees MVP Aaron Judge goes on the injured list with a contusion and sprained ligament in his toe, manager Aaron Boone announces.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Yankees",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41646662,
+				"id_str": "41646662",
+				"name": "Bob Nightengale",
+				"screen_name": "BNightengale",
+				"location": "PHOENIX",
+				"description": "USA TODAY Sports Major League Baseball columnist, @Audacy MLB radio network insider,BBWAA Arizona chapter chairman, Hall of Fame voter, https://t.co/M4pc9rpYjn",
+				"url": "https://t.co/K0VodA4UEG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K0VodA4UEG",
+								"expanded_url": "http://www.usatoday.com/sports/mlb",
+								"display_url": "usatoday.com/sports/mlb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/M4pc9rpYjn",
+								"expanded_url": "http://cameo.com/bobnightengale",
+								"display_url": "cameo.com/bobnightengale",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 407686,
+				"friends_count": 1415,
+				"listed_count": 7447,
+				"created_at": "Thu May 21 18:38:14 +0000 2009",
+				"favourites_count": 6293,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45986,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/318621659/bobs_twittericon_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/318621659/bobs_twittericon_normal.jpg",
+				"profile_link_color": "AD2121",
+				"profile_sidebar_border_color": "960C08",
+				"profile_sidebar_fill_color": "E64A45",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 302,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You hate toe see it. https://t.co/eBrkBU9PaP"
+	},
+	{
 		"created_at": "Fri Jun 02 23:43:17 +0000 2023",
 		"id": 1664779751876173800,
 		"id_str": "1664779751876173825",
@@ -212,7 +438,7 @@ Grailbird.data.tweets_2023_06 =
 				"name": "Danielle Lerner",
 				"screen_name": "danielle_lerner",
 				"location": "SJ-CoMo-LOU-MEM- HOU",
-				"description": "Sports enterprise reporter @HoustonChron. Past: @dailymemphian, @TheAthleticCBB, @courierjournal. #MizzouMade 🏳️‍🌈 Email: danielle.lerner@houstonchronicle.com",
+				"description": "Sports enterprise reporter @HoustonChron. Past: @dailymemphian, @TheAthleticCBB, @courierjournal. #MizzouMade 🏳️🌈 Email: danielle.lerner@houstonchronicle.com",
 				"url": "https://t.co/V7I7lRHBfR",
 				"entities": {
 					"url": {
